@@ -1,0 +1,28 @@
+{
+  "campaigns": [
+    {
+      "id": "unilab",
+      "title": "Unilab",
+      "badge": "Trilha academica e juridica",
+      "attributes": ["INFRA/REDES", "PORTUGUES", "LOGICA", "DIREITO"]
+    },
+    {
+      "id": "tjce",
+      "title": "TJCE",
+      "badge": "Trilha de tribunal",
+      "attributes": ["TI", "REDES", "PORTUGUES", "DIREITO"]
+    },
+    {
+      "id": "dataprev",
+      "title": "Dataprev",
+      "badge": "Trilha tecnica",
+      "attributes": ["INFRA", "TI", "REDES", "LOGICA"]
+    }
+  ],
+  "uiLabels": {
+    "easy": "Acerto facil",
+    "hard": "Acerto dificil",
+    "wrong": "Erro",
+    "points": "ponto(s)"
+  }
+}

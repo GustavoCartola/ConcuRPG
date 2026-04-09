@@ -1,0 +1,72 @@
+{
+  "gifUrl": "download.gif",
+  "activityDates": [],
+  "campaigns": {
+    "unilab": {
+      "INFRA/REDES": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "PORTUGUES": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "LOGICA": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "DIREITO": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      }
+    },
+    "tjce": {
+      "TI": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "REDES": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "PORTUGUES": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "DIREITO": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      }
+    },
+    "dataprev": {
+      "INFRA": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "TI": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "REDES": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "LOGICA": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      }
+    }
+  }
+}

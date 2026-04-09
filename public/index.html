@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ConcurPG</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Bricolage+Grotesque:wght@500;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="hero">
+        <div class="hero-copy-wrap">
+          <p class="eyebrow">RPG de estudo para concurso</p>
+          <h1>ConcurPG</h1>
+          <p class="hero-copy">
+            Resolva questoes e veja seu personagem subir de nivel sem poluir sua tela.
+          </p>
+        </div>
+        <div class="hero-actions compact-actions">
+          <button id="resetButton" class="danger-button" type="button">Resetar progresso</button>
+        </div>
+      </header>
+
+      <main class="layout-grid">
+        <section class="panel dashboard-panel">
+          <div class="hero-status">
+            <div class="level-ring">
+              <span id="levelValue">1</span>
+              <small>Level</small>
+            </div>
+            <div id="gifSlot" class="gif-slot"></div>
+          </div>
+
+          <div class="summary-strip">
+            <article class="summary-pill">
+              <span>XP</span>
+              <strong id="xpValue">0</strong>
+            </article>
+            <article class="summary-pill">
+              <span>Streak</span>
+              <strong id="streakValue">0</strong>
+            </article>
+            <article class="summary-pill">
+              <span>Ouro</span>
+              <strong id="goldValue">0</strong>
+            </article>
+            <article class="summary-pill">
+              <span>Acertos</span>
+              <strong id="correctValue">0</strong>
+            </article>
+          </div>
+
+          <div class="attributes-block">
+            <div class="block-title-row">
+              <h3>Atributos</h3>
+              <span id="xpProgressLabel">0 / 100</span>
+            </div>
+            <div id="attributeList" class="attribute-list"></div>
+          </div>
+        </section>
+
+        <section class="panel campaign-panel">
+          <div class="panel-header compact">
+            <div>
+              <p class="panel-kicker">Campanhas</p>
+              <h2>Registrar questoes</h2>
+            </div>
+          </div>
+          <div id="campaignTabs" class="campaign-tabs"></div>
+          <div id="campaignContent" class="campaign-content"></div>
+        </section>
+      </main>
+    </div>
+
+    <template id="campaignTemplate">
+      <section class="campaign-sheet">
+        <header class="campaign-sheet-header">
+          <div>
+            <p class="campaign-badge"></p>
+            <h3 class="campaign-title"></h3>
+          </div>
+          <div class="campaign-totals"></div>
+        </header>
+        <div class="campaign-attributes"></div>
+      </section>
+    </template>
+
+    <template id="attributeTemplate">
+      <article class="attribute-card">
+        <div class="attribute-card-header">
+          <h4></h4>
+          <span class="attribute-points"></span>
+        </div>
+        <div class="counter-grid"></div>
+      </article>
+    </template>
+
+    <script type="module" src="app.js"></script>
+  </body>
+  </html>
