@@ -1,10 +1,10 @@
 {
   "campaigns": [
     {
-      "id": "unilab",
-      "title": "Unilab",
-      "badge": "Trilha academica e juridica",
-      "attributes": ["INFRA/REDES", "PORTUGUES", "LOGICA", "DIREITO"]
+      "id": "ifce",
+      "title": "IFCE",
+      "badge": "Trilha tecnica federal",
+      "attributes": ["PORTUGUES", "LEGISLACAO FEDERAL", "INFORMATICA", "INFRA TI"]
     },
     {
       "id": "tjce",
