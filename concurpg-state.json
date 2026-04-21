@@ -1,7 +1,8 @@
 {
   "gifUrl": "download.gif",
   "activityDates": [
-    "2026-04-09"
+    "2026-04-09",
+    "2026-04-21"
   ],
   "campaigns": {
     "ifce": {
@@ -16,8 +17,8 @@
         "wrong": 0
       },
       "INFORMATICA": {
-        "easy": 0,
-        "hard": 0,
+        "easy": 11,
+        "hard": 1,
         "wrong": 0
       },
       "INFRA TI": {
