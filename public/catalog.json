@@ -4,19 +4,19 @@
       "id": "ifce",
       "title": "IFCE",
       "badge": "Trilha tecnica federal",
-      "attributes": ["PORTUGUES", "LEGISLACAO FEDERAL", "INFORMATICA", "INFRA TI"]
+      "attributes": ["PORTUGUES", "LEGISLACAO FEDERAL", "INFORMATICA", "INFRA TI REDES"]
     },
     {
       "id": "tjce",
       "title": "TJCE",
       "badge": "Trilha de tribunal",
-      "attributes": ["TI", "REDES", "PORTUGUES", "DIREITO"]
+      "attributes": ["TI", "DEV", "PORTUGUES", "DIREITO"]
     },
     {
       "id": "dataprev",
       "title": "Dataprev",
       "badge": "Trilha tecnica",
-      "attributes": ["INFRA", "TI", "REDES", "LOGICA"]
+      "attributes": ["INFRA TI REDES", "TI", "DEV", "LOGICA"]
     }
   ],
   "uiLabels": {

@@ -230,6 +230,13 @@ button:active {
   font-size: 1.5rem;
 }
 
+.summary-pill small {
+  display: block;
+  margin-top: 4px;
+  color: rgba(236, 254, 255, 0.78);
+  font-size: 0.85rem;
+}
+
 .attributes-block {
   margin-top: 22px;
 }
@@ -252,6 +259,19 @@ button:active {
   grid-template-columns: 110px 1fr 60px;
   gap: 12px;
   align-items: center;
+}
+
+.attribute-metrics {
+  text-align: right;
+}
+
+.attribute-metrics span {
+  display: block;
+}
+
+.attribute-metrics small {
+  color: rgba(236, 254, 255, 0.72);
+  font-size: 0.78rem;
 }
 
 .bar-track {
@@ -342,7 +362,7 @@ button:active {
   display: flex;
   justify-content: space-between;
   gap: 12px;
-  align-items: center;
+  align-items: flex-start;
   margin-bottom: 14px;
 }
 
@@ -354,6 +374,18 @@ button:active {
 .attribute-points {
   color: var(--accent);
   font-weight: 700;
+}
+
+.attribute-header-meta {
+  display: grid;
+  justify-items: end;
+  gap: 4px;
+  text-align: right;
+}
+
+.attribute-accuracy {
+  color: rgba(236, 254, 255, 0.72);
+  font-size: 0.8rem;
 }
 
 .counter-grid {

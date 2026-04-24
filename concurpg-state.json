@@ -2,7 +2,9 @@
   "gifUrl": "download.gif",
   "activityDates": [
     "2026-04-09",
-    "2026-04-21"
+    "2026-04-21",
+    "2026-04-22",
+    "2026-04-24"
   ],
   "campaigns": {
     "ifce": {
@@ -17,14 +19,14 @@
         "wrong": 0
       },
       "INFORMATICA": {
-        "easy": 11,
-        "hard": 1,
-        "wrong": 0
+        "easy": 32,
+        "hard": 9,
+        "wrong": 31
       },
-      "INFRA TI": {
-        "easy": 0,
-        "hard": 0,
-        "wrong": 0
+      "INFRA TI REDES": {
+        "easy": 1,
+        "hard": 2,
+        "wrong": 4
       }
     },
     "tjce": {
@@ -33,7 +35,7 @@
         "hard": 0,
         "wrong": 0
       },
-      "REDES": {
+      "DEV": {
         "easy": 0,
         "hard": 0,
         "wrong": 0
@@ -50,7 +52,7 @@
       }
     },
     "dataprev": {
-      "INFRA": {
+      "INFRA TI REDES": {
         "easy": 0,
         "hard": 0,
         "wrong": 0
@@ -60,7 +62,7 @@
         "hard": 0,
         "wrong": 0
       },
-      "REDES": {
+      "DEV": {
         "easy": 0,
         "hard": 0,
         "wrong": 0

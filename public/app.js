@@ -6,19 +6,19 @@ const FALLBACK_CAMPAIGNS = [
     id: 'unilab',
     title: 'Unilab',
     badge: 'Trilha academica e juridica',
-    attributes: ['INFRA/REDES', 'PORTUGUES', 'LOGICA', 'DIREITO']
+    attributes: ['INFRA TI REDES', 'PORTUGUES', 'LOGICA', 'DIREITO']
   },
   {
     id: 'tjce',
     title: 'TJCE',
     badge: 'Trilha de tribunal',
-    attributes: ['TI', 'REDES', 'PORTUGUES', 'DIREITO']
+    attributes: ['TI', 'DEV', 'PORTUGUES', 'DIREITO']
   },
   {
     id: 'dataprev',
     title: 'Dataprev',
     badge: 'Trilha tecnica',
-    attributes: ['INFRA', 'TI', 'REDES', 'LOGICA']
+    attributes: ['INFRA TI REDES', 'TI', 'DEV', 'LOGICA']
   }
 ];
 
@@ -147,6 +147,24 @@ function sumStats(statList) {
 function getSavedStats(savedCampaign, attribute) {
   if (savedCampaign[attribute]) {
     return savedCampaign[attribute];
+  }
+
+  // Mantem compatibilidade com nomes antigos de materia.
+  if (attribute === 'INFRA TI REDES') {
+    const aliases = ['INFRA TI', 'INFRATI', 'INFRA/REDES', 'INFRA'];
+    const aliasStats = aliases.map((alias) => savedCampaign[alias]).filter(Boolean);
+    if (aliasStats.length > 0) {
+      return sumStats(aliasStats);
+    }
+  }
+
+  if (attribute === 'DEV') {
+    if (savedCampaign.DEV) {
+      return savedCampaign.DEV;
+    }
+    if (savedCampaign.REDES) {
+      return savedCampaign.REDES;
+    }
   }
 
   const targetKey = normalizeAttributeName(attribute);
@@ -309,6 +327,35 @@ function getAttributeTotals() {
   return totals;
 }
 
+function getGlobalAttributeAccuracy() {
+  const totals = ATTRIBUTES.reduce((accumulator, attribute) => {
+    accumulator[attribute] = { correct: 0, wrong: 0 };
+    return accumulator;
+  }, {});
+
+  for (const campaign of CAMPAIGNS) {
+    for (const attribute of campaign.attributes) {
+      const stats = state.campaigns[campaign.id][attribute];
+      totals[attribute].correct += stats.easy + stats.hard;
+      totals[attribute].wrong += stats.wrong;
+    }
+  }
+
+  return totals;
+}
+
+function formatAccuracy(correct, wrong) {
+  const safeCorrect = Number(correct) || 0;
+  const safeWrong = Number(wrong) || 0;
+  const attempts = safeCorrect + safeWrong;
+  const percentage = attempts === 0 ? 0 : (safeCorrect / attempts) * 100;
+
+  return {
+    ratio: `${safeCorrect}/${attempts}`,
+    percentage: `${percentage.toFixed(1)}%`
+  };
+}
+
 function getGlobalTotals() {
   let xp = 0;
   let gold = 0;
@@ -382,15 +429,18 @@ function renderDashboard() {
   const totals = getGlobalTotals();
   const levelInfo = getLevelInfo(totals.xp);
   const attributeTotals = getAttributeTotals();
+  const attributeAccuracy = getGlobalAttributeAccuracy();
   const maxValue = Math.max(1, ...Object.values(attributeTotals));
   const streak = getStreak();
+  const globalAccuracy = formatAccuracy(totals.correct, totals.wrong);
 
   document.getElementById('levelValue').textContent = String(levelInfo.level);
   document.getElementById('xpValue').textContent = String(totals.xp);
   document.getElementById('xpProgressLabel').textContent = `${levelInfo.current} / 100 para o proximo nivel`;
   document.getElementById('streakValue').textContent = String(streak);
   document.getElementById('goldValue').textContent = String(totals.gold);
-  document.getElementById('correctValue').textContent = String(totals.correct);
+  document.getElementById('correctValue').textContent = globalAccuracy.ratio;
+  document.getElementById('correctPercentValue').textContent = globalAccuracy.percentage;
 
   const levelRing = document.querySelector('.level-ring');
   levelRing.style.background = `
@@ -406,10 +456,14 @@ function renderDashboard() {
     row.className = 'attribute-bar';
     const value = attributeTotals[attribute];
     const percentage = Math.round((value / maxValue) * 100);
+    const accuracy = formatAccuracy(attributeAccuracy[attribute].correct, attributeAccuracy[attribute].wrong);
     row.innerHTML = `
       <strong>${attribute}</strong>
       <div class="bar-track"><div class="bar-fill" style="width:${percentage}%"></div></div>
-      <span>${value.toFixed(1)}</span>
+      <div class="attribute-metrics">
+        <span>${value.toFixed(1)}</span>
+        <small>${accuracy.ratio} (${accuracy.percentage})</small>
+      </div>
     `;
     attributeList.appendChild(row);
   });
@@ -473,9 +527,11 @@ function renderCampaignContent() {
   campaign.attributes.forEach((attribute) => {
     const stats = state.campaigns[campaign.id][attribute];
     const points = stats.easy * REWARDS.easy.attributePoints + stats.hard * REWARDS.hard.attributePoints;
+    const accuracy = formatAccuracy(stats.easy + stats.hard, stats.wrong);
     const cardFragment = attributeTemplate.content.cloneNode(true);
     cardFragment.querySelector('h4').textContent = attribute;
     cardFragment.querySelector('.attribute-points').textContent = `${points.toFixed(1)} ${UI_LABELS.points}`;
+    cardFragment.querySelector('.attribute-accuracy').textContent = `${accuracy.ratio} (${accuracy.percentage})`;
 
     const counterGrid = cardFragment.querySelector('.counter-grid');
     counterGrid.appendChild(createCounterChip(campaign.id, attribute, 'easy', UI_LABELS.easy, stats.easy));
