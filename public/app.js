@@ -352,6 +352,8 @@ function formatAccuracy(correct, wrong) {
 
   return {
     ratio: `${safeCorrect}/${attempts}`,
+    attempts,
+    percentageValue: percentage,
     percentage: `${percentage.toFixed(1)}%`
   };
 }
@@ -430,13 +432,11 @@ function renderDashboard() {
   const levelInfo = getLevelInfo(totals.xp);
   const attributeTotals = getAttributeTotals();
   const attributeAccuracy = getGlobalAttributeAccuracy();
-  const maxValue = Math.max(1, ...Object.values(attributeTotals));
   const streak = getStreak();
   const globalAccuracy = formatAccuracy(totals.correct, totals.wrong);
 
   document.getElementById('levelValue').textContent = String(levelInfo.level);
   document.getElementById('xpValue').textContent = String(totals.xp);
-  document.getElementById('xpProgressLabel').textContent = `${levelInfo.current} / 100 para o proximo nivel`;
   document.getElementById('streakValue').textContent = String(streak);
   document.getElementById('goldValue').textContent = String(totals.gold);
   document.getElementById('correctValue').textContent = globalAccuracy.ratio;
@@ -455,14 +455,14 @@ function renderDashboard() {
     const row = document.createElement('div');
     row.className = 'attribute-bar';
     const value = attributeTotals[attribute];
-    const percentage = Math.round((value / maxValue) * 100);
     const accuracy = formatAccuracy(attributeAccuracy[attribute].correct, attributeAccuracy[attribute].wrong);
+    const percentage = Math.round(accuracy.percentageValue);
     row.innerHTML = `
       <strong>${attribute}</strong>
-      <div class="bar-track"><div class="bar-fill" style="width:${percentage}%"></div></div>
+      <div class="bar-track"><div class="bar-fill" style="width:${percentage}%"><span class="bar-fill-label">${percentage}%</span></div></div>
       <div class="attribute-metrics">
         <span>${value.toFixed(1)}</span>
-        <small>${accuracy.ratio} (${accuracy.percentage})</small>
+        <small>${accuracy.attempts}</small>
       </div>
     `;
     attributeList.appendChild(row);

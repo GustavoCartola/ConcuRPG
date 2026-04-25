@@ -217,6 +217,23 @@ button:active {
   padding: 14px 16px;
 }
 
+.summary-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.summary-icon {
+  width: 1.35rem;
+  height: 1.35rem;
+  display: inline-grid;
+  place-items: center;
+  border-radius: 999px;
+  background: rgba(165, 180, 252, 0.14);
+  font-size: 0.9rem;
+  line-height: 1;
+}
+
 .summary-pill span,
 .block-title-row span,
 .campaign-totals,
@@ -275,16 +292,53 @@ button:active {
 }
 
 .bar-track {
+  position: relative;
   height: 12px;
   border-radius: 999px;
   background: rgba(165, 180, 252, 0.14);
   overflow: hidden;
 }
 
+.bar-track::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  pointer-events: none;
+  background:
+    linear-gradient(
+      90deg,
+      transparent 59.5%,
+      rgba(236, 254, 255, 0.72) 59.5%,
+      rgba(236, 254, 255, 0.72) 60.5%,
+      transparent 60.5%,
+      transparent 79.5%,
+      rgba(236, 254, 255, 0.72) 79.5%,
+      rgba(236, 254, 255, 0.72) 80.5%,
+      transparent 80.5%
+    );
+}
+
 .bar-fill {
+  position: relative;
+  z-index: 1;
   height: 100%;
   border-radius: inherit;
   background: linear-gradient(90deg, var(--accent), var(--accent-2));
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 8px;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.bar-fill-label {
+  color: rgba(8, 13, 27, 0.92);
+  font-size: 0.65rem;
+  font-weight: 700;
+  line-height: 1;
+  white-space: nowrap;
 }
 
 .gif-slot {
