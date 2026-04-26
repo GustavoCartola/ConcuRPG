@@ -405,17 +405,15 @@ function updateDailyStats(resultType, delta) {
 }
 
 function updateWinStreak(resultType, effectiveDelta) {
-  if (effectiveDelta <= 0) {
-    return;
-  }
-
   if (resultType === 'easy' || resultType === 'hard') {
-    state.currentWinStreak += effectiveDelta;
-    state.bestWinStreak = Math.max(state.bestWinStreak, state.currentWinStreak);
+    state.currentWinStreak = Math.max(0, state.currentWinStreak + effectiveDelta);
+    if (effectiveDelta > 0) {
+      state.bestWinStreak = Math.max(state.bestWinStreak, state.currentWinStreak);
+    }
     return;
   }
 
-  if (resultType === 'wrong') {
+  if (resultType === 'wrong' && effectiveDelta > 0) {
     state.currentWinStreak = 0;
   }
 }
