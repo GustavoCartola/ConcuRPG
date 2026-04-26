@@ -10,22 +10,14 @@
   ],
   "dailyStatsByDate": {
     "2026-04-26": {
-      "easy": 0,
-      "hard": 1,
-      "wrong": 0
+      "easy": 48,
+      "hard": 6,
+      "wrong": 23
     }
   },
-  "savedDays": {
-    "2026-04-25": {
-      "correct": 0,
-      "wrong": 0,
-      "attempts": 0,
-      "accuracy": 0,
-      "savedAt": "2026-04-26T02:33:47.051Z"
-    }
-  },
-  "currentWinStreak": 3,
-  "bestWinStreak": 3,
+  "savedDays": {},
+  "currentWinStreak": 8,
+  "bestWinStreak": 8,
   "campaigns": {
     "ifce": {
       "PORTUGUES": {
@@ -39,14 +31,14 @@
         "wrong": 0
       },
       "INFORMATICA": {
-        "easy": 32,
-        "hard": 9,
-        "wrong": 31
+        "easy": 46,
+        "hard": 14,
+        "wrong": 43
       },
       "INFRA TI REDES": {
-        "easy": 37,
-        "hard": 17,
-        "wrong": 49
+        "easy": 71,
+        "hard": 18,
+        "wrong": 60
       }
     },
     "tjce": {

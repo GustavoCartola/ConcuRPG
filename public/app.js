@@ -447,6 +447,15 @@ function saveTodaySummary() {
   render();
 }
 
+function resetTodaySummary() {
+  const today = getTodayKey();
+  delete state.dailyStatsByDate[today];
+  delete state.savedDays[today];
+
+  void saveState();
+  render();
+}
+
 function getSavedDaysList() {
   return Object.entries(state.savedDays)
     .map(([dateKey, day]) => ({
@@ -764,14 +773,11 @@ function renderHistoryContent() {
         return;
       }
 
-      const confirmed = window.confirm(`Excluir registro salvo de ${formatDateLabel(dateKey)}?`);
-      if (!confirmed) {
-        return;
-      }
-
-      delete state.savedDays[dateKey];
-      void saveState();
-      render();
+      showModal(`Excluir registro salvo de ${formatDateLabel(dateKey)}?`, () => {
+        delete state.savedDays[dateKey];
+        void saveState();
+        render();
+      });
     });
   });
 }
@@ -870,12 +876,53 @@ function renderCampaignContent() {
     button.addEventListener('click', () => {
       const resultType = button.getAttribute('data-result-type');
       const delta = Number(button.getAttribute('data-delta')) || 1;
-      updateCounter(campaign.id, activeAttribute, resultType, delta);
+      const label = delta > 0
+        ? `Registrar +1 em ${resultType === 'easy' ? UI_LABELS.easy : resultType === 'hard' ? UI_LABELS.hard : UI_LABELS.wrong}?`
+        : `Remover 1 de ${resultType === 'easy' ? UI_LABELS.easy : resultType === 'hard' ? UI_LABELS.hard : UI_LABELS.wrong}?`;
+      showModal(label, () => {
+        updateCounter(campaign.id, activeAttribute, resultType, delta);
+      });
     });
   });
 
   content.innerHTML = '';
   content.appendChild(fragment);
+}
+
+function showModal(message, onConfirm) {
+  const overlay = document.getElementById('confirmModal');
+  const msgEl = document.getElementById('confirmModalMessage');
+  const okBtn = document.getElementById('confirmModalOk');
+  const cancelBtn = document.getElementById('confirmModalCancel');
+
+  msgEl.textContent = message;
+  overlay.hidden = false;
+
+  function cleanup() {
+    overlay.hidden = true;
+    okBtn.removeEventListener('click', handleOk);
+    cancelBtn.removeEventListener('click', handleCancel);
+    overlay.removeEventListener('click', handleOverlayClick);
+  }
+
+  function handleOk() {
+    cleanup();
+    onConfirm();
+  }
+
+  function handleCancel() {
+    cleanup();
+  }
+
+  function handleOverlayClick(event) {
+    if (event.target === overlay) {
+      cleanup();
+    }
+  }
+
+  okBtn.addEventListener('click', handleOk);
+  cancelBtn.addEventListener('click', handleCancel);
+  overlay.addEventListener('click', handleOverlayClick);
 }
 
 function exportState() {
@@ -896,14 +943,21 @@ function resetState() {
 
 function wireEvents() {
   document.getElementById('resetButton').addEventListener('click', () => {
-    const confirmed = window.confirm('Isso vai apagar o progresso salvo neste navegador. Deseja continuar?');
-    if (confirmed) {
+    showModal('Isso vai apagar todo o progresso salvo. Deseja continuar?', () => {
       resetState();
-    }
+    });
   });
 
   document.getElementById('saveTodayButton').addEventListener('click', () => {
-    saveTodaySummary();
+    showModal('Salvar o resumo do dia de hoje?', () => {
+      saveTodaySummary();
+    });
+  });
+
+  document.getElementById('resetTodayButton').addEventListener('click', () => {
+    showModal('Zerar a evolucao diaria de hoje? Isso limpa os dados do dia atual.', () => {
+      resetTodaySummary();
+    });
   });
 }
 

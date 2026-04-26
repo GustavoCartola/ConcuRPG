@@ -320,6 +320,19 @@ button:active {
   margin-top: 20px;
 }
 
+.daily-actions {
+  display: inline-flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.daily-reset-button {
+  border-color: rgba(251, 113, 133, 0.4);
+  color: rgba(254, 205, 211, 0.95);
+  background: rgba(190, 24, 93, 0.12);
+}
+
 .today-card {
   display: grid;
   gap: 10px;
@@ -928,4 +941,56 @@ button:active {
   .counter-chip {
     grid-template-columns: 1fr auto auto auto;
   }
+}
+
+/* ── Modal de confirmação ── */
+.confirm-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(9, 14, 28, 0.78);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.confirm-modal-overlay[hidden] {
+  display: none;
+}
+
+.confirm-modal-box {
+  background: var(--panel-strong);
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  padding: 28px 28px 22px;
+  max-width: 360px;
+  width: 90%;
+  box-shadow: 0 32px 80px rgba(0, 0, 0, 0.55);
+  animation: revealUp 180ms ease both;
+}
+
+.confirm-modal-message {
+  margin: 0 0 22px;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--text);
+  text-align: center;
+}
+
+.confirm-modal-actions {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.confirm-modal-ok {
+  background: linear-gradient(135deg, rgba(52, 211, 153, 0.9), rgba(16, 185, 129, 0.88));
+  border: 1px solid rgba(52, 211, 153, 0.4);
+  color: #fff;
+  font-weight: 700;
+}
+
+.confirm-modal-ok:hover {
+  background: linear-gradient(135deg, rgba(52, 211, 153, 1), rgba(16, 185, 129, 1));
 }
