@@ -5,8 +5,27 @@
     "2026-04-21",
     "2026-04-22",
     "2026-04-24",
-    "2026-04-25"
+    "2026-04-25",
+    "2026-04-26"
   ],
+  "dailyStatsByDate": {
+    "2026-04-26": {
+      "easy": 0,
+      "hard": 1,
+      "wrong": 0
+    }
+  },
+  "savedDays": {
+    "2026-04-25": {
+      "correct": 0,
+      "wrong": 0,
+      "attempts": 0,
+      "accuracy": 0,
+      "savedAt": "2026-04-26T02:33:47.051Z"
+    }
+  },
+  "currentWinStreak": 3,
+  "bestWinStreak": 3,
   "campaigns": {
     "ifce": {
       "PORTUGUES": {

@@ -31,6 +31,18 @@
               <span id="levelValue">1</span>
               <small>Level</small>
             </div>
+            <div class="level-streaks">
+              <article class="streak-chip win">
+                <span>Win streak</span>
+                <strong id="winStreakNow">0</strong>
+                <small id="winStreakBest">Recorde 0</small>
+              </article>
+              <article class="streak-chip study">
+                <span>Dias estudados</span>
+                <strong id="studyStreakNow">0</strong>
+                <small id="studyStreakBest">Recorde 0</small>
+              </article>
+            </div>
             <div id="gifSlot" class="gif-slot"></div>
           </div>
 
@@ -40,17 +52,13 @@
               <strong id="xpValue">0</strong>
             </article>
             <article class="summary-pill">
-              <span class="summary-label"><span class="summary-icon" aria-hidden="true">🔥</span>Streak</span>
-              <strong id="streakValue">0</strong>
-            </article>
-            <article class="summary-pill">
               <span class="summary-label"><span class="summary-icon" aria-hidden="true">💰</span>Ouro</span>
               <strong id="goldValue">0</strong>
             </article>
             <article class="summary-pill">
               <span class="summary-label"><span class="summary-icon" aria-hidden="true">🎯</span>Acerto</span>
-              <strong id="correctValue">0/0</strong>
-              <small id="correctPercentValue">0.0%</small>
+              <strong id="correctValue">0.0%</strong>
+              <small id="correctPercentValue">0/0</small>
             </article>
           </div>
 
@@ -59,6 +67,27 @@
               <h3>Atributos</h3>
             </div>
             <div id="attributeList" class="attribute-list"></div>
+          </div>
+
+          <div class="daily-block">
+            <div class="block-title-row">
+              <h3>Evolucao diaria</h3>
+              <button id="saveTodayButton" class="ghost-button" type="button">Salvar dia de hoje</button>
+            </div>
+            <div class="today-card">
+              <div class="today-stats">
+                <article><span>Acertos</span><strong id="todayCorrectValue">0</strong></article>
+                <article><span>Erros</span><strong id="todayWrongValue">0</strong></article>
+                <article><span>Respostas</span><strong id="todayAttemptsValue">0</strong></article>
+                <article><span>Taxa</span><strong id="todayAccuracyValue">0.0%</strong></article>
+              </div>
+              <div class="today-accuracy-track">
+                <div id="todayAccuracyBar" class="today-accuracy-fill" style="width:0%">
+                  <span id="todayAccuracyBarLabel">0.0%</span>
+                </div>
+              </div>
+              <small id="todaySavedLabel" class="today-saved-label">Dia de hoje ainda nao salvo</small>
+            </div>
           </div>
         </section>
 
@@ -69,6 +98,7 @@
               <h2>Registrar questoes</h2>
             </div>
           </div>
+          <div id="panelTabs" class="panel-tabs"></div>
           <div id="campaignTabs" class="campaign-tabs"></div>
           <div id="campaignContent" class="campaign-content"></div>
         </section>
@@ -86,19 +116,6 @@
         </header>
         <div class="campaign-attributes"></div>
       </section>
-    </template>
-
-    <template id="attributeTemplate">
-      <article class="attribute-card">
-        <div class="attribute-card-header">
-          <h4></h4>
-          <div class="attribute-header-meta">
-            <span class="attribute-points"></span>
-            <small class="attribute-accuracy">0/0 (0.0%)</small>
-          </div>
-        </div>
-        <div class="counter-grid"></div>
-      </article>
     </template>
 
     <script type="module" src="app.js"></script>

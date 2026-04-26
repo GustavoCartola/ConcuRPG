@@ -40,6 +40,41 @@ const REWARDS = {
 };
 
 let activeCampaignId = CAMPAIGNS[0].id;
+let activePanelView = 'registro';
+let activeAttributeByCampaign = CAMPAIGNS.reduce((accumulator, campaign) => {
+  accumulator[campaign.id] = campaign.attributes[0];
+  return accumulator;
+}, {});
+
+function createEmptyDailyStats() {
+  return { easy: 0, hard: 0, wrong: 0 };
+}
+
+function normalizeDailyStatsEntry(value) {
+  if (typeof value === 'number') {
+    return { easy: Math.max(0, Math.trunc(value)), hard: 0, wrong: 0 };
+  }
+
+  if (!value || typeof value !== 'object') {
+    return createEmptyDailyStats();
+  }
+
+  return {
+    easy: Math.max(0, Math.trunc(Number(value.easy) || 0)),
+    hard: Math.max(0, Math.trunc(Number(value.hard) || 0)),
+    wrong: Math.max(0, Math.trunc(Number(value.wrong) || 0))
+  };
+}
+
+function ensureActiveAttribute(campaign) {
+  const current = activeAttributeByCampaign[campaign.id];
+  if (campaign.attributes.includes(current)) {
+    return current;
+  }
+
+  activeAttributeByCampaign[campaign.id] = campaign.attributes[0];
+  return activeAttributeByCampaign[campaign.id];
+}
 
 function isValidCampaign(campaign) {
   return (
@@ -59,6 +94,10 @@ function applyCatalog(campaigns, uiLabels) {
   CAMPAIGNS = campaigns;
   ATTRIBUTES = [...new Set(CAMPAIGNS.flatMap((campaign) => campaign.attributes))];
   UI_LABELS = { ...FALLBACK_UI_LABELS, ...uiLabels };
+  activeAttributeByCampaign = CAMPAIGNS.reduce((accumulator, campaign) => {
+    accumulator[campaign.id] = campaign.attributes[0];
+    return accumulator;
+  }, {});
 
   if (!CAMPAIGNS.some((campaign) => campaign.id === activeCampaignId)) {
     activeCampaignId = CAMPAIGNS[0].id;
@@ -118,6 +157,10 @@ function createInitialState() {
   return {
     gifUrl: 'download.gif',
     activityDates: [],
+    dailyStatsByDate: {},
+    savedDays: {},
+    currentWinStreak: 0,
+    bestWinStreak: 0,
     campaigns: CAMPAIGNS.reduce((accumulator, campaign) => {
       accumulator[campaign.id] = createEmptyStats(campaign.attributes);
       return accumulator;
@@ -199,6 +242,43 @@ function sanitizeState(parsed) {
     const merged = createInitialState();
     merged.gifUrl = parsed.gifUrl || '';
     merged.activityDates = Array.isArray(parsed.activityDates) ? parsed.activityDates : [];
+    const rawDailyStats =
+      parsed.dailyStatsByDate && typeof parsed.dailyStatsByDate === 'object'
+        ? parsed.dailyStatsByDate
+        : parsed.dailyCorrectByDate && typeof parsed.dailyCorrectByDate === 'object'
+          ? parsed.dailyCorrectByDate
+          : {};
+
+    merged.dailyStatsByDate = Object.entries(rawDailyStats).reduce((accumulator, [dateKey, value]) => {
+      const normalized = normalizeDailyStatsEntry(value);
+      if (normalized.easy + normalized.hard + normalized.wrong > 0) {
+        accumulator[dateKey] = normalized;
+      }
+      return accumulator;
+    }, {});
+
+    merged.savedDays =
+      parsed.savedDays && typeof parsed.savedDays === 'object'
+        ? Object.entries(parsed.savedDays).reduce((accumulator, [dateKey, value]) => {
+            if (!value || typeof value !== 'object') {
+              return accumulator;
+            }
+
+            const correct = Math.max(0, Math.trunc(Number(value.correct) || 0));
+            const wrong = Math.max(0, Math.trunc(Number(value.wrong) || 0));
+            const attempts = correct + wrong;
+            accumulator[dateKey] = {
+              correct,
+              wrong,
+              attempts,
+              accuracy: attempts === 0 ? 0 : (correct / attempts) * 100,
+              savedAt: typeof value.savedAt === 'string' ? value.savedAt : `${dateKey}T23:59:00.000Z`
+            };
+            return accumulator;
+          }, {})
+        : {};
+    merged.currentWinStreak = Math.max(0, Math.trunc(Number(parsed.currentWinStreak) || 0));
+    merged.bestWinStreak = Math.max(merged.currentWinStreak, Math.trunc(Number(parsed.bestWinStreak) || 0));
 
     for (const campaign of CAMPAIGNS) {
       const savedCampaign = parsed.campaigns?.[campaign.id] || {};
@@ -282,8 +362,20 @@ async function saveState() {
   }
 }
 
+function getLocalDateKey(date) {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const day = String(date.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
 function getTodayKey() {
-  return new Date().toISOString().slice(0, 10);
+  return getLocalDateKey(new Date());
+}
+
+function formatDateLabel(dateKey) {
+  const [year, month, day] = dateKey.split('-');
+  return `${day}/${month}/${year}`;
 }
 
 function markStudyDay() {
@@ -292,6 +384,76 @@ function markStudyDay() {
     state.activityDates.push(today);
     state.activityDates.sort();
   }
+}
+
+function updateDailyStats(resultType, delta) {
+  if (!['easy', 'hard', 'wrong'].includes(resultType)) {
+    return;
+  }
+
+  const today = getTodayKey();
+  const current = normalizeDailyStatsEntry(state.dailyStatsByDate[today]);
+  const nextValue = Math.max(0, current[resultType] + delta);
+  current[resultType] = nextValue;
+
+  if (current.easy + current.hard + current.wrong === 0) {
+    delete state.dailyStatsByDate[today];
+    return;
+  }
+
+  state.dailyStatsByDate[today] = current;
+}
+
+function updateWinStreak(resultType, effectiveDelta) {
+  if (effectiveDelta <= 0) {
+    return;
+  }
+
+  if (resultType === 'easy' || resultType === 'hard') {
+    state.currentWinStreak += effectiveDelta;
+    state.bestWinStreak = Math.max(state.bestWinStreak, state.currentWinStreak);
+    return;
+  }
+
+  if (resultType === 'wrong') {
+    state.currentWinStreak = 0;
+  }
+}
+
+function getTodayStats() {
+  const today = getTodayKey();
+  const stats = normalizeDailyStatsEntry(state.dailyStatsByDate[today]);
+  return {
+    ...stats,
+    correct: stats.easy + stats.hard,
+    attempts: stats.easy + stats.hard + stats.wrong
+  };
+}
+
+function saveTodaySummary() {
+  const today = getTodayKey();
+  const todayStats = getTodayStats();
+  const attempts = todayStats.attempts;
+
+  state.savedDays[today] = {
+    correct: todayStats.correct,
+    wrong: todayStats.wrong,
+    attempts,
+    accuracy: attempts === 0 ? 0 : (todayStats.correct / attempts) * 100,
+    savedAt: new Date().toISOString()
+  };
+
+  void saveState();
+  render();
+}
+
+function getSavedDaysList() {
+  return Object.entries(state.savedDays)
+    .map(([dateKey, day]) => ({
+      dateKey,
+      ...day
+    }))
+    .sort((a, b) => b.dateKey.localeCompare(a.dateKey));
 }
 
 function getCampaignTotals(campaignId) {
@@ -383,43 +545,66 @@ function getLevelInfo(totalXp) {
   return { level, progress, remaining: Math.max(0, nextLevel - totalXp), current: totalXp - levelFloor };
 }
 
-function getStreak() {
-  const uniqueDates = [...new Set(state.activityDates)].sort();
-  if (uniqueDates.length === 0) {
-    return 0;
+function getStudyDayStreakInfo() {
+  const sortedDates = [...new Set(state.activityDates)].sort();
+  if (sortedDates.length === 0) {
+    return { current: 0, best: 0 };
   }
 
+  const dateSet = new Set(sortedDates);
   const today = new Date();
   today.setHours(0, 0, 0, 0);
   const yesterday = new Date(today);
   yesterday.setDate(yesterday.getDate() - 1);
+  const todayKey = getLocalDateKey(today);
+  const yesterdayKey = getLocalDateKey(yesterday);
 
-  const dateSet = new Set(uniqueDates);
-  const todayKey = today.toISOString().slice(0, 10);
-  const yesterdayKey = yesterday.toISOString().slice(0, 10);
-
-  if (!dateSet.has(todayKey) && !dateSet.has(yesterdayKey)) {
-    return 0;
+  let current = 0;
+  if (dateSet.has(todayKey) || dateSet.has(yesterdayKey)) {
+    let cursor = dateSet.has(todayKey) ? today : yesterday;
+    while (dateSet.has(cursor.toISOString().slice(0, 10))) {
+      current += 1;
+      cursor = new Date(cursor);
+      cursor.setDate(cursor.getDate() - 1);
+    }
   }
 
-  let streak = 0;
-  let cursor = dateSet.has(todayKey) ? today : yesterday;
+  let best = 0;
+  let running = 0;
+  let previousDayNumber = null;
 
-  while (dateSet.has(cursor.toISOString().slice(0, 10))) {
-    streak += 1;
-    cursor = new Date(cursor);
-    cursor.setDate(cursor.getDate() - 1);
+  for (const dateKey of sortedDates) {
+    const [year, month, day] = dateKey.split('-').map(Number);
+    const currentDayNumber = Math.floor(Date.UTC(year, month - 1, day) / 86400000);
+
+    if (previousDayNumber === null) {
+      running = 1;
+    } else {
+      const dayDiff = currentDayNumber - previousDayNumber;
+      running = dayDiff === 1 ? running + 1 : 1;
+    }
+
+    best = Math.max(best, running);
+    previousDayNumber = currentDayNumber;
   }
 
-  return streak;
+  return { current, best };
 }
 
 function updateCounter(campaignId, attribute, resultType, delta) {
   const current = state.campaigns[campaignId][attribute][resultType];
   const nextValue = Math.max(0, current + delta);
-  state.campaigns[campaignId][attribute][resultType] = nextValue;
+  const effectiveDelta = nextValue - current;
 
-  if (delta > 0) {
+  if (effectiveDelta === 0) {
+    return;
+  }
+
+  state.campaigns[campaignId][attribute][resultType] = nextValue;
+  updateDailyStats(resultType, effectiveDelta);
+  updateWinStreak(resultType, effectiveDelta);
+
+  if (effectiveDelta > 0) {
     markStudyDay();
   }
 
@@ -432,15 +617,18 @@ function renderDashboard() {
   const levelInfo = getLevelInfo(totals.xp);
   const attributeTotals = getAttributeTotals();
   const attributeAccuracy = getGlobalAttributeAccuracy();
-  const streak = getStreak();
+  const studyDayStreak = getStudyDayStreakInfo();
   const globalAccuracy = formatAccuracy(totals.correct, totals.wrong);
 
   document.getElementById('levelValue').textContent = String(levelInfo.level);
   document.getElementById('xpValue').textContent = String(totals.xp);
-  document.getElementById('streakValue').textContent = String(streak);
+  document.getElementById('winStreakNow').textContent = String(state.currentWinStreak);
+  document.getElementById('winStreakBest').textContent = `Recorde ${state.bestWinStreak}`;
+  document.getElementById('studyStreakNow').textContent = String(studyDayStreak.current);
+  document.getElementById('studyStreakBest').textContent = `Recorde ${studyDayStreak.best}`;
   document.getElementById('goldValue').textContent = String(totals.gold);
-  document.getElementById('correctValue').textContent = globalAccuracy.ratio;
-  document.getElementById('correctPercentValue').textContent = globalAccuracy.percentage;
+  document.getElementById('correctValue').textContent = globalAccuracy.percentage;
+  document.getElementById('correctPercentValue').textContent = globalAccuracy.ratio;
 
   const levelRing = document.querySelector('.level-ring');
   levelRing.style.background = `
@@ -451,7 +639,13 @@ function renderDashboard() {
   const attributeList = document.getElementById('attributeList');
   attributeList.innerHTML = '';
 
-  ATTRIBUTES.forEach((attribute) => {
+  const visibleAttributes = ATTRIBUTES.filter((attribute) => attributeTotals[attribute] > 0);
+
+  if (visibleAttributes.length === 0) {
+    attributeList.innerHTML = '<p class="attribute-empty">Sem atributos pontuados ainda.</p>';
+  }
+
+  visibleAttributes.forEach((attribute) => {
     const row = document.createElement('div');
     row.className = 'attribute-bar';
     const value = attributeTotals[attribute];
@@ -468,24 +662,23 @@ function renderDashboard() {
     attributeList.appendChild(row);
   });
 
+  const todayStats = getTodayStats();
+  const todayAccuracy = formatAccuracy(todayStats.correct, todayStats.wrong);
+  const todayBarWidth = Math.round(todayAccuracy.percentageValue);
+  const todaySavedLabel = document.getElementById('todaySavedLabel');
+  const isTodaySaved = Boolean(state.savedDays[getTodayKey()]);
+
+  document.getElementById('todayCorrectValue').textContent = String(todayStats.correct);
+  document.getElementById('todayWrongValue').textContent = String(todayStats.wrong);
+  document.getElementById('todayAttemptsValue').textContent = String(todayStats.attempts);
+  document.getElementById('todayAccuracyValue').textContent = todayAccuracy.percentage;
+  document.getElementById('todayAccuracyBar').style.width = `${todayBarWidth}%`;
+  document.getElementById('todayAccuracyBarLabel').textContent = todayAccuracy.percentage;
+  todaySavedLabel.textContent = isTodaySaved ? 'Dia de hoje salvo no historico' : 'Dia de hoje ainda nao salvo';
+  todaySavedLabel.className = `today-saved-label${isTodaySaved ? ' saved' : ''}`;
+
   const gifSlot = document.getElementById('gifSlot');
   gifSlot.innerHTML = state.gifUrl ? `<img src="${state.gifUrl}" alt="GIF do personagem" />` : '<span>Seu GIF vai aparecer aqui</span>';
-}
-
-function createCounterChip(campaignId, attribute, resultType, label, value) {
-  const chip = document.createElement('div');
-  chip.className = 'counter-chip';
-  chip.innerHTML = `
-    <label>${label}</label>
-    <button data-action="subtract" type="button">-</button>
-    <strong>${value}</strong>
-    <button data-action="add" type="button">+</button>
-  `;
-
-  const [subtractButton, , addButton] = chip.querySelectorAll('button, strong');
-  subtractButton.addEventListener('click', () => updateCounter(campaignId, attribute, resultType, -1));
-  addButton.addEventListener('click', () => updateCounter(campaignId, attribute, resultType, 1));
-  return chip;
 }
 
 function renderCampaignTabs() {
@@ -499,11 +692,102 @@ function renderCampaignTabs() {
     button.textContent = campaign.title;
     button.addEventListener('click', () => {
       activeCampaignId = campaign.id;
-      renderCampaignTabs();
-      renderCampaignContent();
+      renderMainPanelContent();
     });
     tabs.appendChild(button);
   });
+}
+
+function renderPanelTabs() {
+  const panelTabs = document.getElementById('panelTabs');
+  panelTabs.innerHTML = `
+    <button type="button" class="panel-tab${activePanelView === 'registro' ? ' active' : ''}" data-view="registro">Registro</button>
+    <button type="button" class="panel-tab${activePanelView === 'historico' ? ' active' : ''}" data-view="historico">Historico</button>
+  `;
+
+  panelTabs.querySelectorAll('[data-view]').forEach((button) => {
+    button.addEventListener('click', () => {
+      activePanelView = button.getAttribute('data-view');
+      renderPanelTabs();
+      renderMainPanelContent();
+    });
+  });
+}
+
+function renderHistoryContent() {
+  const content = document.getElementById('campaignContent');
+  const days = getSavedDaysList();
+
+  if (days.length === 0) {
+    content.innerHTML = `
+      <section class="history-sheet">
+        <h3>Historico de dias</h3>
+        <p class="history-empty">Nenhum dia salvo ainda. Use o botao "Salvar dia de hoje" na area de evolucao diaria.</p>
+      </section>
+    `;
+    return;
+  }
+
+  content.innerHTML = `
+    <section class="history-sheet">
+      <h3>Historico de dias</h3>
+      <div class="history-list">
+        ${days
+          .map(
+            (day) => `
+            <article class="history-item">
+              <div>
+                <strong>${formatDateLabel(day.dateKey)}</strong>
+                <small>Salvo em ${new Date(day.savedAt).toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' })}</small>
+              </div>
+              <div class="history-actions">
+                <div class="history-metrics">
+                  <span>${day.correct} acertos</span>
+                  <span>${day.wrong} erros</span>
+                  <span>${day.attempts} respostas</span>
+                  <span>${day.accuracy.toFixed(1)}%</span>
+                </div>
+                <button class="history-delete-button" type="button" data-delete-date="${day.dateKey}">Excluir</button>
+              </div>
+            </article>
+          `
+          )
+          .join('')}
+      </div>
+    </section>
+  `;
+
+  content.querySelectorAll('[data-delete-date]').forEach((button) => {
+    button.addEventListener('click', () => {
+      const dateKey = button.getAttribute('data-delete-date');
+      if (!dateKey) {
+        return;
+      }
+
+      const confirmed = window.confirm(`Excluir registro salvo de ${formatDateLabel(dateKey)}?`);
+      if (!confirmed) {
+        return;
+      }
+
+      delete state.savedDays[dateKey];
+      void saveState();
+      render();
+    });
+  });
+}
+
+function renderMainPanelContent() {
+  const campaignTabs = document.getElementById('campaignTabs');
+
+  if (activePanelView === 'historico') {
+    campaignTabs.style.display = 'none';
+    renderHistoryContent();
+    return;
+  }
+
+  campaignTabs.style.display = 'flex';
+  renderCampaignTabs();
+  renderCampaignContent();
 }
 
 function renderCampaignContent() {
@@ -511,8 +795,10 @@ function renderCampaignContent() {
   const totals = getCampaignTotals(campaign.id);
   const content = document.getElementById('campaignContent');
   const template = document.getElementById('campaignTemplate');
-  const attributeTemplate = document.getElementById('attributeTemplate');
   const fragment = template.content.cloneNode(true);
+  const activeAttribute = ensureActiveAttribute(campaign);
+  const stats = state.campaigns[campaign.id][activeAttribute];
+  const accuracy = formatAccuracy(stats.easy + stats.hard, stats.wrong);
 
   fragment.querySelector('.campaign-badge').textContent = campaign.badge;
   fragment.querySelector('.campaign-title').textContent = campaign.title;
@@ -524,20 +810,68 @@ function renderCampaignContent() {
   `;
 
   const attributesRoot = fragment.querySelector('.campaign-attributes');
-  campaign.attributes.forEach((attribute) => {
-    const stats = state.campaigns[campaign.id][attribute];
-    const points = stats.easy * REWARDS.easy.attributePoints + stats.hard * REWARDS.hard.attributePoints;
-    const accuracy = formatAccuracy(stats.easy + stats.hard, stats.wrong);
-    const cardFragment = attributeTemplate.content.cloneNode(true);
-    cardFragment.querySelector('h4').textContent = attribute;
-    cardFragment.querySelector('.attribute-points').textContent = `${points.toFixed(1)} ${UI_LABELS.points}`;
-    cardFragment.querySelector('.attribute-accuracy').textContent = `${accuracy.ratio} (${accuracy.percentage})`;
+  attributesRoot.innerHTML = `
+    <div class="subject-selector" role="tablist" aria-label="Materias da campanha">
+      ${campaign.attributes
+        .map(
+          (attribute) =>
+            `<button class="subject-button${attribute === activeAttribute ? ' active' : ''}" type="button" data-attribute="${attribute}">${attribute}</button>`
+        )
+        .join('')}
+    </div>
+    <article class="subject-panel">
+      <header class="subject-panel-header">
+        <div class="subject-title-wrap">
+          <h4>${activeAttribute}</h4>
+          <small>Registro rapido da materia</small>
+        </div>
+        <div class="subject-head-metrics">
+          <span class="subject-metric-pill">${accuracy.percentage}</span>
+          <span class="subject-metric-pill ghost">${accuracy.ratio}</span>
+        </div>
+      </header>
+      <div class="subject-actions">
+        <article class="subject-action easy">
+          <span class="subject-action-label">${UI_LABELS.easy}</span>
+          <div class="subject-action-controls">
+            <button class="subject-stepper subtract" type="button" data-result-type="easy" data-delta="-1">-</button>
+            <strong class="subject-action-value">${stats.easy}</strong>
+            <button class="subject-stepper add" type="button" data-result-type="easy" data-delta="1">+</button>
+          </div>
+        </article>
+        <article class="subject-action hard">
+          <span class="subject-action-label">${UI_LABELS.hard}</span>
+          <div class="subject-action-controls">
+            <button class="subject-stepper subtract" type="button" data-result-type="hard" data-delta="-1">-</button>
+            <strong class="subject-action-value">${stats.hard}</strong>
+            <button class="subject-stepper add" type="button" data-result-type="hard" data-delta="1">+</button>
+          </div>
+        </article>
+        <article class="subject-action wrong">
+          <span class="subject-action-label">${UI_LABELS.wrong}</span>
+          <div class="subject-action-controls">
+            <button class="subject-stepper subtract" type="button" data-result-type="wrong" data-delta="-1">-</button>
+            <strong class="subject-action-value">${stats.wrong}</strong>
+            <button class="subject-stepper add" type="button" data-result-type="wrong" data-delta="1">+</button>
+          </div>
+        </article>
+      </div>
+    </article>
+  `;
 
-    const counterGrid = cardFragment.querySelector('.counter-grid');
-    counterGrid.appendChild(createCounterChip(campaign.id, attribute, 'easy', UI_LABELS.easy, stats.easy));
-    counterGrid.appendChild(createCounterChip(campaign.id, attribute, 'hard', UI_LABELS.hard, stats.hard));
-    counterGrid.appendChild(createCounterChip(campaign.id, attribute, 'wrong', UI_LABELS.wrong, stats.wrong));
-    attributesRoot.appendChild(cardFragment);
+  attributesRoot.querySelectorAll('[data-attribute]').forEach((button) => {
+    button.addEventListener('click', () => {
+      activeAttributeByCampaign[campaign.id] = button.getAttribute('data-attribute');
+      renderCampaignContent();
+    });
+  });
+
+  attributesRoot.querySelectorAll('[data-result-type]').forEach((button) => {
+    button.addEventListener('click', () => {
+      const resultType = button.getAttribute('data-result-type');
+      const delta = Number(button.getAttribute('data-delta')) || 1;
+      updateCounter(campaign.id, activeAttribute, resultType, delta);
+    });
   });
 
   content.innerHTML = '';
@@ -567,12 +901,16 @@ function wireEvents() {
       resetState();
     }
   });
+
+  document.getElementById('saveTodayButton').addEventListener('click', () => {
+    saveTodaySummary();
+  });
 }
 
 function render() {
   renderDashboard();
-  renderCampaignTabs();
-  renderCampaignContent();
+  renderPanelTabs();
+  renderMainPanelContent();
 }
 
 async function initialize() {
