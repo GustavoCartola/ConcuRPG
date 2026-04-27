@@ -158,6 +158,7 @@ function createInitialState() {
     gifUrl: 'download.gif',
     activityDates: [],
     dailyStatsByDate: {},
+    dailySubjectsByDate: {},
     savedDays: {},
     currentWinStreak: 0,
     bestWinStreak: 0,
@@ -272,11 +273,17 @@ function sanitizeState(parsed) {
               wrong,
               attempts,
               accuracy: attempts === 0 ? 0 : (correct / attempts) * 100,
-              savedAt: typeof value.savedAt === 'string' ? value.savedAt : `${dateKey}T23:59:00.000Z`
+              savedAt: typeof value.savedAt === 'string' ? value.savedAt : `${dateKey}T23:59:00.000Z`,
+              subjects: Array.isArray(value.subjects) ? value.subjects : []
             };
             return accumulator;
           }, {})
         : {};
+    merged.dailySubjectsByDate =
+      parsed.dailySubjectsByDate && typeof parsed.dailySubjectsByDate === 'object'
+        ? parsed.dailySubjectsByDate
+        : {};
+
     merged.currentWinStreak = Math.max(0, Math.trunc(Number(parsed.currentWinStreak) || 0));
     merged.bestWinStreak = Math.max(merged.currentWinStreak, Math.trunc(Number(parsed.bestWinStreak) || 0));
 
@@ -404,6 +411,37 @@ function updateDailyStats(resultType, delta) {
   state.dailyStatsByDate[today] = current;
 }
 
+function updateDailySubjectStats(campaignId, attribute, resultType, delta) {
+  if (!['easy', 'hard', 'wrong'].includes(resultType)) {
+    return;
+  }
+
+  const today = getTodayKey();
+  if (!state.dailySubjectsByDate[today]) {
+    state.dailySubjectsByDate[today] = {};
+  }
+  if (!state.dailySubjectsByDate[today][campaignId]) {
+    state.dailySubjectsByDate[today][campaignId] = {};
+  }
+  if (!state.dailySubjectsByDate[today][campaignId][attribute]) {
+    state.dailySubjectsByDate[today][campaignId][attribute] = { easy: 0, hard: 0, wrong: 0 };
+  }
+
+  const entry = state.dailySubjectsByDate[today][campaignId][attribute];
+  entry[resultType] = Math.max(0, entry[resultType] + delta);
+
+  const total = entry.easy + entry.hard + entry.wrong;
+  if (total === 0) {
+    delete state.dailySubjectsByDate[today][campaignId][attribute];
+    if (Object.keys(state.dailySubjectsByDate[today][campaignId]).length === 0) {
+      delete state.dailySubjectsByDate[today][campaignId];
+    }
+    if (Object.keys(state.dailySubjectsByDate[today]).length === 0) {
+      delete state.dailySubjectsByDate[today];
+    }
+  }
+}
+
 function updateWinStreak(resultType, effectiveDelta) {
   if (resultType === 'easy' || resultType === 'hard') {
     state.currentWinStreak = Math.max(0, state.currentWinStreak + effectiveDelta);
@@ -428,6 +466,41 @@ function getTodayStats() {
   };
 }
 
+function buildSubjectsForDate(dateKey) {
+  const byDate = state.dailySubjectsByDate[dateKey] || {};
+  const subjects = [];
+
+  for (const campaign of CAMPAIGNS) {
+    const byCampaign = byDate[campaign.id] || {};
+    for (const attribute of campaign.attributes) {
+      const entry = byCampaign[attribute];
+      if (!entry) {
+        continue;
+      }
+
+      const correct = entry.easy + entry.hard;
+      const attempts = correct + entry.wrong;
+      if (attempts === 0) {
+        continue;
+      }
+
+      subjects.push({
+        campaignId: campaign.id,
+        campaignTitle: campaign.title,
+        attribute,
+        easy: entry.easy,
+        hard: entry.hard,
+        wrong: entry.wrong,
+        correct,
+        attempts,
+        accuracy: (correct / attempts) * 100
+      });
+    }
+  }
+
+  return subjects;
+}
+
 function saveTodaySummary() {
   const today = getTodayKey();
   const todayStats = getTodayStats();
@@ -438,7 +511,8 @@ function saveTodaySummary() {
     wrong: todayStats.wrong,
     attempts,
     accuracy: attempts === 0 ? 0 : (todayStats.correct / attempts) * 100,
-    savedAt: new Date().toISOString()
+    savedAt: new Date().toISOString(),
+    subjects: buildSubjectsForDate(today)
   };
 
   void saveState();
@@ -448,6 +522,7 @@ function saveTodaySummary() {
 function resetTodaySummary() {
   const today = getTodayKey();
   delete state.dailyStatsByDate[today];
+  delete state.dailySubjectsByDate[today];
   delete state.savedDays[today];
 
   void saveState();
@@ -609,6 +684,7 @@ function updateCounter(campaignId, attribute, resultType, delta) {
 
   state.campaigns[campaignId][attribute][resultType] = nextValue;
   updateDailyStats(resultType, effectiveDelta);
+  updateDailySubjectStats(campaignId, attribute, resultType, effectiveDelta);
   updateWinStreak(resultType, effectiveDelta);
 
   if (effectiveDelta > 0) {
@@ -740,25 +816,37 @@ function renderHistoryContent() {
       <h3>Historico de dias</h3>
       <div class="history-list">
         ${days
-          .map(
-            (day) => `
+          .map((day) => {
+            const subjects = Array.isArray(day.subjects) && day.subjects.length > 0 ? day.subjects : buildSubjectsForDate(day.dateKey);
+
+            return `
             <article class="history-item">
-              <div>
+              <div class="history-item-date">
                 <strong>${formatDateLabel(day.dateKey)}</strong>
                 <small>Salvo em ${new Date(day.savedAt).toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' })}</small>
               </div>
-              <div class="history-actions">
-                <div class="history-metrics">
-                  <span>${day.correct} acertos</span>
-                  <span>${day.wrong} erros</span>
-                  <span>${day.attempts} respostas</span>
-                  <span>${day.accuracy.toFixed(1)}%</span>
+              <div class="history-item-body">
+                <div class="history-actions">
+                  <div class="history-metrics">
+                    <span>${day.correct} acertos</span>
+                    <span>${day.wrong} erros</span>
+                    <span>${day.attempts} respostas</span>
+                    <span>${day.accuracy.toFixed(1)}%</span>
+                  </div>
+                  <button class="history-delete-button" type="button" data-delete-date="${day.dateKey}">Excluir</button>
                 </div>
-                <button class="history-delete-button" type="button" data-delete-date="${day.dateKey}">Excluir</button>
+                ${subjects.length > 0
+                  ? `<div class="history-subjects">${subjects
+                      .map((s) => {
+                        const acc = typeof s.accuracy === 'number' ? s.accuracy : (s.attempts > 0 ? ((s.correct ?? s.easy + s.hard) / s.attempts) * 100 : 0);
+                        return `<span class="history-subject-tag" title="${s.campaignTitle}">${s.attribute}<em>${s.attempts}q&nbsp;·&nbsp;${acc.toFixed(0)}%</em></span>`;
+                      })
+                      .join('')}</div>`
+                  : '<p class="history-subjects-empty">Materias nao rastreadas neste registro</p>'}
               </div>
             </article>
-          `
-          )
+          `;
+          })
           .join('')}
       </div>
     </section>
