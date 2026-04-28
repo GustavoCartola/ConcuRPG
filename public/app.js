@@ -46,6 +46,86 @@ let activeAttributeByCampaign = CAMPAIGNS.reduce((accumulator, campaign) => {
   return accumulator;
 }, {});
 
+function ensureNotificationHost() {
+  let host = document.getElementById('notificationHost');
+  if (host) {
+    return host;
+  }
+
+  host = document.createElement('div');
+  host.id = 'notificationHost';
+  host.className = 'notification-host';
+  document.body.appendChild(host);
+  return host;
+}
+
+function pushNotification(title, message) {
+  const host = ensureNotificationHost();
+  const item = document.createElement('article');
+  item.className = 'app-notification';
+  item.innerHTML = `
+    <strong>${title}</strong>
+    <p>${message}</p>
+  `;
+
+  host.appendChild(item);
+  requestAnimationFrame(() => {
+    item.classList.add('visible');
+  });
+
+  setTimeout(() => {
+    item.classList.remove('visible');
+    setTimeout(() => {
+      item.remove();
+    }, 180);
+  }, 2600);
+}
+
+function crossedThreshold(previousValue, currentValue, threshold) {
+  return previousValue < threshold && currentValue >= threshold;
+}
+
+function getAttributeAccuracyValue(attribute) {
+  let correct = 0;
+  let wrong = 0;
+
+  for (const campaign of CAMPAIGNS) {
+    if (!campaign.attributes.includes(attribute)) {
+      continue;
+    }
+
+    const stats = state.campaigns[campaign.id][attribute];
+    correct += stats.easy + stats.hard;
+    wrong += stats.wrong;
+  }
+
+  return formatAccuracy(correct, wrong).percentageValue;
+}
+
+function triggerProgressNotifications(attribute, previousState, currentState) {
+  if (currentState.level > previousState.level) {
+    pushNotification('Level up', `Voce subiu para o level ${currentState.level}.`);
+  }
+
+  if (crossedThreshold(previousState.currentWinStreak, currentState.currentWinStreak, 5)) {
+    pushNotification('Win streak', 'Voce atingiu streak de 5 acertos.');
+  }
+
+  if (currentState.bestWinStreak > previousState.bestWinStreak) {
+    pushNotification('Novo recorde', `Recorde de win streak: ${currentState.bestWinStreak}.`);
+  }
+
+  [60, 80].forEach((threshold) => {
+    if (crossedThreshold(previousState.attributeAccuracy, currentState.attributeAccuracy, threshold)) {
+      pushNotification('Atributo em destaque', `${attribute} chegou a ${threshold}% de acerto.`);
+    }
+
+    if (crossedThreshold(previousState.dailyAccuracy, currentState.dailyAccuracy, threshold)) {
+      pushNotification('Evolucao diaria', `Voce chegou a ${threshold}% de acerto hoje.`);
+    }
+  });
+}
+
 function createEmptyDailyStats() {
   return { easy: 0, hard: 0, wrong: 0 };
 }
@@ -674,6 +754,14 @@ function getStudyDayStreakInfo() {
 }
 
 function updateCounter(campaignId, attribute, resultType, delta) {
+  const previousTotals = getGlobalTotals();
+  const previousLevel = getLevelInfo(previousTotals.xp).level;
+  const previousCurrentWinStreak = state.currentWinStreak;
+  const previousBestWinStreak = state.bestWinStreak;
+  const previousAttributeAccuracy = getAttributeAccuracyValue(attribute);
+  const previousTodayStats = getTodayStats();
+  const previousDailyAccuracy = formatAccuracy(previousTodayStats.correct, previousTodayStats.wrong).percentageValue;
+
   const current = state.campaigns[campaignId][attribute][resultType];
   const nextValue = Math.max(0, current + delta);
   const effectiveDelta = nextValue - current;
@@ -690,6 +778,30 @@ function updateCounter(campaignId, attribute, resultType, delta) {
   if (effectiveDelta > 0) {
     markStudyDay();
   }
+
+  const currentTotals = getGlobalTotals();
+  const currentLevel = getLevelInfo(currentTotals.xp).level;
+  const currentAttributeAccuracy = getAttributeAccuracyValue(attribute);
+  const currentTodayStats = getTodayStats();
+  const currentDailyAccuracy = formatAccuracy(currentTodayStats.correct, currentTodayStats.wrong).percentageValue;
+
+  triggerProgressNotifications(
+    attribute,
+    {
+      level: previousLevel,
+      currentWinStreak: previousCurrentWinStreak,
+      bestWinStreak: previousBestWinStreak,
+      attributeAccuracy: previousAttributeAccuracy,
+      dailyAccuracy: previousDailyAccuracy
+    },
+    {
+      level: currentLevel,
+      currentWinStreak: state.currentWinStreak,
+      bestWinStreak: state.bestWinStreak,
+      attributeAccuracy: currentAttributeAccuracy,
+      dailyAccuracy: currentDailyAccuracy
+    }
+  );
 
   void saveState();
   render();

@@ -6,16 +6,32 @@
     "2026-04-22",
     "2026-04-24",
     "2026-04-25",
-    "2026-04-26"
+    "2026-04-26",
+    "2026-04-27"
   ],
   "dailyStatsByDate": {
     "2026-04-26": {
       "easy": 66,
       "hard": 9,
       "wrong": 25
+    },
+    "2026-04-27": {
+      "easy": 2,
+      "hard": 2,
+      "wrong": 3
     }
   },
-  "dailySubjectsByDate": {},
+  "dailySubjectsByDate": {
+    "2026-04-27": {
+      "ifce": {
+        "LEGISLACAO FEDERAL": {
+          "easy": 2,
+          "hard": 2,
+          "wrong": 3
+        }
+      }
+    }
+  },
   "savedDays": {
     "2026-04-26": {
       "correct": 75,
@@ -24,9 +40,29 @@
       "accuracy": 75,
       "savedAt": "2026-04-27T00:22:29.015Z",
       "subjects": []
+    },
+    "2026-04-27": {
+      "correct": 4,
+      "wrong": 3,
+      "attempts": 7,
+      "accuracy": 57.14285714285714,
+      "savedAt": "2026-04-28T01:59:22.316Z",
+      "subjects": [
+        {
+          "campaignId": "ifce",
+          "campaignTitle": "IFCE",
+          "attribute": "LEGISLACAO FEDERAL",
+          "easy": 2,
+          "hard": 2,
+          "wrong": 3,
+          "correct": 4,
+          "attempts": 7,
+          "accuracy": 57.14285714285714
+        }
+      ]
     }
   },
-  "currentWinStreak": 1,
+  "currentWinStreak": 2,
   "bestWinStreak": 13,
   "campaigns": {
     "ifce": {
@@ -36,9 +72,9 @@
         "wrong": 0
       },
       "LEGISLACAO FEDERAL": {
-        "easy": 0,
-        "hard": 0,
-        "wrong": 0
+        "easy": 2,
+        "hard": 2,
+        "wrong": 3
       },
       "INFORMATICA": {
         "easy": 56,

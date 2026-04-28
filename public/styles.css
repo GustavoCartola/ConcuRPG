@@ -127,6 +127,46 @@ button:active {
   transform: translateY(1px);
 }
 
+.notification-host {
+  position: fixed;
+  top: 18px;
+  right: 18px;
+  z-index: 10000;
+  display: grid;
+  gap: 10px;
+  max-width: min(360px, calc(100vw - 24px));
+}
+
+.app-notification {
+  border-radius: 14px;
+  border: 1px solid rgba(165, 180, 252, 0.34);
+  background: rgba(9, 14, 28, 0.95);
+  box-shadow: 0 16px 42px rgba(2, 6, 23, 0.55);
+  padding: 11px 12px;
+  opacity: 0;
+  transform: translateY(-8px) scale(0.98);
+  transition: opacity 180ms ease, transform 180ms ease;
+}
+
+.app-notification.visible {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+}
+
+.app-notification strong {
+  display: block;
+  font-size: 0.9rem;
+  line-height: 1.1;
+  color: #fef3c7;
+}
+
+.app-notification p {
+  margin: 6px 0 0;
+  font-size: 0.82rem;
+  color: rgba(236, 254, 255, 0.9);
+  line-height: 1.35;
+}
+
 .ghost-button {
   background: rgba(15, 23, 42, 0.58);
   border-color: rgba(165, 180, 252, 0.26);
@@ -946,6 +986,13 @@ button:active {
 }
 
 @media (max-width: 780px) {
+  .notification-host {
+    left: 10px;
+    right: 10px;
+    top: 10px;
+    max-width: none;
+  }
+
   .hero,
   .panel-header,
   .campaign-sheet-header,
