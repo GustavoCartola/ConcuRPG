@@ -39,6 +39,15 @@ const REWARDS = {
   wrong: { attributePoints: 0, xp: 0, gold: 0 }
 };
 
+const DAILY_CAMPAIGN_TARGETS = {
+  ifce: {
+    PORTUGUES: 17,
+    'LEGISLACAO FEDERAL': 25,
+    INFORMATICA: 29,
+    'INFRA TI REDES': 29
+  }
+};
+
 let activeCampaignId = CAMPAIGNS[0].id;
 let activePanelView = 'registro';
 let activeAttributeByCampaign = CAMPAIGNS.reduce((accumulator, campaign) => {
@@ -546,6 +555,11 @@ function getTodayStats() {
   };
 }
 
+function getDailySubjectEntry(dateKey, campaignId, attribute) {
+  const entry = state.dailySubjectsByDate?.[dateKey]?.[campaignId]?.[attribute];
+  return normalizeDailyStatsEntry(entry);
+}
+
 function buildSubjectsForDate(dateKey) {
   const byDate = state.dailySubjectsByDate[dateKey] || {};
   const subjects = [];
@@ -1003,6 +1017,12 @@ function renderCampaignContent() {
   const activeAttribute = ensureActiveAttribute(campaign);
   const stats = state.campaigns[campaign.id][activeAttribute];
   const accuracy = formatAccuracy(stats.easy + stats.hard, stats.wrong);
+  const todayKey = getTodayKey();
+  const campaignTargets = DAILY_CAMPAIGN_TARGETS[campaign.id] || null;
+  const activeTarget = campaignTargets?.[activeAttribute] || 0;
+  const activeTodayEntry = getDailySubjectEntry(todayKey, campaign.id, activeAttribute);
+  const activeTodayAttempts = activeTodayEntry.easy + activeTodayEntry.hard + activeTodayEntry.wrong;
+  const activeTargetProgress = activeTarget > 0 ? Math.min(100, Math.round((activeTodayAttempts / activeTarget) * 100)) : 0;
 
   fragment.querySelector('.campaign-badge').textContent = campaign.badge;
   fragment.querySelector('.campaign-title').textContent = campaign.title;
@@ -1017,23 +1037,32 @@ function renderCampaignContent() {
   attributesRoot.innerHTML = `
     <div class="subject-selector" role="tablist" aria-label="Materias da campanha">
       ${campaign.attributes
-        .map(
-          (attribute) =>
-            `<button class="subject-button${attribute === activeAttribute ? ' active' : ''}" type="button" data-attribute="${attribute}">${attribute}</button>`
-        )
+        .map((attribute) => {
+          const target = campaignTargets?.[attribute] || 0;
+          const todayEntry = getDailySubjectEntry(todayKey, campaign.id, attribute);
+          const todayAttempts = todayEntry.easy + todayEntry.hard + todayEntry.wrong;
+          const targetLabel = target > 0 ? `<small class="subject-target-badge${todayAttempts >= target ? ' done' : ''}">${todayAttempts}/${target} hoje</small>` : '';
+          return `<button class="subject-button${attribute === activeAttribute ? ' active' : ''}" type="button" data-attribute="${attribute}"><span>${attribute}</span>${targetLabel}</button>`;
+        })
         .join('')}
     </div>
     <article class="subject-panel">
       <header class="subject-panel-header">
         <div class="subject-title-wrap">
           <h4>${activeAttribute}</h4>
-          <small>Registro rapido da materia</small>
+          <small>${activeTarget > 0 ? `Meta diaria: ${activeTodayAttempts}/${activeTarget} questoes` : 'Registro rapido da materia'}</small>
         </div>
         <div class="subject-head-metrics">
           <span class="subject-metric-pill">${accuracy.percentage}</span>
           <span class="subject-metric-pill ghost">${accuracy.ratio}</span>
         </div>
       </header>
+      ${activeTarget > 0
+        ? `<div class="subject-goal-strip${activeTodayAttempts >= activeTarget ? ' complete' : ''}">
+            <div class="subject-goal-track"><div class="subject-goal-fill" style="width:${activeTargetProgress}%"></div></div>
+            <strong>${activeTodayAttempts}/${activeTarget}</strong>
+          </div>`
+        : ''}
       <div class="subject-actions">
         <article class="subject-action easy">
           <span class="subject-action-label">${UI_LABELS.easy}</span>

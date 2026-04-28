@@ -7,7 +7,8 @@
     "2026-04-24",
     "2026-04-25",
     "2026-04-26",
-    "2026-04-27"
+    "2026-04-27",
+    "2026-04-28"
   ],
   "dailyStatsByDate": {
     "2026-04-26": {
@@ -19,6 +20,11 @@
       "easy": 2,
       "hard": 2,
       "wrong": 3
+    },
+    "2026-04-28": {
+      "easy": 4,
+      "hard": 2,
+      "wrong": 6
     }
   },
   "dailySubjectsByDate": {
@@ -28,6 +34,15 @@
           "easy": 2,
           "hard": 2,
           "wrong": 3
+        }
+      }
+    },
+    "2026-04-28": {
+      "ifce": {
+        "LEGISLACAO FEDERAL": {
+          "easy": 4,
+          "hard": 2,
+          "wrong": 6
         }
       }
     }
@@ -62,7 +77,7 @@
       ]
     }
   },
-  "currentWinStreak": 2,
+  "currentWinStreak": 0,
   "bestWinStreak": 13,
   "campaigns": {
     "ifce": {
@@ -72,9 +87,9 @@
         "wrong": 0
       },
       "LEGISLACAO FEDERAL": {
-        "easy": 2,
-        "hard": 2,
-        "wrong": 3
+        "easy": 6,
+        "hard": 4,
+        "wrong": 9
       },
       "INFORMATICA": {
         "easy": 56,
