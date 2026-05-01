@@ -8,7 +8,9 @@
     "2026-04-25",
     "2026-04-26",
     "2026-04-27",
-    "2026-04-28"
+    "2026-04-28",
+    "2026-04-29",
+    "2026-04-30"
   ],
   "dailyStatsByDate": {
     "2026-04-26": {
@@ -22,9 +24,19 @@
       "wrong": 3
     },
     "2026-04-28": {
-      "easy": 4,
-      "hard": 2,
-      "wrong": 6
+      "easy": 6,
+      "hard": 7,
+      "wrong": 12
+    },
+    "2026-04-29": {
+      "easy": 35,
+      "hard": 21,
+      "wrong": 32
+    },
+    "2026-04-30": {
+      "easy": 37,
+      "hard": 0,
+      "wrong": 14
     }
   },
   "dailySubjectsByDate": {
@@ -40,9 +52,37 @@
     "2026-04-28": {
       "ifce": {
         "LEGISLACAO FEDERAL": {
+          "easy": 6,
+          "hard": 7,
+          "wrong": 12
+        }
+      }
+    },
+    "2026-04-29": {
+      "ifce": {
+        "INFORMATICA": {
+          "easy": 20,
+          "hard": 7,
+          "wrong": 8
+        },
+        "INFRA TI REDES": {
+          "easy": 11,
+          "hard": 10,
+          "wrong": 14
+        },
+        "LEGISLACAO FEDERAL": {
           "easy": 4,
-          "hard": 2,
-          "wrong": 6
+          "hard": 4,
+          "wrong": 10
+        }
+      }
+    },
+    "2026-04-30": {
+      "ifce": {
+        "INFORMATICA": {
+          "easy": 37,
+          "hard": 0,
+          "wrong": 14
         }
       }
     }
@@ -75,6 +115,88 @@
           "accuracy": 57.14285714285714
         }
       ]
+    },
+    "2026-04-28": {
+      "correct": 13,
+      "wrong": 12,
+      "attempts": 25,
+      "accuracy": 52,
+      "savedAt": "2026-04-29T00:58:07.193Z",
+      "subjects": [
+        {
+          "campaignId": "ifce",
+          "campaignTitle": "IFCE",
+          "attribute": "LEGISLACAO FEDERAL",
+          "easy": 6,
+          "hard": 7,
+          "wrong": 12,
+          "correct": 13,
+          "attempts": 25,
+          "accuracy": 52
+        }
+      ]
+    },
+    "2026-04-29": {
+      "correct": 56,
+      "wrong": 32,
+      "attempts": 88,
+      "accuracy": 63.63636363636363,
+      "savedAt": "2026-04-30T00:45:09.690Z",
+      "subjects": [
+        {
+          "campaignId": "ifce",
+          "campaignTitle": "IFCE",
+          "attribute": "LEGISLACAO FEDERAL",
+          "easy": 4,
+          "hard": 4,
+          "wrong": 10,
+          "correct": 8,
+          "attempts": 18,
+          "accuracy": 44.44444444444444
+        },
+        {
+          "campaignId": "ifce",
+          "campaignTitle": "IFCE",
+          "attribute": "INFORMATICA",
+          "easy": 20,
+          "hard": 7,
+          "wrong": 8,
+          "correct": 27,
+          "attempts": 35,
+          "accuracy": 77.14285714285715
+        },
+        {
+          "campaignId": "ifce",
+          "campaignTitle": "IFCE",
+          "attribute": "INFRA TI REDES",
+          "easy": 11,
+          "hard": 10,
+          "wrong": 14,
+          "correct": 21,
+          "attempts": 35,
+          "accuracy": 60
+        }
+      ]
+    },
+    "2026-04-30": {
+      "correct": 37,
+      "wrong": 14,
+      "attempts": 51,
+      "accuracy": 72.54901960784314,
+      "savedAt": "2026-05-01T01:48:13.369Z",
+      "subjects": [
+        {
+          "campaignId": "ifce",
+          "campaignTitle": "IFCE",
+          "attribute": "INFORMATICA",
+          "easy": 37,
+          "hard": 0,
+          "wrong": 14,
+          "correct": 37,
+          "attempts": 51,
+          "accuracy": 72.54901960784314
+        }
+      ]
     }
   },
   "currentWinStreak": 0,
@@ -87,19 +209,19 @@
         "wrong": 0
       },
       "LEGISLACAO FEDERAL": {
-        "easy": 6,
-        "hard": 4,
-        "wrong": 9
+        "easy": 12,
+        "hard": 13,
+        "wrong": 25
       },
       "INFORMATICA": {
-        "easy": 56,
-        "hard": 15,
-        "wrong": 44
+        "easy": 113,
+        "hard": 22,
+        "wrong": 66
       },
       "INFRA TI REDES": {
-        "easy": 79,
-        "hard": 20,
-        "wrong": 61
+        "easy": 90,
+        "hard": 30,
+        "wrong": 75
       }
     },
     "tjce": {
