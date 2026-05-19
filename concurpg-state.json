@@ -10,7 +10,9 @@
     "2026-04-27",
     "2026-04-28",
     "2026-04-29",
-    "2026-04-30"
+    "2026-04-30",
+    "2026-05-01",
+    "2026-05-02"
   ],
   "dailyStatsByDate": {
     "2026-04-26": {
@@ -37,6 +39,16 @@
       "easy": 37,
       "hard": 0,
       "wrong": 14
+    },
+    "2026-05-01": {
+      "easy": 29,
+      "hard": 4,
+      "wrong": 33
+    },
+    "2026-05-02": {
+      "easy": 22,
+      "hard": 1,
+      "wrong": 13
     }
   },
   "dailySubjectsByDate": {
@@ -83,6 +95,29 @@
           "easy": 37,
           "hard": 0,
           "wrong": 14
+        }
+      }
+    },
+    "2026-05-01": {
+      "ifce": {
+        "INFORMATICA": {
+          "easy": 20,
+          "hard": 4,
+          "wrong": 27
+        },
+        "PORTUGUES": {
+          "easy": 9,
+          "hard": 0,
+          "wrong": 6
+        }
+      }
+    },
+    "2026-05-02": {
+      "ifce": {
+        "INFORMATICA": {
+          "easy": 22,
+          "hard": 1,
+          "wrong": 13
         }
       }
     }
@@ -197,31 +232,138 @@
           "accuracy": 72.54901960784314
         }
       ]
+    },
+    "2026-05-01": {
+      "correct": 27,
+      "wrong": 27,
+      "attempts": 54,
+      "accuracy": 50,
+      "savedAt": "2026-05-01T21:24:14.871Z",
+      "subjects": [
+        {
+          "campaignId": "ifce",
+          "campaignTitle": "IFCE",
+          "attribute": "PORTUGUES",
+          "easy": 9,
+          "hard": 0,
+          "wrong": 6,
+          "correct": 9,
+          "attempts": 15,
+          "accuracy": 60
+        },
+        {
+          "campaignId": "ifce",
+          "campaignTitle": "IFCE",
+          "attribute": "INFORMATICA",
+          "easy": 18,
+          "hard": 0,
+          "wrong": 21,
+          "correct": 18,
+          "attempts": 39,
+          "accuracy": 46.15384615384615
+        }
+      ]
+    },
+    "2026-05-02": {
+      "correct": 23,
+      "wrong": 13,
+      "attempts": 36,
+      "accuracy": 63.888888888888886,
+      "savedAt": "2026-05-02T15:36:16.140Z",
+      "subjects": [
+        {
+          "campaignId": "ifce",
+          "campaignTitle": "IFCE",
+          "attribute": "INFORMATICA",
+          "easy": 22,
+          "hard": 1,
+          "wrong": 13,
+          "correct": 23,
+          "attempts": 36,
+          "accuracy": 63.888888888888886
+        }
+      ]
     }
   },
   "currentWinStreak": 0,
   "bestWinStreak": 13,
+  "erros": [],
+  "studyPlanProgress": {
+    "2026-05-18": {
+      "1": true
+    }
+  },
   "campaigns": {
     "ifce": {
-      "PORTUGUES": {
+      "SEGURANCA DA INFORMACAO": {
         "easy": 0,
         "hard": 0,
         "wrong": 0
       },
-      "LEGISLACAO FEDERAL": {
-        "easy": 12,
-        "hard": 13,
-        "wrong": 25
+      "REDES E INFRAESTRUTURA": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
       },
-      "INFORMATICA": {
-        "easy": 113,
-        "hard": 22,
-        "wrong": 66
+      "NUVEM, VIRTUALIZACAO E CONTAINERS": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
       },
-      "INFRA TI REDES": {
-        "easy": 90,
-        "hard": 30,
-        "wrong": 75
+      "SISTEMAS OPERACIONAIS E DIRETORIO": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "WEB, CORREIO E INTRANET": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "BANCO DE DADOS": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "AUTOMACAO, SCRIPTS E LOGS": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "BACKUP, CONTINUIDADE E DRP": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "GOVERNANCA E GESTAO DE TI": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "PDPJ-BR E ARQUITETURA JAVA": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "PORTUGUES": {
+        "easy": 9,
+        "hard": 0,
+        "wrong": 6
+      },
+      "RACIOCINIO LOGICO-MATEMATICO": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "LEGISLACAO E PCD": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
+      },
+      "INGLES TECNICO": {
+        "easy": 0,
+        "hard": 0,
+        "wrong": 0
       }
     },
     "tjce": {

@@ -2,9 +2,24 @@
   "campaigns": [
     {
       "id": "ifce",
-      "title": "IFCE",
-      "badge": "Trilha tecnica federal",
-      "attributes": ["PORTUGUES", "LEGISLACAO FEDERAL", "INFORMATICA", "INFRA TI REDES"]
+      "title": "E05",
+      "badge": "Analista Judiciario - Area TI - Infraestrutura",
+      "attributes": [
+        "SEGURANCA DA INFORMACAO",
+        "REDES E INFRAESTRUTURA",
+        "NUVEM, VIRTUALIZACAO E CONTAINERS",
+        "SISTEMAS OPERACIONAIS E DIRETORIO",
+        "WEB, CORREIO E INTRANET",
+        "BANCO DE DADOS",
+        "AUTOMACAO, SCRIPTS E LOGS",
+        "BACKUP, CONTINUIDADE E DRP",
+        "GOVERNANCA E GESTAO DE TI",
+        "PDPJ-BR E ARQUITETURA JAVA",
+        "PORTUGUES",
+        "RACIOCINIO LOGICO-MATEMATICO",
+        "LEGISLACAO E PCD",
+        "INGLES TECNICO"
+      ]
     },
     {
       "id": "tjce",

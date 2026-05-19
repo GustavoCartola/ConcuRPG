@@ -3,10 +3,25 @@ const CATALOG_URL = '/catalog.json';
 
 const FALLBACK_CAMPAIGNS = [
   {
-    id: 'unilab',
-    title: 'Unilab',
-    badge: 'Trilha academica e juridica',
-    attributes: ['INFRA TI REDES', 'PORTUGUES', 'LOGICA', 'DIREITO']
+    id: 'ifce',
+    title: 'E05',
+    badge: 'Analista Judiciario - Area TI - Infraestrutura',
+    attributes: [
+      'SEGURANCA DA INFORMACAO',
+      'REDES E INFRAESTRUTURA',
+      'NUVEM, VIRTUALIZACAO E CONTAINERS',
+      'SISTEMAS OPERACIONAIS E DIRETORIO',
+      'WEB, CORREIO E INTRANET',
+      'BANCO DE DADOS',
+      'AUTOMACAO, SCRIPTS E LOGS',
+      'BACKUP, CONTINUIDADE E DRP',
+      'GOVERNANCA E GESTAO DE TI',
+      'PDPJ-BR E ARQUITETURA JAVA',
+      'PORTUGUES',
+      'RACIOCINIO LOGICO-MATEMATICO',
+      'LEGISLACAO E PCD',
+      'INGLES TECNICO'
+    ]
   },
   {
     id: 'tjce',
@@ -41,15 +56,242 @@ const REWARDS = {
 
 const DAILY_CAMPAIGN_TARGETS = {
   ifce: {
+    'SEGURANCA DA INFORMACAO': 20,
+    'REDES E INFRAESTRUTURA': 20,
+    'NUVEM, VIRTUALIZACAO E CONTAINERS': 15,
+    'SISTEMAS OPERACIONAIS E DIRETORIO': 15,
+    'WEB, CORREIO E INTRANET': 12,
+    'BANCO DE DADOS': 12,
+    'AUTOMACAO, SCRIPTS E LOGS': 12,
+    'BACKUP, CONTINUIDADE E DRP': 15,
+    'GOVERNANCA E GESTAO DE TI': 10,
+    'PDPJ-BR E ARQUITETURA JAVA': 10,
     PORTUGUES: 12,
-    'LEGISLACAO FEDERAL': 18,
-    INFORMATICA: 35,
-    'INFRA TI REDES': 35
+    'RACIOCINIO LOGICO-MATEMATICO': 10,
+    'LEGISLACAO E PCD': 10,
+    'INGLES TECNICO': 8
   }
+};
+
+function getStudyWeekPlans() {
+  return [
+    { title: 'Semana 1 - Redes', topic: 'Redes', phaseKey: 'base', goal: 'Aprender os fundamentos do edital, iniciar caderno de erros e desenvolver redacao desde cedo.', emphasis: 'OSI, TCP/IP, encapsulamento e subnetting' },
+    { title: 'Semana 2 - Seguranca', topic: 'Seguranca da informacao', phaseKey: 'base', goal: 'Fixar CIA, firewall, criptografia, backup, RPO/RTO e LGPD.', emphasis: 'defesa e continuidade' },
+    { title: 'Semana 3 - Massa de questoes', topic: 'Revisao dirigida', phaseKey: 'base', goal: 'Fechar a fase de base com simulados parciais e revisao dos erros.', emphasis: 'ritmo, retomada e consolidacao' },
+    { title: 'Semana 4 - Linux e Windows', topic: 'Linux e Windows', phaseKey: 'massa', goal: 'Subir volume de questoes e reforcar AD, GPO, LDAP e permissões.', emphasis: 'sistemas operacionais e infraestrutura' },
+    { title: 'Semana 5 - Cloud e virtualizacao', topic: 'Cloud e virtualizacao', phaseKey: 'massa', goal: 'Aumentar questoes e consolidar AWS, Azure, Docker e Kubernetes.', emphasis: 'nuvem, conteineres e orquestracao' },
+    { title: 'Semana 6 - ITIL e backup', topic: 'ITIL e backup', phaseKey: 'massa', goal: 'Treinar incidentes, mudancas, RPO/RTO e continuidade.', emphasis: 'processos, suporte e recuperacao' },
+    { title: 'Semana 7 - Portugues e redacao', topic: 'Portugues e redacao', phaseKey: 'massa', goal: 'Elevar o nivel em interpretacao, regencia, crase e escrita de forma objetiva.', emphasis: 'clareza, objetividade e progressao logica' },
+    { title: 'Semana 8 - Legislacao e RL', topic: 'Legislacao e RL', phaseKey: 'massa', goal: 'Amarrar estatuto, organizacao do TJ, logica e leitura seca.', emphasis: 'normas, conectivos e raciocinio' },
+    { title: 'Semana 9 - Revisao forte', topic: 'Revisao forte', phaseKey: 'reta', goal: 'Misturar os assuntos mais cobrados e corrigir o que mais erra.', emphasis: 'erros, velocidade e memoria ativa' },
+    { title: 'Semana 10 - Simulados', topic: 'Simulados', phaseKey: 'reta', goal: 'Treinar a prova inteira, com redacao e resistencia de 4h.', emphasis: 'tempo, simulacao e controle emocional' },
+    { title: 'Semana 11 - Reta final', topic: 'Reta final', phaseKey: 'reta', goal: 'Redacao toda semana, revisao pesada e memorizacao dirigida do edital.', emphasis: 'refino, repeticao e lapidacao' },
+    { title: 'Semana 12 - Fechamento', topic: 'Fechamento', phaseKey: 'reta', goal: 'Ultimos ajustes, sem conteudo novo, so consolidacao.', emphasis: 'revisao final e seguranca' }
+  ];
+}
+
+function buildStudyDayTasks(weekPlan, dayIndex) {
+  if (weekPlan.phaseKey === 'base' && weekPlan.title === 'Semana 1 - Redes') {
+    const baseWeekOneTasks = {
+      1: ['40 questoes: OSI, TCP/IP e encapsulamento', 'Interpretacao textual', 'Redacao: estrutura dissertativa, introducao e conclusao'],
+      2: ['40 questoes: IPv4, subnetting e CIDR', 'Português: crase', 'Redacao: escrever 1 introducao'],
+      3: ['40 questoes: DNS, DHCP e NAT', 'RL: porcentagem', 'Redacao: tese + argumentacao'],
+      4: ['40 questoes: VLAN, STP e switching', 'Português: concordancia', 'Redacao: conectivos argumentativos'],
+      5: ['40 questoes: VPN, SSL/TLS e WLAN', 'Legislacao: Estatuto CE', 'Redacao: mini texto de 15 linhas'],
+      6: ['Simulado parcial: 20 especificas e 10 gerais', 'Redacao: 20 linhas', 'Treinar tempo de prova'],
+      0: ['Revisao total', 'Erros e flashcards', 'Leitura LGPD']
+    };
+
+    return baseWeekOneTasks[dayIndex] || baseWeekOneTasks[0];
+  }
+
+  if (weekPlan.phaseKey === 'base' && weekPlan.title === 'Semana 2 - Seguranca') {
+    const baseWeekTwoTasks = {
+      0: ['CIA, ISO 27001 e LGPD', 'Português: pontuacao', 'Redacao: tema tecnologia'],
+      1: ['Firewall, IDS/IPS e SIEM', 'RL: logica', 'Redacao: desenvolvimento 1'],
+      2: ['Criptografia, hash e PKI', 'Português: regencia', 'Caderno de erros e revisao curta'],
+      3: ['Backup, RPO/RTO e DRP', 'Legislacao: organizacao do TJ', 'Redacao: fechamento logico'],
+      4: ['IAM, MFA e SSO', 'Português: conectivos', 'Treino de argumentos e justificativas'],
+      5: ['Simulado de seguranca', 'Redacao completa', 'Corrigir o texto'],
+      6: ['Revisao da semana', 'Flashcards', 'Leitura seca de LGPD']
+    };
+
+    return baseWeekTwoTasks[dayIndex] || baseWeekTwoTasks[6];
+  }
+
+  if (weekPlan.phaseKey === 'base') {
+    return [
+      `60 questoes de ${weekPlan.topic}`,
+      `Revisar ${weekPlan.emphasis}`,
+      'Caderno de erros e redacao curta'
+    ];
+  }
+
+  if (weekPlan.phaseKey === 'massa') {
+    const weeklyRoutine = {
+      1: [`Redes: 60 questoes`, 'Português: interpretacao', 'Redacao: introducao + desenvolvimento'],
+      2: [`Seguranca: 60 questoes`, 'RL e caderno de erros', 'Redacao: conclusao'],
+      3: ['Linux + Windows: AD, GPO e LDAP', 'Português: regencia e crase', 'Redacao completa'],
+      4: ['Cloud + virtualizacao: AWS, Azure, Docker e Kubernetes', 'Legislacao', 'Correção de redação'],
+      5: ['ITIL + Backup: incidentes, mudancas, RPO/RTO', 'Português', 'Redacao parcial'],
+      6: ['Simulado completo objetivo', '4h simuladas', 'Redacao completa'],
+      0: ['Revisao de erros', 'Redacoes antigas', 'Legislacao seca']
+    };
+
+    return weeklyRoutine[dayIndex] || weeklyRoutine[0];
+  }
+
+  const retaFinalRoutine = {
+    1: ['Simulado de especificos', 'Revisao dos erros', 'Redacao: introducao e tese'],
+    2: ['Seguranca e redes em bloco', 'Português focado em interpretacao', 'Redacao completa'],
+    3: ['Revisao de Linux, Windows e AD', 'GPO, LDAP e IAM', 'Caderno de erros'],
+    4: ['Cloud, virtualizacao e ITIL', 'Backup, RPO/RTO e DRP', 'Redacao parcial'],
+    5: ['Simulado geral', 'Correção pesada', 'Memorizacao dirigida do edital'],
+    6: ['Simulado completo 4h', 'Redacao completa', 'Ajustes finais'],
+    0: ['Revisao leve', 'Flashcards', 'Descanso ativo']
+  };
+
+  return retaFinalRoutine[dayIndex] || retaFinalRoutine[0];
+}
+
+function buildDailyFocus(weekPlan, dayIndex, tasks) {
+  const firstTask = tasks[0] || '';
+  const secondTask = tasks[1] || '';
+
+  if (weekPlan.title === 'Semana 1 - Redes') {
+    const focusMap = {
+      1: 'Foco do dia: OSI, TCP/IP e encapsulamento.',
+      2: 'Foco do dia: IPv4, subnetting e CIDR.',
+      3: 'Foco do dia: DNS, DHCP e NAT.',
+      4: 'Foco do dia: VLAN, STP e switching.',
+      5: 'Foco do dia: VPN, SSL/TLS e WLAN.',
+      6: 'Foco do dia: simulado parcial e tempo de prova.',
+      0: 'Foco do dia: revisar erros e LGPD.'
+    };
+
+    return focusMap[dayIndex] || focusMap[0];
+  }
+
+  if (weekPlan.title === 'Semana 2 - Seguranca') {
+    const focusMap = {
+      0: 'Foco do dia: CIA, ISO 27001 e LGPD.',
+      1: 'Foco do dia: firewall, IDS/IPS e SIEM.',
+      2: 'Foco do dia: criptografia, hash e PKI.',
+      3: 'Foco do dia: backup, RPO/RTO e DRP.',
+      4: 'Foco do dia: IAM, MFA e SSO.',
+      5: 'Foco do dia: simulado de seguranca.',
+      6: 'Foco do dia: revisao da semana.'
+    };
+
+    return focusMap[dayIndex] || focusMap[6];
+  }
+
+  const trimmedFirstTask = firstTask.replace(/^\d+\s*questoes?:\s*/i, '').replace(/^\s*Redacao:\s*/i, 'Redacao: ');
+  const trimmedSecondTask = secondTask ? ` + ${secondTask}` : '';
+  return `Foco do dia: ${trimmedFirstTask}${trimmedSecondTask}.`;
+}
+
+function buildStudyCalendar() {
+  const weekPlans = getStudyWeekPlans();
+  const startDate = new Date(2026, 4, 18);
+  const endDate = new Date(2026, 7, 8);
+  const calendar = [];
+  const cursor = new Date(startDate);
+  let dayOffset = 0;
+
+  while (cursor <= endDate) {
+    const weekIndex = Math.min(Math.floor(dayOffset / 7), weekPlans.length - 1);
+    const weekPlan = weekPlans[weekIndex];
+    const dayIndex = cursor.getDay();
+    const dateLabel = `${String(cursor.getDate()).padStart(2, '0')}/${String(cursor.getMonth() + 1).padStart(2, '0')}`;
+    const phaseMap = {
+      base: 'base',
+      massa: 'massa',
+      reta: 'reta'
+    };
+
+    const tasks = buildStudyDayTasks(weekPlan, dayIndex);
+
+    calendar.push({
+      id: getLocalDateKey(cursor),
+      date: dateLabel,
+      title: `${weekPlan.topic}`,
+      focus: buildDailyFocus(weekPlan, dayIndex, tasks),
+      weekTitle: weekPlan.title,
+      phaseKey: phaseMap[weekPlan.phaseKey] || 'base',
+      weekGoal: weekPlan.goal,
+      tasks
+    });
+
+    cursor.setDate(cursor.getDate() + 1);
+    dayOffset += 1;
+  }
+
+  return calendar;
+}
+
+const STUDY_STRATEGY = {
+  title: 'Estratégia E05 Analista Judiciário TI Infraestrutura',
+  summary: [
+    'Objetiva: meta de 7,5 a 8,5 em 10.',
+    'Redacao: meta de 7 a 9 em 10.',
+    'Distribuicao: 55% especificos, 20% portugues, 15% redacao, 10% RL + legislacao.',
+    'Prioridade pratica: consolidar seguranca, redes, nuvem, sistemas e rotina de questoes desde cedo.'
+  ],
+  priorities: [
+    { tier: 'Tier S', items: ['Seguranca', 'Redes', 'Portugues', 'Redacao'] },
+    { tier: 'Tier A', items: ['Sistemas', 'Cloud', 'Backup', 'Automacao'] },
+    { tier: 'Tier B', items: ['Banco de Dados', 'Governanca', 'PDPJ-Br'] }
+  ],
+  weeklyRoutine: [
+    {
+      day: 'Segunda a sexta',
+      blocks: ['Especificos 2h', 'Correcao + teoria do erro 1h30', 'Portugues 1h', 'Redacao 40min', 'Revisao 20min']
+    },
+    {
+      day: 'Sabado',
+      blocks: ['Simulado completo com redacao', 'Treino de tempo e resistencia mental']
+    },
+    {
+      day: 'Domingo',
+      blocks: ['Revisao leve', 'Erros', 'Flashcards', 'Leitura seca', 'Redacao leve']
+    }
+  ],
+  phases: [
+    {
+      title: 'Fase 1 - Construcao de base',
+      period: '18/05 a 15/06',
+      goal: 'Fixar fundamentos de seguranca, redes, sistemas e legislacao desde cedo.'
+    },
+    {
+      title: 'Fase 2 - Massa de questoes',
+      period: '16/06 a 15/07',
+      goal: 'Aumentar volume de questoes, consolidar nuvem, automacao e governanca.'
+    },
+    {
+      title: 'Retas finais',
+      period: '16/07 a 08/08',
+      goal: 'Foco em revisao pesada, simulados completos, redacao e decoreba do edital.'
+    }
+  ],
+  redactionGoals: [
+    'Clareza, objetividade e progressao logica.',
+    'Introducao com tema e tese.',
+    'Dois desenvolvimentos com problema e reflexo/solucao.',
+    'Temas provaveis: ciberseguranca, nuvem, LGPD, governanca e transformacao digital.'
+  ],
+  checkpoints: [
+    '7000+ questoes ate a prova.',
+    '25 a 40 redacoes.',
+    'Ultimos 15 dias sem conteudo novo.',
+    'Treino de tempo para as 4h de prova.'
+  ],
+  calendar: buildStudyCalendar()
 };
 
 let activeCampaignId = CAMPAIGNS[0].id;
 let activePanelView = 'registro';
+let activeStudyCalendarFilter = 'all';
 let activeAttributeByCampaign = CAMPAIGNS.reduce((accumulator, campaign) => {
   accumulator[campaign.id] = campaign.attributes[0];
   return accumulator;
@@ -251,6 +493,8 @@ function createInitialState() {
     savedDays: {},
     currentWinStreak: 0,
     bestWinStreak: 0,
+    erros: [],
+    studyPlanProgress: {},
     campaigns: CAMPAIGNS.reduce((accumulator, campaign) => {
       accumulator[campaign.id] = createEmptyStats(campaign.attributes);
       return accumulator;
@@ -375,6 +619,34 @@ function sanitizeState(parsed) {
 
     merged.currentWinStreak = Math.max(0, Math.trunc(Number(parsed.currentWinStreak) || 0));
     merged.bestWinStreak = Math.max(merged.currentWinStreak, Math.trunc(Number(parsed.bestWinStreak) || 0));
+
+    merged.erros = Array.isArray(parsed.erros)
+      ? parsed.erros
+          .filter((e) => e && typeof e === 'object' && typeof e.assunto === 'string')
+          .map((e) => ({
+            id: typeof e.id === 'string' ? e.id : String(Date.now() + Math.random()),
+            assunto: String(e.assunto || '').trim(),
+            motivo: String(e.motivo || '').trim(),
+            pegadinha: String(e.pegadinha || '').trim(),
+            conceito: String(e.conceito || '').trim(),
+            criadoEm: typeof e.criadoEm === 'string' ? e.criadoEm : new Date().toISOString()
+          }))
+      : [];
+
+    merged.studyPlanProgress = parsed.studyPlanProgress && typeof parsed.studyPlanProgress === 'object'
+      ? Object.entries(parsed.studyPlanProgress).reduce((accumulator, [dayKey, value]) => {
+          if (!value || typeof value !== 'object') {
+            return accumulator;
+          }
+
+          accumulator[dayKey] = Object.entries(value).reduce((taskAccumulator, [taskKey, taskValue]) => {
+            taskAccumulator[taskKey] = Boolean(taskValue);
+            return taskAccumulator;
+          }, {});
+
+          return accumulator;
+        }, {})
+      : {};
 
     for (const campaign of CAMPAIGNS) {
       const savedCampaign = parsed.campaigns?.[campaign.id] || {};
@@ -911,7 +1183,9 @@ function renderPanelTabs() {
   const panelTabs = document.getElementById('panelTabs');
   panelTabs.innerHTML = `
     <button type="button" class="panel-tab${activePanelView === 'registro' ? ' active' : ''}" data-view="registro">Registro</button>
+    <button type="button" class="panel-tab${activePanelView === 'estrategia' ? ' active' : ''}" data-view="estrategia">Estrategia</button>
     <button type="button" class="panel-tab${activePanelView === 'historico' ? ' active' : ''}" data-view="historico">Historico</button>
+    <button type="button" class="panel-tab${activePanelView === 'erros' ? ' active' : ''}" data-view="erros">Caderno de erros</button>
   `;
 
   panelTabs.querySelectorAll('[data-view]').forEach((button) => {
@@ -994,12 +1268,508 @@ function renderHistoryContent() {
   });
 }
 
+function renderErrosContent() {
+  const content = document.getElementById('campaignContent');
+  const erros = state.erros || [];
+
+  content.innerHTML = `
+    <section class="erros-sheet">
+      <div class="erros-form-wrap">
+        <h3 class="erros-form-title">Anotar novo erro</h3>
+        <form id="errosForm" class="erros-form" novalidate>
+          <div class="erros-field">
+            <label for="erroAssunto">Assunto</label>
+            <input id="erroAssunto" type="text" placeholder="Ex: diferença entre IPS e IDS" autocomplete="off" />
+          </div>
+          <div class="erros-field">
+            <label for="erroMotivo">Motivo do erro</label>
+            <textarea id="erroMotivo" rows="2" placeholder="Por que errei?"></textarea>
+          </div>
+          <div class="erros-field">
+            <label for="erroPegadinha">Pegadinha</label>
+            <textarea id="erroPegadinha" rows="2" placeholder="Qual foi a pegadinha da questao?"></textarea>
+          </div>
+          <div class="erros-field">
+            <label for="erroConceito">Conceito desconhecido</label>
+            <textarea id="erroConceito" rows="2" placeholder="O que eu nao sabia?"></textarea>
+          </div>
+          <button type="submit" class="erros-submit-button">Salvar erro</button>
+        </form>
+      </div>
+
+      <div class="erros-list-wrap">
+        <div class="erros-list-header">
+          <h3>Erros anotados <span class="erros-count">${erros.length}</span></h3>
+        </div>
+        ${erros.length === 0
+          ? '<p class="erros-empty">Nenhum erro anotado ainda.</p>'
+          : `<div class="erros-list">
+              ${[...erros].reverse().map((erro) => `
+                <article class="erro-card" data-id="${erro.id}">
+                  <div class="erro-card-header">
+                    <strong class="erro-assunto">${escapeHtml(erro.assunto)}</strong>
+                    <button type="button" class="erro-delete-button" data-delete-id="${erro.id}" aria-label="Excluir erro">✕</button>
+                  </div>
+                  ${erro.motivo ? `<div class="erro-field"><span class="erro-field-label">Motivo do erro</span><p>${escapeHtml(erro.motivo)}</p></div>` : ''}
+                  ${erro.pegadinha ? `<div class="erro-field"><span class="erro-field-label">Pegadinha</span><p>${escapeHtml(erro.pegadinha)}</p></div>` : ''}
+                  ${erro.conceito ? `<div class="erro-field"><span class="erro-field-label">Conceito desconhecido</span><p>${escapeHtml(erro.conceito)}</p></div>` : ''}
+                </article>
+              `).join('')}
+            </div>`
+        }
+      </div>
+    </section>
+  `;
+
+  const form = content.querySelector('#errosForm');
+  form.addEventListener('submit', (event) => {
+    event.preventDefault();
+    const assunto = content.querySelector('#erroAssunto').value.trim();
+    if (!assunto) {
+      return;
+    }
+
+    const novoErro = {
+      id: `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
+      assunto,
+      motivo: content.querySelector('#erroMotivo').value.trim(),
+      pegadinha: content.querySelector('#erroPegadinha').value.trim(),
+      conceito: content.querySelector('#erroConceito').value.trim(),
+      criadoEm: new Date().toISOString()
+    };
+
+    state.erros = [...(state.erros || []), novoErro];
+    void saveState();
+    renderErrosContent();
+  });
+
+  content.querySelectorAll('[data-delete-id]').forEach((button) => {
+    button.addEventListener('click', () => {
+      const id = button.getAttribute('data-delete-id');
+      const erro = (state.erros || []).find((e) => e.id === id);
+      const label = erro ? `Excluir o erro "${erro.assunto}"?` : 'Excluir este erro?';
+      showModal(label, () => {
+        state.erros = (state.erros || []).filter((e) => e.id !== id);
+        void saveState();
+        renderErrosContent();
+      });
+    });
+  });
+}
+
+function escapeHtml(value) {
+  return String(value)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function getStudyPlanDayProgress(dayId) {
+  return state.studyPlanProgress?.[dayId] || {};
+}
+
+function getStudyPlanCompletion(dayId, tasks) {
+  const progress = getStudyPlanDayProgress(dayId);
+  const completed = tasks.filter((_, taskIndex) => Boolean(progress[taskIndex])).length;
+  return {
+    completed,
+    total: tasks.length,
+    percent: tasks.length === 0 ? 0 : Math.round((completed / tasks.length) * 100)
+  };
+}
+
+function setStudyPlanTaskState(dayId, taskIndex, checked) {
+  if (!state.studyPlanProgress[dayId]) {
+    state.studyPlanProgress[dayId] = {};
+  }
+
+  if (checked) {
+    state.studyPlanProgress[dayId][taskIndex] = true;
+  } else {
+    delete state.studyPlanProgress[dayId][taskIndex];
+  }
+
+  if (Object.keys(state.studyPlanProgress[dayId]).length === 0) {
+    delete state.studyPlanProgress[dayId];
+  }
+}
+
+function setStudyPlanDayState(dayId, tasks, checked) {
+  if (checked) {
+    state.studyPlanProgress[dayId] = tasks.reduce((accumulator, _, taskIndex) => {
+      accumulator[taskIndex] = true;
+      return accumulator;
+    }, {});
+    return;
+  }
+
+  delete state.studyPlanProgress[dayId];
+}
+
+function getCurrentStudyCalendarDayId() {
+  const todayKey = getTodayKey();
+  const exactDay = STUDY_STRATEGY.calendar.find((day) => day.id === todayKey);
+  if (exactDay) {
+    return exactDay.id;
+  }
+
+  const upcomingDay = STUDY_STRATEGY.calendar.find((day) => day.id >= todayKey);
+  return upcomingDay ? upcomingDay.id : STUDY_STRATEGY.calendar[STUDY_STRATEGY.calendar.length - 1]?.id || null;
+}
+
+function getStrategyCalendarFilterLabel(filterKey) {
+  switch (filterKey) {
+    case 'base':
+      return 'Fase 1 - base';
+    case 'massa':
+      return 'Fase 2 - massa';
+    case 'reta':
+      return 'Reta final';
+    default:
+      return 'Todas as fases';
+  }
+}
+
+function getStudyPriorityTier(weekIndex) {
+  if (weekIndex <= 2) {
+    return 'Tier S';
+  }
+
+  if (weekIndex <= 7) {
+    return 'Tier A';
+  }
+
+  return 'Tier B';
+}
+
+function getPhaseSummary() {
+  const summary = STUDY_STRATEGY.calendar.reduce(
+    (accumulator, day, index) => {
+      const phaseLabel = day.phaseKey === 'base' ? 'base' : day.phaseKey === 'massa' ? 'massa' : 'reta';
+      accumulator[phaseLabel].days += 1;
+      accumulator[phaseLabel].tasks += day.tasks.length;
+      accumulator[phaseLabel].done += getStudyPlanCompletion(day.id, day.tasks).completed;
+      accumulator.priority[getStudyPriorityTier(Math.floor(index / 7))] += 1;
+      return accumulator;
+    },
+    {
+      base: { days: 0, tasks: 0, done: 0 },
+      massa: { days: 0, tasks: 0, done: 0 },
+      reta: { days: 0, tasks: 0, done: 0 },
+      priority: { 'Tier S': 0, 'Tier A': 0, 'Tier B': 0 }
+    }
+  );
+
+  return summary;
+}
+
+function filterStudyCalendarDays(days) {
+  if (activeStudyCalendarFilter === 'all') {
+    return days;
+  }
+
+  return days.filter((day) => day.phaseKey === activeStudyCalendarFilter);
+}
+
+function renderStrategyContent() {
+  const content = document.getElementById('campaignContent');
+  const totalTasks = STUDY_STRATEGY.calendar.reduce((accumulator, day) => accumulator + day.tasks.length, 0);
+  const completedTasks = STUDY_STRATEGY.calendar.reduce((accumulator, day) => {
+    const progress = getStudyPlanCompletion(day.id, day.tasks);
+    return accumulator + progress.completed;
+  }, 0);
+  const filteredCalendar = filterStudyCalendarDays(STUDY_STRATEGY.calendar);
+  const filteredCompletedTasks = filteredCalendar.reduce((accumulator, day) => accumulator + getStudyPlanCompletion(day.id, day.tasks).completed, 0);
+  const filteredTotalTasks = filteredCalendar.reduce((accumulator, day) => accumulator + day.tasks.length, 0);
+  const currentDayId = getCurrentStudyCalendarDayId();
+  const phaseSummary = getPhaseSummary();
+
+  content.innerHTML = `
+    <section class="strategy-sheet">
+      <header class="strategy-hero">
+        <div>
+          <p class="strategy-kicker">Plano de prova</p>
+          <h3>${escapeHtml(STUDY_STRATEGY.title)}</h3>
+          <p class="strategy-lead">Organize o estudo para pontuar alto nas objetivas e nao perder competitividade na redacao.</p>
+        </div>
+        <div class="strategy-score-card">
+          <strong>Meta total</strong>
+          <span>20 pontos</span>
+          <small>Objetiva 10 + Redacao 10</small>
+        </div>
+      </header>
+
+      <section class="strategy-section strategy-phase-overview">
+        <div class="strategy-section-header">
+          <h4>Visao por fase</h4>
+          <span>Resumo rapido do plano inteiro</span>
+        </div>
+        <div class="strategy-overview-grid">
+          <article class="strategy-overview-card">
+            <strong>Base</strong>
+            <span>${phaseSummary.base.days} dias</span>
+            <small>${phaseSummary.base.tasks} tarefas</small>
+          </article>
+          <article class="strategy-overview-card">
+            <strong>Massa</strong>
+            <span>${phaseSummary.massa.days} dias</span>
+            <small>${phaseSummary.massa.tasks} tarefas</small>
+          </article>
+          <article class="strategy-overview-card">
+            <strong>Reta final</strong>
+            <span>${phaseSummary.reta.days} dias</span>
+            <small>${phaseSummary.reta.tasks} tarefas</small>
+          </article>
+          <article class="strategy-overview-card highlight">
+            <strong>Prioridade</strong>
+            <span>${phaseSummary.priority['Tier S']} / ${phaseSummary.priority['Tier A']} / ${phaseSummary.priority['Tier B']}</span>
+            <small>S / A / B</small>
+          </article>
+        </div>
+      </section>
+
+      <div class="strategy-toolbar">
+        <div class="strategy-filter-group" role="tablist" aria-label="Filtrar calendario por fase">
+          <button type="button" class="strategy-filter${activeStudyCalendarFilter === 'all' ? ' active' : ''}" data-strategy-filter="all">Todas</button>
+          <button type="button" class="strategy-filter${activeStudyCalendarFilter === 'base' ? ' active' : ''}" data-strategy-filter="base">Base</button>
+          <button type="button" class="strategy-filter${activeStudyCalendarFilter === 'massa' ? ' active' : ''}" data-strategy-filter="massa">Massa</button>
+          <button type="button" class="strategy-filter${activeStudyCalendarFilter === 'reta' ? ' active' : ''}" data-strategy-filter="reta">Reta final</button>
+        </div>
+        <button type="button" class="strategy-jump-button" data-strategy-jump-current>Ir para semana atual</button>
+      </div>
+
+      <div class="strategy-grid strategy-summary-grid">
+        ${STUDY_STRATEGY.summary
+          .map((item) => `<article class="strategy-note">${escapeHtml(item)}</article>`)
+          .join('')}
+      </div>
+
+      <section class="strategy-section">
+        <div class="strategy-section-header">
+          <h4>Distribuicao real do estudo</h4>
+          <span>55% especificos, 20% portugues, 15% redacao, 10% RL + legislacao</span>
+        </div>
+        <div class="strategy-pill-grid">
+          <span class="strategy-pill strong">Especificos 55%</span>
+          <span class="strategy-pill">Portugues 20%</span>
+          <span class="strategy-pill">Redacao 15%</span>
+          <span class="strategy-pill">RL + Leg 10%</span>
+        </div>
+      </section>
+
+      <section class="strategy-section">
+        <div class="strategy-section-header">
+          <h4>Rotina semanal fixa</h4>
+          <span>Treino com blocos curtos e consistentes</span>
+        </div>
+        <div class="strategy-schedule">
+          ${STUDY_STRATEGY.weeklyRoutine
+            .map(
+              (item) => `
+                <article class="strategy-card">
+                  <strong>${escapeHtml(item.day)}</strong>
+                  <ul>
+                    ${item.blocks.map((block) => `<li>${escapeHtml(block)}</li>`).join('')}
+                  </ul>
+                </article>
+              `
+            )
+            .join('')}
+        </div>
+      </section>
+
+      <section class="strategy-section">
+        <div class="strategy-section-header">
+          <h4>Fases do calendario</h4>
+          <span>18/05 a 08/08</span>
+        </div>
+        <div class="strategy-timeline">
+          ${STUDY_STRATEGY.phases
+            .map(
+              (phase) => `
+                <article class="strategy-phase">
+                  <strong>${escapeHtml(phase.title)}</strong>
+                  <small>${escapeHtml(phase.period)}</small>
+                  <p>${escapeHtml(phase.goal)}</p>
+                </article>
+              `
+            )
+            .join('')}
+        </div>
+      </section>
+
+      <section class="strategy-double-grid">
+        <article class="strategy-section strategy-priority-panel">
+          <div class="strategy-section-header">
+            <h4>Prioridade real</h4>
+            <span>Foco em classificacao</span>
+          </div>
+          <div class="strategy-priority-list">
+            ${STUDY_STRATEGY.priorities
+              .map(
+                (tier) => `
+                  <div class="strategy-priority-row">
+                    <strong>${escapeHtml(tier.tier)}</strong>
+                    <div class="strategy-tags">${tier.items
+                      .map((item) => `<span class="strategy-tag">${escapeHtml(item)}</span>`)
+                      .join('')}</div>
+                  </div>
+                `
+              )
+              .join('')}
+          </div>
+        </article>
+
+        <article class="strategy-section strategy-priority-panel">
+          <div class="strategy-section-header">
+            <h4>Redacao</h4>
+            <span>Treino desde ja</span>
+          </div>
+          <ul class="strategy-list">
+            ${STUDY_STRATEGY.redactionGoals
+              .map((goal) => `<li>${escapeHtml(goal)}</li>`)
+              .join('')}
+          </ul>
+        </article>
+      </section>
+
+      <section class="strategy-section">
+        <div class="strategy-section-header">
+          <h4>Metas finais</h4>
+          <span>Checar toda semana</span>
+        </div>
+        <div class="strategy-checklist">
+          ${STUDY_STRATEGY.checkpoints
+            .map((checkpoint) => `<div class="strategy-checkpoint">${escapeHtml(checkpoint)}</div>`)
+            .join('')}
+        </div>
+      </section>
+
+      <section class="strategy-section">
+        <div class="strategy-section-header">
+          <h4>Calendario detalhado</h4>
+          <span>${filteredCompletedTasks}/${filteredTotalTasks} tarefas concluidas em ${getStrategyCalendarFilterLabel(activeStudyCalendarFilter)}</span>
+        </div>
+        <div class="strategy-calendar">
+          ${filteredCalendar
+            .map((day) => {
+              const progress = getStudyPlanCompletion(day.id, day.tasks);
+              const isComplete = progress.total > 0 && progress.completed === progress.total;
+
+              return `
+                <article class="strategy-day${isComplete ? ' complete' : ''}${day.id === currentDayId ? ' current' : ''}" data-study-day="${day.id}">
+                  <div class="strategy-day-header">
+                    <div>
+                      <strong>${escapeHtml(day.date)}</strong>
+                      <span>${escapeHtml(day.title)}</span>
+                      <small class="strategy-day-week">${escapeHtml(day.weekTitle)}</small>
+                    </div>
+                    <div class="strategy-day-meta">
+                      <span class="strategy-priority-badge ${getStudyPriorityTier(Math.floor(STUDY_STRATEGY.calendar.findIndex((item) => item.id === day.id) / 7)).toLowerCase().replace(/\s+/g, '-')}">${getStudyPriorityTier(Math.floor(STUDY_STRATEGY.calendar.findIndex((item) => item.id === day.id) / 7))}</span>
+                      <button type="button" class="strategy-day-toggle" data-day-toggle="${day.id}">${isComplete ? 'Limpar' : 'Concluir dia'}</button>
+                    </div>
+                  </div>
+                  <small class="strategy-day-focus">${escapeHtml(day.focus)}</small>
+                  <small class="strategy-day-goal">Semana: ${escapeHtml(day.weekGoal)}</small>
+                  <div class="strategy-day-progress">
+                    <div class="strategy-day-track"><div class="strategy-day-fill" style="width:${progress.percent}%"></div></div>
+                    <span>${progress.completed}/${progress.total}</span>
+                  </div>
+                  <div class="strategy-task-list">
+                    ${day.tasks
+                      .map((task, taskIndex) => {
+                        const checked = Boolean(getStudyPlanDayProgress(day.id)[taskIndex]);
+                        return `
+                          <label class="strategy-task${checked ? ' done' : ''}">
+                            <input type="checkbox" data-study-task="${day.id}" data-task-index="${taskIndex}" ${checked ? 'checked' : ''} />
+                            <span>${escapeHtml(task)}</span>
+                          </label>
+                        `;
+                      })
+                      .join('')}
+                  </div>
+                </article>
+              `;
+            })
+            .join('')}
+        </div>
+      </section>
+    </section>
+  `;
+
+  content.querySelectorAll('[data-study-task]').forEach((input) => {
+    input.addEventListener('change', () => {
+      const dayId = input.getAttribute('data-study-task');
+      const taskIndex = Number(input.getAttribute('data-task-index'));
+      if (!dayId || Number.isNaN(taskIndex)) {
+        return;
+      }
+
+      setStudyPlanTaskState(dayId, taskIndex, input.checked);
+      void saveState();
+      renderStrategyContent();
+    });
+  });
+
+  content.querySelectorAll('[data-day-toggle]').forEach((button) => {
+    button.addEventListener('click', () => {
+      const dayId = button.getAttribute('data-day-toggle');
+      const day = STUDY_STRATEGY.calendar.find((item) => item.id === dayId);
+      if (!day) {
+        return;
+      }
+
+      const progress = getStudyPlanCompletion(day.id, day.tasks);
+      const shouldComplete = progress.completed !== progress.total;
+      setStudyPlanDayState(day.id, day.tasks, shouldComplete);
+      void saveState();
+      renderStrategyContent();
+    });
+  });
+
+  content.querySelectorAll('[data-strategy-filter]').forEach((button) => {
+    button.addEventListener('click', () => {
+      const nextFilter = button.getAttribute('data-strategy-filter') || 'all';
+      activeStudyCalendarFilter = nextFilter;
+      renderStrategyContent();
+    });
+  });
+
+  const jumpButton = content.querySelector('[data-strategy-jump-current]');
+  if (jumpButton && currentDayId) {
+    jumpButton.addEventListener('click', () => {
+      const target = content.querySelector(`[data-study-day="${currentDayId}"]`);
+      if (!target) {
+        return;
+      }
+
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      target.classList.add('pulse-focus');
+      window.setTimeout(() => target.classList.remove('pulse-focus'), 1200);
+    });
+  }
+}
+
 function renderMainPanelContent() {
   const campaignTabs = document.getElementById('campaignTabs');
 
   if (activePanelView === 'historico') {
     campaignTabs.style.display = 'none';
     renderHistoryContent();
+    return;
+  }
+
+  if (activePanelView === 'estrategia') {
+    campaignTabs.style.display = 'none';
+    renderStrategyContent();
+    return;
+  }
+
+  if (activePanelView === 'erros') {
+    campaignTabs.style.display = 'none';
+    renderErrosContent();
     return;
   }
 

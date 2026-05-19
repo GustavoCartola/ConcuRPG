@@ -4,7 +4,7 @@ App local de acompanhamento gamificado para estudo de questoes.
 
 ## O que foi criado
 
-- App local com campanhas separadas para Unilab, TJCE e Dataprev.
+- App local com campanhas separadas para E05, TJCE e Dataprev.
 - Painel principal mais limpo com level, GIF, XP, streak, ouro e atributos agregados.
 - Botoes de adicionar e subtrair para Acerto Facil, Acerto Dificil e Erro em cada atributo de cada campanha.
 - Regras automaticas:
