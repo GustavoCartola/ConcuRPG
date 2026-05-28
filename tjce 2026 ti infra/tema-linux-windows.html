@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tema 3 - Linux e Windows</title>
+  <style>
+    :root { --bg:#0b1220; --card:#101a2f; --text:#ecf2ff; --muted:#9bb0d6; --accent:#67e8f9; --gold:#f59e0b; --border:rgba(103,232,249,.2);} *{box-sizing:border-box}
+    body{margin:0;font-family:"Trebuchet MS",Verdana,sans-serif;background:linear-gradient(180deg,#050a14 0%,var(--bg) 100%);color:var(--text);padding:28px 16px}
+    .wrap{max-width:980px;margin:0 auto}.top{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px}
+    .btn{padding:8px 12px;border:1px solid var(--border);border-radius:999px;color:var(--text);text-decoration:none;background:rgba(16,26,47,.86);font-size:.9rem}
+    .hero,.card{border:1px solid var(--border);border-radius:16px;background:rgba(16,26,47,.92)}.hero{padding:18px;margin-bottom:14px}.card{padding:16px}
+    h1{margin:0 0 6px;font-size:1.4rem}.muted{color:var(--muted)} ul{margin:0;padding-left:18px} li{margin:8px 0;line-height:1.45}.gold{color:var(--gold);font-weight:700}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <nav class="top">
+      <a class="btn" href="macetes-tjce-fcc-infra.html">Menu</a>
+      <a class="btn" href="tema-redes.html">Tema anterior</a>
+      <a class="btn" href="tema-infra-moderna-nuvem.html">Proximo tema</a>
+    </nav>
+
+    <section class="hero">
+      <h1>Tema 3: Linux / Windows</h1>
+      <p class="muted">Foco FCC: comandos e administracao pratica de servico.</p>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <ul>
+          <li><span class="gold">iptables</span>: cadeia + regra + acao (ACCEPT/DROP).</li>
+          <li><span class="gold">UFW</span> e frontend de firewall no Ubuntu.</li>
+          <li><span class="gold">SELinux permissive</span>: loga sem bloquear.</li>
+          <li><span class="gold">LVM</span>: PV, VG, LV.</li>
+          <li>Frase: <span class="gold">ordem da regra importa</span>.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">AD DS</span>: dominio e identidade no Windows.</li>
+          <li><span class="gold">LDAP</span>: diretorio e consulta de objetos.</li>
+          <li>Integracao AD + LDAP cai em prova por ferramenta e conceito.</li>
+          <li>RBAC e GPO aparecem em cenario de administracao.</li>
+          <li>BPA no Windows Server ajuda diagnostico de boas praticas.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">SSH</span> acesso remoto seguro.</li>
+          <li><span class="gold">SCP</span> copia arquivo via SSH.</li>
+          <li>Comum: gerar chave com <span class="gold">ssh-keygen</span>.</li>
+          <li>Nginx/Apache: proxy reverso e publicacao web.</li>
+          <li>Comando-chave Nginx: <span class="gold">nginx -t</span> antes do reload.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li>Sistema de arquivos: NTFS, EXT, JFS (conceitos gerais).</li>
+          <li>Logs e monitoracao sao base de troubleshooting.</li>
+          <li>Objetivo de prova: entender cenario e escolher comando correto.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">Comandos Linux recorrentes</span>: ps, awk, vmstat, top, systemctl.</li>
+          <li><span class="gold">Processo zumbi</span>: identificar por estado Z e tratar processo pai.</li>
+          <li>Thrashing: muito page fault + swap alta + lentidao geral.</li>
+          <li>DNS em Windows pode armazenar zona em arquivo ou AD DS.</li>
+          <li>NFS e compartilhamento em Windows Server aparecem em prova.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li>Checklist de servico: instalar, habilitar, validar e monitorar.</li>
+          <li>Nginx/Apache: testar config antes de recarregar servico.</li>
+          <li>SCP usa sintaxe origem:destino com usuario@host.</li>
+          <li>No AD, cuidado com pegadinha de nomenclatura de servicos.</li>
+          <li>Frase: <span class="gold">sem log nao ha diagnostico confiavel</span>.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">Arquivos Linux</span>: ls, cp, mv, rm, cat, less.</li>
+          <li><span class="gold">Permissoes</span>: chmod, chown, chgrp.</li>
+          <li><span class="gold">Permissao numerica</span>: 755 (rwx r-x r-x), 644 (rw- r-- r--).</li>
+          <li>Busca comum: find e grep para localizar arquivo e conteudo.</li>
+          <li>Windows: ACL e NTFS com heranca e grupos de seguranca.</li>
+        </ul>
+      </article>
+    </section>
+  </main>
+</body>
+</html>

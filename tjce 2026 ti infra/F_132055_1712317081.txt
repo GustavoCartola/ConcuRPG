@@ -1,0 +1,814 @@
+                           Concurso Público para provimento dos cargos efetivos de servidores
+                                         do Poder Judiciário do Estado do Acre
+
+
+
+                         ANALISTA JUDICIÁRIO -
+CONCURSO PÚBLICO
+                          ANALISTA DE REDES
+                          DE COMPUTADORES
+                                 CADERNO DE QUESTÕES
+
+                                                          24/03/2024
+
+                                                           DISCIPLINA                    QUESTÕES
+                                                         Língua Portuguesa                01 a 10
+                                                   Raciocínio Lógico e Matemático         11 a 15
+                                                 Atualidades e História, Geografia e
+                                                                                          16 a 20
+                                              Conhecimentos Gerais do Brasil e do Acre
+                                                            Legislação                    21 a 30
+                                                Conhecimentos Específicos do Cargo        31 a 60
+
+
+
+
+                    SOMENTE ABRA ESTE CADERNO QUANDO AUTORIZADO
+
+                                           LEIA ATENTAMENTE AS INSTRUÇÕES
+
+                          Atenção: Transcreva no espaço designado da sua FICHA DE IDENTIFICAÇÃO, com
+                         sua caligrafia usual, considerando as letras maiúsculas e minúsculas, a seguinte frase:
+
+
+                                           O canto da cigarra anuncia a chuva.
+                   1. Quando for autorizado abrir o caderno de questões, verifique se ele está completo ou se apresenta
+                   imperfeições gráficas que possam gerar dúvidas. Se isso ocorrer, solicite outro exemplar ao(à) fiscal de
+                   sala.
+
+                   2. Este caderno é composto por questões de múltipla escolha. Cada questão apresenta quatro
+                   alternativas de respostas, das quais apenas uma é a correta.
+
+                   3. O cartão-resposta é personalizado e não será substituído em caso de erro no preenchimento. Ao
+                   recebê-lo, confira se seus dados estão impressos corretamente. Se houver erro de impressão, notifique
+                   o(a) fiscal de sala.
+
+                   4. Preencha, integralmente, um alvéolo por questão, utilizando caneta de tinta AZUL ou PRETA,
+                   fabricada em material transparente. A questão deixada em branco, com rasura ou com marcação dupla
+                   terá pontuação ZERO.
+  PODER JUDICIÁRIO DO ACRE/2024                                CONCURSO PÚBLICO                                                                    IV/UFG
+
+Leia o Texto 1 e responda às questões de 1 a 4.                                   QUESTÃO 03
+
+Texto 1                                                                           No quinto parágrafo, o pronome demonstrativo “Essa”
+        O ano é 1975, são cinco horas da manhã e meu pai veio                     funciona como mecanismo de coesão:
+ me acordar para viajarmos para a praia. A ansiedade por esta
+ viagem impediu que eu tivesse uma boa noite de sono. Viajar
+ para a praia na década de 1970 era uma grande aventura, que
+                                                                                  (A) sequencial.
+ começava pelo carro que levava seis pessoas e mais a
+ bagagem. Até hoje não consigo entender como isto era possível                    (B) referencial anafórica.
+ – quatro filhos mais pai e mãe dentro de uma Variant.
+        Nesta época, meu sonho de consumo era ter um kichute,                     (C) lexical.
+ um tênis de beleza duvidosa, que era a sensação de minha
+ geração. Fazíamos as pesquisas da escola em enciclopédias –                      (D) referencial catafórica.
+ a Barsa e a Delta Larousse – e não tínhamos a possibilidade de
+ usar a estratégia Ctrl C/Ctrl V, era tudo copiado na mão mesmo.
+        Escrevíamos cartas para nos comunicar com os amigos                       QUESTÃO 04
+ distantes e alguns ainda tinham o hábito de fazer diários. Na
+ faculdade, usávamos o sistema Comut para conseguir um artigo                     No primeiro parágrafo, os algarismos que fazem referência
+ que poderia levar meses para chegar em nossas mãos e a                           aos anos citados no trecho em questão (1975 e 1970,
+ internet ou os primórdios dela era discada.                                      respectivamente) funcionam, dentro dos períodos
+        Se você se identificou com estas lembranças,                              oracionais em que ocorrem, respectivamente, como:
+ provavelmente faz parte da Geração Baby Boomers (nascidos
+ entre 1946 e 1964) ou da Geração X (1965-1980) que viajava
+                                                                                  (A) predicativo do sujeito e adjunto adnominal.
+ no “chiqueirinho” do Fusca (parte traseira do carro) e não sabia
+ por que os automóveis vinham com cinto de segurança.
+        Cada      época     é     marcada      por   determinados                 (B) objeto direto e adjunto adverbial.
+ acontecimentos culturais, políticos, sociais e econômicos que
+ impactam o contexto de vida, a visão de mundo e a forma de se                    (C) complemento nominal e aposto.
+ relacionar das pessoas que nascem e vivem em determinado
+ período. Essa é a ideia que embasa a divisão por grupos                          (D) agente da passiva e objeto indireto.
+ geracionais.
+        Não há um consenso sobre o ano em que começa e                            Leia o Texto 2 e responda às questões de 5 a 8.
+ termina cada um, mas uma divisão possível para esses grupos
+ é, além dos Baby Boomers e da Geração X, a Geração Y
+ ou Millennials (1981-1996), a Geração Z (1997-2010) e, ainda,                    Texto 2
+ a Geração Alfa, que compreende os nascidos a partir de 2010.                          Geração TikTok: nova geração não consegue ouvir
+       TOURINHO FILHO, Hugo. Conflito de gerações e a arte de ensinar na                       músicas com mais de 3 minutos
+sociedade contemporânea. Disponível em: https://jornal.usp.br/artigos/conflito-
+ de-geracoes-e-a-arte-de-ensinar-na-sociedade-contemporanea/. Acesso em:           Geração TikTok e a audição ansiosa: o que mudou no mundo
+                                                    9 fev. 2024. [Adaptado].       da música?
+
+QUESTÃO 01                                                                                De acordo com as principais plataformas de streaming
+                                                                                   de música (Amazon Music, Deezer e Spotify), a Geração
+O excerto textual se desenvolve em torno do tema:                                  TikTok, ou seja, a Geração Z, considera músicas com mais de
+                                                                                   3 minutos muito longas. No geral, as canções com até 2
+                                                                                   minutos e 30 segundos são as mais consumidas por esse
+(A) nostalgia originada por lembranças do passado.                                 público.
+                                                                                          Esse fenômeno já ganhou um nome, “audição ansiosa”,
+(B) viagens de férias em família na década de 1970.                                e está mudando a forma como os artistas produzem suas
+                                                                                   músicas. Agora, quem não cria uma canção que vai direto ao
+(C) modelos de carros antigos como Variant e Fusca.                                ponto perde ouvintes nos primeiros segundos — algo que pode
+                                                                                   parecer muito estranho para o público da época de Faroeste
+(D) classificação de gerações por épocas específicas.                              Caboclo, November Rain e Stairway to Heaven.
+                                                                                          O motivo dessa preferência por músicas menores
+                                                                                   parece ser um reflexo das redes sociais, especialmente o
+QUESTÃO 02                                                                         TikTok. Há tempos, os conteúdos nas redes sociais são
+                                                                                   apresentados de forma extremamente rápida.
+Quanto ao modo de organização, no excerto, predomina a                                    Por exemplo, o Twitter aceita pouco texto, o TikTok
+sequência linguística:                                                             aceita vídeos de no máximo 3 minutos, o WhatsApp e as
+                                                                                   plataformas de streaming de vídeo e música possuem a opção
+(A) argumentativa.                                                                 de reprodução acelerada. Por isso, os tutoriais de 15 minutos
+                                                                                   do YouTube estão perdendo espaço para conteúdo de 15
+                                                                                   segundos no TikTok. Como resultado, a Geração Z está mais
+(B) narrativa.                                                                     ansiosa e não tem paciência para apreciar músicas mais
+                                                                                   longas.
+(C) injuntiva.                                                                           PONTES, Márcio Miranda. Geração TikTok e a audição ansiosa: o que
+                                                                                                                 mudou no mundo da música? Disponível em:
+                                                                                          https://www.sabra.org.br/site/geracao-tiktok. Acesso em: 9 fev. 2024.
+(D) dialogal.                                                                                                                                      [Adaptado].
+
+
+
+
+                                                                                                                              Língua Portuguesa_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                  CONCURSO PÚBLICO                                                            IV/UFG
+
+QUESTÃO 05                                                    Leia o Texto 3 e responda às questões de 9 e 10.
+
+De acordo com suas características estruturais e o            Texto 3
+conteúdo abordado, a função social e o principal objetivo
+do texto é:
+
+(A) ironizar a Geração Z por demonstrar impaciência para
+    ouvir músicas com mais de dois minutos e meio.
+
+(B) propagar, entre as gerações mais velhas, as principais
+    plataformas de transmissão de música que atuam na
+    Internet.
+
+(C) informar alterações na produção musical possivelmente
+    decorrentes de tendências refletidas nas redes sociais.
+                                                                                                                         Disponível em:
+(D) enaltecer o gosto musical do público ouvinte de músicas   https://i.pinimg.com/564x/a4/20/49/a42049e9a94c1b8b4625d58bb34c7739.jpg.
+    lançadas nas décadas de 1960, 1970 e 1980.                                                                   Acesso em: 9 fev. 2024.
+
+
+QUESTÃO 06                                                    QUESTÃO 09
+
+No trecho “O motivo dessa preferência por músicas             A quebra de expectativa da charge decorre do fato de:
+menores parece ser um reflexo das redes sociais,
+especialmente o TikTok”, a locução verbal indica que, em      (A) um conflito de gerações diferentes poder ser resolvido a
+relação ao que está afirmando, o enunciador:                      partir da troca de conhecimentos técnico-científicos
+                                                                  entre representantes dessas gerações.
+(A) está convicto de sua veracidade.
+                                                              (B) o grupo de jovens demonstrar amplo e improvável
+(B) emite opinião com teor de descrédito.                         conhecimento técnico-científico do funcionamento de
+                                                                  computadores e internet.
+(C) possui descompromisso com a verdade.
+                                                              (C) o idoso demonstrar completa incompreensão do
+(D) apoia-se em indícios de evidências.                           significado dos termos técnicos usados pelos
+                                                                  personagens jovens.
+QUESTÃO 07
+                                                              (D) um conflito intergerações ser agravado pelo fato de os
+                                                                  jovens usarem linguagem informal e muitas gírias para
+No último parágrafo, o primeiro período sintático compõe-se       se dirigir ao idoso.
+da coordenação assindética de orações justapostas e
+relacionadas, semântica e discursivamente, pelas noções
+                                                              QUESTÃO 10
+de:
+
+(A) oposição e quebra de expectativa.                         Na charge, as palavras exclamativas, no início da fala de
+                                                              cada personagem jovem, são interjeições cujos significados
+(B) adição e sequencialidade.                                 estão associados às seguintes reações:
+
+(C) escolha ou alternância.                                   (A) admiração e espanto.
+
+(D) conclusão e consequência.                                 (B) dúvida e apelo.
+
+                                                              (C) animação e satisfação.
+QUESTÃO 08
+                                                              (D) frustração e impaciência.
+No segundo parágrafo, as aspas servem para:
+
+(A) marcar um discurso direto.
+
+(B) indicar o emprego de um arcaísmo.
+
+(C) destacar uma expressão de uso recente na língua.
+
+(D) fazer a transcrição do trecho de um outro texto.
+
+
+
+
+                                                                                                        Língua Portuguesa_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                     CONCURSO PÚBLICO                                                            IV/UFG
+
+QUESTÃO 11                                                        Qual é a diferença entre os juros gerados pela aplicação I e
+                                                                  a aplicação II?
+Um aparelho de TV custava R$ 2.280,00. Na Black Friday,
+seu preço sofreu uma redução de 5% e, uma semana                  (A) R$ 0,00.
+depois, seu preço aumentou em 5%. Qual o valor da TV
+após a redução e o aumento do seu preço?                          (B) R$ 12,00.
+
+(A) R$ 2.250,36.                                                  (C) R$ 18,00.
+
+(B) R$ 2.274,30.                                                  (D) R$ 20,00.
+
+(C) R$ 2.280,00.                                                  QUESTÃO 15
+
+(D) R$ 2.298,24.                                                  Leia a tabela a seguir.
+
+QUESTÃO 12                                                         De acordo com o Instituto Brasileiro de Geografia e Estatística
+                                                                   (IBGE), o crescimento populacional do Acre, de 1920 a 2010,
+                                                                   se deu da seguinte forma:
+Um estudante resolveu todos os exercícios de uma lista em
+cinco dias. No primeiro dia, resolveu a metade dos
+exercícios. No segundo dia, resolveu a metade dos                                         Ano         População
+exercícios restantes. No terceiro dia, resolveu a metade dos                             1920           92.379
+exercícios restantes. No quarto dia, resolveu a metade dos
+                                                                                         1940           79.768
+exercícios restantes e mais um exercício. No quinto dia,
+resolveu os três exercícios que faltavam. Se n é o número                                1950           114.755
+de exercícios da lista, quanto vale o produto dos algarismos                             1960           160.208
+de n?
+                                                                                         1970           218.006
+(A) 12.                                                                                  1980           306.893
+                                                                                         1991           417.165
+(B) 18.
+                                                                                         2000           557.882
+(C) 24.                                                                                  2010           733.559
+                                                                                                      Censo 2022 – Panorama. Disponível em:
+(D) 32.                                                               <https://censo2022.ibge.gov.br/panorama/?utm_source=ibge&utm_mediu
+                                                                                   m=home&utm_campaign=portal>. Acesso em: 22 fev. 2024.
+
+QUESTÃO 13
+                                                                  A população do Acre, de acordo com o censo de 2022, era
+                                                                  de 830.018 habitantes. Posto isso, a diferença entre a
+Quantos são os anagramas da palavra ACRE nos quais as             mediana dos tamanhos populacionais de 1920 a 2022 e a
+vogais não estão juntas?                                          mediana dos tamanhos populacionais de 1920 a 2010,
+                                                                  exposta na tabela, é
+(A) 12.
+                                                                  (A) 44.443,5.
+(B) 18.
+                                                                  (B) 57.798,0.
+(C) 20.
+                                                                  (C) 88.887,0.
+(D) 21.
+                                                                  (D) 102.241,5.
+QUESTÃO 14
+
+Considere os dois investimentos a seguir:
+
+ I)      Um capital de R$ 1.000 foi aplicado a juros compostos,
+ com taxa de 7% ao ano, durante 3 anos.
+
+ II)     Um capital de R$ 2.000 foi aplicado a juros compostos,
+ com taxa de 5% ao ano, durante 2 anos.
+
+
+
+
+                                                                                                Raciocínio Lógico e Matemático_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                  CONCURSO PÚBLICO                                                                 IV/UFG
+
+QUESTÃO 16                                                       QUESTÃO 18
+
+Uma das maiores preocupações da Saúde Pública no ano             O Brasil possui 520 parques eólicos, com 13 gigawatts de
+de 2024 é a disseminação da dengue, uma doença cujo              capacidade instalada. A maior parte desses parques estão
+vírus é um arbovírus transmitido pela picada da fêmea do         no Nordeste. Considerando suas características, sabe-se
+mosquito Aedes aegypti. Os riscos são muitos e a taxa de         que tais estruturas:
+letalidade é preocupante, caracterizando-a como uma
+doença endêmica definida:                                        (A) podem ser construídas com maior rapidez próximas às
+                                                                     regiões de consumo resultando em economia no custo
+(A) por um aumento no número de casos em várias regiões              e tem o uso de gás natural como alternativa menos
+    em relação ao que seria esperado normalmente.                    poluente.
+
+(B) pela disseminação mundial de uma doença quando um            (B) são limpas e renováveis, não poluentes, podendo ainda
+    agente infeccioso se espalha ao redor do mundo.                  ser usadas em áreas isoladas da rede de eletricidade,
+                                                                     além de ter mínima necessidade de manutenção.
+(C) pela recorrência em uma região, seguindo um padrão
+    relativamente estável que prevalece com base na média        (C) são flexíveis em relação ao conjunto de fontes que
+    histórica de ocorrência.                                         podem ser utilizadas na sua geração embora causem
+                                                                     impactos ambientais.
+(D) por um aumento repentino e inesperado de casos em
+    uma determinada região ou comunidade.                        (D) possuem baixo custo de instalação e diminuem a
+                                                                     emissão de gases embora provoquem impactos
+QUESTÃO 17                                                           relativos tanto ao desaparecimento de espécies da
+                                                                     fauna quanto ao barulho das turbinas.
+Os movimentos sociais são grupos de pessoas que se unem
+com pautas comuns desejando conquistar direitos                  QUESTÃO 19
+relacionados a essas pautas. O teórico francês Alain
+Touraine diz que os movimentos sociais se definem em três        Leia o texto a seguir.
+princípios: de identidade, de oposição e de totalidade. O
+Movimento Negro Unificado tem suas raízes na luta histórica       “Se descesse do céu um anjo e dissesse que a minha morte
+contra a escravidão e seus efeitos, sendo marcado pela            ajudaria a salvar a Amazônia, morreria de bom grado. Mas a
+defesa                                                            história tem nos mostrado que não são atos públicos
+                                                                  numerosos e concorridos que vão salvar a Amazônia. Por isso,
+                                                                  eu quero viver”.
+(A) de conquistas no âmbito social, político e econômico e           Disponível em: <https://www.brasildefato.com.br/2023/12/22/dor-e-legado-
+    pela luta contra o racismo e suas implicações.                  revolucionario-morte-de-chico-mendes-completa-35-anos>. Acesso em: 09
+                                                                                                                                   fev. 2024.
+(B) do direito de acesso à terra e luta contra a propriedade
+    privada e contra o marco temporal.                           O texto mencionado é atribuído ao líder ambientalista Chico
+                                                                 Mendes, assassinado em 1988. Uma das lutas do Chico
+(C) do meio ambiente em sua totalidade (água, solo, flora e      Mendes foi em defesa
+    fauna) e contra o desmatamento e as queimadas
+    provocadas pelo modelo de sociedade.                         (A) da liberdade de culto e religião, bem como pelo fim da
+                                                                     escravidão colonial no Brasil.
+(D) de conquistas pelo direito ao trabalho e ao lazer, contra
+    as alterações e as perdas provocadas pela ação de            (B) da Terra Indígena Vale do Javari e contra o avanço do
+    políticas neoliberais.                                           garimpo, do narcotráfico e do agronegócio.
+
+                                                                 (C) dos povos originários, contra o marco temporal para
+                                                                     demarcação das terras indígenas no Brasil.
+
+                                                                 (D) dos povos da floresta, dos seringais e da criação de
+                                                                     reservas para extrativistas e indígenas.
+
+
+
+
+                                                  Atualidades e História, Geografia e Conhecimentos Gerais do Brasil e do Acre_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                               CONCURSO PÚBLICO                                                              IV/UFG
+
+QUESTÃO 20                                                                      RASCUNHO
+
+Leia a charge a seguir.
+
+
+
+
+  Disponível em: <https://brainly.com.br/tarefa/42048252>. Acesso em: 13 fev.
+                                                                       2024.
+
+A popularização da internet alterou completamente a vida
+social, os relacionamentos e as diferentes formas de
+comunicação entre as pessoas. A charge apresenta o
+impacto da internet na vida dos indivíduos, inclusive em
+relação:
+
+(A) à virtualização exagerada das relações humanas,
+    alterando antigas práticas de sociabilidade entre
+    crianças.
+
+(B) ao aumento da depressão entre crianças e jovens
+    ocasionado pelo uso exacerbado das redes sociais.
+
+(C) à necessidade de exposição entre os jovens numa
+    sociedade de espetáculo.
+
+(D) à perda de privacidade no mundo virtual e aos riscos
+    ocasionados pelo fenômeno do stalker.
+
+RASCUNHO
+
+
+
+
+                                                               Atualidades e História, Geografia e Conhecimentos Gerais do Brasil e do Acre_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                CONCURSO PÚBLICO                                                  IV/UFG
+
+QUESTÃO 21                                                   QUESTÃO 23
+
+De acordo com a regras éticas do serviço público, é vedado   De acordo com a Lei nº 12.527/2011 (Lei de Acesso à
+ao servidor público:                                         Informação), o Interessado informado do extravio da
+                                                             informação solicitada, poderá
+(A) abster-se, de forma absoluta, de exercer sua função,
+    poder ou autoridade com finalidade estranha ao           (A) requerer à autoridade competente a imediata abertura
+    interesse público.                                           de sindicância para apurar o desaparecimento da
+                                                                 respectiva documentação e o responsável pela guarda
+(B) facilitar a fiscalização de todos atos ou serviços por       da informação extraviada deverá, no prazo de 10 (dez)
+    quem de direito devem ser monitorados e fiscalizados.        dias, justificar o fato e indicar testemunhas que
+                                                                 comprovem sua alegação.
+(C) participar dos movimentos e estudos que se relacionem
+    com a melhoria do exercício de suas funções.             (B) requerer à autoridade competente a imediata abertura
+                                                                 de inquérito policial para apurar o desaparecimento da
+(D) prejudicar deliberadamente a reputação de outros             respectiva documentação e o responsável pela guarda
+    servidores ou de cidadãos que deles dependam.                da informação extraviada deverá, no prazo de 15 dias,
+                                                                 justificar o fato e indicar testemunhas que comprovem
+QUESTÃO 22
+                                                                 sua alegação.
+De acordo com a Lei nº 9.784/99, é legitimado como           (C) Ingressar judicialmente com o pedido de informações,
+interessado no processo administrativo:                          via Habeas Data para apurar o desaparecimento da
+                                                                 respectiva documentação e o responsável pela guarda
+(A) pessoas físicas ou jurídicas que o terminem como
+                                                                 da informação extraviada deverá, no prazo de 10 dias,
+    titulares de direitos ou interesses individuais.
+                                                                 justificar o fato e indicar testemunhas que comprovem
+(B) organizações que, por terem iniciado o processo, têm         sua alegação.
+    direitos que possam ser afetados pela decisão.
+                                                             (D) Ingressar judicialmente com o pedido de informações,
+(C) organizações e associações representativas, no tocante       via Mandado de Segurança para apurar o
+    a direitos e interesses coletivos.                           desaparecimento da respectiva documentação e o
+                                                                 responsável pela guarda da informação extraviada
+(D) pessoas ou as associações de fato constituídas quanto        deverá, no prazo de 15 dias, justificar o fato e indicar
+    a direitos ou interesses difusos.                            testemunhas que comprovem sua alegação.
+
+RASCUNHO                                                     QUESTÃO 24
+
+                                                             De acordo com o Decreto nº 7.724/2012, as informações
+                                                             classificadas como documentos de guarda permanente que
+                                                             forem objeto de desclassificação serão encaminhadas:
+
+                                                             (A) ao Museu Nacional.
+
+                                                             (B) à Câmara dos Deputados.
+
+                                                             (C) ao Arquivo Nacional.
+
+                                                             (D) à Biblioteca Nacional.
+
+
+
+
+                                                                                                      Legislação_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                   CONCURSO PÚBLICO                                                                IV/UFG
+
+QUESTÃO 25                                                      QUESTÃO 28
+
+De acordo com o Decreto nº 930/2019, o agente público           Leia o trecho a seguir.
+somente poderá ser responsabilizado por suas decisões ou
+opiniões técnicas se:                                            “Na Administração Pública não há liberdade nem vontade
+                                                                 pessoal. Enquanto na administração particular, é lícito fazer
+(A) agir com imprudência, negligência ou imperícia ou            tudo que a lei não proíbe, na Administração Pública só é
+    cometer erro grosseiro, no desempenho de suas                permitido fazer o que a lei autoriza.’’
+                                                                     MEIRELLES, Hely L. Direito Administrativo Brasileiro. 27ª ed. São Paulo:
+    funções.                                                                                                          Malheiros, 2002. p. 82.
+
+(B) agir ou se omitir com dolo, direto ou eventual, ou          Nesse trecho, o autor:
+    cometer erro grosseiro, no desempenho de suas
+    funções.                                                    (A) ofende o princípio da liberdade, que foi eleito pela
+                                                                    Constituição Federal de 1988 como postulado basilar da
+(C) agir ou se omitir com dolo, direto ou eventual, ou              República.
+    cometer erro sutil, no desempenho de suas funções.
+                                                                (B) ofende o princípio da motivação, posto que restringe
+(D) agir com imprudência, negligência ou imperícia, ou              qualquer arbítrio do administrador público.
+    cometer erro sutil, no desempenho de suas funções.
+                                                                (C) apresenta uma forma de consagração do princípio da
+QUESTÃO 26                                                          moralidade pública, pois exorta do administrador público
+                                                                    a eticidade.
+De acordo com a Constituição Federal de 1988, construir
+uma sociedade livre, justa e solidária é                        (D) apresenta uma forma de consagração do princípio da
+                                                                    legalidade, pois a finalidade pública está acima de
+(A) uma norma dirigente de aplicabilidade mediata elencada          interesses pessoais.
+    como um princípio fundamental do Estado Brasileiro.
+                                                                QUESTÃO 29
+(B) uma norma programática de aplicabilidade imediata
+    elencada como um objetivo fundamental do Estado             Agente público é “o agente político, o servidor público e todo
+    Brasileiro.                                                 aquele que exerce, ainda que transitoriamente ou sem
+                                                                remuneração, por eleição, nomeação, designação,
+(C) um postulado sem aplicabilidade concreta, elencado          contratação ou qualquer outra forma de investidura ou
+    como resquício de um dirigismo estatal superado.            vínculo, mandato, cargo, emprego ou função”.
+
+(D) um postulado que rege a República brasileira, apesar de     Seguindo essa definição, um mesário eleitoral é:
+    elencado no preâmbulo do texto constitucional.
+                                                                (A) um empregado público.
+QUESTÃO 27
+                                                                (B) um agente delegado.
+De acordo com a Constituição Federal de 1988, a
+reintegração de um Território Federal ao estado de origem       (C) um agente honorífico.
+depende de:
+                                                                (D) um empregado administrativo.
+(A) lei ordinária, votada na Assembleia Legislativa estadual.
+                                                                QUESTÃO 30
+(B) emenda constitucional, votada no Congresso Nacional.
+                                                                Segundo a Lei nº 14.133/2021 (Lei de Licitações), o contrato
+(C) lei complementar, votada no Congresso Nacional.             relativo a imóvel do patrimônio da União ou de suas
+                                                                autarquias e fundações é regido
+(D) lei complementar, votada na Assembleia Legislativa
+    estadual.                                                   (A) pela legislação civil, com aplicação subsidiária na lei de
+                                                                    licitações.
+
+                                                                (B) pela lei de licitações, com aplicação subsidiaria da
+                                                                    legislação civil.
+
+                                                                (C) pela constituição federal, com regulação pela lei de
+                                                                    licitações.
+
+                                                                (D) pelo contrato administrativo, com regulação pela
+                                                                    legislação civil.
+
+
+                                                                                                                    Legislação_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                 CONCURSO PÚBLICO                                                            IV/UFG
+
+QUESTÃO 31                                                      QUESTÃO 34
+
+Os protocolos são conjuntos de regras para formatos de          Suponha que a rede local Ethernet do TJ-AC ainda opere a
+mensagens e procedimentos que permitem que máquinas             10 Mbps utilizando cabeamento padrão CAT3. Para
+e programas de aplicativos troquem informações. O               reestruturar a rede, de forma a prover taxa de transferência
+modelo TCP/IP define como os dispositivos devem                 de 1Gbps, em conformidade com as normas técnicas de
+transmitir dados entre eles e permite a comunicação por         cabeamento e com menor custo possível, a solução é
+redes e grandes distâncias. O protocolo que possibilita que     substituir:
+todo o tráfego TCP/IP host-a-host seja criptografado na
+camada de rede é:                                               (A) os comutadores e as placas de rede de forma a
+                                                                    suportar 1Gbps, mantendo o cabeamento.
+(A) SSH.
+                                                                (B) os cabos para o padrão CAT6, configurando as placas
+(B) SSL.                                                            e comutadores para 100Base-T.
+
+(C) SMIME.                                                      (C) as placas de rede para suportar a 1Gbps, mantendo os
+                                                                    comutadores 100Base-T e o cabeamento padrão
+(D) IPSEC.                                                          CAT3.
+
+QUESTÃO 32                                                      (D) os comutadores e as placas de rede de forma a
+                                                                    suportar 1Gbps, mudando o cabeamento para o
+O ciframento de uma mensagem (processo em que um                    padrão CAT5e ou superior.
+conteúdo é criptografado) é baseado em dois
+componentes: um algoritmo e uma chave de segurança. As          QUESTÃO 35
+chaves de segurança permitem verificar a validade de uma
+informação, podendo ser realizada por meio de duas              O TCP/IP suite de protocolos pode ser entendido em
+técnicas: a criptografia simétrica e a criptografia             termos de camadas ou níveis, assim como no modelo de
+assimétrica. É característica dos métodos de criptografia       referência OSI. Dentro do conjunto de protocolos, cada
+simétrica:                                                      uma das camadas é programada para responder por
+                                                                tarefas específicas e serviços definidos para garantir a
+(A) tamanho da chave de segurança superior a 128 bits.          entrega dos dados trafegados e integridade do que será
+                                                                executado na camada superior. Na arquitetura TCP/IP,
+(B) chave privada usada para criptografar e chave pública       qual camada é responsável por permitir que os hosts
+    para descriptografar.                                       enviem pacotes para qualquer rede e garantir que esses
+                                                                dados cheguem ao seu destino final?
+(C) chave única compartilhada entre o emissor e o receptor
+    de conteúdo.                                                (A) Transporte.
+
+(D) chave com nível de segurança elevado.                       (B) Aplicação.
+
+QUESTÃO 33                                                      (C) Internet.
+
+O protocolo de segurança de redes sem fio que especifica        (D) Interface de rede.
+implementações fracas de criptografia RC4 e que, por essa
+fragilidade característica, é vulnerável a ponto de não         QUESTÃO 36
+impedir que um atacante obtenha a chave usada para
+cifrar os pacotes a partir do próprio tráfego cifrado é o:      Contêineres e máquinas virtuais são tecnologias que
+                                                                tornam as aplicações independentes dos recursos de
+(A) WPA.                                                        infraestrutura. A conteinerização é uma forma de
+                                                                virtualização de sistema operacional, em que aplicativos
+(B) WPA2.                                                       são executados em espaços de usuário isolados
+                                                                chamados contêineres que compartilham o SO. Um
+(C) WEP.                                                        contêiner de aplicativos é um ambiente de computação
+                                                                totalmente embalado e portátil. Na conteinerização, o
+(D) WPA-PSK.                                                    mecanismo que engloba recursos do sistema em uma
+                                                                abstração é denominado
+
+                                                                (A) namespace.
+
+                                                                (B) control groups.
+
+                                                                (C) union file systems.
+
+                                                                (D) inter process communication.
+                                         Conhecimentos Específicos_ Analista Judiciário – Analista de Redes de Computadores_Superior
+  PODER JUDICIÁRIO DO ACRE/2024                   CONCURSO PÚBLICO                                                            IV/UFG
+
+QUESTÃO 37                                                         QUESTÃO 40
+
+Os sistemas operacionais são responsáveis por controlar e          Um incidente de segurança é qualquer evento adverso,
+impedir que um programa em execução acesse                         confirmado ou sob suspeita, relacionado à segurança dos
+indevidamente um espaço de memória reservado a outro.              sistemas de computação ou das redes de computadores.
+A gerência de memória deve tentar manter na memória                Um exemplo de incidente de segurança da informação que
+principal o maior número de processos residentes,                  explora uma vulnerabilidade é:
+permitindo maximizar o compartilhamento do processador
+e demais recursos computacionais. Mesmo na ausência de             (A) contaminação de uma máquina por um vírus.
+espaço livre, o sistema deve permitir que novos processos
+sejam aceitos e executados. O processo em que cada                 (B) ausência de atualização do sistema operacional.
+software em execução tem seu próprio espaço de
+endereçamento é a:                                                 (C) pichação de uma página web.
+
+(A) paginação.                                                     (D) obtenção de senha por meio de um keylogger.
+
+(B) sobreposição.                                                  QUESTÃO 41
+
+(C) segmentação.                                                   A paravirtualização é uma técnica de virtualização que
+                                                                   fornece uma interface para máquinas virtuais semelhantes
+(D) virtualização.                                                 ao hardware subjacente. São elementos característicos de
+                                                                   um sistema paravirtualizado:
+QUESTÃO 38
+                                                                   (A) sistema operacional modificado e acesso direto ao
+Os serviços TELNET e SSH têm por finalidade permitir a                 hardware.
+conexão remota aos servidores físicos, em cloud ou
+híbridos, facilitando tarefas de administração de rede. Em         (B) acesso direto ao hardware e uso de múltiplos
+comparação ao SSH, o TELNET se apresenta mais                          processadores.
+vulnerável devido à/ao:
+                                                                   (C) acesso direto ao hardware e uso de chamadas de
+(A) taxa de transferência de dados baixa.                              monitor (hypervisor calls) de alto nível.
+
+(B) ausência de criptografia dos dados da sessão.                  (D) sistema operacional modificado e uso de chamadas de
+                                                                       monitor (hypervisor calls) de alto nível.
+(C) uso do UDP como protocolo de transporte.
+                                                                   QUESTÃO 42
+(D) compartilhamento da porta do protocolo FTP.
+                                                                   A virtualização de servidores possibilita rodar em uma só
+QUESTÃO 39                                                         máquina física diversos servidores virtuais. As máquinas
+                                                                   virtuais e suas correspondentes reais, em um ambiente de
+Os servidores DNS convertem solicitações de nomes em               servidores       virtualizados,    são        denominadas
+endereços IP, controlando qual servidor um usuário final           respectivamente:
+alcançará quando digitar um nome de domínio no
+navegador da web. Essas solicitações são chamadas                  (A) nível 0 e convidado.
+consultas. Quando um servidor responde uma consulta
+sobre um domínio cujas informações são obtidas a partir            (B) convidado e hospedeiro.
+de uma configuração local e não do seu cache, diz-se que
+a resposta foi do tipo:                                            (C) nível 0 e hospedeiro.
+
+(A) dinâmica.                                                      (D) hospedeiro e convidado.
+
+(B) autoritativa.
+
+(C) recursiva.
+
+(D) estática.
+
+
+
+
+                                            Conhecimentos Específicos_ Analista Judiciário – Analista de Redes de Computadores_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                  CONCURSO PÚBLICO                                                            IV/UFG
+
+QUESTÃO 43                                                       QUESTÃO 46
+
+A vulnerabilidade de segurança da informação está                O roteador IntraRouter efetua o roteamento de pacotes por
+relacionada a qualquer fator capaz de facilitar a atuação de     meio do protocolo Open Shortest Path (OSPF), sendo
+cibercriminosos, ou qualquer outro tipo de ameaça externa,       possível priorizar o tráfego por meio de configuração,
+no que diz respeito a invasões, roubos de dados ou               atribuindo peso numérico positivo e inversamente
+acessos não autorizados a recursos. HeartBleed é um              proporcional à largura de banda do enlace. Isso é possível
+problema de segurança de rede relacionado a uma                  pelo fato de o OSPF ser baseado no algoritmo:
+vulnerabilidade relativa a uma falha que ocorre:
+                                                                 (A) caminho de custo mínimo em grafo (Dijkstra).
+(A) no protocolo NAT, inibindo seu funcionamento com
+    endereços de 64 bits.                                        (B) caminho de custo mínimo em dígrafo (Bellman-Ford).
+
+(B) na execução de comandos arbitrários no ambiente              (C) busca em largura.
+    shell de sistema UNIX.
+                                                                 (D) busca em profundidade.
+(C) no protocolo NTP, permitindo negação de serviço por
+    amplificação.                                                QUESTÃO 47
+
+(D) na biblioteca de criptografia OpenSSL, permitindo            No que tange aos tipos de fibra óptica, as características
+   roubo de informação protegida.                                da fibra, cuja fonte de luz é do tipo laser semicondutor que
+                                                                 representam vantagens em relação à fibra cuja fonte de luz
+                                                                 é do tipo LED, são:
+QUESTÃO 44
+                                                                 (A) possuir uma taxa de dados mais baixa e um custo
+Broadcasting é um método de transferência de mensagem                baixo.
+para todos os receptores simultaneamente. Em redes de
+computadores, um endereço de broadcast é um endereço             (B) trabalhar com fibra multimodo ou monomodo e possuir
+lógico no qual todos os dispositivos conectados a uma rede           vida útil menor.
+de comunicações de acesso múltiplo estão habilitados a
+receber datagramas. Uma mensagem enviada para um                 (C) ser mais sensível à temperatura e trabalhar em uma
+endereço de broadcast pode ser recebido por todos os                 distância mais curta.
+hospedeiros conectados à rede. Mensagens broadcast em
+redes Ethernet utilizam o endereço:                              (D) trabalhar com alta taxa de dados e possuir uma vida
+                                                                     útil longa.
+(A) FF:FF:FF:FF:FF:FF
+                                                                 QUESTÃO 48
+(B) 00:00:00:00:00:00
+                                                                 A topologia de uma rede local que possui um
+(C) 0.0.0.255                                                    gerenciamento centralizado do tráfego de dados e a falha
+                                                                 isolada de uma máquina não causa perturbação à rede, já
+(D) o endereço MAC de um roteador                                que o fluxo de dados é sempre exclusivo entre o hub
+                                                                 central, e seus respectivos nós é do tipo:
+QUESTÃO 45
+                                                                 (A) anel.
+De acordo com o algoritmo RSA, ao assinar um pacote de
+dados com a chave privada e permitir que o conteúdo seja         (B) barramento.
+verificado pela chave pública no receptor, garante-se a
+propriedade denominada:                                          (C) estrela.
+
+(A) confidencialidade.                                           (D) malha.
+
+(B) integridade.
+
+(C) disponibilidade.
+
+(D) acessibilidade.
+
+
+
+
+                                          Conhecimentos Específicos_ Analista Judiciário – Analista de Redes de Computadores_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                   CONCURSO PÚBLICO                                                            IV/UFG
+
+QUESTÃO 49                                                        QUESTÃO 52
+
+O protocolo de mensagens de controle da internet (ICMP)           Um sistema de arquivo é um conjunto de regras e
+é usado por dispositivos de rede para diagnosticar                estruturas utilizado para organizar, gerenciar e armazenar
+problemas de comunicação de rede. Quando ocorre um                informações em HDDs, módulos SSDs, CDs, DVDs, pen
+erro, os valores do primeiro campo do cabeçalho ICMP são          drives e cartões de memória. No âmbito de sistemas de
+usados para identificá-lo. O tipo de erro “destination            arquivos, é característica do QOpenSys:
+unreachable” é identificado pelo valor:
+                                                                  (A) armazenamento de dados de fluxo em mídia óptica.
+(A) 0
+                                                                  (B) definição de regras e estruturas realizada pelo usuário.
+(B) 1
+                                                                  (C) compatibilidade com padrões de sistemas abertos
+(C) 3                                                                 baseados em UNIX.
+
+(D) 8                                                             (D) acesso remoto a dados e objetos armazenados em um
+                                                                      servidor NFS remoto.
+QUESTÃO 50
+                                                                  QUESTÃO 53
+QoS é uma coleção de tecnologias que permite que
+aplicativos requisitem e recebam níveis de serviços               Para atribuir 126 faixas de endereçamento IP para 4 novas
+previsíveis em termos de capacidade de throughput de              varas cíveis do TJ-AC, a partir da rede 10.112.0.0/20, com
+dados, jitter e retardo, sendo que throughput se refere à:        o mínimo de desperdício de endereços, o administrador da
+                                                                  rede deve dividí-la da forma:
+(A) largura de banda e jitter às variações de latência.
+                                                                  (A) sub-redes 10.112.0.0 com máscara 255.255.128.0,
+(B) variação dos tipos de transmissão e jitter às variações           10.112.0.128 com máscara 255.255.128.0, 10.112.1.0
+    de latência.                                                      com máscara 255.255.128.0 e 10.112.1.128 com
+                                                                      máscara 255.255.128.0.
+(C) variação dos tipos de transmissão e jitter à latência
+    máxima durante uma transmissão.                               (B) sub-redes 10.112.0.0 com máscara 255.255.255.128,
+                                                                      10.112.0.128    com    máscara    255.255.255.128,
+(D) largura de banda e jitter significa variação de                   10.112.1.0   com    máscara   255.255.255.128   e
+    timestamp entre as diferentes larguras de banda.                  10.112.1.128 com máscara 255.255.255.128.
+
+QUESTÃO 51                                                        (C) sub-redes 10.112.0.0 com máscara 255.255.255.0,
+                                                                      10.112.1.0 com máscara 255.255.255.0, 10.112.2.0
+No Windows Server é possível definir configurações de                 com máscara 255.255.255.0 e 10.112.3.0 com
+limitação de taxa de resposta (RRL) para controlar como               máscara 255.255.255.0.
+responder a solicitações de um cliente DNS quando o
+servidor receber várias solicitações direcionadas ao              (D) sub-redes        10.112.0.0/26,               10.112.0.128/26,
+mesmo cliente. Isso possibilita impedir ataques de negação            10.112.1.0/26 e 10.112.1.128/26.
+de Serviço (DoS) a servidores DNS. Ao habilitar a
+limitação de taxa de resposta (RRL) em um servidor DNS,           QUESTÃO 54
+é possível definir a configuração de:
+                                                                  Uma solução para melhorar a disponibilidade da rede e
+(A) balanceamento de carga de aplicativo, uma vez que,            eliminar o ponto único de falha inerente ao ambiente
+    após implantar várias instâncias de um aplicativo em          estático roteado por padrão é o VRRP (Virtual Router
+    locais diferentes, usa-se a política DNS para balancear       Redundance Protocol), caracterizado por:
+    a carga de tráfego entre as diferentes instâncias de
+    aplicativo.                                                   (A) executar todas as mensagens usando datagrama
+                                                                      multicast IPv4 ou IPv6.
+(B) redirecionamento baseado em hora do dia, em que se
+    distribui o tráfego de aplicativos em diferentes              (B) impedir a associação de um roteador virtual ao seu
+    instâncias distribuídas geograficamente de um                     endereço real em uma interface.
+    aplicativo baseado na hora do dia.
+                                                                  (C) apresentar restrição com um mapeamento de endereço
+(C) filtragem, na qual se configura a política DNS para criar         diferente em LANs diferentes.
+    filtros de consulta baseados nos critérios fornecidos.
+                                                                  (D) exigir no mínimo um roteador master e dois roteadores
+(D) janela, que é o número de segundos durante os quais               backup, para melhor escoamento do tráfego.
+    as respostas a um cliente ficam suspensas se muitas
+    solicitações forem feitas.
+
+                                           Conhecimentos Específicos_ Analista Judiciário – Analista de Redes de Computadores_Superior
+  PODER JUDICIÁRIO DO ACRE/2024                  CONCURSO PÚBLICO                                                            IV/UFG
+
+QUESTÃO 55                                                        QUESTÃO 59
+
+Na substituição de um servidor Windows por um servidor            Para consultar o conteúdo da cache do DNS Resolver,
+Linux, para impedir a interrupção dos serviços e possibilitar     uma vez que foi identificado um problema na resolução de
+a interligação de redes heterogêneas, será instalado um           nomes em um sistema operacional Windows, deve ser
+servidor Samba que, por meio do protocolo SMB,                    executado o comando:
+responderá à porta TCP:
+                                                                  (A) ipconfig /displaycache
+(A) 135
+                                                                  (B) net display dnscache
+(B) 144
+                                                                  (C) ipconfig /displaydns
+(C) 443
+                                                                  (D) net view dnscache
+(D) 445
+                                                                  QUESTÃO 60
+QUESTÃO 56
+                                                                  Considere a situação na qual um hacker invadiu a rede
+Uma tecnologia de rádiofrequência que permite                     interna do TJ-AC e executou um mapeamento com objetivo
+comunicação a longas distâncias, com consumo mínimo de            de buscar serviços acessíveis. A partir de então,
+energia, utilizada em aplicações IoT (internet das coisas),       foi implementado um Sistema de Detecção de Intruso
+como sensores e monitores remotos, é                              (IDS)/ Sistema de Prevenção de Intruso (IPS) que, tendo
+                                                                  em vista a situação relatada, atende ao requisito de:
+(A) Wlan.
+                                                                  (A) ser tolerante a falhas no sentido de ser capaz de se
+(B) Lora.                                                             recuperar de quedas e reinicializações de sistema.
+(C) Zigbee.                                                       (B) impor um sobrecusto computacional ao sistema no qual
+                                                                      está executando.
+(D) Wimax.
+                                                                  (C) impedir reconfiguração dinâmica, de forma que, caso
+QUESTÃO 57                                                            seja invadido, seja necessário reiniciá-lo.
+Considere que o sistema de gestão de segurança do TJ-             (D) manter uma rotina de atualizações, de forma a se
+AC seja o Pfsense. A quantidade de bytes necessários                  adaptar a mudanças no comportamento.
+para criar uma lista de liberação de acesso para redes sem
+fio a partir do endereço MAC é:
+                                                                  RASCUNHO
+(A) 4
+
+(B) 6
+
+(C) 8
+
+(D) 12
+
+QUESTÃO 58
+
+De maneira geral, os comandos Linux referem-se a
+instruções dadas ao sistema operacional Linux, em suas
+mais variadas distribuições, por meio de interfaces de linha
+de comando (CLI) ou de um shell invocado em ambiente
+gráfico (GUI). Ao executá-los, o usuário interage com o SO
+de maneira eficiente e ágil. O comando para visualizar a
+configuração de endereços IP e a máscara de rede das
+interfaces de rede disponíveis no sistema operacional
+Linux é:
+
+(A) ipshow
+
+(B) ifconfig
+
+(C) ipcfg
+
+(D) ifshow
+                                           Conhecimentos Específicos_ Analista Judiciário – Analista de Redes de Computadores_Superior
+

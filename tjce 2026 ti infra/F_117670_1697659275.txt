@@ -1,0 +1,1016 @@
+                                                              TRIBUNAL DE JUSTIÇA
+                                                             DO ESTADO DE SERGIPE
+                                                                                                      MANHÃ
+
+                      ANALISTA JUDICIÁRIO - ESPECIALIDADE -
+                      ANÁLISE DE SISTEMAS - SUPORTE TÉCNICO
+                      EM INFRAESTRUTURA
+                       PROVA ESCRITA OBJETIVA – NÍVEL SUPERIOR
+                                                                                           TIPO 1 – BRANCA
+
+            SUA PROVA                                                  INFORMAÇÕES GERAIS
+
+    Além deste caderno de provas contendo setenta                 As questões objetivas têm cinco alternativas de
+    questões objetivas, você receberá do fiscal de sala:           resposta (A, B, C, D, E) e somente uma delas está
+                                                                   correta
+           uma folha     de   respostas   das   questões
+            objetivas                                             Verifique se seu caderno está completo, sem repetição
+                                                                   de questões ou falhas. Caso contrário, notifique
+                                                                   imediatamente o fiscal da sala, para que sejam
+                                                                  tomadas as devidas providências
+            TEMPO                                                 Confira seus dados pessoais, especialmente nome,
+                                                                   número de inscrição e documento de identidade, e
+       4 horas é o período disponível para a realização           leia atentamente as instruções para preencher a folha
+        da prova, já incluído o tempo para a marcação da           de respostas
+        folha de respostas da prova objetiva                      Use somente caneta esferográfica, fabricada em
+       3 horas após o início da prova é possível retirar-         material transparente, com tinta preta ou azul
+        se da sala, sem levar o caderno de provas                 Assine seu nome apenas no(s) espaço(s) reservado(s)
+ 30 minutos antes do término do período de                       Confira a cor, o tipo e o cargo do seu caderno de
+        prova é possível retirar-se da sala levando o              provas. Caso tenha recebido caderno de cor, tipo ou
+        caderno de provas                                          cargo diferente do impresso em sua folha de
+                                                                   respostas, o fiscal deve ser obrigatoriamente
+                                                                   informado para o devido registro na ata da sala
+                                                                  O preenchimento das respostas da prova objetiva é de
+                                                                   sua responsabilidade e não será permitida a troca da
+             NÃO SERÁ PERMITIDO                                    folha de respostas em caso de erro
+                                                                  Para fins de avaliação, serão levadas em consideração
+       Qualquer tipo de comunicação entre             os          apenas as marcações realizadas na folha de respostas
+        candidatos durante a aplicação da prova                    da prova objetiva, não sendo permitido anotar
+                                                                   informações relativas às respostas em qualquer outro
+       Usar o sanitário ao término da prova, após deixar          meio que não seja o caderno de provas
+        a sala
+                                                                  Os candidatos serão submetidos ao sistema de
+                                                                   detecção de metais quando do ingresso e da saída de
+                                                                   sanitários durante a realização das provas
+                                                                   Boa sorte!
+Tribunal de Justiça do Estado de Sergipe                                                                                 FGV Conhecimento
+
+                                                                          Existem protistas multicelulares, visíveis a olho nu, como as algas
+Língua Portuguesa                                                         (pois é, elas não são plantas). Mas muitos, como as amebas e
+                                                                          protozoários, são feitos de uma célula só. É o caso dos
+Texto 1 – Células-tronco podem ser o segredo da origem e                  coanoflagelados. Vistos no microscópio, eles têm a forma de uma
+evolução de seres multicelulares [fragmento; adaptado]                    bola em cima de um cone. Como a silhueta de um buraco de
+Por Bruno Vaiano                                                          fechadura, ou de um peão de xadrez. A bola é a célula em si,
+                                                                          onde fica o DNA e o resto do maquinário biológico. Já o cone é
+                                                                          formado por 30 ou 40 microvilosidades, filamentos que parecem
+Ernst Haeckel era estudante de medicina, filho de um conselheiro
+                                                                          tentáculos de uma água-viva. Do centro desse cone, emerge um
+da corte prussiana, e “provavelmente o homem mais bonito que
+                                                                          filamento maior, chamado flagelo, parecido com o que equipa os
+eu já havia visto”, escreveu um de seus alunos. Ele e sua prima de
+                                                                          espermatozoides – e com a mesma função: nadar. O conjunto da
+primeiro grau, Anna, eram apaixonados desde a adolescência – o
+                                                                          obra fica assim: ~>O
+que, longe de ser um problema, era o sonho de todo clã
+aristocrático da Europa no século 19: Darwin, por exemplo, se             É de se imaginar que esse rabinho ficasse atrás, empurrando a
+casou com sua prima, e o irmão dela, com a irmã de Darwin. A              célula, como ocorre com o espermatozoide. Mas a verdade é que
+ideia era manter a herança na família e preservar o poder dos             ele nada ao contrário, com o cone e o rabinho para frente. Como
+sobrenomes.                                                               um avião com hélice no nariz: O<~
+Haeckel era o partidão perfeito, não fosse um problema: sua               O coanoflagelado se move assim porque as microvilosidades atuam
+semelhança com Darwin não parava no casamento endogâmico.                 como “boca”: vão captando bactérias e pequenas partículas de
+Ele também queria ser naturalista. O que, no século 19, equivalia         material orgânico que pairam na água.
+a contar para seu tio-do-pavê-e-futuro-sogro que você largaria            A sacada de Haeckel foi que uma esponja-do-mar funciona como
+Medicina da USP para ser músico. Para convencer a família de              uma colônia de coanoflagelados, que se uniram em uma muralha
+que conseguiria sustentar sua prima-noiva, ele saiu em turnê pelo         para aumentar a área de captação de comida. A diferença é que
+sul da Europa, estudando animais marinhos nas praias e                    eles abanam coletivamente seus flagelos – lembre-se, os
+desenhando-os em minúcias.                                                “rabinhos” – para sugar a água para dentro da esponja, e não
+Deu certo. Haeckel escreveu best-sellers, virou professor                 para se mover. Um é Maomé indo à montanha, o outro atrai a
+universitário e suas ilustrações foram uma sensação. Com a                montanha para Maomé. Os coanócitos das esponjas atuais
+grana no bolso, casou-se com Anna. Um ano e meio depois, aos              seriam herdeiros de coanoflagelados. Protistas em carreira solo
+29 anos, ela morreu (talvez de febre tifoide, mas não houve               que se juntaram para formar o primeiro animal, o ancestral
+diagnóstico). Deprê e niilista, ele abandonou a fé religiosa e            comum de toda a fauna da Terra.
+abraçou de vez a evolução por seleção natural. Viciou-se em               Vale esclarecer algo: isso não quer dizer que nossos ancestrais
+trabalho, dormia quatro horas por noite e começou a traçar                sejam os mesmos coanoflagelados que hoje nadam pelados em
+imensas árvores da vida na Terra, que indicavam o grau de                 Santos. Eles eram, isso sim, um protista pré-histórico, que existiu
+parentesco entre as espécies.                                             há uns 700 milhões de anos, muito parecido tanto com os
+Nem todos os insights de Haeckel estavam certos. Mas, dentre              coanoflagelados quanto com as células das esponjas – e cuja
+suas hipóteses de arrepiar os cabelos da Igreja, uma, em                  linhagem se bifurcou para dar origem a ambos. [...]
+particular, sobrevive na biologia: nós (e todos os animais da
+Terra) somos netos do Bob Esponja.                                        Carambolas
+                                                                          A hipótese esponjosa de Haeckel permaneceu incólume, por
+Questões porosas                                                          140 anos, como nossa melhor explicação para a origem dos
+As esponjas são tubos de células que se apoiam em rochas, no              animais. Até que apareceram as carambolas do mar – nome
+fundo do mar. A água entra pelas paredes desses cilindros, que            popular dos ctenóforos, bichos aquáticos translúcidos e
+filtram os nutrientes e deixam o resto sair pela abertura no topo.        gelatinosos, que lembram águas-vivas com forma de bola de
+[...]                                                                     rugby. Em 2017, um estudo comparativo de genomas identificou
+                                                                          as carambolas, e não as esponjas, na raiz da irradiação dos
+Em 1874, Haeckel percebeu que as células filtradoras de comida
+                                                                          animais. E essa conclusão tem respaldo no registro fóssil: no sul
+das esponjas, os coanócitos, têm exatamente a mesma arquitetura
+                                                                          da China, há um fóssil de carambola de 631 milhões de anos na
+de micróbios aquáticos chamados coanoflagelados. Eles são
+                                                                          formação geológica de Doushantuo – uma data que corresponde
+criaturinhas microscópicas inofensivas e onipresentes nas águas
+                                                                          à época mais aceita para a origem dos seres multicelulares.
+da Terra [...].
+                                                                          Nem uma coisa nem outra são suficientes para tirar o trono
+Pertencem ao reino Protista, aquele em que os biólogos põem as
+                                                                          pioneiro das esponjas. Afinal, sempre dá para encontrar um fóssil
+coisas que eles não sabem direito o que são (rs). Um saco de
+                                                                          mais antigo – neste exato momento, uma potencial esponja de
+gatos taxonômico. Protistas não são fungos, animais nem plantas.
+                                                                          890 milhões de anos está gerando debate entre paleontólogos. O
+Mas suas células têm estruturas complexas que esses seres vivos
+                                                                          registro geológico não é uma foto perfeita da realidade,
+grandões também apresentam – como um núcleo para guardar o
+                                                                          principalmente quando estamos tratando de animais moles, que
+DNA, e usinas de geração de energia chamadas mitocôndrias. [...]
+                                                                          geralmente se decompõem sem deixar rastro. Além disso,
+                                                                          análises filogenéticas estão sujeitas a alguma incerteza: métodos
+                                                                          e pesquisadores diferentes extraem conclusões distintas dos
+                                                                          mesmos DNAs.
+                                                                          Seja como for, essas duas descobertas reacendem o debate. E
+                                                                          afora as carambolas, há um outro front de pesquisa que desafia
+                                                                          as ideias de Haeckel: a investigação de protistas ainda mais
+                                                                          estranhos que os coanoflagelados, que alternam entre estágios
+                                                                          de vida uni e multicelulares.
+
+
+
+ Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura                                 Tipo 1 ̶ Branca – Página 3
+Tribunal de Justiça do Estado de Sergipe                                                                                       FGV Conhecimento
+
+Disponível em: https://super.abril.com.br/ciencia/celulas-tronco-            4
+podem-ser-o-segredo-da-origem-e-evolucao-de-seres-                           Muitos textos de divulgação científica adotam uma linguagem
+multicelulares/                                                              marcadamente informal, com o objetivo de tornar mais palatável
+1                                                                            um assunto potencialmente árido.
+                                                                             Dentre as alternativas abaixo, o único caso em que a palavra ou
+Do ponto de vista da sua organização estrutural, o texto 1 é
+                                                                             expressão sublinhada NÃO tem, no contexto, caráter informal é:
+dividido em três blocos: o primeiro vai do parágrafo 1 ao
+                                                                             (A) “Haeckel era o partidão perfeito, não fosse um problema”
+parágrafo 4 (e não tem título próprio); o segundo vai do
+                                                                                 (Texto 1, 2º parágrafo);
+parágrafo 5 ao parágrafo 12 (sob o título “Questões porosas”); e
+o terceiro vai do parágrafo 13 ao parágrafo 15 (sob o título                 (B) “Com a grana no bolso, casou-se com Anna.” (Texto 1, 3º parágrafo);
+“Carambolas”).                                                               (C) “Um saco de gatos taxonômico.” (Texto 1, 7º parágrafo);
+Cada um desses blocos se caracteriza, respectivamente, pela                  (D) “como um núcleo para guardar o DNA, e usinas de geração de
+predominância do seguinte tipo textual:                                          energia chamadas mitocôndrias.” (Texto 1, 7º parágrafo);
+(A) narração, narração e injunção;                                           (E) “A sacada de Haeckel foi que uma esponja-do-mar funciona
+                                                                                 como uma colônia de coanoflagelados” (Texto 1, 11º parágrafo).
+(B) descrição, injunção e descrição;
+(C) narração, exposição e exposição;
+(D) descrição, narração e injunção;                                          5
+(E) exposição, narração e narração.
+                                                                             A linguagem marcadamente informal do texto 1 não se manifesta
+                                                                             apenas no vocabulário: ela se evidencia também pela presença
+2                                                                            de certas estratégias sintáticas e morfológicas.
+                                                                             A única alternativa em que a estratégia identificada NÃO
+O primeiro bloco do texto 1 pode ser dividido internamente em
+                                                                             corresponde, no contexto, a um uso informal é:
+três partes: uma contextualização, que apresenta uma situação
+                                                                             (A) emprego de estrutura com gerúndio, como se vê em
+de estabilidade na vida de Ernst Haeckel (parágrafos 1 e 2); uma
+                                                                                  “estudando animais marinhos” (Texto 1, 2º parágrafo);
+ação complicadora, que apresenta uma mudança de rumo na
+vida de Haeckel (parágrafos 2 e 3); e uma avaliação, em que se               (B) emprego de adjetivo formado por abreviação vocabular,
+comenta sobre a relevância atual dos estudos de Haeckel                           como se vê em “Deprê e niilista” (Texto 1, 3º parágrafo);
+(parágrafo 4).                                                               (C) emprego do sufixo de aumentativo “-ão”, como se vê em
+                                                                                  “seres vivos grandões” (Texto 1, 7º parágrafo);
+Do ponto de vista formal, essas três partes se distinguem pela
+predominância, respectivamente, de:                                          (D) emprego do sufixo de diminutivo “-inho”, como se vê em
+                                                                                  “com o cone e o rabinho para frente” (Texto 1, 9º parágrafo);
+(A) pretérito imperfeito, pretérito perfeito e presente;
+                                                                             (E) emprego da construção “dar para”, como se vê em “dá para
+(B) discurso indireto, discurso direto e discurso indireto livre;
+                                                                                  encontrar um fóssil mais antigo” (Texto 1, 14º parágrafo).
+(C) frases declarativas, frases interrogativas e frases imperativas;
+(D) função emotiva, função conativa e função poética;
+(E) orações subordinadas, orações coordenadas e orações                      6
+    absolutas.
+                                                                             Dada a necessidade de explicar assuntos técnicos para um
+                                                                             público leigo, textos de divulgação científica tipicamente contêm
+3                                                                            apostos explicativos.
+                                                                             Dentre as alternativas abaixo, aquela em que a sequência isolada
+O texto 1 é uma reportagem de divulgação científica. Uma
+                                                                             por travessão funciona como aposto explicativo é:
+consequência desse fato na superfície textual é a presença
+                                                                             (A) “Mas suas células têm estruturas complexas que esses seres
+abundante de linguagem conotativa, cuja função é tornar um
+                                                                                 vivos grandões também apresentam – como um núcleo para
+assunto potencialmente difícil mais palatável para o leitor.
+                                                                                 guardar o DNA [...]” (Texto 1, 7º parágrafo);
+A única alternativa em que a palavra sublinhada NÃO tem sentido
+                                                                             (B) “Do centro desse cone, emerge um filamento maior,
+conotativo é:
+                                                                                 chamado flagelo, parecido com o que equipa os
+(A) “Mas, dentre suas hipóteses de arrepiar os cabelos da Igreja, uma,           espermatozoides – e com a mesma função: nadar.” (Texto 1,
+    em particular, sobrevive na biologia” (Texto 1, 4º parágrafo);               8º parágrafo);
+(B) “nós (e todos os animais da Terra) somos netos do Bob                    (C) “[...] muito parecido tanto com os coanoflagelados quanto
+    Esponja.” (Texto 1, 4º parágrafo);                                           com as células das esponjas – e cuja linhagem se bifurcou
+(C) “como um núcleo para guardar o DNA, e usinas de geração de                   para dar origem a ambos.” (Texto 1, 12º parágrafo);
+    energia chamadas mitocôndrias.” (Texto 1, 7º parágrafo);                 (D) “[...] há um fóssil de carambola de 631 milhões de anos na
+(D) “É de se imaginar que esse rabinho ficasse atrás, empurrando                 formação geológica de Doushantuo – uma data que
+    a célula” (Texto 1, 9º parágrafo);                                           corresponde à época mais aceita para a origem dos seres
+(E) “que se uniram em uma muralha para aumentar a área de                        multicelulares.” (Texto 1, 13º parágrafo);
+    captação de comida.” (Texto 1, 11º parágrafo).                           (E) “Afinal, sempre dá para encontrar um fóssil mais antigo –
+                                                                                 neste exato momento, uma potencial esponja de 890 milhões
+                                                                                 de anos está gerando debate entre paleontólogos.” (Texto 1,
+                                                                                 14º parágrafo).
+
+
+
+
+    Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura                                   Tipo 1 ̶ Branca – Página 4
+Tribunal de Justiça do Estado de Sergipe                                                                                 FGV Conhecimento
+
+7                                                                            11
+“Para convencer a família de que conseguiria sustentar sua                   “Para convencer a família de que conseguiria sustentar sua
+prima-noiva, ele saiu em turnê pelo sul da Europa [...]” (Texto 1,           prima-noiva” [...] (Texto 1, 2º parágrafo)
+2º parágrafo)                                                                “Os coanócitos das esponjas atuais seriam herdeiros de
+O efeito expressivo da expressão sublinhada advém do fato de                 coanoflagelados.” (Texto 1, 11º parágrafo)
+que ela:                                                                     Nas passagens acima, o futuro do pretérito é empregado,
+(A) relativiza uma dificuldade;                                              respectivamente, para:
+(B) desenvolve uma analogia;                                                 (A) fazer uma sugestão de forma polida e expressar um fato
+(C) suaviza um comentário;                                                       futuro em relação ao passado;
+(D) evidencia um paradoxo;                                                   (B) indicar um evento simultâneo ao momento da fala e enfatizar
+(E) corrobora uma suspeita.                                                      o processo verbal;
+                                                                             (C) indicar um evento irrealizável e marcar uma ordem enfática;
+                                                                             (D) marcar um questionamento a alguma afirmação anterior e
+8                                                                                indicar uma verdade inquestionável;
+“Existem protistas multicelulares, visíveis a olho nu, como as algas         (E) expressar um fato futuro em relação ao passado e marcar
+(pois é, elas não são plantas).” (Texto 1, 8º parágrafo)                         não comprometimento com a validade do fato expresso.
+A expressão “pois é” desempenha, na passagem acima, a função de:
+(A) reforçar o caráter multicelular de alguns protistas;
+                                                                             12
+(B) caracterizar o grupo taxonômico das algas;
+(C) corroborar uma possível conclusão do leitor;                             “Um é Maomé indo à montanha, o outro atrai a montanha para
+(D) avaliar uma posição subjetiva dos biólogos;                              Maomé.” (Texto 1, 11º parágrafo)
+(E) questionar um atributo potencial das plantas.                            Nessa referência intertextual, os pronomes “um” e “outro”
+                                                                             retomam, respectivamente:
+                                                                             (A) coanoflagelados e esponjas-do-mar;
+9                                                                            (B) tentáculos de uma água-viva e filamento maior;
+“Pertencem ao reino Protista, aquele em que os biólogos põem                 (C) células filtradoras e material orgânico;
+as coisas que eles não sabem direito o que são (rs).” (Texto 1, 7º           (D) micróbios aquáticos e mitocôndrias;
+parágrafo)                                                                   (E) flagelos e espermatozoides.
+Na passagem acima, a sequência “rs” é uma manifestação da
+seguinte função da linguagem:
+                                                                             13
+(A) fática;
+(B) referencial;                                                             “O coanoflagelado se move assim porque as microvilosidades
+(C) poética;                                                                 atuam como ‘boca’ [...]” (Texto 1, 10º parágrafo)
+(D) metalinguística;                                                         “A diferença é que eles abanam coletivamente seus flagelos –
+(E) conativa.                                                                lembre-se, os ‘rabinhos’ [...]” (Texto 1, 11º parágrafo)
+                                                                             Nas passagens acima, as aspas em “boca” e “rabinhos”
+                                                                             desempenham a função de:
+10                                                                           (A) indicar a presença de um estrangeirismo;
+“Carambolas” (Texto 1, Título do 3º bloco)                                   (B) marcar o emprego de discurso direto;
+Na passagem acima, que corresponde ao título do terceiro bloco               (C) sinalizar a presença de linguagem conotativa;
+do texto 1, é possível atribuir à palavra “carambolas” dois                  (D) evidenciar a existência de um arcaísmo;
+significados. Por essa razão, esse título é ambíguo, o que acentua           (E) enfatizar a relevância contextual da palavra.
+sua expressividade.
+Os dois significados possíveis para a palavra “carambolas” na
+passagem acima estão associados a duas classes gramaticais                   14
+distintas. São elas:                                                         “Haeckel era o partidão perfeito, não fosse um problema: sua
+(A) advérbio e conjunção;                                                    semelhança com Darwin não parava no casamento endogâmico.”
+(B) substantivo e interjeição;                                               (Texto 1, 2º parágrafo)
+(C) adjetivo e preposição;                                                   “Além disso, análises filogenéticas estão sujeitas a alguma
+(D) pronome indefinido e modalizador;                                        incerteza: métodos e pesquisadores diferentes extraem
+(E) palavra denotativa e pronome pessoal.                                    conclusões distintas dos mesmos DNAs.” (Texto 1, 14º parágrafo)
+                                                                             Nas passagens acima, os dois-pontos são usados para introduzir,
+                                                                             respectivamente:
+                                                                             (A) uma exemplificação e uma ênfase;
+                                                                             (B) uma especificação e uma justificativa;
+                                                                             (C) uma modalização e uma síntese;
+                                                                             (D) uma previsão e uma ressalva;
+                                                                             (E) uma restrição e um clímax.
+
+
+
+
+    Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura                               Tipo 1 ̶ Branca – Página 5
+Tribunal de Justiça do Estado de Sergipe                                                                                      FGV Conhecimento
+
+15                                                                        18
+“A ideia era manter a herança na família e preservar o poder dos          “Para convencer a família de que conseguiria sustentar sua prima-
+sobrenomes.” (Texto 1, 1º parágrafo)                                      noiva, ele saiu em turnê pelo sul da Europa [...]” (Texto 1, 2º parágrafo)
+Os compêndios gramaticais ensinam que orações introduzidas                Nessa passagem, a preposição “para” expressa ideia de
+por “e” têm valor aditivo. Na passagem acima, porém, a oração             finalidade.
+sublinhada contrai, em relação à sequência anterior, um valor             A mesma ideia é expressa por essa preposição em:
+semântico adicional, que se soma ao seu significado aditivo               (A) “O que, no século 19, equivalia a contar para seu tio-do-pavê-
+básico.                                                                       e-futuro-sogro que você largaria Medicina da USP [...]” (Texto
+Esse valor adicional está corretamente identificado na seguinte               1, 2º parágrafo);
+alternativa:                                                              (B) “O que, no século 19, equivalia a contar para seu tio-do-pavê-
+(A) causa;                                                                    e-futuro-sogro que você largaria Medicina da USP para ser
+(B) oposição;                                                                 músico.” (Texto 1, 2º parágrafo);
+(C) correlação;                                                           (C) “Mas a verdade é que ele nada ao contrário, com o cone e o
+(D) consequência;                                                             rabinho para frente.” (Texto 1, 9º parágrafo);
+(E) alternância.                                                          (D) “Um é Maomé indo à montanha, o outro atrai a montanha
+                                                                              para Maomé.” (Texto 1, 11º parágrafo);
+                                                                          (E) “[...] uma data que corresponde à época mais aceita para a
+16                                                                            origem dos seres multicelulares.” (Texto 1, 13º parágrafo).
+“Darwin, por exemplo, (1) se casou com sua prima, (2) e o irmão
+dela, (3) com a irmã de Darwin.” (Texto 1, 1º parágrafo)
+                                                                          19
+Nessa passagem, estão numerados três casos diferentes de uso
+da vírgula.                                                               “Protistas em carreira solo que se juntaram para formar o
+A alternativa que justifica corretamente o emprego da vírgula             primeiro animal [...]” (Texto 1, 11º parágrafo)
+nessas três situações, respectivamente, é:                                As alternativas a seguir são propostas de reescritura da passagem
+(A) isolar um termo intercalado / separar oração aditiva com              acima. O único caso em que NÃO se verifica erro quanto ao
+    sujeito diferente do sujeito da oração assindética / marcar           emprego do pronome relativo é:
+    omissão de um verbo;                                                  (A) Protistas em carreira solo cuja a união levou ao surgimento
+(B) separar itens em uma enumeração / sinalizar deslocamento                  do primeiro animal;
+    de um adjunto / reforçar a ideia expressa pelo verbo;                 (B) Protistas em carreira solo cuja união formou-se o primeiro
+(C) separar orações coordenadas / separar oração adjetiva com                 animal;
+    sujeito diferente do sujeito da oração assindética / isolar um        (C) Protistas em carreira solo cuja união resultou na formação do
+    aposto;                                                                   primeiro animal;
+(D) separar conjunção adversativa / isolar partícula de explicação /      (D) Protistas em carreira solo que a união acarretou o surgimento
+    marcar omissão de um verbo;                                               do primeiro animal;
+(E) isolar um termo intercalado / marcar ordem inversa / separar          (E) Protistas em carreira solo cuja união dependeu a formação do
+    oração adverbial.                                                         primeiro animal.
+
+
+17                                                                        20
+“Viciou-se em trabalho, dormia quatro horas por noite e começou           Nas alternativas abaixo, observa-se sempre a mesma estrutura: à
+a traçar imensas árvores da vida na Terra, que indicavam o grau de        esquerda, há uma passagem do texto 1; à direita, há uma
+parentesco entre as espécies.” (Texto 1, 3º parágrafo)                    proposta de reescritura dessa passagem.
+A alternativa em que a oração sublinhada foi convertida para a            O único caso em que essa reescritura NÃO apresenta erro em
+voz passiva SEM alteração substancial de significado e SEM desvio         relação ao uso do acento grave é:
+em relação à norma padrão é:                                              (A) “Ele também queria ser naturalista.” > Ele também aspirava à
+(A) que haviam indicado o grau de parentesco entre as espécies;               ser naturalista;
+(B) que havia sido indicado o grau de parentesco entre as                 (B) “[...] ele abandonou a fé religiosa e abraçou de vez a evolução
+    espécies;                                                                 por seleção natural.” > Ele abandonou a fé religiosa e aderiu
+(C) onde o grau de parentesco entre as espécies fora indicado;                de vez a evolução por seleção natural;
+(D) cujo grau de parentesco entre as espécies seria indicado;             (C) “[...] começou a traçar imensas árvores da vida na Terra [...]”
+(E) em que era indicado o grau de parentesco entre as espécies.               > Passou à traçar imensas árvores da vida na Terra;
+                                                                          (D) “[...] as células filtradoras [...] têm exatamente a mesma
+                                                                              arquitetura      de      micróbios      aquáticos    chamados
+                                                                              coanoflagelados.” > As células filtradoras têm arquitetura
+                                                                              idêntica a de micróbios aquáticos chamados coanoflagelados;
+                                                                          (E) “Além disso, análises filogenéticas estão sujeitas a alguma
+                                                                              incerteza [...]” > Além disso, análises filogenéticas estão
+                                                                              sujeitas a dúvidas.
+
+
+
+
+ Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura                                     Tipo 1 ̶ Branca – Página 6
+Tribunal de Justiça do Estado de Sergipe                                                                                 FGV Conhecimento
+
+                                                                          23
+Noções de Direito Constitucional e de
+                                                                          Maria, de nacionalidade espanhola, residia no território brasileiro
+Direito Administrativo                                                    há mais de quinze anos ininterruptos, com uma reputação
+                                                                          ilibada, jamais tendo sofrido qualquer espécie de sanção do
+21                                                                        Estado brasileiro. Por se identificar com a realidade brasileira,
+                                                                          decidiu iniciar uma carreira política.
+O ditador XX, que se encontra há décadas no comando do Estado
+de Direito Alfa, passou a ter ameaçada a sua continuidade no              À luz da sistemática constitucional, Maria:
+poder em razão da afronta aos mais basilares princípios                   (A) não terá direitos políticos, que são privativos dos brasileiros
+democráticos. Por tal razão, decidiu outorgar uma nova                         natos, mesmo que se naturalize brasileira;
+Constituição, que exortava a democracia em seu preâmbulo, mas             (B) é considerada brasileira naturalizada, desde que o requeira, e
+que fora cuidadosamente moldada de modo a apenas ratificar o                   terá capacidade eleitoral ativa idêntica à dos brasileiros
+funcionamento das instituições, tal qual o ditador XX idealizara e             natos;
+colocara em prática, de modo a assegurar a continuidade do                (C) somente irá adquirir direitos políticos cinco anos após a
+regime, legitimando-o.                                                         aquisição da nacionalidade brasileira, caso venha a se
+A Constituição outorgada pelo ditador XX deve ser classificada                 naturalizar;
+como:                                                                     (D) ainda não pode se naturalizar brasileira, considerando o
+(A) cesarista;                                                                 período em que reside no território nacional, o que a impede
+(B) semântica;                                                                 de ter direitos políticos;
+(C) plebiscitária;                                                        (E) será considerada brasileira naturalizada, caso o seu
+(D) consuetudinária;                                                           requerimento seja deferido, e terá capacidade eleitoral ativa
+                                                                               e passiva idêntica à dos brasileiros natos.
+(E) de eficácia contida.
+
+                                                                          24
+22
+                                                                          Com o alegado objetivo de proteger os interesses dos
+João foi condenado, em sentença que ainda não transitou em
+                                                                          consumidores situados em seu território, estabelecendo um
+julgado, pela prática de crime, no qual utilizou a internet para
+                                                                          equilíbrio entre os referenciais de oferta e demanda, o Estado-
+alterar dados de interesse público, daí decorrendo grande dano
+                                                                          membro Alfa editou a Lei estadual nº X, dispondo que a produção
+para a coletividade. Em momento posterior, foi editada a Lei
+                                                                          das indústrias localizadas em seu território somente poderia ser
+federal nº X, que alterou diversos aspectos da norma penal que
+                                                                          direcionada ao exterior caso fosse certificado, pela Secretaria de
+fora aplicada a João, em alguns casos para exasperá-la, em outros
+                                                                          Estado competente, que o mercado local fora regularmente
+para atenuá-la.
+                                                                          atendido em suas demandas regulares.
+Preocupado com a possível aplicação da Lei federal nº X ao seu
+                                                                          À luz da divisão de competências legislativas prevista na
+caso, João consultou um advogado, sendo-lhe corretamente
+                                                                          Constituição da República de 1988, a Lei estadual nº X é:
+informado que o referido diploma normativo:
+                                                                          (A) inconstitucional, pois o interesse local deve ser disciplinado
+(A) somente incidirá sobre o seu caso se contiver cláusula
+                                                                              em lei municipal;
+    expressa de retroação;
+                                                                          (B) inconstitucional, pois compete privativamente à União
+(B) poderá incidir sobre o seu caso se João assim optar ao ser
+                                                                              legislar sobre a matéria;
+    instado a se manifestar pelo juiz de direito;
+                                                                          (C) constitucional, pois os Estados possuem competência
+(C) somente incidirá sobre o seu caso nos aspectos que se
+                                                                              legislativa residual nessa matéria;
+    mostrem mais benéficos em relação à lei anterior;
+                                                                          (D) constitucional, pois é competência comum da União, dos
+(D) incidirá integralmente sobre o seu caso, considerando que a
+                                                                              Estados e do Distrito Federal legislar sobre a matéria;
+    sentença proferida ainda não transitou em julgado;
+                                                                          (E) constitucional, desde que observadas as normas gerais
+(E) não incidirá, em nenhum aspecto, sobre o seu caso,
+                                                                              editadas pela União, pois os Estados e o Distrito Federal
+    considerando a prolação de sentença, ainda que não tenha
+                                                                              possuem competência legislativa concorrente com a União.
+    transitado em julgado.
+
+
+
+
+ Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura                                 Tipo 1 ̶ Branca – Página 7
+Tribunal de Justiça do Estado de Sergipe                                                                                FGV Conhecimento
+
+25                                                                        28
+A sociedade empresária Alfa, com personalidade jurídica de                No pequeno Município Alfa, era identificado um único ente no
+direito privado, recebeu concessão da União para explorar o               âmbito da Administração Pública indireta, ente este que, em
+serviço público de fornecimento de energia elétrica. João,                razão de suas atribuições, contava com um reduzido quadro de
+motorista e empregado de Alfa, ao conduzir o veículo da                   pessoal e não apresentava órgãos internos.
+empresa, que transportava material para a ampliação da rede               À luz dessa narrativa, estamos perante uma hipótese de:
+elétrica, atropelou Joana, causando-lhe lesões de natureza                (A) concentração descentralizada;
+gravíssima.                                                               (B) desconcentração centralizada;
+Considerando os balizamentos da narrativa e a sistemática                 (C) centralização desconcentrada;
+constitucional, é correto afirmar, em relação a uma ação de               (D) descentralização concentrada;
+reparação de danos, que Joana:
+                                                                          (E) desconcentração descentralizada.
+(A) somente pode ajuizar a ação em face de João, ocasião em
+    que deverá demonstrar a culpa desse agente, pois Alfa é uma
+    empresa privada;                                                      29
+(B) pode ajuizar a ação em face de Alfa, não precisando provar a
+                                                                          O chefe do Poder Executivo do Município Alfa exarou três atos
+    culpa de João, embora seja possível a demonstração da culpa
+                                                                          administrativos: (1) nomeou Maria, aprovada em concurso
+    exclusiva da vítima para excluir a responsabilidade;
+                                                                          público de provas e títulos, para ocupar cargo de provimento
+(C) pode ajuizar a ação em face de Alfa, que responderá em                efetivo; (2) nomeou João para ocupar cargo de provimento em
+    caráter objetivo, não sendo possível a demonstração da culpa          comissão; e (3) concedeu a aposentadoria a Pedro.
+    exclusiva da vítima para excluir a responsabilidade;
+                                                                          Considerando a competência constitucional do Tribunal de
+(D) pode ajuizar a ação em face de João e de Alfa, ocasião em
+                                                                          Contas de apreciar, para fins de registro, a legalidade de certos
+    que deverá demonstrar a culpa daquele agente no acidente e
+                                                                          atos, é correto afirmar, em relação aos três atos descritos na
+    a culpa da empresa em escolher e vigiar o seu empregado;
+                                                                          narrativa, que a referida apreciação:
+(E) somente pode ajuizar a ação em face de João, que
+                                                                          (A) é exigida em relação a todos os atos;
+    responderá em caráter objetivo, não sendo possível a
+                                                                          (B) não é exigida em relação a nenhum dos atos;
+    demonstração da culpa exclusiva da vítima para excluir a
+    responsabilidade.                                                     (C) é exigida apenas em relação aos atos 1 e 2;
+                                                                          (D) é exigida apenas em relação aos atos 1 e 3;
+                                                                          (E) é exigida apenas em relação aos atos 2 e 3.
+26
+João, juiz de direito no Estado Alfa, respondeu a processo
+                                                                          30
+administrativo disciplinar, sendo a decisão a respeito de sua
+condenação ou absolvição de competência do Pleno do Tribunal              João, diretor de determinado órgão público, logo após assumir o
+de Justiça a que está vinculado.                                          cargo, constatou que o seu antecessor, dias antes de deixar o
+Para que João possa ser considerado culpado pela prática da               cargo, tinha promovido a anulação de certo ato administrativo, o
+infração disciplinar que lhe é imputada, a condenação:                    que conduziu a resultados que lhe pareciam prejudiciais ao
+                                                                          interesse público.
+(A) pode ocorrer por maioria simples dos membros do colegiado;
+(B) exige a maioria absoluta dos membros do colegiado;                    À luz dessa narrativa, é argumentativamente defensável a
+                                                                          assertiva de que João:
+(C) exige a maioria de três quintos do colegiado;
+                                                                          (A) não pode alterar, em hipótese alguma, o ato do seu
+(D) exige a maioria de dois terços do colegiado;
+                                                                              antecessor, considerando a coisa julgada administrativa;
+(E) exige a maioria dos presentes à sessão.
+                                                                          (B) pode vir a anular o ato do seu antecessor, preenchidos os
+                                                                              requisitos exigidos, como manifestação da autotutela;
+27                                                                        (C) não pode alterar, em hipótese alguma, o ato do seu
+                                                                              antecessor, considerando a preclusão administrativa;
+Ana, servidora do Tribunal de Justiça do Estado de Sergipe, se
+                                                                          (D) pode vir a convalidar o ato do seu antecessor, alterando o seu
+deparou com um mandado de segurança, de competência
+                                                                              objeto de modo a atender aos objetivos que almeje;
+originária de uma Câmara Cível, no qual a ordem fora denegada.
+Ao ver do impetrante, a decisão fora manifestamente contrária à           (E) pode vir a revogar o ato do seu antecessor, por razões de
+ordem constitucional, o que o levou a interpor o recurso cabível              conveniência e oportunidade.
+para que a causa fosse reexaminada pelo Superior Tribunal de
+Justiça.
+O recurso que o impetrante irá interpor é o(a):
+(A) recurso especial;
+(B) recurso ordinário;
+(C) recurso de apelação;
+(D) recurso extraordinário;
+(E) reclamação constitucional.
+
+
+
+
+ Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura                                 Tipo 1 ̶ Branca – Página 8
+Tribunal de Justiça do Estado de Sergipe                                                                                FGV Conhecimento
+
+31
+                                                                          Legislação Específica
+João, servidor público municipal, foi formalmente cientificado,
+pelo Ministério Público, de que estava sendo investigado pela
+                                                                          33
+prática de improbidade administrativa, em razão da possível
+ocorrência de enriquecimento ilícito.                                     João, servidor ocupante de cargo de provimento efetivo no
+Ao consultar um advogado a respeito das características dessa             Estado de Sergipe, foi aposentado em razão de incapacidade
+espécie de ilícito e das consequências decorrentes de eventual            permanente para o exercício funcional. Pouco tempo depois,
+condenação, foi-lhe corretamente informado, à luz da Lei nº               perícia médica constatou que, após ser submetido a um
+8.429/1992, que:                                                          tratamento médico inovador, João se recuperou completamente
+(A) a sua tipologia é exemplificativa;                                    da patologia que o acometera no passado, o que lhe permitiria
+                                                                          voltar a exercer suas funções.
+(B) o ato pode ter sido praticado com dolo ou culpa;
+(C) eventual condenação pressupõe a prévia condenação penal;              Caso João, nas circunstâncias descritas no enunciado, venha a
+                                                                          reingressar no serviço público, no mesmo cargo anterior,
+(D) exige a demonstração do empobrecimento do poder público;
+                                                                          estaremos perante um exemplo de:
+(E) a condenação só enseja a perda dos bens adquiridos
+                                                                          (A) acesso;
+    ilicitamente.
+                                                                          (B) reversão;
+                                                                          (C) readaptação;
+32                                                                        (D) reintegração;
+Maria, servidora pública estadual, foi instada, por seu superior          (E) aproveitamento.
+hierárquico, a localizar determinado processo licitatório no qual o
+contratado, entre outros aspectos, deveria elaborar e
+                                                                          34
+desenvolver os projetos básico e executivo, além de executar
+determinado serviço de engenharia.                                        Maria, servidora do Tribunal de Justiça do Estado de Sergipe, foi
+Ao se inteirar dos balizamentos estabelecidos pela Lei nº                 orientada a encaminhar determinado expediente ao juiz de
+14.133/2021, Maria concluiu, corretamente, que o procedimento             direito incumbido da Direção do Fórum da Comarca X, que
+que deveria localizar versava sobre uma:                                  contava com três varas.
+(A) contratação direta;                                                   Ao se inteirar sobre quem seria o juiz de direito que deveria
+(B) empreitada integral;                                                  receber o expediente, Maria concluiu, corretamente, à luz do
+(C) contratação integrada;                                                Código de Organização Judiciária do Estado de Sergipe, que ele é:
+(D) contratação semi-integrada;                                           (A) o juiz de direito mais antigo na Comarca X;
+(E) empreitada por preço global.                                          (B) escolhido mediante sorteio público realizado anualmente;
+                                                                          (C) o juiz de direito que titulariza a Vara de menor numeração;
+                                                                          (D) designado pelo Tribunal Pleno, a partir de indicação do
+                                                                              presidente do Tribunal de Justiça;
+                                                                          (E) designado pelo presidente do Tribunal de Justiça, a partir de
+                                                                              indicação do corregedor-geral da Justiça.
+
+
+                                                                          35
+                                                                          Maria, servidora estável ocupante de cargo de provimento
+                                                                          efetivo no Estado de Sergipe, foi informada de que o órgão
+                                                                          competente declarara a desnecessidade do cargo por ela
+                                                                          ocupado, o que decorria da constatação de que as situações
+                                                                          fáticas que poderiam ensejar o seu exercício funcional não mais
+                                                                          ocorriam na realidade.
+                                                                          À luz da sistemática estabelecida no Regime Jurídico dos
+                                                                          Funcionários Públicos Civis do Estado de Sergipe, é correto
+                                                                          afirmar que Maria deve ser:
+                                                                          (A) demitida;
+                                                                          (B) exonerada;
+                                                                          (C) posta em disponibilidade;
+                                                                          (D) transferida para outra carreira do serviço público estadual;
+                                                                          (E) aposentada com proventos proporcionais ao tempo de
+                                                                               serviço.
+
+
+
+
+ Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura                                Tipo 1 ̶ Branca – Página 9
+Tribunal de Justiça do Estado de Sergipe                                                                                  FGV Conhecimento
+
+36                                                                        38
+O Município X, no Estado de Sergipe, era abrangido, juntamente            Maria, servidora pública do Estado de Sergipe, ficou grávida e,
+com outro Município, pela Comarca W. Em razão de um forte                 com o objetivo de planejar o lapso temporal em que poderia
+movimento político-social, foram iniciadas reivindicações                 permanecer na companhia do seu futuro filho, de modo a
+populares para a criação de uma nova Comarca, que                         contribuir para o seu pleno desenvolvimento, realizou uma
+corresponderia justamente aos limites territoriais do Município X.        pesquisa a respeito da possibilidade de fruir férias imediatamente
+Considerando os balizamentos oferecidos pelo Código de                    após o término do período de gozo da licença à gestante.
+Organização Judiciária do Estado de Sergipe, a criação alvitrada:         À luz do Regime Jurídico dos Funcionários Públicos Civis do
+(A) é expressamente vedada, considerando o princípio da                   Estado de Sergipe, Maria concluiu, corretamente, que:
+    perpetuatio jurisdictionis;                                           (A) pode vir a fruir as férias da forma alvitrada, desde que não
+(B) levará em consideração apenas a densidade demográfica do                  haja prejuízo para o serviço;
+    Município X e o movimento forense anual;                              (B) tem o direito subjetivo à fruição das férias da forma alvitrada,
+(C) levará em consideração, entre outros fatores, a extensão                  o que não lhe pode ser negado pela Administração Pública;
+    territorial e a distância para a capital do Estado;                   (C) as férias somente podem vir a ser fruídas da forma alvitrada
+(D) está sujeita à livre discrição do Tribunal de Justiça de Sergipe,         se Maria possuir dois períodos de férias pendentes de
+    considerando a sua autonomia administrativa e financeira;                 fruição;
+(E) levará em consideração, entre outros fatores, a densidade             (D) é expressamente vedada a fruição das férias da forma
+    demográfica do Município X e o número de eleitores                        alvitrada, considerando a necessidade de se assegurar a
+    inscritos.                                                                continuidade do serviço;
+                                                                          (E) as férias somente podem vir a ser fruídas da forma alvitrada
+                                                                              se o recém-nascido apresentar patologias que justifiquem a
+37                                                                            permanência da mãe ao seu lado.
+Em determinado feito em tramitação no Tribunal de Justiça do
+Estado de Sergipe, no qual era prevista a atuação de revisor, foi
+apresentada uma petição no momento em que os autos se                     39
+encontravam conclusos com o desembargador que atuava nessa                Em determinado caso concreto, nos termos estabelecidos em lei,
+condição.                                                                 era necessária a realização do serviço de degravação do
+Nesse caso, à luz do Regimento Interno do Tribunal de Justiça do          interrogatório e dos depoimentos prestados em determinada
+Estado de Sergipe, o desembargador revisor deve:                          sessão de julgamento do Tribunal do Júri de certa comarca do
+(A) encaminhar os autos ao relator, que determinará, ou não, a            Estado de Sergipe.
+    juntada da petição, e decidirá a matéria sobre a qual versou;         À luz do Regimento Interno do Tribunal de Justiça do Estado de
+(B) determinar a juntada, submetendo a matéria à consideração             Sergipe, a referida degravação é de competência:
+    do relator, e decidir os pedidos de preferência de julgamento;        (A) do presidente do Tribunal;
+(C) encaminhar os autos ao presidente do respectivo órgão, que            (B) do Conselho da Magistratura;
+    determinará a juntada, ou não, e decidirá a matéria sobre a           (C) do corregedor-geral da Justiça;
+    qual versou;                                                          (D) do vice-presidente do Tribunal;
+(D) determinar a juntada e decidir a matéria versada, ressalvados         (E) da Assessoria Especial junto à Presidência.
+    os pedidos de preferência de julgamento, de competência do
+    presidente do respectivo órgão;
+(E) determinar a apresentação dos respectivos argumentos,                 40
+    como questão de ordem, no dia da sessão de julgamento,                Determinado juiz de direito do Estado de Sergipe proferiu decisão
+    salvo se o caso versar sobre matéria criminal, quando                 administrativa no âmbito da fiscalização de uma unidade
+    determinará a juntada e decidirá.                                     prisional, o que gerou grande irresignação junto a alguns
+                                                                          interessados diretos.
+                                                                          Em situações dessa natureza, à luz do Regimento Interno do
+                                                                          Tribunal de Justiça do Estado de Sergipe, é correto afirmar que a
+                                                                          referida decisão:
+                                                                          (A) é irrecorrível;
+                                                                          (B) pode ser objeto de recurso para o Tribunal Pleno;
+                                                                          (C) pode ser objeto de recurso a ser julgado pelo presidente do
+                                                                              Tribunal;
+                                                                          (D) pode ser objeto de recurso a ser julgado pela Seção
+                                                                              Especializada;
+                                                                          (E) pode ser objeto de recurso a ser julgado pela Corregedoria-
+                                                                              Geral da Justiça.
+
+
+
+
+ Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura                                Tipo 1 ̶ Branca – Página 10
+Tribunal de Justiça do Estado de Sergipe                                                                               FGV Conhecimento
+
+                                                                          44
+Conhecimentos Específicos
+                                                                          Toda instrução consiste em uma ordem codificada (código de
+                                                                          operação), para o processador executar uma operação qualquer
+41
+                                                                          sobre dados. No contexto da interpretação de uma instrução, o
+A política de escalonamento é a base da gerência do processador.          dado pode ser um valor numérico, um caractere alfabético, um
+Ryu é analista de sistemas e sabe que as características de cada          endereço (instrução de desvio).
+Sistema Operacional (SO) determinam quais são os principais               Considerando um dado de valor numérico, o mesmo número
+aspectos para a implementação de uma política de                          expresso em hexadecimal, decimal e binário, respectivamente,
+escalonamento adequada. Brevemente Ryu adotará, em seu                    corresponde a:
+projeto de SO, o critério de escalonamento que representa o               (A) BABE, 47806, 1011101010111111;
+número de processos executados em um determinado intervalo
+                                                                          (B) CACA, 51912, 1111101011001010;
+de tempo.
+                                                                          (C) CADE, 51934, 1000101011011110;
+Em seu projeto de SO, Ryu deve utilizar o critério de
+                                                                          (D) DEDE, 57054, 1101111011011110;
+escalonamento:
+                                                                          (E) FADA, 64216, 1111101011011010.
+(A) throughput;
+(B) tempo de espera;
+(C) tempo de turnaround;                                                  45
+(D) tempo de processador;                                                 Guile é um analista sênior e, juntamente com sua equipe,
+(E) utilização do processador.                                            identificou um problema com os relatórios das operações
+                                                                          aritméticas computacionais no principal sistema de sua empresa.
+                                                                          Nesse contexto, a fim de garantir o adequado processamento
+42
+                                                                          automático de informações do sistema e promover as correções
+Ken é engenheiro de hardware de uma grande empresa e está                 no ambiente operacional da empresa, Guile, após receber a
+em um projeto para melhorar a performance dos computadores.               solução de sua equipe, validou como correto o seguinte resultado
+No tocante à hierarquia de memória, Ken precisa fazer uma                 da operação aritmética em hexadecimal:
+comparação entre as memórias SRAM (Static Random Access                   (A) 32B - 1BD = 15E;
+Memory, ou RAM estática) e DRAM (Dynamic Random Access                    (B) 7B12 - AC1 = 8051;
+Memory, ou RAM dinâmica) a fim de confirmar alguns pontos
+                                                                          (C) 37DEAD + FACA = 38DEAD;
+significativos de cada uma delas.
+                                                                          (D) CAEDA + 3A2BCD = 46DAA7;
+Sobre as memórias observadas por Ken, o ponto significativo
+                                                                          (E) CA3DA + 2B3ACC = 37DEAD.
+correto é:
+(A) as memórias SRAM ocupam menos espaço físico que as
+    memórias DRAM, devido à menor quantidade de                           46
+    componentes requeridos para armazenar cada bit;
+                                                                          Bruce, em seu projeto de computador, tem de escolher formatos
+(B) as SRAM ocupam cerca de 1/4 da área das DRAM, o que se
+                                                                          de instruções para sua máquina, visto que essa decisão deve ser
+    torna uma vantagem apreciável em termos de economia de
+                                                                          tomada no início do projeto. Bruce sabe que grande parte das
+    espaço;
+                                                                          instruções tem operandos, portanto, é necessário algum tipo de
+(C) as memórias DRAM carregam um custo maior de fabricação                modo de endereçamento para indicar a localização de um dado
+    que as SRAM devido ao maior número de componentes                     na memória principal.
+    (transistores) por bit que apresentam;
+                                                                          Bruce optou pelo método, para localizar um dado, cujo valor
+(D) ainda que, nas SRAM, haja o acréscimo de custo para
+                                                                          binário contido no campo operando da instrução indica o
+    introdução do circuito de recarregamento, esse acréscimo é
+                                                                          endereço de memória onde se localiza o dado.
+    bem menor que a economia de componentes, especialmente
+    em memórias com grande capacidade de armazenamento;                   Esse modo de endereçamento corresponde ao:
+(E) as memórias SRAM não necessitam de recarga (refresh) para             (A) direto;
+    manter o valor de 1 bit armazenado, enquanto as memórias              (B) indireto;
+    DRAM sim.                                                             (C) imediato;
+                                                                          (D) indexado;
+                                                                          (E) por registrador.
+43
+A rotina do Sistema Operacional (SO) que tem como principal
+função implementar os critérios da política de escalonamento é:
+(A) dispatcher;
+(B) preempção;
+(C) tempo de resposta;
+(D) processamento batch;
+(E) escalonador (scheduler).
+
+
+
+
+ Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura                              Tipo 1 ̶ Branca – Página 11
+Tribunal de Justiça do Estado de Sergipe                                                                                 FGV Conhecimento
+
+47                                                                        51
+Carlos foi contratado para substituir a tecnologia de                     Marcelo, administrador de rede, está configurando um servidor
+armazenamento atual que usa a técnica de stripping e não aplica           Linux (Ubuntu) que distribua endereços IP para qualquer sistema
+o conceito de redundância. Na tecnologia futura, indicada para            que o solicite. O servidor também deve ser responsável por
+substituir a atual, os dados são divididos entre todos os discos          distribuir os locais dos servidores DNS e o gateway padrão.
+menos um, que servirá exclusivamente para inserir os elementos            Para redes IPv4, Marcelo deve configurar o arquivo de
+de paridade, e o tamanho dos blocos a serem armazenados é                 configuração principal, que é o:
+grande, indicado para casos de arquivos grandes.                          (A) dhcpd4.conf;
+As tecnologias de armazenamento atual e futura que Carlos                 (B) named.conf;
+deverá substituir são, respectivamente:                                   (C) dhcpd.conf;
+(A) RAID 0 e RAID 5;                                                      (D) squid.conf;
+(B) RAID 2 e RAID 4;                                                      (E) squid4.conf.
+(C) RAID 1 e RAID 2;
+(D) RAID 2 e RAID 5;
+(E) RAID 0 e RAID 4.                                                      52
+                                                                          Luís, analista judiciário, com o objetivo de utilizar o NFS,
+                                                                          apresentou algumas características para o gerente de TI decidir
+48
+                                                                          sobre a utilização desse sistema de arquivos.
+Para o pleno funcionamento de serviços importantes como                   Está correto o que Luís afirma em:
+telefonia IP, FTP, DNS e outros, é fundamental a característica de        (A) NFS considera um conjunto de estações de trabalho
+alguns protocolos da camada de transporte.                                    separadas como um conjunto de máquinas independentes
+Baseado nessas informações, é correto afirmar que:                            com sistemas de arquivos interdependentes;
+(A) para se referir ao pacote na camada de transporte, no TCP é           (B) um dos objetivos de projeto do NFS é operar em um
+    chamado datagrama, e para o UDP é segmento;                               ambiente heterogêneo com diferentes computadores,
+(B) o UDP oferece à aplicação solicitante um serviço orientado                sistemas operacionais e arquiteturas de rede. A especificação
+    para conexão;                                                             do NFS é independente dessas mídias;
+(C) o UDP e o TCP fornecem verificação de integridade ao incluir          (C) a independência de mídias é obtida através do uso de
+    campos de detecção de erros nos cabeçalhos de seus                        primitivos RPC construídos no topo de um protocolo de
+    segmentos;                                                                representação externa de dados (XDR), usado entre duas
+(D) o TCP não fornece os serviços de entrega de dados processo a              interfaces dependentes de implementação;
+    processo e verificação de erros;                                      (D) a especificação do NFS não faz distinção entre os serviços
+(E) o TCP fornece transferência confiável de dados, mas não                   fornecidos por um mecanismo de montagem e os serviços
+    fornece controle de congestionamento.                                     reais de acesso a arquivos remotos. Ou seja, dois protocolos
+                                                                              separados são especificados para esses serviços;
+                                                                          (E) o objetivo do NFS é permitir algum grau de
+49                                                                            compartilhamento entre esses sistemas de arquivos (por
+Alessandra, analista judiciária, fazendo a depuração de um                    solicitação implícita) de maneira clara. Um computador que é
+problema de conectividade, recebeu a mensagem ICMP TIME                       cliente não pode ser servidor.
+EXCEEDED.
+Com isso, Alessandra pode concluir que:
+                                                                          53
+(A) o roteador não pode localizar o destino;
+(B) o pacote foi descartado, pois seu contador de TTL (time to            Na computação em nuvem, o modelo de serviço no qual o cliente
+    live) alcançou 255;                                                   se utiliza de aplicações, como browser, para acessar os servidores,
+(C) o pacote com o bit DF não pode ser entregue porque uma                e todo o controle e gerenciamento do armazenamento é realizado
+    rede com pacote pequeno se encontra no caminho;                       pelo provedor de serviço, é:
+(D) o pacote foi descartado, pois seu contador de TTL (time to            (A) Infraestrutura como Serviço (IaaS);
+    live) alcançou 1;                                                     (B) Rede como Serviço (NaaS);
+(E) o pacote está realizando, sintomaticamente, um looping.               (C) Software como Serviço (SaaS);
+                                                                          (D) Plataforma como Serviço (PaaS);
+                                                                          (E) Comunicação como Serviço (CaaS).
+50
+Em redes de computadores, sobre o IPv4 a opção Strict source
+routing apresenta o(a):
+(A) caminho restrito da origem;
+(B) caminho completo a ser seguido;
+(C) lista de roteadores que podem ser a origem;
+(D) lista de cada roteador que anexou seu endereço IP;
+(E) lista de roteadores que não devem ser esquecidos.
+
+
+
+
+ Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura                                Tipo 1 ̶ Branca – Página 12
+Tribunal de Justiça do Estado de Sergipe                                                                                FGV Conhecimento
+
+54                                                                        57
+Dentre os métodos mais eficazes utilizados para fornecer                  Davi é funcionário da empresa Z, que foi contratada para
+segurança da informação, incluem-se a criptografia, a                     implementar criptografia e compactação de dados na rede SAN
+esteganografia e as funções hash.                                         (Storage Area Network) do Tribunal de Justiça de Sergipe (TJSE). A
+A técnica da esteganografia pode ser descrita como um(a):                 rede SAN do Tribunal foi implementada com o protocolo de
+(A) categoria de algoritmo criptográfico simétrico;                       comunicação Fibre Channel (FC). Esse modelo define uma
+(B) técnica para decifrar o texto cifrado sem qualquer                    arquitetura com múltiplas camadas para o transporte de dados
+    conhecimento da mensagem original e do algoritmo                      pela rede.
+    criptográfico utilizado;                                              De forma a atender às premissas de criptografia e compactação,
+(C) método utilizado por malwares, transportando códigos                  Davi deverá implementar essas funções na camada:
+    escondidos em imagens ou outros tipos de arquivos;                    (A) FC-0;
+(D) forma de análise de desempenho dos algoritmos                         (B) FC-1;
+    criptográficos;                                                       (C) FC-2;
+(E) método utilizado para esconder a existência da mensagem.              (D) FC-3;
+                                                                          (E) FC-4.
+
+55
+A empresa Y foi contratada por uma fabricante de software para            58
+verificar uma quebra de segurança, com perda da                           Mário é CEO (Chief Executive Officer) da empresa Z e pertence à
+confidencialidade ocorrida na empresa, e suas consequências. Em           organização da ICP-Brasil. A empresa Z desempenha atividades
+seu relatório, a empresa Y informou que:                                  descritas nas Políticas de Certificado (PC) e na Declaração de
+   - houve uma perda financeira limitada;                                 Práticas de Certificação (DPC) da Autoridade Certificadora a que
+   - ocorreram danos limitados nos recursos da organização;               estiver vinculada.
+   - a organização consegue realizar suas funções primárias, mas          Com base nas informações, a empresa de Mário é um ente da
+com a eficiência delas notadamente reduzida.                              ICP-Brasil chamado:
+                                                                          (A) AC – Raiz – Autoridade Certificadora Raiz;
+A partir dessas caraterísticas, a empresa Y informou que o nível
+de impacto sobre a organização foi:                                       (B) PSBio - Prestador de Serviços Biométricos;
+(A) baixo;                                                                (C) ACT - Autoridade Certificadora do Tempo;
+(B) alto;                                                                 (D) AR - Autoridade de Registro;
+(C) moderado;                                                             (E) PSS - Prestador de Serviços de Suporte.
+(D) muito baixo;
+(E) muito alto.                                                           59
+                                                                          João é um administrador de banco de dados MySQL e precisa
+56                                                                        realizar o backup lógico completo do banco de dados "tjse_db".
+                                                                          Para isso, João deverá utilizar o comando:
+Maria é uma estagiária na divisão de redes de computadores do
+Tribunal de Justiça de Sergipe. Foi solicitado a Maria, partindo do       (A) backup -u root -p tjse_db > backup.sql
+IP 194.24.16.0/28 com máscara de rede /28, o número de hosts              (B) mybackup -u root -p tjse_db > backup.sql
+por sub-redes possível existentes nesse range, de forma a buscar          (C) mysqldump -u root -p tjse_db > backup.sql
+uma distribuição dos endereços IPs.                                       (D) dump database -u root -p tjse_db > backup.sql
+O número de hosts por sub-redes informado por Maria é:                    (E) select * from tjse_db into outfile backup.sql
+(A) 8;
+(B) 16;
+                                                                          60
+(C) 32;
+(D) 64;                                                                   No contexto de administração de banco de dados relacional, para
+                                                                          melhorar o desempenho das consultas aos dados, é uma prática
+(E) 128.
+                                                                          recomendada:
+                                                                          (A) dividir as tabelas em várias partições menores para distribuir
+                                                                              os dados;
+                                                                          (B) remover todos os índices da tabela para reduzir a sobrecarga
+                                                                              de acesso;
+                                                                          (C) desnormalizar todas as tabelas para reduzir o número de
+                                                                              relacionamentos;
+                                                                          (D) adicionar índices adequados às colunas usadas em condições
+                                                                              de filtro e junções;
+                                                                          (E) aumentar o número de colunas em cada tabela para evitar a
+                                                                              necessidade de junções.
+
+
+
+
+ Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura                               Tipo 1 ̶ Branca – Página 13
+Tribunal de Justiça do Estado de Sergipe                                                                                FGV Conhecimento
+
+61                                                                        64
+João é um administrador de banco de dados MySQL e precisa                 O administrador de banco de dados do TJSE deverá criar um
+criar uma rotina de carga de dados para ler os dados do arquivo           banco de dados relacional para armazenar um grande volume de
+"dados.csv" e inserir na tabela “tabela_dados”.                           dados, oriundos do novo sistema de gestão de processos, e
+Para tal, João deverá utilizar o comando:                                 precisa considerar seu crescimento futuro e desempenho.
+(A) insert into tabela_dados values 'dados.csv';                          Nesse sentido, a abordagem mais apropriada para o
+(B) insert all from 'dados.csv' into tabela_dados;                        dimensionamento inicial do banco de dados é:
+(C) import data 'dados.csv' to tabela_dados fields                        (A) atribuir um tamanho fixo de armazenamento para todas as
+    terminated by ',' lines terminated by '\n'                                tabelas e índices para evitar expansões automáticas e
+    ignore 1 lines (id, nome);                                                fragmentações;
+(D) load to 'dados.csv' into table tabela_dados                           (B) utilizar o tamanho padrão de armazenamento fornecido pelo
+    fields terminated by ',' lines terminated by
+                                                                              sistema gerenciador de banco de dados (SGBD) para todas as
+    '\n' ignore 1 lines (id, nome);
+                                                                              tabelas e índices;
+(E) load data infile 'dados.csv' into table
+    tabela_dados fields terminated by ',' lines                           (C) estimar o tamanho inicial de cada tabela e índice com base
+    terminated by '\n' ignore 1 lines (id, nome);                             em projeções de crescimento e adicionar uma margem de
+                                                                              segurança para o espaço de armazenamento necessário;
+                                                                          (D) colocar todas as tabelas em um espaço de armazenamento
+62                                                                            pequeno e, a partir do crescimento dos dados, aumentá-lo
+A equipe de TI do TJSE precisa identificar as causas raiz dos                 conforme a necessidade;
+problemas de desempenho do banco de dados de RH,                          (E) desconsiderar dimensionar o espaço de armazenamento do
+decorrentes de uma recente atualização do sistema.                            banco de dados inicialmente, pois os SGBDs são capazes de
+De acordo com as práticas do ITIL v.4, a melhor abordagem é:                  fornecer, automaticamente, o tamanho necessário para
+(A) voltar o sistema para a versão anterior à atualização;                    armazenar todas as tabelas e índices.
+(B) implementar uma política de restrição de acessos ao banco
+    de dados;
+                                                                          65
+(C) contratar um consultor externo para revisar a configuração
+    do banco de dados;                                                    O TJSE está construindo um ambiente analítico de dados por
+(D) utilizar ferramentas de monitoramento de desempenho para              meio do desenvolvimento de um Data Warehouse. Para isso,
+    identificar gargalos;                                                 solicitou ao analista de infraestrutura Juca a disponibilização de
+                                                                          um banco de dados, acessível apenas pelos desenvolvedores,
+(E) realizar um backup completo do banco de dados antes de
+                                                                          para armazenar temporariamente os dados que estão sendo
+    fazer qualquer alteração.
+                                                                          extraídos das fontes e transformados para serem carregados no
+                                                                          ambiente de consultas analíticas.
+63                                                                        Para isso, Juca deverá disponibilizar um(a):
+Observe o seguinte script de concessão de privilégios em MySQL            (A) ETL;
+a seguir.                                                                 (B) OLAP;
+                                                                          (C) Stage Area;
+CREATE DATABASE db;                                                       (D) Cubo de Dados;
+CREATE TABLE db.t1 (c INT);                                               (E) Repositório de Metadados.
+INSERT INTO db.t1 VALUES ROW (1);
+CREATE TABLE db.t2 (c INT);
+INSERT INTO db.t2 VALUES ROW (1);                                         66
+CREATE USER u1;                                                           O analista Luca, do Setor de Inovação do TJSE, está propondo a
+GRANT SELECT, UPDATE ON db.t1 TO u1;                                      criação de um ambiente para armazenar dados que não se sabe,
+CREATE USER u2;                                                           a priori, qual é a sua estrutura, ou seja, um banco de dados
+GRANT ALL PRIVILEGES ON db.t2 TO u2;                                      schemaless. Então, Luca solicitou ao Setor de Infraestrutura a
+CREATE USER u3;                                                           disponibilização de um banco de dados em que as entidades são
+GRANT SELECT, INSERT, UPDATE ON db.* TO u3 WITH                           armazenadas em nós e os relacionamentos entre essas entidades
+GRANT OPTION;
+                                                                          são armazenados em vértices.
+REVOKE INSERT ON db.t2 FROM u2;
+                                                                          Para atender a demanda de Luca, o Setor de Infraestrutura
+Após a execução do script apresentado, é correto afirmar que              deverá disponibilizar um banco de dados:
+o(s) usuário(s):                                                          (A) Grafo;
+(A) u2 poderá executar a instrução DELETE FROM db.t1;                     (B) Colunar;
+(B) u3 poderá conceder o privilégio de INSERT para o usuário u1;          (C) Chave-valor;
+(C) u2 poderá conceder o privilégio de DELETE para o usuário u1;          (D) Multidimensional;
+(D) u1 e u3 poderão executar a instrução UPDATE db.t2 SET c=2;            (E) Orientado a documento.
+(E) u2 poderá executar a instrução INSERT INTO db.t2 VALUES
+    ROW (2);
+
+
+
+
+ Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura                               Tipo 1 ̶ Branca – Página 14
+Tribunal de Justiça do Estado de Sergipe                                                      FGV Conhecimento
+
+67
+O analista de infraestrutura Jair recebeu a demanda de preparar
+um ambiente para armazenar dados massivos oriundos do
+Sistema de Tramitação Eletrônica de Processos, do Correio
+eletrônico e do log do tráfego de rede.
+Para isso, a característica de banco de dados massivos (Big Data)
+sobre os tipos de dados e heterogeneidade das fontes de dados
+que Jair deve considerar é:
+(A) valor;
+(B) volume;
+(C) variedade;
+(D) velocidade;
+(E) veracidade.
+
+
+68
+Durante a Mineração dos Dados sobre a tramitação dos
+processos eletrônicos do TJSE, o analista Pedro não estava
+chegando a resultados compreensíveis e resolveu verificar se
+havia anomalias nos dados.
+Para isso, o analista Pedro empregou a técnica:
+(A) clusterização;
+(B) detecção de outlier;
+(C) regras de associação;
+(D) análise de regressão;
+(E) normalização de dados.
+
+
+69
+A empresa Vendas SA coleta dados cadastrais e de consumo de
+seus clientes utilizando uma ferramenta Web desenvolvida pela
+empresa WebTI. A Vendas SA informou quais dados quer coletar,
+por quanto tempo e qual tipo de análises quer fazer com esses
+dados. A WebTI é a responsável pelos protocolos de acesso,
+armazenagem, backup e proteção contra invasões, tudo de
+acordo com as especificações de segurança da Vendas SA.
+De acordo com a Lei nº 13.709/2018 (Lei Geral de Proteção de
+Dados Pessoais – LGPD), o papel desempenhado pela empresa
+WebTI é de:
+(A) titular;
+(B) operador;
+(C) encarregado;
+(D) controlador;
+(E) responsável legal.
+
+
+70
+De acordo com a Instrução Normativa SGD/ME nº 1, de 4 de abril
+de 2019 e atualizações, o Estudo Técnico Preliminar da
+Contratação de um projeto com custo estimado de um milhão de
+reais será aprovado e assinado pelos:
+(A) Secretário de Governo Digital e Órgão Central do SISP;
+(B) Integrantes Administrativos da Equipe de Planejamento da
+    Contratação;
+(C) Fiscais Técnico e Administrativo da Equipe de Fiscalização do
+    Contrato;
+(D) Servidores representantes da Área Administrativa, indicados
+    pela autoridade competente dessa área;
+(E) Integrantes Técnico e Requisitante da Equipe de
+    Planejamento da Contratação e pela autoridade máxima da
+    Área de TI.
+
+
+
+ Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura      Tipo 1 ̶ Branca – Página 15
+Tribunal de Justiça do Estado de Sergipe                                             FGV Conhecimento
+
+
+
+
+ Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura       Tipo 1 ̶ Branca
+Tribunal de Justiça do Estado de Sergipe                                             FGV Conhecimento
+
+
+
+
+ Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura       Tipo 1 ̶ Branca
+Tribunal de Justiça do Estado de Sergipe                                             FGV Conhecimento
+
+
+
+
+ Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura       Tipo 1 ̶ Branca
+Tribunal de Justiça do Estado de Sergipe                                             FGV Conhecimento
+
+
+
+
+ Analista Jud - Esp - Análise de Sistemas - Suporte Técnico em Infraestrutura       Tipo 1 ̶ Branca
+Realização
+

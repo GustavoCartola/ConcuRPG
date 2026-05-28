@@ -1,0 +1,805 @@
+                           Concurso Público para provimento dos cargos efetivos de servidores
+                                         do Poder Judiciário do Estado do Acre
+
+
+
+                         ANALISTA JUDICIÁRIO -
+CONCURSO PÚBLICO
+                             ANALISTA DE
+                         INFRAESTRUTURA DE TI
+                                 CADERNO DE QUESTÕES
+
+                                                          24/03/2024
+
+                                                           DISCIPLINA                    QUESTÕES
+                                                         Língua Portuguesa                01 a 10
+                                                   Raciocínio Lógico e Matemático         11 a 15
+                                                 Atualidades e História, Geografia e
+                                                                                          16 a 20
+                                              Conhecimentos Gerais do Brasil e do Acre
+                                                            Legislação                    21 a 30
+                                                Conhecimentos Específicos do Cargo        31 a 60
+
+
+
+
+                    SOMENTE ABRA ESTE CADERNO QUANDO AUTORIZADO
+
+                                           LEIA ATENTAMENTE AS INSTRUÇÕES
+
+                          Atenção: Transcreva no espaço designado da sua FICHA DE IDENTIFICAÇÃO, com
+                         sua caligrafia usual, considerando as letras maiúsculas e minúsculas, a seguinte frase:
+
+
+                                           O canto da cigarra anuncia a chuva.
+                   1. Quando for autorizado abrir o caderno de questões, verifique se ele está completo ou se apresenta
+                   imperfeições gráficas que possam gerar dúvidas. Se isso ocorrer, solicite outro exemplar ao(à) fiscal de
+                   sala.
+
+                   2. Este caderno é composto por questões de múltipla escolha. Cada questão apresenta quatro
+                   alternativas de respostas, das quais apenas uma é a correta.
+
+                   3. O cartão-resposta é personalizado e não será substituído em caso de erro no preenchimento. Ao
+                   recebê-lo, confira se seus dados estão impressos corretamente. Se houver erro de impressão, notifique
+                   o(a) fiscal de sala.
+
+                   4. Preencha, integralmente, um alvéolo por questão, utilizando caneta de tinta AZUL ou PRETA,
+                   fabricada em material transparente. A questão deixada em branco, com rasura ou com marcação dupla
+                   terá pontuação ZERO.
+  PODER JUDICIÁRIO DO ACRE/2024                                CONCURSO PÚBLICO                                                                    IV/UFG
+
+Leia o Texto 1 e responda às questões de 1 a 4.                                   QUESTÃO 03
+
+Texto 1                                                                           No quinto parágrafo, o pronome demonstrativo “Essa”
+        O ano é 1975, são cinco horas da manhã e meu pai veio                     funciona como mecanismo de coesão:
+ me acordar para viajarmos para a praia. A ansiedade por esta
+ viagem impediu que eu tivesse uma boa noite de sono. Viajar
+ para a praia na década de 1970 era uma grande aventura, que
+                                                                                  (A) sequencial.
+ começava pelo carro que levava seis pessoas e mais a
+ bagagem. Até hoje não consigo entender como isto era possível                    (B) referencial anafórica.
+ – quatro filhos mais pai e mãe dentro de uma Variant.
+        Nesta época, meu sonho de consumo era ter um kichute,                     (C) lexical.
+ um tênis de beleza duvidosa, que era a sensação de minha
+ geração. Fazíamos as pesquisas da escola em enciclopédias –                      (D) referencial catafórica.
+ a Barsa e a Delta Larousse – e não tínhamos a possibilidade de
+ usar a estratégia Ctrl C/Ctrl V, era tudo copiado na mão mesmo.
+        Escrevíamos cartas para nos comunicar com os amigos                       QUESTÃO 04
+ distantes e alguns ainda tinham o hábito de fazer diários. Na
+ faculdade, usávamos o sistema Comut para conseguir um artigo                     No primeiro parágrafo, os algarismos que fazem referência
+ que poderia levar meses para chegar em nossas mãos e a                           aos anos citados no trecho em questão (1975 e 1970,
+ internet ou os primórdios dela era discada.                                      respectivamente) funcionam, dentro dos períodos
+        Se você se identificou com estas lembranças,                              oracionais em que ocorrem, respectivamente, como:
+ provavelmente faz parte da Geração Baby Boomers (nascidos
+ entre 1946 e 1964) ou da Geração X (1965-1980) que viajava
+                                                                                  (A) predicativo do sujeito e adjunto adnominal.
+ no “chiqueirinho” do Fusca (parte traseira do carro) e não sabia
+ por que os automóveis vinham com cinto de segurança.
+        Cada      época     é     marcada      por   determinados                 (B) objeto direto e adjunto adverbial.
+ acontecimentos culturais, políticos, sociais e econômicos que
+ impactam o contexto de vida, a visão de mundo e a forma de se                    (C) complemento nominal e aposto.
+ relacionar das pessoas que nascem e vivem em determinado
+ período. Essa é a ideia que embasa a divisão por grupos                          (D) agente da passiva e objeto indireto.
+ geracionais.
+        Não há um consenso sobre o ano em que começa e                            Leia o Texto 2 e responda às questões de 5 a 8.
+ termina cada um, mas uma divisão possível para esses grupos
+ é, além dos Baby Boomers e da Geração X, a Geração Y
+ ou Millennials (1981-1996), a Geração Z (1997-2010) e, ainda,                    Texto 2
+ a Geração Alfa, que compreende os nascidos a partir de 2010.                          Geração TikTok: nova geração não consegue ouvir
+       TOURINHO FILHO, Hugo. Conflito de gerações e a arte de ensinar na                       músicas com mais de 3 minutos
+sociedade contemporânea. Disponível em: https://jornal.usp.br/artigos/conflito-
+ de-geracoes-e-a-arte-de-ensinar-na-sociedade-contemporanea/. Acesso em:           Geração TikTok e a audição ansiosa: o que mudou no mundo
+                                                    9 fev. 2024. [Adaptado].       da música?
+
+QUESTÃO 01                                                                                De acordo com as principais plataformas de streaming
+                                                                                   de música (Amazon Music, Deezer e Spotify), a Geração
+O excerto textual se desenvolve em torno do tema:                                  TikTok, ou seja, a Geração Z, considera músicas com mais de
+                                                                                   3 minutos muito longas. No geral, as canções com até 2
+                                                                                   minutos e 30 segundos são as mais consumidas por esse
+(A) nostalgia originada por lembranças do passado.                                 público.
+                                                                                          Esse fenômeno já ganhou um nome, “audição ansiosa”,
+(B) viagens de férias em família na década de 1970.                                e está mudando a forma como os artistas produzem suas
+                                                                                   músicas. Agora, quem não cria uma canção que vai direto ao
+(C) modelos de carros antigos como Variant e Fusca.                                ponto perde ouvintes nos primeiros segundos — algo que pode
+                                                                                   parecer muito estranho para o público da época de Faroeste
+(D) classificação de gerações por épocas específicas.                              Caboclo, November Rain e Stairway to Heaven.
+                                                                                          O motivo dessa preferência por músicas menores
+                                                                                   parece ser um reflexo das redes sociais, especialmente o
+QUESTÃO 02                                                                         TikTok. Há tempos, os conteúdos nas redes sociais são
+                                                                                   apresentados de forma extremamente rápida.
+Quanto ao modo de organização, no excerto, predomina a                                    Por exemplo, o Twitter aceita pouco texto, o TikTok
+sequência linguística:                                                             aceita vídeos de no máximo 3 minutos, o WhatsApp e as
+                                                                                   plataformas de streaming de vídeo e música possuem a opção
+(A) argumentativa.                                                                 de reprodução acelerada. Por isso, os tutoriais de 15 minutos
+                                                                                   do YouTube estão perdendo espaço para conteúdo de 15
+                                                                                   segundos no TikTok. Como resultado, a Geração Z está mais
+(B) narrativa.                                                                     ansiosa e não tem paciência para apreciar músicas mais
+                                                                                   longas.
+(C) injuntiva.                                                                           PONTES, Márcio Miranda. Geração TikTok e a audição ansiosa: o que
+                                                                                                                 mudou no mundo da música? Disponível em:
+                                                                                          https://www.sabra.org.br/site/geracao-tiktok. Acesso em: 9 fev. 2024.
+(D) dialogal.                                                                                                                                      [Adaptado].
+
+
+
+
+                                                                                                                              Língua Portuguesa_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                  CONCURSO PÚBLICO                                                            IV/UFG
+
+QUESTÃO 05                                                    Leia o Texto 3 e responda às questões de 9 e 10.
+
+De acordo com suas características estruturais e o            Texto 3
+conteúdo abordado, a função social e o principal objetivo
+do texto é:
+
+(A) ironizar a Geração Z por demonstrar impaciência para
+    ouvir músicas com mais de dois minutos e meio.
+
+(B) propagar, entre as gerações mais velhas, as principais
+    plataformas de transmissão de música que atuam na
+    Internet.
+
+(C) informar alterações na produção musical possivelmente
+    decorrentes de tendências refletidas nas redes sociais.
+                                                                                                                         Disponível em:
+(D) enaltecer o gosto musical do público ouvinte de músicas   https://i.pinimg.com/564x/a4/20/49/a42049e9a94c1b8b4625d58bb34c7739.jpg.
+    lançadas nas décadas de 1960, 1970 e 1980.                                                                   Acesso em: 9 fev. 2024.
+
+
+QUESTÃO 06                                                    QUESTÃO 09
+
+No trecho “O motivo dessa preferência por músicas             A quebra de expectativa da charge decorre do fato de:
+menores parece ser um reflexo das redes sociais,
+especialmente o TikTok”, a locução verbal indica que, em      (A) um conflito de gerações diferentes poder ser resolvido a
+relação ao que está afirmando, o enunciador:                      partir da troca de conhecimentos técnico-científicos
+                                                                  entre representantes dessas gerações.
+(A) está convicto de sua veracidade.
+                                                              (B) o grupo de jovens demonstrar amplo e improvável
+(B) emite opinião com teor de descrédito.                         conhecimento técnico-científico do funcionamento de
+                                                                  computadores e internet.
+(C) possui descompromisso com a verdade.
+                                                              (C) o idoso demonstrar completa incompreensão do
+(D) apoia-se em indícios de evidências.                           significado dos termos técnicos usados pelos
+                                                                  personagens jovens.
+QUESTÃO 07
+                                                              (D) um conflito intergerações ser agravado pelo fato de os
+                                                                  jovens usarem linguagem informal e muitas gírias para
+No último parágrafo, o primeiro período sintático compõe-se       se dirigir ao idoso.
+da coordenação assindética de orações justapostas e
+relacionadas, semântica e discursivamente, pelas noções
+                                                              QUESTÃO 10
+de:
+
+(A) oposição e quebra de expectativa.                         Na charge, as palavras exclamativas, no início da fala de
+                                                              cada personagem jovem, são interjeições cujos significados
+(B) adição e sequencialidade.                                 estão associados às seguintes reações:
+
+(C) escolha ou alternância.                                   (A) admiração e espanto.
+
+(D) conclusão e consequência.                                 (B) dúvida e apelo.
+
+                                                              (C) animação e satisfação.
+QUESTÃO 08
+                                                              (D) frustração e impaciência.
+No segundo parágrafo, as aspas servem para:
+
+(A) marcar um discurso direto.
+
+(B) indicar o emprego de um arcaísmo.
+
+(C) destacar uma expressão de uso recente na língua.
+
+(D) fazer a transcrição do trecho de um outro texto.
+
+
+
+
+                                                                                                        Língua Portuguesa_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                     CONCURSO PÚBLICO                                                            IV/UFG
+
+QUESTÃO 11                                                        Qual é a diferença entre os juros gerados pela aplicação I e
+                                                                  a aplicação II?
+Um aparelho de TV custava R$ 2.280,00. Na Black Friday,
+seu preço sofreu uma redução de 5% e, uma semana                  (A) R$ 0,00.
+depois, seu preço aumentou em 5%. Qual o valor da TV
+após a redução e o aumento do seu preço?                          (B) R$ 12,00.
+
+(A) R$ 2.250,36.                                                  (C) R$ 18,00.
+
+(B) R$ 2.274,30.                                                  (D) R$ 20,00.
+
+(C) R$ 2.280,00.                                                  QUESTÃO 15
+
+(D) R$ 2.298,24.                                                  Leia a tabela a seguir.
+
+QUESTÃO 12                                                         De acordo com o Instituto Brasileiro de Geografia e Estatística
+                                                                   (IBGE), o crescimento populacional do Acre, de 1920 a 2010,
+                                                                   se deu da seguinte forma:
+Um estudante resolveu todos os exercícios de uma lista em
+cinco dias. No primeiro dia, resolveu a metade dos
+exercícios. No segundo dia, resolveu a metade dos                                         Ano         População
+exercícios restantes. No terceiro dia, resolveu a metade dos                             1920           92.379
+exercícios restantes. No quarto dia, resolveu a metade dos
+                                                                                         1940           79.768
+exercícios restantes e mais um exercício. No quinto dia,
+resolveu os três exercícios que faltavam. Se n é o número                                1950           114.755
+de exercícios da lista, quanto vale o produto dos algarismos                             1960           160.208
+de n?
+                                                                                         1970           218.006
+(A) 12.                                                                                  1980           306.893
+                                                                                         1991           417.165
+(B) 18.
+                                                                                         2000           557.882
+(C) 24.                                                                                  2010           733.559
+                                                                                                      Censo 2022 – Panorama. Disponível em:
+(D) 32.                                                               <https://censo2022.ibge.gov.br/panorama/?utm_source=ibge&utm_mediu
+                                                                                   m=home&utm_campaign=portal>. Acesso em: 22 fev. 2024.
+
+QUESTÃO 13
+                                                                  A população do Acre, de acordo com o censo de 2022, era
+                                                                  de 830.018 habitantes. Posto isso, a diferença entre a
+Quantos são os anagramas da palavra ACRE nos quais as             mediana dos tamanhos populacionais de 1920 a 2022 e a
+vogais não estão juntas?                                          mediana dos tamanhos populacionais de 1920 a 2010,
+                                                                  exposta na tabela, é
+(A) 12.
+                                                                  (A) 44.443,5.
+(B) 18.
+                                                                  (B) 57.798,0.
+(C) 20.
+                                                                  (C) 88.887,0.
+(D) 21.
+                                                                  (D) 102.241,5.
+QUESTÃO 14
+
+Considere os dois investimentos a seguir:
+
+ I)      Um capital de R$ 1.000 foi aplicado a juros compostos,
+ com taxa de 7% ao ano, durante 3 anos.
+
+ II)     Um capital de R$ 2.000 foi aplicado a juros compostos,
+ com taxa de 5% ao ano, durante 2 anos.
+
+
+
+
+                                                                                                Raciocínio Lógico e Matemático_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                  CONCURSO PÚBLICO                                                                 IV/UFG
+
+QUESTÃO 16                                                       QUESTÃO 18
+
+Uma das maiores preocupações da Saúde Pública no ano             O Brasil possui 520 parques eólicos, com 13 gigawatts de
+de 2024 é a disseminação da dengue, uma doença cujo              capacidade instalada. A maior parte desses parques estão
+vírus é um arbovírus transmitido pela picada da fêmea do         no Nordeste. Considerando suas características, sabe-se
+mosquito Aedes aegypti. Os riscos são muitos e a taxa de         que tais estruturas:
+letalidade é preocupante, caracterizando-a como uma
+doença endêmica definida:                                        (A) podem ser construídas com maior rapidez próximas às
+                                                                     regiões de consumo resultando em economia no custo
+(A) por um aumento no número de casos em várias regiões              e tem o uso de gás natural como alternativa menos
+    em relação ao que seria esperado normalmente.                    poluente.
+
+(B) pela disseminação mundial de uma doença quando um            (B) são limpas e renováveis, não poluentes, podendo ainda
+    agente infeccioso se espalha ao redor do mundo.                  ser usadas em áreas isoladas da rede de eletricidade,
+                                                                     além de ter mínima necessidade de manutenção.
+(C) pela recorrência em uma região, seguindo um padrão
+    relativamente estável que prevalece com base na média        (C) são flexíveis em relação ao conjunto de fontes que
+    histórica de ocorrência.                                         podem ser utilizadas na sua geração embora causem
+                                                                     impactos ambientais.
+(D) por um aumento repentino e inesperado de casos em
+    uma determinada região ou comunidade.                        (D) possuem baixo custo de instalação e diminuem a
+                                                                     emissão de gases embora provoquem impactos
+QUESTÃO 17                                                           relativos tanto ao desaparecimento de espécies da
+                                                                     fauna quanto ao barulho das turbinas.
+Os movimentos sociais são grupos de pessoas que se unem
+com pautas comuns desejando conquistar direitos                  QUESTÃO 19
+relacionados a essas pautas. O teórico francês Alain
+Touraine diz que os movimentos sociais se definem em três        Leia o texto a seguir.
+princípios: de identidade, de oposição e de totalidade. O
+Movimento Negro Unificado tem suas raízes na luta histórica       “Se descesse do céu um anjo e dissesse que a minha morte
+contra a escravidão e seus efeitos, sendo marcado pela            ajudaria a salvar a Amazônia, morreria de bom grado. Mas a
+defesa                                                            história tem nos mostrado que não são atos públicos
+                                                                  numerosos e concorridos que vão salvar a Amazônia. Por isso,
+                                                                  eu quero viver”.
+(A) de conquistas no âmbito social, político e econômico e           Disponível em: <https://www.brasildefato.com.br/2023/12/22/dor-e-legado-
+    pela luta contra o racismo e suas implicações.                  revolucionario-morte-de-chico-mendes-completa-35-anos>. Acesso em: 09
+                                                                                                                                   fev. 2024.
+(B) do direito de acesso à terra e luta contra a propriedade
+    privada e contra o marco temporal.                           O texto mencionado é atribuído ao líder ambientalista Chico
+                                                                 Mendes, assassinado em 1988. Uma das lutas do Chico
+(C) do meio ambiente em sua totalidade (água, solo, flora e      Mendes foi em defesa
+    fauna) e contra o desmatamento e as queimadas
+    provocadas pelo modelo de sociedade.                         (A) da liberdade de culto e religião, bem como pelo fim da
+                                                                     escravidão colonial no Brasil.
+(D) de conquistas pelo direito ao trabalho e ao lazer, contra
+    as alterações e as perdas provocadas pela ação de            (B) da Terra Indígena Vale do Javari e contra o avanço do
+    políticas neoliberais.                                           garimpo, do narcotráfico e do agronegócio.
+
+                                                                 (C) dos povos originários, contra o marco temporal para
+                                                                     demarcação das terras indígenas no Brasil.
+
+                                                                 (D) dos povos da floresta, dos seringais e da criação de
+                                                                     reservas para extrativistas e indígenas.
+
+
+
+
+                                                  Atualidades e História, Geografia e Conhecimentos Gerais do Brasil e do Acre_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                               CONCURSO PÚBLICO                                                              IV/UFG
+
+QUESTÃO 20                                                                      RASCUNHO
+
+Leia a charge a seguir.
+
+
+
+
+  Disponível em: <https://brainly.com.br/tarefa/42048252>. Acesso em: 13 fev.
+                                                                       2024.
+
+A popularização da internet alterou completamente a vida
+social, os relacionamentos e as diferentes formas de
+comunicação entre as pessoas. A charge apresenta o
+impacto da internet na vida dos indivíduos, inclusive em
+relação:
+
+(A) à virtualização exagerada das relações humanas,
+    alterando antigas práticas de sociabilidade entre
+    crianças.
+
+(B) ao aumento da depressão entre crianças e jovens
+    ocasionado pelo uso exacerbado das redes sociais.
+
+(C) à necessidade de exposição entre os jovens numa
+    sociedade de espetáculo.
+
+(D) à perda de privacidade no mundo virtual e aos riscos
+    ocasionados pelo fenômeno do stalker.
+
+RASCUNHO
+
+
+
+
+                                                               Atualidades e História, Geografia e Conhecimentos Gerais do Brasil e do Acre_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                CONCURSO PÚBLICO                                                  IV/UFG
+
+QUESTÃO 21                                                   QUESTÃO 23
+
+De acordo com a regras éticas do serviço público, é vedado   De acordo com a Lei nº 12.527/2011 (Lei de Acesso à
+ao servidor público:                                         Informação), o Interessado informado do extravio da
+                                                             informação solicitada, poderá
+(A) abster-se, de forma absoluta, de exercer sua função,
+    poder ou autoridade com finalidade estranha ao           (A) requerer à autoridade competente a imediata abertura
+    interesse público.                                           de sindicância para apurar o desaparecimento da
+                                                                 respectiva documentação e o responsável pela guarda
+(B) facilitar a fiscalização de todos atos ou serviços por       da informação extraviada deverá, no prazo de 10 (dez)
+    quem de direito devem ser monitorados e fiscalizados.        dias, justificar o fato e indicar testemunhas que
+                                                                 comprovem sua alegação.
+(C) participar dos movimentos e estudos que se relacionem
+    com a melhoria do exercício de suas funções.             (B) requerer à autoridade competente a imediata abertura
+                                                                 de inquérito policial para apurar o desaparecimento da
+(D) prejudicar deliberadamente a reputação de outros             respectiva documentação e o responsável pela guarda
+    servidores ou de cidadãos que deles dependam.                da informação extraviada deverá, no prazo de 15 dias,
+                                                                 justificar o fato e indicar testemunhas que comprovem
+QUESTÃO 22
+                                                                 sua alegação.
+De acordo com a Lei nº 9.784/99, é legitimado como           (C) Ingressar judicialmente com o pedido de informações,
+interessado no processo administrativo:                          via Habeas Data para apurar o desaparecimento da
+                                                                 respectiva documentação e o responsável pela guarda
+(A) pessoas físicas ou jurídicas que o terminem como
+                                                                 da informação extraviada deverá, no prazo de 10 dias,
+    titulares de direitos ou interesses individuais.
+                                                                 justificar o fato e indicar testemunhas que comprovem
+(B) organizações que, por terem iniciado o processo, têm         sua alegação.
+    direitos que possam ser afetados pela decisão.
+                                                             (D) Ingressar judicialmente com o pedido de informações,
+(C) organizações e associações representativas, no tocante       via Mandado de Segurança para apurar o
+    a direitos e interesses coletivos.                           desaparecimento da respectiva documentação e o
+                                                                 responsável pela guarda da informação extraviada
+(D) pessoas ou as associações de fato constituídas quanto        deverá, no prazo de 15 dias, justificar o fato e indicar
+    a direitos ou interesses difusos.                            testemunhas que comprovem sua alegação.
+
+RASCUNHO                                                     QUESTÃO 24
+
+                                                             De acordo com o Decreto nº 7.724/2012, as informações
+                                                             classificadas como documentos de guarda permanente que
+                                                             forem objeto de desclassificação serão encaminhadas:
+
+                                                             (A) ao Museu Nacional.
+
+                                                             (B) à Câmara dos Deputados.
+
+                                                             (C) ao Arquivo Nacional.
+
+                                                             (D) à Biblioteca Nacional.
+
+
+
+
+                                                                                                      Legislação_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                   CONCURSO PÚBLICO                                                                IV/UFG
+
+QUESTÃO 25                                                      QUESTÃO 28
+
+De acordo com o Decreto nº 930/2019, o agente público           Leia o trecho a seguir.
+somente poderá ser responsabilizado por suas decisões ou
+opiniões técnicas se:                                            “Na Administração Pública não há liberdade nem vontade
+                                                                 pessoal. Enquanto na administração particular, é lícito fazer
+(A) agir com imprudência, negligência ou imperícia ou            tudo que a lei não proíbe, na Administração Pública só é
+    cometer erro grosseiro, no desempenho de suas                permitido fazer o que a lei autoriza.’’
+                                                                     MEIRELLES, Hely L. Direito Administrativo Brasileiro. 27ª ed. São Paulo:
+    funções.                                                                                                          Malheiros, 2002. p. 82.
+
+(B) agir ou se omitir com dolo, direto ou eventual, ou          Nesse trecho, o autor:
+    cometer erro grosseiro, no desempenho de suas
+    funções.                                                    (A) ofende o princípio da liberdade, que foi eleito pela
+                                                                    Constituição Federal de 1988 como postulado basilar da
+(C) agir ou se omitir com dolo, direto ou eventual, ou              República.
+    cometer erro sutil, no desempenho de suas funções.
+                                                                (B) ofende o princípio da motivação, posto que restringe
+(D) agir com imprudência, negligência ou imperícia, ou              qualquer arbítrio do administrador público.
+    cometer erro sutil, no desempenho de suas funções.
+                                                                (C) apresenta uma forma de consagração do princípio da
+QUESTÃO 26                                                          moralidade pública, pois exorta do administrador público
+                                                                    a eticidade.
+De acordo com a Constituição Federal de 1988, construir
+uma sociedade livre, justa e solidária é                        (D) apresenta uma forma de consagração do princípio da
+                                                                    legalidade, pois a finalidade pública está acima de
+(A) uma norma dirigente de aplicabilidade mediata elencada          interesses pessoais.
+    como um princípio fundamental do Estado Brasileiro.
+                                                                QUESTÃO 29
+(B) uma norma programática de aplicabilidade imediata
+    elencada como um objetivo fundamental do Estado             Agente público é “o agente político, o servidor público e todo
+    Brasileiro.                                                 aquele que exerce, ainda que transitoriamente ou sem
+                                                                remuneração, por eleição, nomeação, designação,
+(C) um postulado sem aplicabilidade concreta, elencado          contratação ou qualquer outra forma de investidura ou
+    como resquício de um dirigismo estatal superado.            vínculo, mandato, cargo, emprego ou função”.
+
+(D) um postulado que rege a República brasileira, apesar de     Seguindo essa definição, um mesário eleitoral é:
+    elencado no preâmbulo do texto constitucional.
+                                                                (A) um empregado público.
+QUESTÃO 27
+                                                                (B) um agente delegado.
+De acordo com a Constituição Federal de 1988, a
+reintegração de um Território Federal ao estado de origem       (C) um agente honorífico.
+depende de:
+                                                                (D) um empregado administrativo.
+(A) lei ordinária, votada na Assembleia Legislativa estadual.
+                                                                QUESTÃO 30
+(B) emenda constitucional, votada no Congresso Nacional.
+                                                                Segundo a Lei nº 14.133/2021 (Lei de Licitações), o contrato
+(C) lei complementar, votada no Congresso Nacional.             relativo a imóvel do patrimônio da União ou de suas
+                                                                autarquias e fundações é regido
+(D) lei complementar, votada na Assembleia Legislativa
+    estadual.                                                   (A) pela legislação civil, com aplicação subsidiária na lei de
+                                                                    licitações.
+
+                                                                (B) pela lei de licitações, com aplicação subsidiaria da
+                                                                    legislação civil.
+
+                                                                (C) pela constituição federal, com regulação pela lei de
+                                                                    licitações.
+
+                                                                (D) pelo contrato administrativo, com regulação pela
+                                                                    legislação civil.
+
+
+                                                                                                                    Legislação_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                             CONCURSO PÚBLICO                                                               IV/UFG
+
+QUESTÃO 31                                                                   QUESTÃO 33
+
+A conversão entre bases numéricas é uma competência                          A comunicação entre um sistema operacional e os
+esperada de um profissional de infraestrutura de tecnologia                  dispositivos periféricos depende de um elemento de
+da informação. Nesse sentido, o equivalente em hexadecimal                   software. Esse elemento abstrai a comunicação entre o
+do número decimal 15882 é:                                                   periférico e o núcleo do sistema operacional e permite que
+                                                                             o sistema operacional e os dispositivos se comuniquem.
+(A) EEAA16                                                                   Esse elemento de software é o:
+
+(B) 992A16                                                                   (A) drive.
+
+(C) A0EA16                                                                   (B) daemon.
+
+(D) 3E0A16                                                                   (C) setup.
+
+QUESTÃO 32                                                                   (D) driver.
+
+Observe a imagem a seguir.                                                   QUESTÃO 34
+
+                                                                             O algoritmo de escalonamento de processos round-robin é
+                                                                             um dos mais tradicionais de sua categoria. Seu
+                                                                             funcionamento consiste em ser
+
+                                                                             (A) preemptivo e usar a lógica “primeiro que entra é o
+                                                                                 primeiro que sai” para acessar o tempo de
+                                                                                 processamento de CPU.
+
+                                                                             (B) não preemptivo e atribuir tempo de processamento da
+                                                                                 CPU ao menor processo da fila a ser executada.
+
+                                                                             (C) preemptivo e atribuir um valor uniforme de tempo
+                                                                                 chamado quantum a todos os processos para rodarem
+                                                                                 na CPU.
+
+                                                                             (D) não preemptivo e atribuir tempo de processamento da
+                                                                                 CPU ao processo que possua o menor tempo restante.
+
+     Disponível em: <https://emiepsorriso.blogspot.com/p/como-desmontar-e-   QUESTÃO 35
+                     montar-um-computador.html>. Acesso em: 17 fev. 2024.
+
+                                                                             O ITIL 4 apregoa sobre as melhores práticas de Gestão de
+A imagem mostra uma placa-mãe com estrutura comum
+                                                                             Serviços de Tecnologia da Informação (TI). No ITIL 4, o
+aos computadores modernos. Na figura apresentada, o
+                                                                             Gerenciamento de Portfólio é uma:
+soquete indicado pela letra B é o espaço onde será
+acomodado:
+                                                                             (A) Prática Geral de Gerenciamento.
+(A) o processador.
+                                                                             (B) Prática de Gerenciamento Técnico.
+(B) o conector SATA.
+                                                                             (C) Prática de Gerenciamento de Serviço.
+(C) a porta USB.
+                                                                             (D) Prática de Implantação de Serviço.
+(D) a memória RAM.
+
+
+
+
+                                                          Conhecimentos Específicos_Analista Judiciário – Analista de Infraestrutura de TI_Superior
+ PODER JUDICIÁRIO DO ACRE/2024                CONCURSO PÚBLICO                                                                IV/UFG
+
+QUESTÃO 36                                                      QUESTÃO 39
+
+Linguagens     de    programação    costumam      oferecer      A norma ABNT NBR 15247 é uma certificação para
+funcionalidades para acesso a protocolos de rede. Nesse         garantia de alto nível de proteção de sala-cofre. Dentre os
+sentido, é possível, por exemplo, desenvolver clientes de       testes previstos pela norma ABNT NBR 15247, está o teste
+e-mail ou peers que se comuniquem utilizando protocolos         de
+específicos à escolha do desenvolvedor. Considerando a
+pilha de protocolos do modelo TCP/IP, o protocolo da            (A) solo.
+camada de transporte que pode ser utilizado para envio de
+dados sem garantia de entrega é o:                              (B) jatos d’água.
+
+(A) TCP.                                                        (C) invasão.
+
+(B) UDP.                                                        (D) hackeamento.
+
+(C) SMTP.                                                       QUESTÃO 40
+
+(D) SSH.                                                        A característica de servidores de alta disponibilidade que
+                                                                permite alternar perfeita e automaticamente para um
+QUESTÃO 37                                                      sistema de backup confiável em caso de falha do primeiro
+                                                                denomina-se
+Na Lei nº 13.709/2018 (Lei Geral de Proteção de Dados –
+LGPD), direitos são assegurados ao titular dos dados            (A) balanceamento de carga.
+pessoais. Dentre os direitos que devem necessariamente
+ser assegurados pelos sistemas de informação onde os            (B) elasticidade.
+dados estão retidos, a lei menciona:
+                                                                (C) failover.
+(A) o tratamento dos dados, que não pode ser realizado
+    para fins discriminatórios, ilícitos ou abusivos.           (D) tailoring.
+
+(B) a adoção de medidas para prevenir a ocorrência de           QUESTÃO 41
+    danos por causa do tratamento de dados pessoais.
+                                                                Observe o comando a seguir.
+(C) a compatibilidade do tratamento         conforme     as
+    finalidades informadas ao(à) titular.                        New-Cluster –Name MyCluster –Node Server1, Server2 –
+                                                                 StaticAddress 192.168.1.12
+(D) a correção de     dados   incompletos, inexatos      ou
+    desatualizados.                                             No Windows Server 2022, o comando é utilizado para:
+
+QUESTÃO 38                                                      (A) criar um cluster de failover com dois nós e atribuir a um
+                                                                    endereço IP estático com armazenamento qualificado.
+Dentre os modelos de mudança previstos no PMBOK 7a
+edição, tem-se o modelo ADKAR. Dentre suas etapas               (B) configurar um cluster de failover, mas não adiciona
+típicas, está:                                                      armazenamento qualificado a ele.
+
+(A) o planejamento.                                             (C) adicionar um cluster de failover que inclui um ou mais
+                                                                    discos em pastas compartilhadas que podem ser
+(B) a formulação.                                                   criadas para usuários.
+
+(C) o desejo.                                                   (D) configurar a intensidade do balanceamento de carga
+                                                                    em um nível comum do cluster.
+(D) a gerência.
+
+
+
+
+                                              Conhecimentos Específicos_Analista Judiciário – Analista de Infraestrutura de TI_Superior
+  PODER JUDICIÁRIO DO ACRE/2024               CONCURSO PÚBLICO                                                                IV/UFG
+
+QUESTÃO 42                                                      QUESTÃO 46
+
+O Docker é uma tecnologia de containers bem estabelecida e      OLAP capacita os usuários a examinarem extensos conjuntos
+disseminada no mercado. No Docker, o comando que lista          de dados de maneira ágil e adaptável, apresentando uma
+todos os containers que estão rodando é o:                      perspectiva multidimensional dos dados. Dentre as consultas
+                                                                comuns em OLAP, pode-se mencionar
+(A) docker dir.
+                                                                (A) Scroll-Down.
+(B) docker ls.
+                                                                (B) Slice-And-Serve.
+(C) docker inspect.
+                                                                (C) Extraction.
+(D) docker ps.
+                                                                (D) Roll-Up.
+QUESTÃO 43
+                                                                QUESTÃO 47
+Considere o comando a seguir.
+                                                                A mineração de dados consiste na inferência de relações
+      $DVDDrive = Get-VMDvdDrive -VMName $VMName                com base em um grande volume de dados. No que tange à
+                                                                mineração de dados, um algoritmo de classificação é o:
+O Hyper-V permite executar vários sistemas operacionais,
+como máquinas virtuais no Windows. No Windows 10 Pro,           (A) FP-Growth.
+o comando acima é responsável por:
+                                                                (B) K-NN.
+(A) montar uma unidade de DVD em uma máquina virtual.
+                                                                (C) LDA.
+(B) adicionar uma controladora de DVD à máquina virtual.
+                                                                (D) Mean Shift.
+(C) criar uma nova máquina virtual com DVD.
+                                                                QUESTÃO 48
+(D) configurar a máquina para dar boot pelo DVD.
+                                                                O ITIL v4 inclui um conjunto das melhores práticas de Gestão
+QUESTÃO 44                                                      de Serviços de TI. Dentre as Práticas de Gerenciamento de
+                                                                Serviço do ITIL V4, pode-se citar:
+A criptografia é um recurso importante no que tange à
+segurança da informação. Dentre os algoritmos de                (A) Gerenciamento de Incidente.
+criptografia assimétrica, tem-se:
+                                                                (B) Medição e Relatório.
+(A) AES.
+                                                                (C) Melhoria Contínua.
+(B) RSA.
+                                                                (D) Gerenciamento Financeiro de Serviço.
+(C) RC2.
+                                                                QUESTÃO 49
+(D) DES.
+                                                                O COBIT 2019 possui o Modelo de Avaliação de Capacidade
+QUESTÃO 45                                                      dos Processos de TI (PAM). Segundo esse modelo, se o
+                                                                processo é gerenciado e implementado usando um processo
+Redes de computadores são organizadas com base em               definido que é capaz de alcançar os seus resultados de
+estruturas, também chamadas de ativos de rede. Dentre os        processo, ele está no nível de capacidade:
+ativos de rede, aquele que conecta os computadores de
+uma topologia em estrela é o:                                   (A) 2: Gerenciado.
+
+(A) repetidor.                                                  (B) 3: Estabelecido.
+
+(B) hub.                                                        (C) 4: Previsível.
+
+(C) roteador.                                                   (D) 5: Otimizado.
+
+(D) gateway.
+
+
+
+
+                                              Conhecimentos Específicos_Analista Judiciário – Analista de Infraestrutura de TI_Superior
+  PODER JUDICIÁRIO DO ACRE/2024                CONCURSO PÚBLICO                                                                   IV/UFG
+
+QUESTÃO 50                                                       QUESTÃO 54
+
+A norma NIST SP 800-145 é um documento que define as             Leia o texto a seguir:
+características essenciais para a computação em nuvem.
+Uma dessas características consideradas essenciais para           A questão do aplicativo que não funciona adequadamente ao
+a computação em nuvem, segundo a norma NIST SP 800-               ser transferido de um ambiente para outro é tão antiga quanto
+145, é a                                                          a própria história do desenvolvimento de software.
+                                                                  Geralmente, essas dificuldades ocorrem devido a disparidades
+                                                                  na configuração dos requisitos da biblioteca principal e outras
+(A) disponibilidade alta.
+                                                                  necessidades de suporte.
+                                                                       Disponível em: <https://azure.microsoft.com/>. Acesso em 24 fev. 2024.
+(B) resiliência efetiva.                                                                                                         [Adaptado].
+
+(C) distribuição em escala.                                      A tecnologia que possibilita contornar                     o problema
+                                                                 mencionado no texto é
+(D) elasticidade rápida.
+                                                                 (A) o container.
+QUESTÃO 51
+                                                                 (B) a thread.
+Cabos em uma rede de computadores podem ser ligados a
+seus ativos de rede através de conectores. Conectores RJ-        (C) o deadlock.
+45 são típicos de cabeamento do tipo:
+                                                                 (D) o pooling.
+(A) coaxial.
+                                                                 QUESTÃO 55
+(B) par trançado.
+                                                                 Durante o uso da técnica de memória virtual, a parte do
+(C) fibra óptica.                                                processador cuja função é transformar o endereço virtual
+                                                                 em físico é:
+(D) USB.
+                                                                 (A) a ULA.
+QUESTÃO 52
+                                                                 (B) a MMU.
+O protocolo de rede utilizado para comunicar informações da
+camada de rede, sendo o uso mais comum para fornecer             (C) o Registrador.
+relatórios de erros à fonte original é o:
+                                                                 (D) o Decoder.
+(A) LDAP.
+                                                                 QUESTÃO 56
+(B) RDP.
+                                                                 Alguns algoritmos de escalonamento podem acabar por
+(C) ICMP.                                                        priorizar alguns processos em detrimento de outros.
+                                                                 Quando um processo nunca é executado porque outros
+(D) SNMP.                                                        processos são executados por terem maior prioridade, o
+                                                                 processo não executado está em condição de:
+QUESTÃO 53
+                                                                 (A) blocking.
+A tecnologia RAID é muito importante para garantir
+confiabilidade dos dados armazenados através de                  (B) interruption.
+redundância de discos. A técnica do RAID nível 0 em que
+os dados são subdivididos em segmentos consecutivos              (C) starvation.
+que são escritos sequencialmente através de cada um dos
+discos de um array é denominada de:                              (D) deadlock.
+
+(A) starving.
+
+(B) spreading.
+
+(C) sparing.
+
+(D) striping.
+
+
+
+
+                                               Conhecimentos Específicos_Analista Judiciário – Analista de Infraestrutura de TI_Superior
+  PODER JUDICIÁRIO DO ACRE/2024                 CONCURSO PÚBLICO                                                               IV/UFG
+
+QUESTÃO 57                                                       RASCUNHO
+
+O número de endereços de rede IPv4 quando se usa a
+notação CIDR com tamanho de prefixo /29 é:
+
+(A) 4.
+
+(B) 8.
+
+(C) 16.
+
+(D) 64.
+
+QUESTÃO 58
+
+O COBIT 2019 diferencia entre os conceitos de governança e
+gestão. Para tanto, são estabelecidos objetivos para cada
+uma destas categorias. Um dos objetivos de Governança do
+COBIT é o de:
+
+(A) Projetos Gerenciados.
+
+(B) Arquitetura Corporativa Gerenciada.
+
+(C) Estratégia Gerenciada.
+
+(D) Entrega de Benefícios Assegurada.
+
+QUESTÃO 59
+
+No Ubuntu 22.04 servidor, o comando utilizado para monitorar
+o status de memória virtual é o:
+
+(A) vmstat.
+
+(B) htop.
+
+(C) apt-get.
+
+(D) top.
+
+QUESTÃO 60
+
+No Windows Server 2019, o comando que permite exibir
+ou redefinir as contagens de chamadas feitas ao servidor
+para Network File System (NFS) é o:
+
+(A) nfsadmin.
+
+(B) nfsstat.
+
+(C) nfsshare.
+
+(D) nfsmount.
+
+
+
+
+                                               Conhecimentos Específicos_Analista Judiciário – Analista de Infraestrutura de TI_Superior
+

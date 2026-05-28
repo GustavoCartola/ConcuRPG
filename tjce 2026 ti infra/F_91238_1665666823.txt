@@ -1,0 +1,1069 @@
+                                                                                           Colégio           Sala          Ordem
+                                                                                            00001             0001           0001
+                                                                                                                              Junho/2022
+
+
+
+
+                         Concurso Público para o provimento de cargos de
+                         Analista Judiciário - Especialidade Ciência da Computação
+                                                            Área Infraestrutura de TI
+
+    Nome do Candidato                                                                      No de Inscrição          No do Caderno
+    Caderno de Prova ’D04’, Tipo 001                                                         MODELO                  TIPO−001
+
+                                                                      ASSINATURA DO CANDIDATO
+    No do Documento
+    0000000000000000
+
+
+                                                                  Conhecimentos Básicos
+                  P R O VA                                        Conhecimentos Específicos
+                                                                  Discursiva-Estudo de Caso
+                                                    INSTRUÇÕES
+    Quando autorizado pelo fiscal
+    de sala, transcreva a frase
+    ao lado, com sua caligrafia               A evolução é influenciada pela superação de obstáculos.
+    usual, no espaço apropriado
+    na Folha de Respostas.
+
+- Verifique se este caderno:
+  - corresponde a sua opção de cargo.
+  - contém 60 questões, numeradas de 1 a 60.
+  - contém a proposta e o espaço para o rascunho da Prova Discursiva-Estudo de Caso.
+  Caso contrário, solicite imediatamente ao fiscal da sala a substituição do caderno.
+  Não serão aceitas reclamações posteriores.
+- Para cada questão existe apenas UMA resposta certa.
+- Leia cuidadosamente cada uma das questões e escolha a resposta certa.
+- Essa resposta deve ser marcada na FOLHA DE RESPOSTAS que você recebeu.
+VOCÊ DEVE
+-   Procurar, na FOLHA DE RESPOSTAS, o número da questão que você está respondendo.
+-   Verificar no caderno de prova qual a letra (A,B,C,D,E) da resposta que você escolheu.
+-   Marcar essa letra na FOLHA DE RESPOSTAS, conforme o exemplo: A               C D E
+-   Ler o que se pede na Prova Discursiva-Estudo de Caso e utilizar, se necessário, os espaços para rascunho.
+ATENÇÃO
+- Marque as respostas com caneta esferográfica de material transparente de tinta preta ou azul. Não será permitida a utilização de
+  lápis, lapiseira, marca-texto, régua ou borracha durante a realização da prova.
+- Marque apenas uma letra para cada questão. Será anulada a questão em que mais de uma letra estiver assinalada.
+- Responda a todas as questões.
+- Não será permitida nenhuma espécie de consulta ou comunicação entre os candidatos, nem a utilização de livros, códigos,
+  manuais, impressos ou quaisquer anotações, máquina calculadora ou similar.
+- Em hipótese alguma o rascunho da Prova Discursiva-Estudo de Caso será corrigido.
+- Você deverá transcrever a sua Prova Discursiva-Estudo de Caso a tinta, na folha apropriada.
+- A duração da prova é de 4 horas, para responder a todas as questões objetivas, preencher a Folha de Respostas e fazer a Prova
+  Discursiva-Estudo de Caso (rascunho e transcrição) na folha correspondente.
+- Ao término da prova, chame o fiscal da sala e devolva todo o material recebido para conferência.
+- É proibida a divulgação ou impressão parcial ou total da presente prova. Direitos Reservados.
+                                                Caderno de Prova ’D04’, Tipo 001
+
+                                                     CONHECIMENTOS BÁSICOS
+
+                                                          Língua Portuguesa
+
+Atenção: Para responder às questões de números 1 a 10, leia o início do conto “Missa do Galo”, de Machado de Assis.
+
+
+       Nunca pude entender a conversação que tive com uma senhora, há muitos anos, contava eu dezessete, ela, trinta. Era noite
+de Natal. Havendo ajustado com um vizinho irmos à missa do galo, preferi não dormir; combinei que eu iria acordá-lo à meia-noite.
+       A casa em que eu estava hospedado era a do escrivão Meneses, que fora casado, em primeiras núpcias, com uma de minhas
+primas. A segunda mulher, Conceição, e a mãe desta acolheram-me bem quando vim de Mangaratiba para o Rio de Janeiro, meses
+antes, a estudar preparatórios. Vivia tranquilo, naquela casa assobradada da Rua do Senado, com os meus livros, poucas relações,
+alguns passeios. A família era pequena, o escrivão, a mulher, a sogra e duas escravas. Costumes velhos. Às dez horas da noite toda
+a gente estava nos quartos; às dez e meia a casa dormia. Nunca tinha ido ao teatro, e mais de uma vez, ouvindo dizer ao Meneses
+que ia ao teatro, pedi-lhe que me levasse consigo. Nessas ocasiões, a sogra fazia uma careta, e as escravas riam à socapa; ele não
+respondia, vestia-se, saía e só tornava na manhã seguinte. Mais tarde é que eu soube que o teatro era um eufemismo em ação.
+Meneses trazia amores com uma senhora, separada do marido, e dormia fora de casa uma vez por semana. Conceição padecera, a
+princípio, com a existência da comborça*; mas afinal, resignara-se, acostumara-se, e acabou achando que era muito direito.
+       Boa Conceição! Chamavam-lhe “a santa”, e fazia jus ao título, tão facilmente suportava os esquecimentos do marido. Em
+verdade, era um temperamento moderado, sem extremos, nem grandes lágrimas, nem grandes risos. Tudo nela era atenuado e
+passivo. O próprio rosto era mediano, nem bonito nem feio. Era o que chamamos uma pessoa simpática. Não dizia mal de ninguém,
+perdoava tudo. Não sabia odiar; pode ser até que não soubesse amar.
+       Naquela noite de Natal foi o escrivão ao teatro. Era pelos anos de 1861 ou 1862. Eu já devia estar em Mangaratiba, em férias;
+mas fiquei até o Natal para ver “a missa do galo na Corte”. A família recolheu-se à hora do costume; eu meti-me na sala da frente,
+vestido e pronto. Dali passaria ao corredor da entrada e sairia sem acordar ninguém. Tinha três chaves a porta; uma estava com o
+escrivão, eu levaria outra, a terceira ficava em casa.
+       − Mas, Sr. Nogueira, que fará você todo esse tempo? perguntou-me a mãe de Conceição.
+       − Leio, D. Inácia.
+       Tinha comigo um romance, os Três Mosqueteiros, velha tradução creio do Jornal do Comércio. Sentei-me à mesa que havia no
+centro da sala, e à luz de um candeeiro de querosene, enquanto a casa dormia, trepei ainda uma vez ao cavalo magro de D'Artagnan
+e fui-me às aventuras. Os minutos voavam, ao contrário do que costumam fazer, quando são de espera; ouvi bater onze horas, mas
+quase sem dar por elas, um acaso. Entretanto, um pequeno rumor que ouvi dentro veio acordar-me da leitura.
+                                              (Adaptado de: Machado de Assis. Contos: uma antologia. São Paulo: Companhia das Letras, 1988)
+
+*comborça: qualificação humilhante da amante de homem casado
+
+
+1.   Em relação à infidelidade do marido, a reação inicial de Conceição é de
+     (A)   resignação.
+
+     (B)   angústia.
+
+     (C)   indiferença.
+
+     (D)   rancor.
+
+     (E)   constrangimento.
+
+2.   No contexto, denota incerteza o verbo sublinhado em:
+     (A)   “A casa em que eu estava hospedado era a do escrivão Meneses.”
+
+     (B)   “Não dizia mal de ninguém, perdoava tudo.”
+
+     (C)   “Tinha comigo um romance, os Três Mosqueteiros, velha tradução creio do Jornal do Comércio.”
+
+     (D)   “A família recolheu-se à hora do costume; eu meti-me na sala da frente, vestido e pronto.”
+
+     (E)   “Tinha três chaves a porta; uma estava com o escrivão, eu levaria outra, a terceira ficava em casa.”
+
+2                                                                                                           TJUCE-Conhecimentos Básicos4
+                                                  Caderno de Prova ’D04’, Tipo 001
+3.   Nunca tinha ido ao teatro, e mais de uma vez, ouvindo dizer ao Meneses que ia ao teatro, pedi-lhe que me levasse consigo.
+     Nessas ocasiões, a sogra fazia uma careta, e as escravas riam à socapa; ele não respondia, vestia-se, saía e só tornava na
+     manhã seguinte. Mais tarde é que eu soube que o teatro era um eufemismo em ação. Meneses trazia amores com uma senhora,
+                                                                      o
+     separada do marido, e dormia fora de casa uma vez por semana. (2 parágrafo)
+     Nesse trecho, o narrador acaba por caracterizar um eufemismo. Tendo em vista essa caracterização, verifica-se outro exemplo
+     de eufemismo na seguinte frase:
+     (A)   Ele sempre foi assim: sutil como um elefante.
+     (B)   Fazia um século que eles não se encontravam.
+     (C)   As suas palavras cortaram bruscamente o silêncio.
+     (D)   Eu vi com os meus próprios olhos.
+     (E)   Logo após conversar com a filha, ele passou desta para uma melhor.
+                                                                                    o
+4.   Havendo ajustado com um vizinho irmos à missa do galo, preferi não dormir (1 parágrafo)
+     Em relação à oração que o sucede, o trecho sublinhado expressa ideia de
+     (A)   comparação.
+     (B)   condição.
+     (C)   consequência.
+     (D)   concessão.
+     (E)   causa.
+
+5.   A casa em que eu estava hospedado era a do escrivão Meneses, que fora casado, em primeiras núpcias, com uma de minhas
+               o
+     primas. (2 parágrafo)
+     Os pronomes relativos sublinhados referem-se, respectivamente, a
+     (A)   “escrivão Meneses” e “uma de minhas primas”.
+     (B)   “eu” e “uma de minhas primas”.
+     (C)   “A casa” e “escrivão Meneses”.
+     (D)   “eu” e “escrivão Meneses”.
+     (E)   “A casa” e “uma de minhas primas”.
+                                                                                           o
+6.   Em Entretanto, um pequeno rumor que ouvi dentro veio acordar-me da leitura (7 parágrafo), o termo sublinhado pode ser
+     substituído, sem prejuízo para o sentido do texto, por:
+     (A)   Não obstante
+     (B)   Por conseguinte
+     (C)   Salvo engano
+     (D)   Além disso
+     (E)   Na verdade
+                                        o
+7.   pedi-lhe que me levasse consigo (2 parágrafo)
+     Ao se transpor esse trecho para o discurso direto, o verbo sublinhado assume a seguinte forma:
+
+     (A)   levava
+     (B)   levai
+     (C)   levou
+     (D)   leve
+     (E)   levaria
+
+8.   Verifica-se o emprego de vírgula para assinalar a supressão de um verbo em:
+     (A)   A casa em que eu estava hospedado era a do escrivão Meneses, que fora casado, em primeiras núpcias, com uma de
+           minhas primas.
+     (B)   Nunca pude entender a conversação que tive com uma senhora, há muitos anos, contava eu dezessete, ela, trinta.
+     (C)   Vivia tranquilo, naquela casa assobradada da Rua do Senado, com os meus livros, poucas relações, alguns passeios.
+     (D)   A família era pequena, o escrivão, a mulher, a sogra e duas escravas.
+     (E)   Tinha três chaves a porta; uma estava com o escrivão, eu levaria outra, a terceira ficava em casa.
+TJUCE-Conhecimentos Básicos4                                                                                                   3
+                                                Caderno de Prova ’D04’, Tipo 001
+9.    Nunca tinha ido ao teatro, e mais de uma vez, ouvindo dizer ao Meneses que ia ao teatro, pedi-lhe que me levasse consigo.
+
+      No trecho acima, indica uma ação anterior a outra ocorrida no passado a seguinte forma verbal:
+      (A)   “pedi”.
+
+      (B)   “ouvindo dizer”.
+
+      (C)   “ia”.
+
+      (D)   “tinha ido”.
+
+      (E)   “levasse”.
+
+10.   O verbo em negrito deve sua flexão ao termo sublinhado em:
+      (A)   “Tinha três chaves a porta; uma estava com o escrivão, eu levaria outra, a terceira ficava em casa.”
+
+      (B)   “A casa em que eu estava hospedado era a do escrivão Meneses, que fora casado, em primeiras núpcias, com uma de
+            minhas primas.”
+
+      (C)   “Chamavam-lhe “a santa”, e fazia jus ao título, tão facilmente suportava os esquecimentos do marido.”
+
+      (D)   “Naquela noite de Natal foi o escrivão ao teatro.”
+
+      (E)   “Tinha comigo um romance, os Três Mosqueteiros, velha tradução creio do Jornal do Comércio.”
+
+
+                                                           Inglês Instrumental
+
+Atenção:    Para responder às questões de números 11 e 12, leia o texto abaixo.
+
+
+       Before cloud computing came into existence, companies were required to download applications or programs on their physical
+
+PCs or on-premises servers to be able to use them. For any organization, building and managing its own IT infrastructure or data
+
+centers is a huge challenge. Even for those who own their own data centers, allocating a large number of IT administrators and resources is a
+
+struggle.
+
+       The introduction of cloud computing was a paradigm shift in the history of the technology industry. Rather than creating and
+
+managing their own IT infrastructure and paying for servers, power and real estate, etc., cloud computing allows businesses to rent
+
+computing resources from cloud service providers. This helps businesses avoid paying heavy upfront costs and the complexity of
+
+managing their own data centers. By renting cloud services, companies pay only for what they use such as computing resources and
+
+disk space. This allows companies to anticipate costs with greater accuracy.
+
+       Since cloud service providers do the heavy lifting of managing and maintaining the IT infrastructure, it saves a lot of time, effort
+
+and money for businesses. The cloud also gives organizations the ability to seamlessly upscale or downscale their computing
+
+infrastructure as and when needed. Compared to the traditional on-premises data center model, the cloud offers easy access to data
+
+from anywhere and on any device with internet connectivity, thereby enabling effective collaboration and enhanced productivity.
+       (Adaptado de: MCDERMOTT, Matt. Cloud Computing: Benefits, Disadvantages & Types of Cloud Computing Services. Disponível em:
+       https://www.business2community.com)
+
+
+
+11.   Depreende-se do texto que a computação em nuvem
+      (A)   dificulta o acesso a dados armazenados nos servidores de uma organização, na medida em que exige a presença física do
+            usuário.
+
+      (B)   beneficia os usuários da comunidade acadêmica, apesar de ter sido planejada para a aplicação no universo corporativo.
+
+      (C)   reduz os custos, uma vez que os usuários só precisam pagar pelo que utilizarem, como, por exemplo, espaço em disco,
+            quando e onde precisarem.
+
+      (D)   permite que os usuários planejem antecipadamente o que precisarão usar, pois podem reservar com antecedência os re-
+            cursos necessários.
+
+      (E)   é um modelo de infraestrutura eficiente, contudo demanda muito esforço, tempo e dinheiro para ser implantado.
+4                                                                                                             TJUCE-Conhecimentos Básicos4
+                                                 Caderno de Prova ’D04’, Tipo 001
+                                                                                                                           o
+12.   No trecho For any organization, building and managing its own IT infrastructure or data centers is a huge challenge (1 pará-
+      grafo), o segmento sublinhado tem sentido equivalente, em português, a
+
+      (A)   criar e administrar.
+
+      (B)   construir e distribuir.
+
+      (C)   local e gerência.
+
+      (D)   elaborar e gerir.
+
+      (E)   desenvolvimento e coordenação.
+
+
+13.   In the fragment from the second paragraph “Rather than creating and managing their own IT infrastructure”, the underlined
+      expression can be replaced without any change in the meaning of the sentence by
+
+      (A)   Apart from
+
+      (B)   As opposed to
+
+      (C)   In spite of
+
+      (D)   Together with
+
+      (E)   Instead of
+
+
+                                                 Raciocínio Lógico-Matemático
+
+14.   Um trem viaja a uma velocidade constante. Ele leva 5 s para atravessar completamente um túnel de 85 m e gasta 8 s para atra-
+      vessar completamente um túnel de 160 m. O comprimento do trem, em metros, é
+
+      (A)   60.
+
+      (B)   30.
+
+      (C)   40.
+
+      (D)   50.
+
+      (E)   70.
+
+
+15.   Em uma loja de departamentos, as peças de vestuário estão com 20% de desconto e os utensílios domésticos com 25% de
+      desconto. Maria comprou uma calça que custava R$ 130,00 e um jogo de copos que custava R$ 150,00. O total gasto por Maria,
+      em reais e após aplicados os descontos, é
+
+      (A)   112,50.
+
+      (B)   280,00.
+
+      (C)   104,00.
+
+      (D)   216,50.
+
+      (E)   206,50.
+
+
+16.   O produto de dois números positivos é 88 e a diferença deles é 18. A soma dos dois números é
+
+      (A)   24.
+
+      (B)   26.
+
+      (C)   28.
+
+      (D)   16.
+
+      (E)   22.
+TJUCE-Conhecimentos Básicos4                                                                                                    5
+                                              Caderno de Prova ’D04’, Tipo 001
+17.   Daniel lê 5 páginas, por dia, de um livro, exceto sábado e domingo, em que ele lê 20 e 25 páginas, respectivamente. Daniel co-
+      meça a ler um livro de 350 páginas em um domingo. O número de dias consecutivos que Daniel levará para ler todo o livro é
+      (A)    35.
+
+      (B)    28.
+
+      (C)    30.
+
+      (D)    32.
+
+      (E)    40.
+
+                                                       Ética no Serviço Público
+
+18.   Com relação à Comissão Permanente de Ética e Disciplina, considere:
+        I. Será composta por três membros titulares e seus respectivos suplentes, todos servidores estáveis, do quadro do Poder
+             Judiciário do Estado do Ceará, presidida por servidor que for designado pela autoridade competente, que colocará à
+             disposição da Comissão o pessoal necessário ao desenvolvimento de seus trabalhos.
+       II. Poderá solicitar assessoramento técnico-jurídico à Auditoria Administrativa e à Consultoria Jurídica.
+      III. Seus membros e os seus respectivos suplentes serão designados pelo Presidente da Comissão, para mandato de três
+             anos, não sendo permitida a recondução.
+       IV. Seus membros desempenharão suas atribuições sem prejuízo do exercício de seus respetivos cargos.
+                                     o
+      De acordo com a Resolução n 08/2017 do Órgão especial do TJ do Estado do Ceará, está correto o que se afirma APENAS em
+      (A)    I, II e IV.
+      (B)    I e III.
+      (C)    II, III e IV.
+      (D)    III e IV.
+      (E)    I e II.
+
+                                                                                                                           o
+19.   De acordo com o Código de Ética dos Servidores do Poder Judiciário do Estado do Ceará (aprovado pela Resolução n 08/2017
+      do Órgão especial do TJ do Estado do Ceará – Anexo I), quando se tratar de servidor ocupante dos cargos de Alta Gestão e
+      quando se tratar dos demais servidores, a Comissão de Ética e Disciplina deverá comunicar a instauração do processo de
+      apuração ao envolvido, com imediata ciência,
+      (A)    ao Secretário de Gestão de Pessoas, nos dois casos.
+      (B)    respectivamente, ao Secretário de Gestão de Pessoas; e ao Presidente do TJCE.
+      (C)    ao Presidente do TJCE, nos dois casos.
+      (D)    respectivamente, ao Presidente do TJCE; e ao Secretário de Gestão de Pessoas.
+      (E)    tanto ao Presidente do TJCE quanto ao Secretário de Gestão de Pessoas, nos dois casos.
+
+20.   Com relação ao Processo Administrativo Disciplinar, considere:
+        I. Seu rito se desenvolve nas seguintes fases: instauração; instrução; defesa e julgamento, sendo dispensado o relatório por
+             se tratar de rito sumário.
+       II. Na fase de instauração, cabe ao Presidente da Comissão de Ética e Disciplina comunicar os atos processuais por meio
+             de citação ou intimação do servidor, devendo o processo ser concluído no prazo improrrogável de 90 dias.
+      III. Na fase de defesa, será concedido ao servidor o direito ao contraditório e à ampla defesa.
+       IV.   Na fase de instrução, cabe aos membros da Comissão, dentre outras atividades, promover a tomada de depoimentos,
+             acareações, investigações e diligências cabíveis, objetivando a coleta de prova, recorrendo, quando necessário, a
+             técnicos e peritos, de modo a permitir a completa elucidação dos fatos.
+      De acordo com o Regulamento Disciplinar dos Servidores do Poder Judiciário do Estado do Ceará (aprovado pela Resolução
+       o
+      n 08/2017 do Órgão especial do Estado do Ceará – Anexo II), está correto o que se afirma APENAS em
+      (A)    I, II e III.
+      (B)    III e IV.
+      (C)    I e IV.
+      (D)    II, III e IV.
+      (E)    I e II.
+6                                                                                                        TJUCE-Conhecimentos Básicos4
+                                                   Caderno de Prova ’D04’, Tipo 001
+
+                                                  CONHECIMENTOS ESPECÍFICOS
+
+Atenção: As questões de números 21 a 23 referem-se ao conteúdo Programático de Noções de Direito Constitucional e foram
+         baseadas na Constituição Federal de 1988.
+
+21.   Um grupo de pessoas decidiu criar uma associação para fins lícitos, sem caráter paramilitar, com o objetivo de defender seus
+      interesses. A criação dessa associação
+      (A)   independe de autorização, devendo, contudo, haver controle e interferência estatal em seu funcionamento, podendo ser ela
+            compulsoriamente dissolvida por decisão judicial proferida por órgão colegiado, independentemente do seu trânsito em
+            julgado.
+      (B)   depende de autorização e de controle em seu funcionamento pelo Estado, somente podendo ser ela compulsoriamente
+            dissolvida por decisão judicial transitada em julgado.
+      (C)   independe de autorização, sendo vedada a interferência estatal em seu funcionamento, podendo ser ela compulsoriamente
+            dissolvida por decisão judicial proferida por órgão colegiado, independentemente do seu trânsito em julgado.
+      (D)   independe de autorização, sendo vedada a interferência estatal em seu funcionamento, somente podendo ser ela compul-
+            soriamente dissolvida por decisão judicial transitada em julgado.
+      (E)   depende de autorização e de controle em seu funcionamento pelo Estado, somente podendo ser ela compulsoriamente
+            dissolvida por decisão judicial proferida por órgão colegiado, independentemente do seu trânsito em julgado.
+
+22.   Adalto é membro do Ministério Público Federal e possui seis anos de carreira, enquanto Roberto é advogado de notório saber
+      jurídico e reputação ilibada com 11 anos de efetiva atividade profissional. Considerando somente os dados fornecidos, no pre-
+      sente momento, o Tribunal Regional Federal da sua região poderá ser composto:
+      (A)   apenas por Roberto, pois possui mais de dez anos de efetiva atividade profissional, sendo que Adalto não poderá compô-
+            lo por possuir menos de dez anos de carreira.
+      (B)   tanto por Adalto quanto por Roberto, pois Adalto possui mais de cinco anos de carreira e Roberto possui mais de 10 anos
+            de efetiva atividade profissional.
+      (C)   apenas por Adalto, pois possui mais de cinco anos de carreira, sendo que Roberto não poderá compô-lo por possuir
+            menos de quinze anos de efetiva atividade profissional.
+      (D)   apenas por membros do judiciário, não podendo compô-lo, portanto, nem Adalto nem Roberto.
+      (E)   tanto por Adalto quanto por Roberto, pois não há tempo mínimo de carreira exigido para Adalto, que é membro do Ministério
+            Público, e Roberto cumpre o tempo mínimo de efetiva atividade profissional exigido para advogados, que corresponde a dez
+            anos.
+
+23.   Considere:
+        I. Legislar sobre águas, energia, informática, telecomunicações e radiodifusão.
+       II. Legislar sobre comércio exterior e interestadual.
+      III. Cuidar da saúde e assistência pública, da proteção e garantia das pessoas portadoras de deficiência.
+       IV. Proporcionar os meios de acesso à cultura, à educação, à ciência, à tecnologia, à pesquisa e à inovação.
+        V. Legislar sobre florestas, caça, pesca, fauna, conservação da natureza, defesa do solo e dos recursos naturais, proteção
+             do meio ambiente e controle da poluição.
+      É competência privativa da União o que se afirma APENAS em
+      (A)   IV e V.
+      (B)   III e IV.
+      (C)   I e V.
+      (D)   II e III.
+      (E)   I e II.
+
+Atenção: As questões de números 24 a 26 referem-se ao Conteúdo Programático de Noções de Direito Administrativo.
+
+24.   A constituição, por um ente da federação, de uma pessoa jurídica de direito privado, prestadora de serviços públicos, cujos funcio-
+      nários estão sujeitos ao regime de trabalho celetista, contratados mediante prévio concurso público, consubstancia-se em uma
+      (A)   sociedade de economia mista, cuja criação é autorizada por lei, da qual devem constar os objetivos de atuação da pessoa
+            jurídica, o que não dispensa o procedimento regular de instituição das sociedades por ações.
+      (B)   autarquia prestadora de serviços públicos, hipótese em que, embora sujeita ao regime jurídico de direito privado, sofre
+            inferências dos princípios de direito público.
+      (C)   empresa pública, que admite a composição entre capital público e privado, mas não prescinde de manter o controle acionário
+            sob poder do ente público que a criou por meio da edição de lei.
+      (D)   fundação pública, na qual, embora o capital social seja majoritariamente público, apresenta relevante participação privada na
+            gestão do escopo da pessoa jurídica.
+      (E)   autarquia fundacional, única pessoa jurídica de direito privado à qual pode ser transferida a titularidade do serviço público
+            que presta.
+TJUCE-An.Jud.-CC-Infraestrutura-D04                                                                                                    7
+                                               Caderno de Prova ’D04’, Tipo 001
+                                                                                         o
+25.   De acordo com o Estatuto dos Funcionários Públicos Civis do Estado do Ceará (Lei n 9.826/1974), o funcionário que causar da-
+      nos a terceiros, quando no exercício de suas funções,
+      (A)   deve ser acionado diretamente pela vítima, respondendo civilmente pela reparação dos danos causados.
+      (B)   não pode ser demandado a responder pelos danos causados, nem direta, nem regressivamente.
+      (C)   enseja responsabilidade do Estado pela reparação dos danos, cabendo ação regressiva contra o servidor em caso de dolo
+            ou culpa.
+      (D)   não enseja responsabilidade do Estado, salvo comprovação de culpa ou dolo do servidor.
+      (E)   responde civilmente pela reparação de danos causados, excluída, neste caso, a apuração de responsabilidade disciplinar,
+            sob pena de dupla penalização.
+                          o
+26.   A Lei estadual n 14.786/2010, que dispõe sobre o plano de cargos, carreiras e remuneração dos servidores do quadro
+      III – Poder Judiciário do Estado do Ceará, estabelece sua composição em
+      (A)   cargo comissionado, cargo efetivo e cargo funcional, todos dependentes de prévia submissão a concurso público.
+      (B)   cargo de provimento efetivo, cargo de provimento em comissão e função, somente o primeiro dependente de prévio con-
+            curso público para nomeação.
+      (C)   cargo de provimento efetivo, cargo de carreira e cargo em comissão, somente o último dispensando prévia realização de
+            concurso público para nomeação.
+      (D)   cargo comissionado, cargo efetivo e cargo de classe, os dois últimos dependentes de prévia realização de concurso pú-
+            blico para provimento.
+      (E)   função pública, cargo comissionado e cargo de carreira, apenas o primeiro prescindindo de realização de concurso público
+            para provimento.
+
+27.   A fim de analisar dados exibidos em uma instrução de interrupção do computador no formato binário de mais baixa ordem,
+      1100 0110, um Analista necessitou convertê-los para hexadecimal e decimal, resultando, respectivamente, nos valores
+      (A)   D6 e 194.
+      (B)   6B   e 204.
+      (C)   A8   e 132.
+      (D)   C6 e 198.
+      (E)   6A   e 136.
+
+28.   Considere o Modelo de Referência OSI e as funções a seguir:
+        I. Quanto ao controle de fluxo, se a velocidade na qual os dados são recebidos pelo receptor for menor que a velocidade na
+             qual os dados são transmitidos pelo emissor, essa camada impõe um mecanismo de controle de fluxo para impedir que o
+             receptor fique sobrecarregado.
+      II. Quanto ao endereçamento físico, se os frames forem distribuídos em sistemas diferentes na rede, essa camada acres-
+             centa um cabeçalho ao frame para definir o emissor e/ou receptor do frame. Se este for destinado a um sistema fora da
+             rede do emissor, o endereço do receptor é o do dispositivo que conecta essa rede à próxima.
+      Trata-se da camada de
+      (A)   sessão.
+      (B)   transporte.
+      (C)   rede.
+      (D)   aplicação.
+      (E)   enlace de dados.
+
+29.   O UDP transmite segmentos que consistem em uma carga útil precedida por um
+      (A)   frame de 16 bits.
+      (B)   cabeçalho de 8 bytes.
+      (C)   frame de 8 bits.
+      (D)   cabeçalho de 16 bytes.
+      (E)   frame de 32 bits.
+
+30.   Ao analisar o padrão IEEE 802.11, um Analista observou que ele define três tipos de estação, dependendo de sua capacidade
+      de mobilidade em uma rede Wireless LAN (WLAN), que são
+      (A)   sem transição, transição inter-BSS e transição inter-ESS.
+      (B)   transição inter-KPM, transição inter-BSS e transição inter-ESS.
+      (C)   escalar simples, escalar dupla e transição inter-BSS.
+      (D)   transição-KPM, transição inter-BSS e genérica-KSS.
+      (E)   sem transição, escalonada-ESS e transição inter-ESS.
+8                                                                                                 TJUCE-An.Jud.-CC-Infraestrutura-D04
+                                                      Caderno de Prova ’D04’, Tipo 001
+31.   Durante uma pesquisa sobre o uso de protocolos de gerenciamento de redes, um Analista observou que, para realizar suas tare-
+      fas de gerenciamento, o SNMP usa, dentre outros, um protocolo auxiliar que é o
+      (A)   Multiprocess Information Based (MIB).
+      (B)   Management Information Base (MIB).
+      (C)   Internetworking Management System (IMS).
+      (D)   Remote Monitoring Management System (RMMS).
+      (E)   Simple Network Monitoring System (SNMS).
+
+32.   O IEEE 802.1Q é um padrão que permite a criação de redes virtuais locais – VLANs dentro de uma rede Ethernet. O objetivo
+      principal é adicionar
+      (A)   quadros de 56 bytes nos cabeçalhos dos protocolos de trunking ISL e inserir nos frames dos protocolos da camada de
+            rede os endereços dos dispositivos de comutação atualizados na camada de enlace.
+      (B)   frames de 36 bytes nos quadros dos protocolos internet e instruir os elementos comutadores da camada física a trocarem
+            entre si apenas quadros contendo um mesmo identificador.
+      (C)   rótulos de 32 bits nos quadros Ethernet e instruir os elementos comutadores da camada de enlace a trocarem entre si
+            apenas quadros contendo um mesmo identificador.
+      (D)   quadros de 32 bytes nos cabeçalhos RMON e inserir nos frames dos protocolos da camada de rede os endereços dos
+            dispositivos de comutação atualizados na camada de enlace.
+      (E)   rótulos de 56 bits nos quadros Ethernet e instruir os elementos da camada de rede a trocarem entre si apenas frames
+            contendo um único identificador.
+
+33.   Pesquisando sobre roteadores, um Analista observou que quando um pacote entra em um roteador, o cabeçalho de quadro e o
+      final são retirados e o pacote, localizado no campo de carga útil do quadro, é repassado
+      (A)   ao software de roteamento que utiliza o cabeçalho de pacote para escolher uma linha de saída. No caso de um pacote IP,
+            o cabeçalho do pacote conterá um endereço de 32 bits no IPv4 ou de 256 bits no IPv6.
+      (B)   à camada de enlace e tratado pelos protocolos de link que o direcionam a uma linha de saída. No caso de um pacote IP, o
+            cabeçalho do pacote conterá um endereço de 32 bytes no IPv4 ou de 128 Kbits no IPv6.
+      (C)   ao software de roteamento que utiliza o cabeçalho de pacote para escolher uma linha de saída. No caso de um pacote IP,
+            o cabeçalho do pacote conterá um endereço de 32 bits no IPv4 ou de 128 bits no IPv6.
+      (D)   à camada de enlace e tratado pelos protocolos de link que o direcionam a uma linha de saída. No caso de um pacote IP, o
+            cabeçalho do pacote conterá um endereço de 16 bytes no IPv4 ou de 128 bytes no IPv6.
+      (E)   à camada de rede e tratado pelos protocolos dessa camada que o direcionam a uma linha de saída. No caso de um pacote
+            IP, o cabeçalho do pacote conterá um endereço de 32 Kbytes no IPv4 ou de 128 Kbytes no IPv6.
+
+34.   Considere os protocolos HSRP e VRRP e suas corretas e respectivas características. É correto afirmar que
+      (A)   em HSRP, ao invés de termos os papeis “active” e “standby”, usa-se “master” e “backup”.
+      (B)   o HSRP é independente de fabricante, enquanto o VRRP é proprietário Cisco.
+      (C)   o HSRP utiliza somente quatro estados para os roteadores que fazem parte do grupo. O protocolo define quais ações eles
+            poderão realizar.
+      (D)   no VRRP, o endereço IP do grupo VRRP (o VIP) é o endereço IP de um dos roteadores. No HSRP, o endereço VIP do
+            grupo HSRP é um endereço exclusivo.
+      (E)   um dos estados que o VRRP pode assumir é o Speak State. Nesse estado, o roteador encaminha mensagens hello e par-
+            ticipa efetivamente da eleição do roteador.
+
+35.   Ao pesquisar algumas definições de características no contexto de comunicação de dados em redes de computadores e
+      internet, um Analista verificou que:
+        I. ocorre quando um invasor mal-intencionado transmite um grande número de segmentos SYN a um servidor, simulando
+             que cada um deles provém de um cliente diferente, forjando os endereços IP de origem dos datagramas.
+       II. refere-se à variação no atraso entre pacotes pertencentes ao mesmo fluxo.
+      III. refere-se ao tempo que leva para uma mensagem inteira chegar de forma completa no seu destino, desde o momento em
+             que o primeiro bit é enviado da origem. Considera quatro componentes: tempo de propagação, tempo de transmissão,
+             tempo de fila e retardo de processamento.
+      As definições I, II e III são, correta e respectivamente, correspondentes a
+      (A)   spanning   –   timing     –   latência.
+      (B)   flooding   –   jitter     –   latência.
+      (C)   jitter     –   latência   –   timing.
+      (D)   flooding   –   timing     –   jitter.
+      (E)   binding    –   jitter     –   flooding.
+TJUCE-An.Jud.-CC-Infraestrutura-D04                                                                                              9
+                                               Caderno de Prova ’D04’, Tipo 001
+36.   Considere as seguintes características de cabos de rede de computadores:
+
+        I. Fios de cobre isolados dentro de uma capa protetora de alumínio para cancelar qualquer interferência externa. Sua sigla
+             refere-se à quantidade de isolamento em torno de um conjunto de fios e, portanto, à sua imunidade a ruído. É usado em
+             redes de computadores, como Ethernet ou Token Ring. Sua impedância característica é de 150 ohms.
+
+       II. Cabo flexível e fácil de manusear, com cerca de 0,64 cm de espessura. Ele pode ser usado para a maioria dos tipos de
+             redes. Pode suportar um sinal de uma distância aproximada de 185 m, antes que o sinal comece a sofrer atenuação. Está
+             incluído em um grupo chamado RG-58 e possui uma impedância de 50 ohms.
+
+      III. Permite o envio de grandes quantidades de dados a grandes distâncias, com velocidades semelhantes às do rádio. É
+             imune à interferência eletromagnética. É também usado em redes locais. Seu núcleo possui um índice de refração cons-
+             tante ao longo da seção cilíndrica e possui alta dispersão modal.
+
+      Os itens I, II e III são, correta e respectivamente, definições de:
+
+      (A)   par trançado blindado –    coaxial thinnet        – fibra óptica multimodo tipo de índice escalonado.
+      (B)   coaxial thicknet       –   100BASE-TX Cat5 – 10GBASE-T.
+      (C)   10BASE-T               –   100BASE-TX Cat5 – 10GBASE-T.
+      (D)   100BASE-TX Cat5        –   coaxial thicknet       – fibra óptica multimodo tipo de índice gradual com expansão radial.
+      (E)   par trançado blindado –    coaxial thinnet        – fiber channel monomodo com expansão radial.
+
+37.   Utilizando os servidores OpenLDAP e Active Directory, um Analista necessitou interconectar e integrar as bases LDAP e Active
+      Directory. Para tanto, ele utilizou um software que facilita a integração dessas bases que é o
+      (A)   Active Directory Connector Service (ADCS).
+      (B)   LDAP Synchronization Directory Integrator (LSI).
+      (C)   Lightweigth Directory Synchronization Conversor (LSC).
+      (D)   Active Directory Interconnector Service (ADIS).
+      (E)   LDAP Synchronization Connector (LSC).
+
+38.   No IPv6, um mecanismo foi acrescentado para permitir que a origem solicite tratamento especial de um pacote. Ele identifica,
+      juntamente com os campos Source Address e Destination Address, o fluxo ao qual o pacote pertence. Permite associar data-
+      gramas que fazem parte da comunicação entre duas aplicações. Esse mecanismo pode ser usado para suportar tráfego como
+      áudio e vídeo em tempo real. Trata-se do
+
+      (A)   payload length.
+
+      (B)   fragment offset.
+
+      (C)   hop limit.
+
+      (D)   flow label.
+
+      (E)   type of service.
+
+39.   O Best Practices Analyzer (BPA), ou Analisador de Boas Práticas, examina um servidor que está executando o Windows Server
+      Essentials e apresenta um relatório que descreve problemas e fornece recomendações para solucioná-los. Considere as reco-
+      mendações abaixo:
+
+        I. Desabilitar a filtragem de IP, pois se a filtragem de IP estiver habilitada, o tráfego de rede poderá ser bloqueado.
+       II. Configurar o serviço MSDTC (Distributed Transaction Coordinator) para iniciar automaticamente por padrão, pois se o ser-
+             viço for interrompido, algumas funções do SQL Server podem falhar.
+
+      III. Desabilitar o Active Directory Web Services (ADWS), pois se os serviços estiverem habilitados, aplicações-clientes, como
+             o Windows PowerShell, não poderão ser acessadas.
+
+      Está correto o que se afirma APENAS em
+
+      (A)   I e III.
+      (B)   I e II.
+      (C)   II.
+
+      (D)   II e III.
+
+      (E)   III.
+10                                                                                                    TJUCE-An.Jud.-CC-Infraestrutura-D04
+                                                   Caderno de Prova ’D04’, Tipo 001
+40.   Considere o script de firewall abaixo, que não contém erros, para ser executado em ambiente Linux Kernel 5.0 ou superior, em
+      condições ideais. O código contém uma linha de comentário seguida de comando(s) que o executa(m).
+
+      #!/bin/bash
+      #1) Abre para uma faixa de endereços da rede local
+      iptables -A INPUT -p tcp --syn -s 192.168.0.0/255.255.255.0 -j ACCEPT
+
+      #2) Abre uma porta (inclusive para a Internet)
+      iptables -A INPUT -p tcp --destination-port 80 -j ACCEPT
+
+      # 3) Ignora pings
+      echo "1" > /proc/sys/net/ipv4/icmp_echo_ignore_all
+
+      # 4) Proteções diversas contra portscanners, ping of death, ataques DoS etc.
+      iptables -A FORWARD -p icmp --icmp-type echo-request -m limit --limit 1/s -j ACCEPT
+      iptables -A FORWARD -p tcp -m limit --limit 1/s -j ACCEPT
+      iptables -A FORWARD -m state --state ESTABLISHED,RELATED -j ACCEPT
+      iptables -A FORWARD -p tcp --tcp-flags SYN,ACK,FIN,RST RST -m limit --limit 1/s -j ACCEPT
+      iptables -A FORWARD --protocol tcp --tcp-flags ALL SYN,ACK -j DROP
+      iptables -A FORWARD -m unclean -j DROP
+
+      # 5) Abre para a interface de loopback. Essencial para o KDE e outros programas gráficos funcionarem adequadamente.
+      iptables -A INPUT -p tcp --syn -s 127.0.0.1/255.0.0.0 -j ACCEPT
+
+      # 6) Ignora qualquer pacote de entrada, vindo de qualquer endereço, a menos que especificado o contrário acima, bloqueando tudo.
+      I
+
+      Analisando o script, para fazer o que consta no comentário indicado por # 6, a lacuna I deve ser corretamente preenchida com:
+      (A)    iptables -A INPUT -p tcp --syn -m ACCEPT
+      (B)    iptables -A OUPUT -p tcp_ip --syn -j BLOCK
+      (C)    iptables -P INPUT -j protocol tcp --syn -a DROP
+      (D)    iptables -A INPUT -p tcp --syn -j DROP
+      (E)    iptables -J FORWARD -p tcp --syn -m BLOCK
+
+41.   No sistema de arquivos
+      (A)    NTFS, cada arquivo é armazenado como um descritor na Map File Table. As 32 primeiras entradas desta tabela são man-
+             tidas para o BitMap, que registra os BadClusters, com informações sobre clusters incorretos.
+      (B)    ReiserFS, a alocação compacta de arquivos não é permitida. Como alternativa, são armazenados tails de arquivos ou ar-
+             quivos pequenos sem os metadados para não usar grandes blocos de sistema de arquivos com a mesma finalidade.
+      (C)    EXT3, que substituiu o EXT2, as operações de gravação de arquivos transacionais possuem um registro. O EXT4, que ex-
+             pandiu o EXT3 em versões mais recentes do Windows suporta informações otimizadas de alocação de arquivos.
+      (D)    SMP, que é o mais recente desenvolvimento da Microsoft (disponível para o Windows 10), a arquitetura é organizada na
+             forma de B+Tree.
+      (E)    JFS, criado pela IBM, o espaço para inodes de disco é alocado dinamicamente, conforme necessário. Pode-se escolher
+             implementar o JFS, que é recomendado para ambientes de 32 bits, ou o JFS2, que oferece a funcionalidade de 64 bits.
+
+42.   Considere que uma Analista, em um ambiente Linux devidamente configurado para trabalhar com LVM em condições ideais, di-
+      gitou os comandos abaixo e precisa de ajuda para encontrar comandos que realizem algumas ações.
+            I. # pvcreate /dev/sdb1
+       II. # pvscan
+      III. # vgcreate storage /dev/sdb1
+       IV. # vgdisplay
+        V. criar um LV de 200GB chamado Dados no VG criado em III
+       VI. mostrar detalhes do LV criado
+      É correto afirmar que
+      (A)    I cria um PV denominado sdb1 e II realiza a formatação do disco para permitir a criação do PV.
+      (B)    III cria um storage para permitir a criação de um VG e IV mostra a capacidade do storage criado.
+      (C)    V deve ser preenchido com # lvcreate -L 200G -n Dados storage
+      (D)    VI deve ser preenchido com # lvscan
+      (E)    VI deve ser preenchido com # lvshow e I solicita permissão para criação de um PV no disco sdb1.
+TJUCE-An.Jud.-CC-Infraestrutura-D04                                                                                                      11
+                                              Caderno de Prova ’D04’, Tipo 001
+43.   Há três tipos de configurações de clusters de alta disponibilidade (HA) mais utilizadas. Essas técnicas de implementação melho-
+      ram a confiabilidade, mas cada uma atinge o failover de uma maneira diferente. Considere os exemplos a seguir destes tipos de
+      configurações com base em dois nós:
+
+        I. Com o primeiro nó no modo ativo, o segundo estará em espera. Esse segundo nó é o servidor de failover, pronto para
+             funcionar como backup caso o servidor primário pare de funcionar por qualquer motivo. Enquanto isso, os clientes só se
+             conectarão ao servidor ativo, a menos que algo dê errado.
+
+       II. Os dois servidores devem ter as mesmas configurações. Dessa forma, caso o servidor de failover precise assumir o con-
+             trole, os clientes não serão capazes de perceber a diferença no serviço. Embora o nó em espera esteja sempre execu-
+             tando em uma configuração de espera ativa, a utilização real do nó em espera é quase zero.
+
+      III. Os dois nós executam ativamente o mesmo tipo de serviço ao mesmo tempo e, assim, o cluster atinge o balanceamento
+             de carga, já que evita que qualquer nó fique sobrecarregado, distribuindo cargas de trabalho pelos nós de maneira mais
+             uniforme. As configurações individuais dos nós devem ser idênticas para garantir redundância e operação contínua do
+             cluster HA.
+
+      Os tipos de configuração I, II e III são, correta e respectivamente:
+      (A)   Ativo/Passivo – Ativo/Standby – Ativo/Ativo.
+      (B)   Ativo/Standby – Ativo/Ativo     – Ativo/Passivo.
+      (C)   Ativo/Ativo    – Ativo/Standby – Ativo/Passivo.
+      (D)   Ativo/Standby – Ativo/Passivo – Ativo/Ativo.
+      (E)   Ativo/Passivo – Ativo/Ativo     – Ativo/Standby.
+
+44.   Considere que um Analista instalou o site principal no domínio example.com e o site proxy está instalado no subdomínio
+      blog.domain.com. Ambos são alimentados pelo Apache em um servidor web que trabalha com Linux em condições ideais.
+      Em seguida, o Analista instalou e configurou o Nginx como um proxy reverso no servidor principal. Depois ele salvou o arquivo
+      hospedeiro virtual e ativou o novo host virtual criando um link simbólico para os arquivos chamado example.com.conf tanto
+      no diretório /etc/nginx/sites-available quanto no diretório /etc/nginx/sites-enabled:
+
+      sudo ln -s /etc/nginx/sites-available/example.com.conf /etc/nginx/sites-enabled/example.com.conf
+      Neste ponto, o Analista quer:
+        I. Testar o Nginx para verificar se há erros de configuração.
+       II. Não havendo erros, recarregar o Nginx para instalar as mudanças.
+      Para realizar as ações I e II, o Analista deve utilizar, correta e respectivamente, os comandos:
+
+      (A)   sudo nginx -t
+            sudo systemctl reload nginx
+
+      (B)   sudo nginx test
+            sudo nginx proxy proxy_http ssl
+
+      (C)   sudo nginx -t
+            sudo nginx reloading
+
+      (D)   sudo nginx ProxyPass /blog http://blog.domain.com
+            sudo system reload nginx
+
+      (E)   sudo nginx ProxyPass /blog http://example.com
+            sudo nginx systemctl reload
+
+45.   Considere que uma Analista está fazendo a transferência de um arquivo de um servidor para outro, a partir de um comando scp,
+      em ambiente Linux configurado em condições ideais. Isso deve ser feito respeitando-se a sintaxe do comando scp:
+
+      scp [opções] [origem username@IP]:/[diretório e nome do arquivo] [destino username@IP]:/[diretório de destino]
+
+      Como o scp usa encriptação SSH, a Analista vai precisar de uma senha SSH para a transferência do arquivo acontecer. O
+      primeiro passo, então, é digitar um comando para gerar um par de chaves SSH no terminal, para a autenticação e configuração
+      da conexão. Este comando é:
+      (A)   ssh keygenerator
+
+      (B)   ssh keygen [@IP]
+
+      (C)   ssh-keygen id_rsa.pub
+
+      (D)   ssh-keygen -t rsa
+
+      (E)   ssh keygenerator [@IP]
+12                                                                                                 TJUCE-An.Jud.-CC-Infraestrutura-D04
+                                                   Caderno de Prova ’D04’, Tipo 001
+46.   O algoritmo de criptografia simétrica utilizado para cifrar as mensagens e arquivos, desde a criação dos sistemas, é o 3DES. No
+      entanto, com o passar do tempo esse algoritmo tem se tornado obsoleto e já foram descobertas vulnerabilidades que afetam sis-
+      temas que o utilizam. Há inclusive uma publicação do NIST de 2019, em que esse instituto recomenda a substituição do 3DES
+      por outro algoritmo mais seguro até 2023.
+
+      SOLICITAÇÃO
+                                                        I , utilizando chaves de 
+      Substituir o algoritmo de criptografia 3DES pelo                         II , em todas as mensagens e arquivos
+      transmitidos no âmbito dos referidos sistemas.
+                                                                                                          (Banco Central do Brasil, 2021)
+
+      Considerando que o algoritmo de criptografia mencionado no texto acima também utiliza criptografia simétrica, as lacunas I e II
+      devem ser preenchidas, correta e respectivamente, por:
+      (A)   RSA    – 1024 bits
+      (B)   AES    – 256 bits
+      (C)   SHA1 – 160 bytes
+      (D)   RSA    – 256 bits
+      (E)   AES    – 1024 bits
+
+47.   “Se um processo, serviço, ação ou métrica falhar em fornecer valor ou produzir um resultado útil, deve-se eliminá-lo. Em um
+      processo deve ser utilizado o mínimo número de etapas necessárias para atingir os objetivos. Usando uma abordagem baseada
+      em resultados, soluções práticas que entreguem resultados satisfatórios certamente serão produzidas.”
+      Esta recomendação da ITIL 4 corresponde ao princípio
+      (A)   Optimize and automate.
+
+      (B)   Think and work holistically.
+
+      (C)   Keep it simple and practical.
+
+      (D)   Focus on value.
+
+      (E)   Value Stream and Processes.
+
+48.   No Linux, em condições ideais, o Docker é disponibilizado com três redes por padrão. Essas redes oferecem configurações
+      específicas para o gerenciamento do tráfego de dados e
+      (A)   deve-se, para visualizar as redes no Docker, utilizar o comando: docker network -show
+
+      (B)   todos os containers que estão na rede None poderão se comunicar via protocolo TCP/IP. Se uma pessoa souber qual é o endereço
+            IP do container que deseja conectar, é possível enviar tráfego para ele, pois estão todos na mesma rede IP (172.17.0.0/24).
+      (C)   a rede Host tem como objetivo isolar o container para comunicações externas. A rede não recebe qualquer interface para
+            comunicação externa. A única interface de rede IP será a localhost. Essa rede, normalmente, é utilizada para containers
+            que manipulam apenas arquivos de backup, sem necessidade de enviá-los via rede para outro local.
+      (D)   a rede None tem como objetivo entregar para o container todas as interfaces existentes no docker none. Isso agiliza a
+            entrega dos pacotes, uma vez que não há host no caminho das mensagens. Mas o uso de um host pode ser importante
+            para a segurança e a gerência do tráfego.
+      (E)   Bridge é a rede padrão para qualquer container iniciado no Docker, a menos que seja, explicitamente, associada outra
+            rede a ele. Os containers da rede default bridge podem acessar uns aos outros somente através de seus endereços IP,
+            a menos que se utilize a opção --link
+
+49.   Para usar o GitLab CI/CD são necessários os seguintes passos iniciais:
+      – Certificar-se que haja runners disponíveis para executar os jobs. Se não houver um runner, instalar o GitLab Runner e
+        registrar um runner para a instância, projeto ou grupo.
+
+                          I na raiz do repositório. Este arquivo é o local onde se definem os jobs CI/CD.
+      – Criar um arquivo 
+
+      – Quando for feito o commit deste arquivo no repositório, o runner executará os jobs.
+      Preenche corretamente a lacuna I:
+      (A)   .gitlab-cd.yaml
+      (B)   .gitlab-cd.yml
+      (C)   .gitlab-cicd.yaml
+      (D)   .gitlab-cicd.yml
+      (E)   .gitlab-ci.yml
+
+TJUCE-An.Jud.-CC-Infraestrutura-D04                                                                                                   13
+                                              Caderno de Prova ’D04’, Tipo 001
+50.   Com base na documentação do Azure, considere:
+        I. Algo que você sabe, normalmente, uma senha.
+       II. Algo que você tem, como um dispositivo confiável que não seja facilmente duplicado, como um telefone ou uma chave de
+             hardware.
+      III. Algo que você imagina, como um pseudônimo, um apelido, um personagem.
+       IV. Algo que você é, como uma biometria, uma impressão digital ou uma verificação facial.
+      A autenticação multifator do Azure AD funciona, segundo a documentação, exigindo dois ou mais dos métodos de autenticação
+      válidos contidos APENAS em
+      (A)   I, II e IV.
+      (B)   II, III e IV.
+      (C)   III e IV.
+      (D)   I, II e III.
+      (E)   I e II.
+
+51.   Considere o bloco de código abaixo, presente em uma página HTML.
+      <body>
+          <script>
+              var a = 2;
+              var b = 3;
+              if (a!=b)
+                  document.write("M1");
+               else {
+                  document.write("M2");
+               }
+          </script>
+      </body>
+
+      Ao carregar essa página em um navegador web,
+      (A)   ocorrerá um erro decorrente do uso de ! na comparação a!=b.
+      (B)   ocorrerá um erro, pois document.write("M1"); deve estar entre chaves.
+      (C)   será exibido o valor M1.
+      (D)   ocorrerá um erro, pois document.write("M2"); não deve estar entre chaves.
+      (E)   será exibido o valor M2.
+
+52.   A principal diferença entre WPA e WPA2 é o algoritmo de encriptação usado. Enquanto WPA usa
+      (A)   RC4, WPA2 usa EAP-FAST.
+      (B)   RADIUS, WPA2 usa RSA ou MAC-FILTERING.
+      (C)   TKIP, WPA2 usa TKIP ou CCMP.
+      (D)   LEAP, WPA2 usa PEAP.
+      (E)   TKIP, WPA2 usa RSA ou CNMP.
+
+53.   Todas as mensagens SSL são transportadas em SSL records, que identificam que tipo de mensagens estão nos registros, o
+      comprimento das mensagens e a versão do SSL que está sendo usada. Um campo type, de 8 bits, identifica o tipo de mensa-
+      gem contida nestes SSL records, que podem ser
+      (A)   CERTIFICATE_REQUEST, CERTIFICATE e CERTIFICATE_VERIFY
+      (B)   SERVER_KEY_EXCHANGE ou CLIENT_KEY_EXCHANGE
+      (C)   HELLO_REQUEST, CLIENT_HELLO, SERVER_HELLO e CERTIFICATE
+      (D)   HELLO_REQUEST, CERTIFICATE, CERTIFICATE_VERIFY e FINISHED
+      (E)   CHANGE_CIPHER_SPEC, ALERT, HANDSHAKE ou APPLICATION_DATA
+
+54.   A Role Based Access Control (RBAC)
+      (A)   é limitada a ambientes Microsoft, como Windows Server e Azure.
+      (B)   permite que usuários obtenham acesso a recursos com base em sua função no negócio e não apenas em seus privilégios
+            de rede.
+      (C)   concentra-se mais nas restrições de acesso do que nas descrições de cargos dos funcionários.
+      (D)   é restrita ao trabalho nos limites de um único domínio ou floresta do Windows Server ou Azure.
+      (E)   só pode ser utilizada para criação de grupos do Active Directory do Windows.
+
+14                                                                                                  TJUCE-An.Jud.-CC-Infraestrutura-D04
+                                                   Caderno de Prova ’D04’, Tipo 001
+55.   Para realizar um Teste de Intrusão em uma empresa, uma Analista executou um ataque a um computador com o Windows de
+      um dos segmentos da rede. Após invadir o alvo, executou o comando hashdump e gravou os dados obtidos em seu com-
+      putador para análise posterior. Esse procedimento faz parte de uma das fases do ataque que é chamada de
+      (A)   privilege escalation.
+
+      (B)   situational consciousness.
+
+      (C)   persistence configuration.
+
+      (D)   exfiltration.
+
+      (E)   scanning.
+
+56.   Um Analista executou uma análise dinâmica em um malware para Windows que, ao contrário da estática, pode mostrar
+      (A)   strings interessantes (IOCs).
+
+      (B)   entropia do arquivo e das sessões.
+
+      (C)   imports e exports de DLLs.
+
+      (D)   o comportamento do malware na máquina.
+
+      (E)   se o arquivo do malware possui algum packer.
+
+57.   Os tipos de VPN são diferenciados pelos vários protocolos de tunelamento comumente utilizados, como
+      (A)   SSH e OSPF.
+
+      (B)   SSTP e MGCP com TLS.
+
+      (C)   PPTP e L2TP com IPSec.
+
+      (D)   OpenVPN e IGMP.
+
+      (E)   IKEv2 e DCCP com SSL.
+
+58.   Existem três componentes principais do serviço AWS WAF que são configurados para ajudar a proteger aplicativos da web.
+      Esses componentes são Conditions, Rules e
+      (A)   Framework Properties (FP).
+
+      (B)   Web Role Based Access (WRBA).
+
+      (C)   Recovery Security Strategy (RSS).
+
+      (D)   Encryption Web Policy (EWP).
+
+      (E)   Web Access Control Lists (ACLs).
+
+                                                           o
+59.   Com relação à gestão de usuários, a Resolução n 396/2021 afirma que cada órgão do Poder Judiciário, com exceção do
+      Supremo Tribunal Federal (STF), deverá implementar a gestão de usuários de sistemas informatizados composta de gerencia-
+      mento de
+      (A)   identidades, de acessos e de privilégios.
+
+      (B)   permissões, de credenciais e de informações.
+
+      (C)   ativos de informação, de acessos e de privilégios.
+
+      (D)   senhas, de dados e de privilégios.
+
+      (E)   identidades, de permissões e de perfis.
+
+                              o
+60.   De acordo com a Lei n 12.965/2014, na provisão de conexão à internet, cabe ao administrador de sistema autônomo respectivo
+      o dever de manter os registros de conexão, sob sigilo, em ambiente controlado e de segurança, pelo prazo de
+      (A)   6 meses.
+
+      (B)   1 ano.
+
+      (C)   2 anos.
+
+      (D)   3 anos.
+
+      (E)   5 anos.
+
+TJUCE-An.Jud.-CC-Infraestrutura-D04                                                                                          15
+                                                    Caderno de Prova ’D04’, Tipo 001
+
+                                                   PROVA DISCURSIVA-ESTUDO DE CASO
+     Instruções Gerais:
+     Conforme Edital publicado, capítulo 10. [...] 10.4 A Prova Discursiva-Estudo de Caso constará de 01 (uma) questão prática, para a qual o
+     candidato deverá apresentar, por escrito, as soluções. O tema versará sobre conteúdo pertinente a Conhecimentos Específicos, conforme
+     programa constante do Anexo III deste Edital, adequado às atribuições do cargo/área/especialidade para o qual o candidato se inscreveu. [...]
+     10.5 A Prova Discursiva-Estudo de Caso terá caráter eliminatório e classificatório. A questão será avaliada na escala de 0 (zero) a 10 (dez)
+     pontos, considerando-se habilitado o candidato que tiver obtido nota igual ou superior a 5 (cinco). [...] 10.9 Na Prova Discursiva-Estudo de
+     Caso, deverá ser rigorosamente observado o limite máximo de 30 (trinta) linhas para cada questão, sob pena de perda de pontos a serem
+     atribuídos ao Estudo de Caso. 10.10 A folha para rascunho no Caderno de Provas é de preenchimento facultativo. Em hipótese alguma o
+     rascunho elaborado pelo candidato será considerado na correção da Prova Discursiva-Estudo de Caso pela Banca Examinadora.
+
+
+     QUESTÃO 1
+     Um Analista deseja construir e configurar uma rede corporativa considerando os conceitos, processos e ferramentas de
+     segurança em um ambiente de computação em nuvem Azure, cuja arquitetura e recursos são apresentados na figura abaixo.
+
+
+
+
+     Considerando a arquitetura e recursos presentes na figura, escreva um texto que apresente:
+     a. O objetivo do Log Analytics (LA).
+     b. A função do Network Security Group (NSG).
+     c. A relação do Network Security Group (NSG) com o Log Analytics (LA).
+     d. A colaboração do uso do Bastion com a segurança da infraestrutura em nuvem, indicando o protocolo usado.
+     e.    O papel do Application Gateway (AG) na infraestrutura, com um exemplo de utilização.
+     f.    Como o Sentinel pode colaborar com a segurança do ambiente.
+     Atenção:      No texto deve ser indicado o item ao qual cada explicação se refere.
+
+          01
+
+          02
+
+          03
+
+          04
+
+          05
+
+          06
+
+          07
+
+          08
+
+          09
+
+          10
+
+          11
+
+          12
+
+          13
+
+
+16                                                                                                             TJUCE-An.Jud.-CC-Infraestrutura-D04
+                                      Caderno de Prova ’D04’, Tipo 001
+
+     14
+
+     15
+
+     16
+
+     17
+
+     18
+
+     19
+
+     20
+
+     21
+
+     22
+
+     23
+
+     24
+
+     25
+
+     26
+
+     27
+
+     28
+
+     29
+
+     30
+
+
+
+
+TJUCE-An.Jud.-CC-Infraestrutura-D04                                      17
+

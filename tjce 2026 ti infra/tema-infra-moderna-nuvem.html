@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tema 4 - Infra Moderna e Nuvem</title>
+  <style>
+    :root { --bg:#0b1220; --card:#101a2f; --text:#ecf2ff; --muted:#9bb0d6; --accent:#67e8f9; --gold:#f59e0b; --border:rgba(103,232,249,.2);} *{box-sizing:border-box}
+    body{margin:0;font-family:"Trebuchet MS",Verdana,sans-serif;background:linear-gradient(180deg,#050a14 0%,var(--bg) 100%);color:var(--text);padding:28px 16px}
+    .wrap{max-width:980px;margin:0 auto}.top{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px}
+    .btn{padding:8px 12px;border:1px solid var(--border);border-radius:999px;color:var(--text);text-decoration:none;background:rgba(16,26,47,.86);font-size:.9rem}
+    .hero,.card{border:1px solid var(--border);border-radius:16px;background:rgba(16,26,47,.92)}.hero{padding:18px;margin-bottom:14px}.card{padding:16px}
+    h1{margin:0 0 6px;font-size:1.4rem}.muted{color:var(--muted)} ul{margin:0;padding-left:18px} li{margin:8px 0;line-height:1.45}.gold{color:var(--gold);font-weight:700}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <nav class="top">
+      <a class="btn" href="macetes-tjce-fcc-infra.html">Menu</a>
+      <a class="btn" href="tema-linux-windows.html">Tema anterior</a>
+      <a class="btn" href="tema-governanca-normativos.html">Proximo tema</a>
+    </nav>
+
+    <section class="hero">
+      <h1>Tema 4: Infra Moderna + Nuvem</h1>
+      <p class="muted">Foco FCC: operacao real, nao so teoria.</p>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <ul>
+          <li><span class="gold">Container</span> compartilha kernel do host.</li>
+          <li><span class="gold">VM</span> inclui SO completo e maior isolamento.</li>
+          <li><span class="gold">Docker</span>: imagem, container, volume, rede.</li>
+          <li>Bridge e padrao; host/none para casos especificos.</li>
+          <li>Frase: <span class="gold">VM isola mais, container entrega mais rapido</span>.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">Kubernetes</span> orquestra containers.</li>
+          <li>Escalabilidade, self-healing e deploy controlado.</li>
+          <li>Pods, nodes, servicos e afinidade sao pontos classicos.</li>
+          <li><span class="gold">Rancher</span> ajuda gestao de clusters.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">CI/CD</span>: build, teste, scan, deploy.</li>
+          <li>GitLab CI: runner + <span class="gold">.gitlab-ci.yml</span>.</li>
+          <li>Pipeline boa reduz erro manual e acelera entrega.</li>
+          <li>DevSecOps: seguranca integrada no pipeline.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li>Nuvem: <span class="gold">IaaS</span>, <span class="gold">PaaS</span>, <span class="gold">SaaS</span>.</li>
+          <li>Publica, privada e hibrida.</li>
+          <li>AWS/Azure: IAM, MFA, WAF, logs, segmentacao.</li>
+          <li>HA em nuvem: balanceador + auto scaling + arquitetura resiliente.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">Dockerfile</span>: EXPOSE documenta porta da aplicacao.</li>
+          <li>docker history mostra camadas da imagem.</li>
+          <li>Volumes persistem dados fora do ciclo de vida do container.</li>
+          <li>docker run -d executa em background.</li>
+          <li>Bridge e rede default na maioria dos cenarios.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li>Kubernetes: declarativo com <span class="gold">kubectl apply</span>.</li>
+          <li>Imperativo com create para acoes pontuais.</li>
+          <li>GitLab CI passos iniciais: runner + arquivo pipeline.</li>
+          <li>Cluster HA: ativo-passivo (reserva), ativo-ativo (distribui carga).</li>
+          <li>Frase: <span class="gold">orquestracao boa reduz indisponibilidade</span>.</li>
+        </ul>
+      </article>
+    </section>
+  </main>
+</body>
+</html>

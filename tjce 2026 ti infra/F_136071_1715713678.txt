@@ -1,0 +1,853 @@
+                                                 TRIBUNAL DE JUSTIÇA DO
+                                               ESTADO DE MATO GROSSO DO
+                                                          SUL
+                                                                                                     TARDE
+
+                   TÉCNICO DE NÍVEL SUPERIOR - ANALISTA DE
+                   SISTEMAS COMPUTACIONAIS - ANALISTA DE
+                   INFRAESTRUTURA DE REDES
+                   PROVA OBJETIVA – NÍVEL SUPERIOR
+                                                                                          TIPO 1 – BRANCA
+       SUA PROVA                                               INFORMAÇÕES GERAIS
+
+Além deste caderno de provas contendo 60 questões          As questões objetivas têm cinco alternativas de
+objetivas, você receberá do fiscal de sala:                 resposta (A, B, C, D, E) e somente uma delas está
+                                                            correta
+   uma folha de respostas das questões objetivas
+                                                           Verifique se seu caderno está completo, sem repetição
+                                                            de questões ou falhas. Caso contrário, notifique
+       TEMPO                                                imediatamente o fiscal da sala, para que sejam
+                                                            tomadas as devidas providências
+   3 horas e 30 minutos é o período disponível            Confira seus dados pessoais, especialmente nome,
+    para a realização da prova, já incluído o tempo         número de inscrição e documento de identidade, e
+    para a marcação da folha de respostas da prova          leia atentamente as instruções para preencher a folha
+    objetiva                                                de respostas
+   2 horas e 30 minutos após o início da prova é          Use somente caneta esferográfica, fabricada em
+    possível retirar-se da sala, sem levar o caderno        material transparente, com tinta preta ou azul
+    de provas
+                                                           Assine seu nome apenas no(s) espaço(s) reservado(s)
+ 30 minutos antes do término do período de
+    prova é possível retirar-se da sala levando o          Confira o cargo, a cor e o tipo do seu caderno de
+    caderno de provas                                       provas. Caso tenha recebido caderno de cargo, cor ou
+                                                            tipo diferente do impresso em sua folha de respostas,
+                                                            o fiscal deve ser obrigatoriamente informado para o
+       NÃO SERÁ PERMITIDO                                   devido registro na ata da sala
+                                                           O preenchimento das respostas da prova objetiva é de
+   Qualquer tipo de comunicação entre os candidatos        sua responsabilidade e não será permitida a troca da
+    durante a aplicação da prova                            folha de respostas em caso de erro
+   Usar o sanitário ao término da prova, após deixar      Para fins de avaliação, serão levadas em consideração
+    a sala                                                  apenas as marcações realizadas na folha de respostas
+                                                            da prova objetiva, não sendo permitido anotar
+                                                            informações relativas às respostas em qualquer outro
+                                                            meio que não seja o caderno de provas
+                                                           Será coletada a impressão digital de todos os
+                                                            candidatos em campo específico da lista de presença
+                                                           Os candidatos serão submetidos ao sistema de
+                                                            detecção de metais quando do ingresso e da saída de
+                                                            sanitários durante a realização das provas
+                                                            Boa sorte!
+Tribunal de Justiça do Estado de Mato Grosso do Sul                                                                  FGV Conhecimento
+
+                                                                        §10º Os séculos se passaram, e, à medida que as rotas comerciais
+Língua Portuguesa                                                       foram se espalhando pelo mundo, o mesmo aconteceu com a
+                                                                        banana [...].
+Texto – A bananeira está em perigo. Conheça as soluções.                §11º Foi quando ela chegou aos EUA, contudo, que a coisa
+(Fragmento; adaptado)                                                   mudou de patamar. [...] Em menos de duas décadas, os
+                                                                        americanos já estavam comendo mais bananas do que maçãs ou
+Robusta, nutritiva e abundante, ela é a fruta mais consumida do         laranjas. De olho nesse mercado, a Boston Fruit Company
+mundo. Mas também tem um ponto fraco: as bananeiras são                 começou a comprar terras na América Central para cultivo e
+geneticamente idênticas, clones umas das outras. Isso significa         exportação da banana a partir de 1885.
+que uma doença poderia arrasar a produção mundial. Entenda o            §12º Criada em 1899, a United Fruit Company (UFC) – atual
+que ameaça a banana – e a corrida para tentar salvá-la.                 Chiquita Brands International – se tornou a maior empresa do
+                                                                        setor. Era tão poderosa que, na primeira metade do século 20,
+Por Bruno Garattoni, Renata Cardoso e Leonardo Pujol                    mandava nos governos da Guatemala e de Honduras, onde
+                                                                        mantinha plantações – foi daí que surgiu a expressão “república
+                                                                        das bananas”.
+§1º Carlos II, rei da Espanha entre 1665 e 1700, também era
+                                                                        [...]
+conhecido como Carlos, o Enfeitiçado. O apelido veio da
+aparência dele, que tinha o rosto estranhamente deformado, do           §13º Em 1951, Juan Jacobo Árbenz Guzmán, de apenas 38 anos,
+seu déficit cognitivo (só começou a falar aos 4 anos de idade) e        foi eleito presidente da Guatemala com a promessa de fazer duas
+dos muitos problemas de saúde que enfrentou ao longo da vida.           reformas: uma trabalhista e outra agrária, que garantissem
+                                                                        salários justos e devolvessem parte da terra aos pequenos
+§2º A bananeira é o oposto disso. Trata-se de uma planta robusta
+                                                                        agricultores.
+e viçosa, que cresce rápido e dá muitos frutos: a banana é a fruta
+mais consumida do mundo, com 125 milhões de toneladas                   §14º A United Fruit, obviamente, não gostou. Se opôs duramente
+produzidas por ano [...].                                               ao novo governo, e em agosto de 1953 conseguiu convencer o
+                                                                        presidente dos EUA, Dwight D. Eisenhower, a patrocinar um
+§3º Carlos II foi o resultado de uma série de casamentos
+                                                                        golpe de estado na Guatemala.
+consanguíneos, em que os membros da dinastia Habsburgo
+tiveram filhos entre si ao longo de várias gerações. [...] Mas a        §15º A operação, de codinome PBSuccess, foi organizada pela CIA
+prática teve uma consequência terrível: os descendentes ficaram         – que armou, financiou e treinou 480 homens, liderados pelo
+mais e mais parecidos geneticamente, e foram acumulando                 coronel guatemalteco Carlos Castillo Armas, e também organizou
+mutações causadoras de doenças.                                         um bloqueio naval.
+[...]                                                                   §16º As tropas de Castillo invadiram o país em 18 de junho de
+                                                                        1954, o Exército não reagiu – e, nove dias depois, o presidente
+§4º A bananeira domesticada, cujas frutas nós comemos, não
+                                                                        Guzmán acabou forçado a renunciar. A Guatemala mergulhou em
+tem sementes. Isso a torna muito mais agradável de consumir. E
+                                                                        uma guerra civil que duraria 36 anos. E a United retomou seu
+também significa que a planta se reproduz de forma assexuada: o
+                                                                        poder. [...]
+agricultor simplesmente corta um pedaço dela e enterra em
+outro lugar.
+§5º Nasce uma nova bananeira – que, eis o problema, é                   Disponível em: https://super.abril.com.br/ciencia/o-futuro-da-
+geneticamente idêntica à anterior. Ela não tem, como Carlos II          banana
+não teve, um pai e uma mãe com genes bem diferentes, cuja
+                                                                        1
+mistura aperfeiçoa o DNA e ajuda a proteger contra doenças. As
+bananeiras são clones – por isso, um único patógeno pode                “Mas a prática teve uma consequência terrível: os descendentes
+exterminá-las todas.                                                    ficaram mais e mais parecidos geneticamente [...]” (Texto 1, 3º
+§6º E já existe um: o Fusarium oxysporum. Trata-se de um fungo          parágrafo)
+que se desenvolve no solo, e infecta as raízes das bananeiras,          Manuais de estilo tendem a desaconselhar a repetição de
+impedindo que elas puxem água e nutrientes.                             palavras, sob a alegação de que isso prejudicaria a eufonia do
+§7º Após a infecção, o solo fica contaminado por mais de 30             texto.
+anos, e não há nada a fazer: o F. oxysporum é imune a todos os          Na passagem acima, porém, a repetição do advérbio “mais”
+agrotóxicos.                                                            desempenha a função de indicar:
+[...]                                                                   (A) ressalva;
+                                                                        (B) intensidade;
+                                                                        (C) progressividade;
+O preço da banana
+                                                                        (D) impessoalidade;
+[...]
+                                                                        (E) desfavorecimento.
+§8º A banana comestível teria surgido no sudoeste asiático.
+Acredita-se que, entre 7 mil e 5 mil a.C., os nativos da Papua-
+Nova Guiné teriam feito cruzamentos e domesticado as
+bananeiras selvagens (cheias de sementes duras, de quebrar os
+dentes). E voilà: desenvolveram bananeiras que produzem frutos
+sem sementes.
+§9º Aqueles pontinhos pretos dentro da banana, caso você esteja
+se perguntando, não são sementes: trata-se de óvulos não
+fecundados. Isso porque os papuásios descobriram um método
+curioso para reproduzir a planta: bastava cortar e replantar um
+pedaço dela.
+[...]
+ Técnico de Nív Sup - Ana de Sis Com - Analista de Infraestrutura de Redes                                Tipo 1 ̶ Branca – Página 3
+Tribunal de Justiça do Estado de Mato Grosso do Sul                                                                      FGV Conhecimento
+
+2                                                                          5
+“Aqueles pontinhos pretos dentro da banana, caso você esteja se            “A banana comestível teria surgido no sudoeste asiático.” (8º
+perguntando, não são sementes [...]” (Texto 1, 9º parágrafo)               parágrafo)
+Nessa passagem, o uso do pronome demonstrativo “aqueles”                   “A Guatemala mergulhou em uma guerra civil que duraria 36
+produz o efeito de:                                                        anos.” (16º parágrafo)
+(A) evidenciar um equívoco dos papuásios;                                  Nas duas passagens acima, o futuro do pretérito exprime
+(B) exprimir concordância entre os cientistas;                             significados distintos.
+(C) expressar perplexidade quanto a uma tese;                              A alternativa em que o futuro do pretérito apresenta,
+(D) simular proximidade entre enunciador e leitor;                         respectivamente, os mesmos significados observados nas
+(E) levantar dúvida em relação a uma constatação.                          passagens acima é:
+                                                                           (A) O acusado alegou que a vítima teria reagido. / Ele avisou que
+                                                                               chegaria tarde;
+3                                                                          (B) Se eu fosse você, não viria. / Mesmo em uma situação
+No texto, predomina a função referencial, na qual o enunciador é               dramática, ele não colaboraria;
+invisibilizado e o conteúdo (ou referente) é colocado em foco.             (C) Antigamente, eu achava que estaria rico aos 30 anos. / Quem
+Apesar disso, há passagens em que se pode constatar a presença                 aceitaria uma proposta dessas?!;
+da função emotiva, na qual o enunciador ganha proeminência na              (D) Você me ajudaria com esse problema? / Antigamente, eu
+construção do discurso.                                                        achava que estaria rico aos 30 anos;
+A única alternativa em que o elemento sublinhado NÃO é uma                 (E) Ninguém te ajudaria, caso isso tivesse acontecido. / Naquele
+marca de função emotiva é:                                                     momento, eu não sabia que daria tudo certo.
+(A) “A United Fruit, obviamente, não gostou.” (14º parágrafo);
+(B) “Mas a prática teve uma consequência terrível: [...]” (3º
+                                                                           6
+    parágrafo);
+(C) “E voilà: desenvolveram bananeiras que produzem frutos sem             “Aqueles pontinhos pretos dentro da banana, caso você esteja se
+    sementes.” (8º parágrafo);                                             perguntando, não são sementes [...]” (9º parágrafo)
+(D) “O apelido veio da aparência dele, que tinha o rosto                   Tipicamente, uma oração condicional expressa uma condição que
+    estranhamente deformado.” (1º parágrafo);                              precisa ser satisfeita para que uma determinada situação seja
+(E) “Nasce uma nova bananeira – que, eis o problema, é                     verdadeira. Na passagem acima, porém, isso não ocorre, o que
+    geneticamente idêntica à anterior” (5º parágrafo).                     caracteriza um uso não convencional da oração condicional.
+                                                                           A alternativa em que se verifica um uso não convencional,
+                                                                           análogo ao da passagem acima, da oração condicional é:
+4                                                                          (A) Eu, caso ganhe na loteria, darei a volta ao mundo;
+Textos produzidos em registro semiformal frequentemente                    (B) Se você estiver com fome, tem comida na geladeira;
+apresentam usos que não obedecem às prescrições gramaticais.               (C) Se acaso você viesse, eu não me conteria de felicidade;
+Um exemplo dessa situação pode ser visto na seguinte passagem:             (D) Vou ajudá-lo com essa tarefa, ainda que você não mereça;
+(A) “Robusta, nutritiva e abundante, ela é a fruta mais consumida          (E) Posso até ir com você, mas desde que você se comporte.
+    do mundo.” (Linha fina, situada abaixo do título);
+(B) “Isso a torna muito mais agradável de consumir.” (4º
+    parágrafo);                                                            7
+(C) “Após a infecção, o solo fica contaminado por mais de 30               “Mas também tem um ponto fraco: as bananeiras são
+    anos, e não há nada a fazer: [...]” (7º parágrafo);                    geneticamente idênticas, clones umas das outras.” (Texto 1, linha
+(D) “A banana comestível teria surgido no sudoeste asiático.” (8º          fina, situada abaixo do título)
+    parágrafo);                                                            Nessa passagem, os dois-pontos introduzem uma especificação.
+(E) “Se opôs duramente ao novo governo [...]” (14º parágrafo).             Dentre os usos abaixo, o único em que os dois-pontos NÃO
+                                                                           introduzem uma especificação, e sim uma explicação, é:
+                                                                           (A) “E já existe um: o Fusarium oxysporum.” (6º parágrafo);
+                                                                           (B) “Mas a prática teve uma consequência terrível: os
+                                                                               descendentes ficaram mais e mais parecidos geneticamente
+                                                                               [...]” (3º parágrafo);
+                                                                           (C) “Isso porque os papuásios descobriram um método curioso
+                                                                               para reproduzir a planta: bastava cortar e replantar um
+                                                                               pedaço dela.” (9º parágrafo);
+                                                                           (D) “Após a infecção, o solo fica contaminado por mais de 30
+                                                                               anos, e não há nada a fazer: o F. oxysporum é imune a todos
+                                                                               os agrotóxicos.” (7º parágrafo);
+                                                                           (E) “E também significa que a planta se reproduz de forma
+                                                                               assexuada: o agricultor simplesmente corta um pedaço dela e
+                                                                               enterra em outro lugar.” (4º parágrafo).
+
+
+
+
+    Técnico de Nív Sup - Ana de Sis Com - Analista de Infraestrutura de Redes                                 Tipo 1 ̶ Branca – Página 4
+Tribunal de Justiça do Estado de Mato Grosso do Sul                                                                   FGV Conhecimento
+
+8                                                                          11
+A conjunção “e” apresenta, primariamente, valor aditivo. Dentre            Nas alternativas abaixo, vemos, à esquerda, uma passagem do
+as alternativas abaixo, o único caso em que ela exibe,                     texto 1 e, à direita, essa mesma passagem reescrita com o
+adicionalmente, valor conclusivo é:                                        acréscimo ou supressão de pelo menos uma vírgula.
+(A) “Trata-se de uma planta robusta e viçosa [...]” (2º parágrafo);        O único caso em que essa alteração NÃO produz mudança
+(B) “E já existe um: o Fusarium oxysporum.” (6º parágrafo);                substancial de significado NEM acarreta erro gramatical é:
+(C) “[...] o agricultor simplesmente corta um pedaço dela e                (A) “O apelido veio da aparência dele, que tinha o rosto
+    enterra em outro lugar.” (4º parágrafo);                                   estranhamente deformado [...]” (1º parágrafo) -> O apelido
+(D) “Após a infecção, o solo fica contaminado por mais de 30                   veio da aparência dele, que tinha o rosto, estranhamente,
+    anos, e não há nada a fazer [...]” (7º parágrafo);                         deformado;
+(E) “As tropas de Castillo invadiram o país em 18 de junho de              (B) “Carlos II, rei da Espanha entre 1665 e 1700, também era
+    1954, o Exército não reagiu – e, nove dias depois, o                       conhecido como Carlos, o Enfeitiçado.” (1º parágrafo) ->
+    presidente Guzmán acabou forçado a renunciar” (16º                         Carlos II, rei da Espanha entre 1665 e 1700, também era
+    parágrafo).                                                                conhecido como Carlos o Enfeitiçado;
+                                                                           (C) “Carlos II, rei da Espanha entre 1665 e 1700, também era
+                                                                               conhecido como Carlos, o Enfeitiçado.” (1º parágrafo) ->
+9                                                                              Carlos II rei da Espanha entre 1665 e 1700 também era
+Dentre as alternativas abaixo, o único caso em que o significado               conhecido como Carlos, o Enfeitiçado;
+do elemento sublinhado foi identificado INCORRETAMENTE é:                  (D) “[...] os descendentes ficaram mais e mais parecidos
+(A) “Mas a prática teve uma consequência terrível: [...]” (3º                  geneticamente, e foram acumulando mutações causadoras
+    parágrafo) – oposição;                                                     de doenças” (3º parágrafo) -> Os descendentes ficaram mais
+                                                                               e mais parecidos geneticamente e foram acumulando
+(B) “E também significa que a planta se reproduz de forma
+                                                                               mutações causadoras de doenças;
+    assexuada” (4º parágrafo) – modo;
+                                                                           (E) “A bananeira domesticada, cujas frutas nós comemos, não
+(C) “Ela não tem, como Carlos II não teve, um pai e uma mãe com
+                                                                               tem sementes.” (4º parágrafo) -> A bananeira domesticada
+    genes bem diferentes [...]” (5º parágrafo) – comparação;
+                                                                               cujas frutas nós comemos não tem sementes.
+(D) “As bananeiras são clones – por isso, um único patógeno
+    pode exterminá-las todas.” (5º parágrafo) – conclusão;
+(E) “Os séculos se passaram, e, à medida que as rotas comerciais           12
+    foram se espalhando pelo mundo, o mesmo aconteceu com a
+                                                                           “A bananeira domesticada, cujas frutas nós comemos, não tem
+    banana.” (10º parágrafo) – finalidade.
+                                                                           sementes. Isso a torna muito mais agradável de consumir.” (4º
+                                                                           parágrafo)
+10                                                                         A reescritura dessa passagem que NÃO gera erro gramatical é:
+“Os séculos se passaram, e, à medida que as rotas comerciais               (A) A bananeira domesticada, cujas frutas nós comemos, não tem
+foram se espalhando pelo mundo, o mesmo aconteceu com a                        sementes. Isso torna-a muito mais agradável de consumir;
+banana [...]” (10º parágrafo)                                              (B) A bananeira domesticada, cujas frutas nós comemos, não tem
+                                                                               sementes. Isso lhe torna muito mais agradável de consumir;
+Manuais de estilo tendem a condenar o uso da expressão “o
+mesmo” como estratégia para retomar um elemento citado                     (C) A bananeira domesticada, que as frutas nós comemos, não
+anteriormente. Há casos, porém, como na passagem acima, em                     tem sementes. Isso a torna muito mais agradável de
+que esse uso não é problemático.                                               consumir;
+                                                                           (D) A bananeira domesticada, cujo as frutas nós comemos, não
+A alternativa em que o emprego de “o mesmo” é análogo ao da
+                                                                               tem sementes. Isso a torna muito mais agradável de
+passagem acima, e consequentemente se mostra aceitável do
+                                                                               consumir;
+ponto de vista estilístico, é:
+                                                                           (E) A bananeira domesticada, de cujas frutas nós nos
+(A) O irmão do meu amigo saiu cedo, mas o mesmo nunca tem
+                                                                               aproveitamos, não tem sementes. Isso a torna muito mais
+    hora para voltar;
+                                                                               agradável de consumir.
+(B) É melhor tomar cuidado com esse carro, porque o mesmo
+    sempre dá defeito;
+(C) O mundo se mobilizou para derrotar a covid, mas o mesmo
+    não ocorre com as doenças tropicais;
+(D) O Carlos sempre manda mensagem para o José; o mesmo,
+    porém, nunca demonstra gratidão;
+(E) Eu comprei um livro maravilhoso há quase duas semanas,
+    mas o mesmo ainda não foi entregue.
+
+
+
+
+    Técnico de Nív Sup - Ana de Sis Com - Analista de Infraestrutura de Redes                               Tipo 1 ̶ Branca – Página 5
+Tribunal de Justiça do Estado de Mato Grosso do Sul                                                                 FGV Conhecimento
+
+13                                                                      15
+“Mas também tem um ponto fraco: as bananeiras são                       “A operação, de codinome PBSuccess, foi organizada pela CIA –
+geneticamente idênticas, clones umas das outras. Isso significa         que armou, financiou e treinou 480 homens [...] e também
+que uma doença poderia arrasar a produção mundial. Entenda o            organizou um bloqueio naval.” (15º parágrafo)
+que ameaça a banana – e a corrida para tentar salvá-la.” (linha         A única reescritura do período acima que preserva todas as
+fina, situada abaixo do título)                                         relações de significado da passagem original é:
+Nas alternativas a seguir, há versões modificadas dos três              (A) A operação, de codinome PBSuccess, foi organizada pela CIA
+períodos que compõem a passagem acima. A única modificação                  – que, além de armar, financiar e treinar 480 homens, ainda
+que acarreta erro quanto ao uso do acento grave é:                          organizou um bloqueio naval;
+(A) Mas também tem um ponto fraco: as bananeiras são                    (B) A operação, de codinome PBSuccess, foi organizada pela CIA
+    geneticamente idênticas umas às outras;                                 – que armou, a fim de financiar e treinar, 480 homens, e
+(B) Isso leva à conclusão de que uma doença poderia arrasar a               também organizou um bloqueio naval;
+    produção mundial;                                                   (C) A operação, à medida que ficou conhecida como PBSuccess,
+(C) Isso significa que uma doença poderia causar prejuízos à                foi organizada pela CIA – a qual armou, financiou e treinou
+    produção mundial;                                                       480 homens e, por conseguinte, organizou um bloqueio
+(D) Entenda o que ameaça a banana – e o esforço para que se                 naval;
+    chegue à uma maneira de salvá-la;                                   (D) A operação, que ficou conhecida como PBSuccess, foi
+(E) Entenda o que traz ameaças à banana – e a corrida para                  organizada pela CIA, a qual armou, financiou e treinou 480
+    tentar salvá-la.                                                        homens, embora tenha organizado um bloqueio naval;
+                                                                        (E) A operação, que teve como codinome PBSuccess, foi
+                                                                            organizada pela CIA – que, no entanto, armou, financiou e
+14                                                                          treinou 480 homens e também organizou um bloqueio naval.
+Nas alternativas abaixo, vemos, à esquerda, uma passagem do
+texto 1 e, à direita, essa mesma passagem reescrita com uma
+modificação.
+O único caso em que essa modificação NÃO produz erro quanto à
+flexão ou grafia de uma forma verbal é:
+(A) “Trata-se de uma planta robusta e viçosa, que cresce rápido e
+    dá muitos frutos: [...]” (2º parágrafo) -> Tratam-se de plantas
+    robustas e viçosas, que crescem rápido e dão muitos frutos;
+(B) “A bananeira domesticada, cujas frutas nós comemos, não
+    tem sementes.” (4º parágrafo) -> As bananeiras
+    domesticadas, cujas frutas nós comemos, não tem sementes;
+(C) “A bananeira domesticada, cujas frutas nós comemos, não
+    tem sementes.” (4º parágrafo) -> A bananeira domesticada,
+    cujas frutas nós comemos, não possue sementes;
+(D) “A bananeira domesticada, cujas frutas nós comemos, não
+    tem sementes.” (4º parágrafo) -> Na bananeira domesticada,
+    cujas frutas nós comemos, não há sementes;
+(E) “E voilà: desenvolveram bananeiras que produzem frutos sem
+    sementes” (8º parágrafo) -> E voilà: desenvolveu-se
+    bananeiras que produzem frutos sem sementes.
+
+
+
+
+ Técnico de Nív Sup - Ana de Sis Com - Analista de Infraestrutura de Redes                                Tipo 1 ̶ Branca – Página 6
+Tribunal de Justiça do Estado de Mato Grosso do Sul                                                                   FGV Conhecimento
+
+                                                                        18
+Noções de Legislação
+                                                                        As autoridades competentes no âmbito do Poder Judiciário do
+                                                                        Estado de Mato Grosso do Sul estão analisando a viabilidade de
+16
+                                                                        criação, elevação, rebaixamento e extinção de comarcas.
+De acordo com a Portaria nº 2.100, de 04.08.2021, a Secretaria          Nesse contexto, considerando o disposto no Código de
+do Tribunal de Justiça do Estado de Mato Grosso do Sul tem por          Organização e Divisão Judiciárias (Lei nº 1.511/1994), é correto
+finalidade realizar os serviços auxiliares indispensáveis ao pleno      afirmar que é requisito essencial para a criação e instalação de
+desempenho das atividades jurisdicionais e administrativas do           uma nova comarca:
+órgão de cúpula do Poder Judiciário. A referida Secretaria é            (A) extensão territorial mínima de oitocentos quilômetros
+integrada pela Presidência, Vice-Presidência, Corregedoria Geral            quadrados;
+de Justiça e Conselho Superior da Magistratura.
+                                                                        (B) mínimo de cinco mil eleitores inscritos;
+À luz do mencionado ato normativo, é correto afirmar que está           (C) movimento forense não inferior a quatrocentos feitos
+na estrutura da Presidência:                                                judiciais;
+(A) o Departamento de Precatórios;                                      (D) população mínima de cinquenta mil habitantes;
+(B) o Núcleo de Monitoramento do Perfil de Demandas;                    (E) trezentas casas na sede, pelo menos.
+(C) o Núcleo de Repercussão Geral e Recursos Repetitivos;
+(D) o Conselho de Supervisão dos Juizados Especiais;
+(E) o Núcleo Permanente de Métodos Consensuais de Solução de            19
+    Conflitos.                                                          Diante da notícia acerca da reformulação de determinada
+                                                                        carreira no âmbito do Poder Judiciário do Estado de Mato Grosso
+                                                                        do Sul, Nayara ficou muito preocupada com a sua situação
+17
+                                                                        funcional, considerando ser servidora estável de um dos cargos
+Marcelino foi aprovado no concurso de Técnico Judiciário do             que devem ser extintos.
+Tribunal de Justiça do Estado do Mato Grosso do Sul, de modo            Em razão disso, Nayara passou a perquirir as normas do Estatuto
+que, no ato da posse, firmou compromisso de cumprimento das             dos Servidores Públicos do Poder Judiciário do Estado de Mato
+normas de conduta ética.                                                Grosso do Sul (Lei nº 3.310, de 14.12.2006) acerca do tema, vindo
+À luz do Código de Ética dos Servidores do Poder Judiciário do          a concluir corretamente que a extinção do cargo por ela ocupado:
+Estado de Mato Grosso do Sul (Resolução nº 252, de 21.07.2021),         (A) deverá importar em sua exoneração, pois ela não cometeu
+é correto afirmar que ele assumiu o compromisso de:                         qualquer falta funcional que pudesse ensejar a sua demissão;
+(A) atuar com assertividade e apreço pela verdade, salvo se tal         (B) não poderá importar em sua disponibilidade, por essa se
+    atuação for contrária à pessoa interessada ou à                         tratar de penalidade aplicável a servidor que cometeu falta
+    administração;                                                          funcional;
+(B) manifestar-se em nome do Poder Judiciário de Mato Grosso            (C) deverá importar em seu aproveitamento em cargo ou padrão
+    do Sul, mesmo que sem permissão da autoridade                           superior ao que ocupava anteriormente;
+    competente;                                                         (D) poderá importar em seu aproveitamento, sendo viável que
+(C) evitar assumir posição de intransigência, respeitando os                esse se dê em cargo de padrão inferior ao que ocupava,
+    posicionamentos e as ideias divergentes, sem prejuízo do                situação em que ela terá direito à diferença salarial
+    dever de representar contra irregularidades;                            correspondente;
+(D) buscar o desenvolvimento profissional e a aplicação das             (E) poderá importar em sua disponibilidade, com a mesma
+    inovações surgidas na área de sua atuação, evitando,                    remuneração que percebia, independentemente de seu
+    contudo, disseminar no ambiente de trabalho informações e               tempo de contribuição para a aposentadoria.
+    conhecimentos obtidos em razão de treinamentos ou de
+    exercício profissional;
+(E) observar os princípios e normas estabelecidos no aludido
+    Código no âmbito de sua atuação funcional, de modo que não
+    precisa atentar para tanto em sua atuação particular, ainda
+    que isso possa comprometer o exercício de suas atribuições.
+
+
+
+
+ Técnico de Nív Sup - Ana de Sis Com - Analista de Infraestrutura de Redes                                 Tipo 1 ̶ Branca – Página 7
+Tribunal de Justiça do Estado de Mato Grosso do Sul                                                                  FGV Conhecimento
+
+20
+                                                                        Conhecimentos Específicos
+Joyce, estagiária junto ao Poder Judiciário do Estado de Mato
+Grosso do Sul, perguntou a Mariana, servidora ocupante
+                                                                        21
+exclusivamente de cargo em comissão, que trabalha no mesmo
+órgão, sobre a possibilidade de receber brindes e presentes no          No decorrer do desenvolvimento de um software, Gabriel,
+exercício de sua atividade.                                             analista de sistemas, depara-se com a necessidade de incorporar
+Diante dessa situação hipotética, à luz do disposto na Portaria nº      uma funcionalidade que demanda o uso de uma estrutura de
+2.121, de 08.11.2021, Mariana respondeu corretamente que:               dados capaz de armazenar e acessar informações seguindo uma
+(A) a vedação relacionada ao recebimento de brindes e presentes         ordem específica. Essencialmente, a funcionalidade exige que o
+    não se aplica aos estagiários, enquanto colaboradores do            último item adicionado seja o primeiro a ser extraído e
+    Poder Judiciário de Mato Grosso do Sul;                             processado. Além disso, é crucial que o sistema possua a
+                                                                        habilidade de adicionar e remover elementos de maneira
+(B) é vedado o recebimento de quaisquer brindes ou presentes,
+                                                                        extremamente eficaz.
+    ainda que não tenham valor comercial ou que sejam
+    distribuídos por entidades sem fins lucrativos a título de          Levando em consideração esses requisitos, Gabriel identifica que
+    divulgação;                                                         a estrutura adequada para cumprir tais exigências é a:
+(C) é vedado o recebimento de brindes ou presentes, mas, caso           (A) fila;
+    não seja possível a devolução sem custos para o recebedor ou        (B) lista;
+    constrangimento perante a pessoa concedente, é necessário           (C) pilha;
+    comunicar o fato aos órgãos competentes, para promover a            (D) árvore;
+    doação para entidades sem fins lucrativos;                          (E) lista duplamente encadeada.
+(D) a vedação de recebimento de brindes ou presentes não se
+    aplica àqueles que forem distribuídos por entidade de
+    qualquer natureza por ocasião de eventos especiais ou datas         22
+    comemorativas, desde que não ultrapassem o valor de 1 (um)          Micael, atuando como analista no desenvolvimento de um
+    salário-mínimo;                                                     sistema de gerenciamento de biblioteca, enfrenta o desafio de
+(E) é vedado o recebimento de brindes ou presentes, mas, se por         selecionar uma estrutura de dados que otimize o
+    qualquer razão, esses não puderem ser recusados, o fato             armazenamento de informações sobre os livros. O sistema requer
+    deve ser comunicado ao gestor da unidade ou comitê de               uma solução que combine a eficiência em realizar buscas rápidas
+    compliance, a fim de que sejam adotadas as providências             por título, a capacidade de adicionar novos títulos
+    pertinentes para tanto.                                             frequentemente e a preservação da ordem alfabética para
+                                                                        melhorar a experiência de navegação.
+                                                                        Levando em conta os critérios de acesso, busca, inserção e
+                                                                        ordenação nas estruturas de dados, Micael identifica que a
+                                                                        melhor opção para cumprir esses requisitos é a(o):
+                                                                        (A) hash table;
+                                                                        (B) lista encadeada;
+                                                                        (C) array ordenado;
+                                                                        (D) fila de prioridade;
+                                                                        (E) árvore de busca binária.
+
+
+                                                                        23
+                                                                        Daniel está no processo de desenvolvimento de um sistema
+                                                                        financeiro que exige a realização de cálculos com altíssima
+                                                                        precisão para prevenir erros de arredondamento que poderiam
+                                                                        resultar em discrepâncias financeiras de grande magnitude. O
+                                                                        sistema em questão precisa lidar com uma ampla variedade de
+                                                                        operações financeiras, que vão desde as básicas adições e
+                                                                        subtrações até os mais complexos cálculos de juros compostos e
+                                                                        conversões monetárias. Diante disso, Daniel se vê na necessidade
+                                                                        de selecionar a metodologia de aritmética computacional mais
+                                                                        apropriada, que assegure a precisão exigida pelos cálculos
+                                                                        financeiros do sistema.
+                                                                        Para o sistema financeiro em desenvolvimento, Daniel deve optar
+                                                                        pela aritmética de:
+                                                                        (A) ponto fixo;
+                                                                        (B) precisão arbitrária (bignum);
+                                                                        (C) ponto flutuante de precisão dupla;
+                                                                        (D) ponto flutuante de precisão simples;
+                                                                        (E) ponto flutuante de precisão quádrupla.
+
+
+
+
+ Técnico de Nív Sup - Ana de Sis Com - Analista de Infraestrutura de Redes                                Tipo 1 ̶ Branca – Página 8
+Tribunal de Justiça do Estado de Mato Grosso do Sul                                                                   FGV Conhecimento
+
+24                                                                      28
+O administrador da rede do TJMS pretende ocultar a seção                O Sistema de Nomes de Domínio (DNS) desempenha um papel
+“Firewall & proteção de rede” de forma que ela não seja exibida         fundamental na infraestrutura da Internet, funcionando como um
+na página inicial da “Segurança do Windows” dos computadores            diretório distribuído que traduz nomes de domínio legíveis por
+com Windows 11.                                                         humanos em endereços IP numéricos utilizados pelas máquinas
+Para isso, o administrador deve alterar a configuração no:              para se comunicarem entre si.
+(A) Defender Firewall;                                                  Sobre esse sistema, é correto afirmar que:
+(B) GPMC;                                                               (A) pode ser usado para realizar distribuição de carga entre
+(C) MSConfig;                                                               servidores, tais como os servidores Web replicados;
+(D) Prompt;                                                             (B) não trabalha com registros em cache por uma questão de
+(E) RegEdit.                                                                segurança;
+                                                                        (C) é descentralizado e não distribuído;
+                                                                        (D) é usado exclusivamente em redes públicas;
+25                                                                      (E) atua principalmente na camada de transporte.
+No Ubuntu 20.04 LTS, a ferramenta padrão para a configuração
+do firewall é o “ufw”. Para que sejam listadas as aplicações que
+instalaram um perfil ufw, é executado o comando:                        29
+(A) sudo ufw app info;                                                  O analista João está em processo de análise de alternativas para
+(B) sudo ufw app list;                                                  integrar a rede de algumas localidades remotas do Tribunal de
+(C) sudo ufw app profiles;                                              Justiça.
+(D) sudo ufw info profiles;                                             Durante sua análise da tecnologia e arquitetura de SD-WAN, João
+(E) sudo ufw list profiles.                                             descobriu que ela:
+                                                                        (A) assim como o MPLS, requer que o acesso das localidades que
+                                                                            precisam se integrar pertençam à mesma operadora;
+26                                                                      (B) usa uma função de controle descentralizado para direcionar o
+No Red Hat Enterprise Linux 9.0, o modo como o SELinux atua                 tráfego de forma inteligente por meio da WAN;
+como se estivesse aplicando as políticas de segurança sem, no           (C) pode reduzir os custos de conectividade ao permitir o uso de
+entanto, negar nenhuma operação é o modo:                                   conexões de internet de menor custo, como banda larga, em
+                                                                            vez de depender exclusivamente de links dedicados;
+(A) autorizativo;
+                                                                        (D) tem como principal função o isolamento de tráfego,
+(B) coercitivo;
+                                                                            garantindo que o tráfego de aplicativos críticos seja
+(C) desativado;
+                                                                            priorizado e protegido contra interferências de outros tipos
+(D) passivo;                                                                de tráfego;
+(E) permissivo.                                                         (E) utiliza protocolos complexos, razão pela qual as alterações da
+                                                                            topologia da rede convergem mais lentamente.
+27
+Ao acessar um computador usando o Windows Admin Center, um              30
+usuário final tem acesso à maioria dos recursos, mas não tem            A administradora de rede Claudia recebeu um bloco de
+acesso à Área de Trabalho Remota.                                       endereços IP no formato CIDR para uma nova sub-rede. O bloco
+Sabendo que está implementado o controle de acesso baseado              de endereços CIDR atribuído é 192.168.10.0/24. Claudia precisa
+em função, a função desse usuário é:                                    dividir esse bloco de endereços em quatro sub-redes menores
+(A) administrador;                                                      para atender às necessidades específicas da organização.
+(B) administrador do Hyper-V;                                           Considerando que se precise ocupar todo o bloco de endereços e
+(C) escritor;                                                           que a quantidade de endereços IP deve ser igual, os novos
+(D) leitor;                                                             prefixos CIDR de cada sub-rede resultante após a subdivisão
+(E) semiadministrador.                                                  serão:
+                                                                        (A) 192.168.10.0/26, 192.168.10.64/26, 192.168.10.128/26 e
+                                                                            192.168.10.192/26;
+                                                                        (B) 192.168.10.0/27, 192.168.10.32/27, 192.168.10.64/27 e
+                                                                            192.168.10.96/27;
+                                                                        (C) 192.168.10.0/28, 192.168.10.16/28, 192.168.10.32/28 e
+                                                                            192.168.10.48/28;
+                                                                        (D) 192.168.10.0/29, 192.168.10.8/29, 192.168.10.16/29 e
+                                                                            192.168.10.24/29;
+                                                                        (E) 192.168.10.0/30, 192.168.10.4/30, 192.168.10.8/30 e
+                                                                            192.168.10.12/30.
+
+
+
+
+ Técnico de Nív Sup - Ana de Sis Com - Analista de Infraestrutura de Redes                                  Tipo 1 ̶ Branca – Página 9
+Tribunal de Justiça do Estado de Mato Grosso do Sul                                                                   FGV Conhecimento
+
+31                                                                      35
+O analista de infraestrutura César é responsável pela                   Lívia, arquiteta de soluções de cloud do Tribunal de Justiça de
+implementação de acesso remoto à rede corporativa do Tribunal           Mato Grosso de Sul, está estudando a possibilidade de o atual
+de Justiça. César está analisando o protocolo de rede IPSec,            sistema on-premisse ser migrado para uma computação em
+comumente utilizado nessas conexões.                                    nuvem. Nesse processo, Lívia está fazendo a verificação das
+Sobre as características do IPSec, é correto afirmar que:               características essenciais de modo a manter conformidade com o
+(A) por ser um protocolo da camada Internet, é não orientado a          serviço de computação em nuvem. Ela identificou que uma
+    conexões;                                                           premissa para a migração é que a empresa precisa ter o controle
+(B) seus serviços incluem a codificação do cabeçalho, mas não o         exato do hardware disponibilizado em um menor valor de
+    sigilo da carga útil;                                               abstração.
+(C) seus serviços incluem a autenticidade dos dados, mas não a          Portanto, Lívia não conseguirá ter seu serviço de computação em
+    integridade dos dados;                                              nuvem por não atender à característica do(a):
+(D) seus serviços incluem o acordo criptográfico e a autenticação       (A) agrupamento de recursos;
+    de origem;                                                          (B) amplo acesso à rede;
+(E) no modo túnel, o pacote IP, com exceção do cabeçalho, é             (C) elasticidade rápida;
+    encapsulado no corpo de um novo pacote.                             (D) serviço mensurável;
+                                                                        (E) autosserviço sob demanda.
+
+32
+A Internet dsa Coisas (Internet of Things – IoT) está                   36
+revolucionando a forma como interagimos com o mundo,                    Ester estava verificando sua caixa de entrada quando notou um
+possibilitando maior automação, eficiência e conveniência em            e-mail com o nome de seu chefe, porém com um domínio
+diversos aspectos da vida cotidiana.                                    diferente. Acreditando se tratar de um e-mail pessoal, ela o abriu
+Dentre as características fundamentais da IoT, incluem-se:              e baixou um arquivo em anexo. Tal fato possibilitou a um
+(A) segurança, conectividade e heterogeneidade;                         atacante remoto acessar um dispositivo infectado de forma
+(B) privacidade, uniformidade de arquitetura e escalabilidade;          direta e interativa. O computador de Ester começou a apresentar
+(C) adaptabilidade, autoconfiguração e homogeneidade dos                lentidão, o que a levou a fazer varredura com um antivírus.
+    dispositivos;                                                       O antivírus utilizado identificou o malware como sendo um:
+(D) imobilidade, identidade e interoperabilidade;                       (A) remote acess trojan (RAT);
+(E) escalabilidade, impessoalidade e disponibilidade.                   (B) worm;
+                                                                        (C) adware;
+                                                                        (D) spyware;
+33                                                                      (E) backdoor.
+Suponha que o Tribunal de Justiça esteja analisando implementar
+o protocolo de roteamento OSPF (Open Shortest Path First) em
+sua rede corporativa.                                                   37
+Sobre o OSPF, é correto afirmar que se trata de um protocolo de         O Tribunal de Justiça do Mato Grosso do Sul (TJMS) está
+roteamento:                                                             adquirindo uma solução de hiperconvergência com o objetivo de
+(A) de vetor de distância que utiliza o algoritmo Dijkstra para         adequar seu Centro de Dados (CD) a sua nova política de
+    calcular as rotas mais curtas em uma rede;                          hospedagem de máquinas, em que todas as máquinas serão
+(B) que não pode ser implementado em uma rede corporativa,              virtuais. Foi escolhido um hipervisor que é executado em
+    sendo incapaz de lidar com ambientes complexos de rede;             modalidade de kernel, tirando partido da proteção de hardware,
+(C) que utiliza o algoritmo Bellman-Ford para determinar as rotas       e cuja CPU hospedeira permite o uso de múltiplas modalidades
+    mais curtas e troca informações de roteamento de forma              para dar aos sistemas operacionais convidados seu próprio
+    dinâmica e frequente;                                               controle e desempenho aperfeiçoado.
+(D) que calcula rotas com base na contagem de saltos e                  É correto concluir que o TJMS escolheu o(a):
+    atualizações periódicas;                                            (A) hipervisor tipo 0;
+(E) baseado em estado de enlace que utiliza informações                 (B) hipervisor tipo 1;
+    detalhadas sobre a topologia da rede para calcular rotas.           (C) hipervisor tipo 2;
+                                                                        (D) paravirtualização;
+                                                                        (E) emulação.
+34
+Considere o padrão IEEE 802.11, que define especificações para
+redes locais sem fio (WLAN).
+O método de acesso ao meio empregado nesse padrão é o:
+(A) CSMA/CD;
+(B) FDMA;
+(C) TDMA;
+(D) CSMA/CA;
+(E) CDMA.
+
+
+
+
+ Técnico de Nív Sup - Ana de Sis Com - Analista de Infraestrutura de Redes                                Tipo 1 ̶ Branca – Página 10
+Tribunal de Justiça do Estado de Mato Grosso do Sul                                                                 FGV Conhecimento
+
+38                                                                      41
+Ana foi contratada pela empresa K para identificar pontos de            Para compartilhar sua chave simétrica com Sônia para a troca de
+vulnerabilidades na rede local. Ela identificou uma brecha de           mensagens criptografadas, João usará um algoritmo de chave
+segurança que visava a comprometer os dados transmitidos a um           pública RSA. Este garante uma boa confiança na troca de
+dispositivo conectado a um switch de rede com o objetivo de             mensagens curtas, porém pode sofrer ataques que tenham como
+estourar a tabela de endereços MAC para os dispositivos e seus          objetivo decifrar sua chave. Uma das formas de defesa
+segmentos de rede correspondentes.                                      encontradas por João é modificar o texto claro usando um
+O possível ataque que usaria a brecha de segurança identificada         procedimento conhecido como optimal asymmetric encryption
+por Ana é o:                                                            padding (OAEP).
+(A) phishing;                                                           Essa técnica de ataques ao RSA é do tipo:
+(B) spoofing;                                                           (A) força bruta;
+(C) DoS;                                                                (B) ataques matemáticos;
+(D) DDoS;                                                               (C) texto cifrado escolhido;
+(E) flood.                                                              (D) ataques de temporização;
+                                                                        (E) baseados em falha de hardware.
+
+39
+O Tribunal de Justiça do Mato Grosso do Sul (TJMS) está enviando        42
+uma mensagem criptografada para o Conselho Nacional de                  Na multinacional em que Mateus trabalha, foi definido que ele
+Justiça (CNJ). Como a mensagem possui um cabeçalho                      criaria uma "Wikipédia" interna, isto é, acessível somente aos
+padronizado, o TJMS irá usar, como forma de dificultar qualquer         colaboradores internos. Ele deverá manter o mesmo modelo de
+identificação, duas cifras diferentes: uma para o corpo da              segurança de uma página web comum que use o protocolo
+mensagem (transposição) e outra para o cabeçalho                        TLS/SSL para a navegação segura entre o servidor e os
+(substituição). Para cifrar o cabeçalho que contém apenas o             navegadores.
+nome tribunaldejusticadomatogrossodosul, o Tribunal usará a             Para garantir a segurança, Mateus deverá usar a cifra de fluxo
+cifra de césar, que é uma cifra de substituição, com chave = 3.         simétrica:
+Após a cifração, será anexado na mensagem:                              (A) AES;
+(A) wulexqdoghmxvwlfdghpdwrjurvvrqruwh;                                 (B) RC4;
+(B) wulexqdoghhvsruwhghpdwrjurvvrqruwh;                                 (C) Twofish;
+(C) wulexqdoghhvsruwhghpdwrjurvvrgrvxo;                                 (D) Blowfish;
+(D) wulexqdoghdfdghpldhpdwrjurvvrgrvxo;                                 (E) IDEA.
+(E) wulexqdoghmxvwlfdgrpdwrjurvvrgrvxo.
+
+                                                                        43
+40                                                                      A empresa K está montando uma network attached storages
+O Tribunal de Justiça do Mato Grosso do Sul (TJMS) está                 (NAS) como sistema de armazenamento voltado para conexões
+trabalhando para obter um novo certificado digital emitido pela         em redes locais. O NAS não precisa de um computador
+ICP-Brasil, em virtude da expiração do certificado antigo. Por essa     hospedeiro para funcionar, possui sistema operacional próprio e
+razão, entrou em contato com a autoridade de registro para              funciona como uma unidade de armazenamento em rede
+encaminhar os documentos necessários.                                   autônoma.
+O Tribunal foi informado, no entanto, de que havia problema em          Após a montagem dessa NAS, a empresa K poderá usar:
+alguma funcionalidade da Autoridade Certificadora (AC), pois:           (A) a rede de armazenamento para aplicações corporativas;
+(A) durante a verificação da chave privada do titular do                (B) espaço de armazenamento para todos os pontos autorizados
+    certificado, identificou-se que ela não correspondia à chave            da rede após conectados os computadores da empresa a uma
+    pública que fazia parte do certificado;                                 rede local;
+(B) houve um problema na validação e no encaminhamento da               (C) unificação dos recursos de armazenamento numa
+    solicitação para a emissão de certificados digitais;                    infraestrutura de dados através de uma rede exclusiva;
+(C) havia atividades discrepantes nas políticas do certificado da       (D) capacidade de armazenamento para alguma aplicação de um
+    Autoridade Certificadora vinculada;                                     sistema computacional, dependendo de um servidor para
+(D) houve um problema com relação ao fornecimento do                        acesso;
+    carimbo de tempo do Certificado Digital;                            (E) as informações armazenadas disponíveis para acesso direto
+(E) ainda não havia sido publicada a lista de certificados                  de seu computador host, facilitando o gerenciamento.
+    revogados corretamente, não estando em conformidade com
+    as normas técnicas do Comitê Gestor da ICP-Brasil.
+
+
+
+
+ Técnico de Nív Sup - Ana de Sis Com - Analista de Infraestrutura de Redes                               Tipo 1 ̶ Branca – Página 11
+Tribunal de Justiça do Estado de Mato Grosso do Sul                                                                   FGV Conhecimento
+
+44                                                                      47
+Um rootkit tem a capacidade de efetuar diversas modificações            Um determinado invasor utilizou a opção de fragmentação do IP
+em um sistema com o intuito de dissimular sua presença,                 para criar fragmentos extremamente pequenos e forçar que a
+tornando, assim, mais árdua a tarefa do usuário de detectar sua         informação do cabeçalho TCP fique em um fragmento de pacote
+existência e discernir as alterações realizadas.                        separado.
+A classificação de um rootkit pode ser determinada com base nas         Uma contramedida efetiva para tal cenário é impor uma regra
+seguintes características:                                              que:
+(A) persistente e resiliente;                                           (A) descarte todos os pacotes que usem a opção de roteamento
+(B) modo local e persistente;                                               baseado na origem;
+(C) modo local e modo de kernel;                                        (B) descarte pacotes cujo endereço de origem seja interno se
+(D) baseado em máquina virtual e resiliente;                                esses pacotes chegarem a uma interface externa;
+(E) modo de kernel e baseado em máquina virtual.                        (C) estabeleça que o primeiro fragmento de um pacote deve
+                                                                            conter uma quantidade mínima predefinida do cabeçalho de
+                                                                            transporte;
+45                                                                      (D) estabeleça que o último fragmento de um pacote deve conter
+Ao elaborar um plano de continuidade do negócio, um analista                uma quantidade mínima predefinida do cabeçalho de
+deve observar algumas exigências.                                           transporte;
+Em relação às exigências pertinentes, é correto afirmar que:            (E) estabeleça que o primeiro fragmento de um pacote deve
+                                                                            conter uma quantidade máxima predefinida do cabeçalho de
+(A) cada usuário de informação da organização precisa ter
+                                                                            transporte.
+    conhecimento de todo o plano de continuidade do negócio;
+(B) a análise de impacto nos negócios deve identificar as
+    atividades que não suportam o fornecimento de produtos e            48
+    serviços;
+                                                                        Um especialista em segurança identificou um ataque que
+(C) o plano deve conter os papéis e as responsabilidades de cada
+                                                                        emprega códigos inseridos em um site comprometido para
+    usuário, os recursos necessários para a sua execução e as
+                                                                        explorar vulnerabilidades em navegadores, visando a atacar um
+    empresas que possuem os melhores preços;
+                                                                        sistema cliente quando o site é visitado.
+(D) a análise de impacto nos negócios exige uma forte
+    participação das áreas de negócio da organização, pois seus         É correto afirmar que foi(ram) empregado(s):
+    executivos são quem tem a responsabilidade de indicar o             (A) flooders;
+    tempo máximo de indisponibilidade de cada uma;                      (B) keyloggers;
+(E) a organização deve definir, implementar e manter um                 (C) downloaders;
+    processo formal ou informal para a análise de impacto nos           (D) vírus de macro;
+    negócios que especifique os critérios para que essas                (E) drive-by-download.
+    informações sejam confidenciais e mantenham-se
+    atualizadas.
+                                                                        49
+                                                                        Algumas das razões que justificam que uma organização autorize
+46                                                                      o desenvolvimento e implantação de políticas e normas de
+Um especialista está estabelecendo o mecanismo de                       segurança da informação são:
+autenticação para os novos analistas recém-contratados por sua          (A) avanço tecnológico, explicitação das regras e legislação;
+organização, sendo a senha o método de autenticação mais                (B) patrocínio, avanço tecnológico e treinamento das pessoas;
+utilizado.                                                              (C) adequação às melhores práticas, legislação e explicitação das
+A senha requer controles adicionais, dentre os quais:                       regras;
+(A) somente as tentativas de acesso devem ser registradas               (D) exigência do mercado, necessidade do negócio e patrocínio;
+     permitindo a rastreabilidade dessas ações e geração de             (E) exigência do cliente, adequação às melhores práticas e
+     evidências;                                                            necessidade do negócio.
+(B) o arquivo de senhas deve ser criptografado com possibilidade
+     de reversão ao valor original quando necessário;
+(C) um número máximo de tentativas incorretas de senha deve
+     ser estipulado, após o qual a entrada do usuário deve ser
+     excluída;
+(D) o usuário pode mudar ou não a senha no primeiro acesso
+     toda vez que um responsável pelo controle de acesso lhe
+     atribuir uma senha;
+(E) a atribuição de senha para o usuário no ambiente
+     computacional somente deve ser feita pelo sistema de
+     controle de acesso e deve registrar a data e
+     hora/minuto/segundo, dentre outras informações.
+
+
+
+
+ Técnico de Nív Sup - Ana de Sis Com - Analista de Infraestrutura de Redes                                Tipo 1 ̶ Branca – Página 12
+Tribunal de Justiça do Estado de Mato Grosso do Sul                                                                   FGV Conhecimento
+
+50                                                                      53
+A área de segurança do TJMS utilizou uma ferramenta                     A Estratégia Nacional de Segurança da Informação e Cibernética
+automatizada para procurar vulnerabilidades nos ativos de rede          do Poder Judiciário (ENSEC-PJ) tem o objetivo de aprimorar o
+do Tribunal. A ferramenta gerou um relatório que foi entregue           nível de maturidade em segurança cibernética nos órgãos do
+para a área de infraestrutura e redes. Esta, após analisar o teor       Poder Judiciário.
+do relatório, agradeceu a atitude proativa da área de segurança,        Conforme estabelecido na ENSEC-PJ, é um objetivo da Rede de
+mas decidiu não adotar nenhuma ação, no momento, por estar              Cooperação do Judiciário na área de segurança cibernética:
+atuando em outras atividades prioritárias.                              (A) promover ações de capacitação e profissionalização dos
+A decisão da área de infraestrutura e redes estaria correta se as           recursos humanos em temas relacionados à segurança da
+vulnerabilidades registradas:                                               informação;
+(A) estivessem presentes na avaliação e testes de segurança             (B) promover troca de informações e experiências com os
+    (ATS) realizados durante o processo de avaliação de riscos e            comitês gestores de segurança da informação dos outros
+    ressurgissem;                                                           Poderes e com a sociedade;
+(B) representassem zero day, razão pela qual não precisariam ser        (C) fortalecer o Centro de Prevenção, Tratamento e Resposta a
+    tratados com prioridade;                                                Incidentes Cibernéticos (CPTRIC-PJ) do Conselho Nacional de
+(C) representassem uma falha de configuração crítica que a                  Justiça;
+    equipe repararia assim que possível;                                (D) consolidar e analisar os resultados dos trabalhos de auditoria
+(D) representassem falsos positivos em decorrência de uma                   sobre a gestão da segurança da informação;
+    configuração requerida por seu ambiente;                            (E) elaborar e implementar programas sobre segurança da
+(E) representassem propriedades extrínsecas do ativo, razão pela            informação destinados à conscientização e à capacitação dos
+    qual não precisariam ser consideradas.                                  servidores do Poder Judiciário.
+
+
+51                                                                      54
+A equipe de infraestrutura e redes do TJMS constatou que a              A Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br) tem
+quantidade de spams recebidos por meio do serviço de correio            como principal objetivo incentivar o desenvolvimento
+eletrônico aumentou recentemente. Para reduzir o recebimento            colaborativo entre os tribunais, preservando os sistemas públicos
+de spam, a equipe implementou novos filtros de verificação na           em produção, mas consolidando pragmaticamente a política para
+ferramenta antispam existente.                                          a gestão e expansão do Processo Judicial Eletrônico – PJe.
+De acordo com o previsto no processo de tratamento de riscos,           Os serviços e aplicações integrados à Plataforma
+estabelecido na Norma ISO 27005, a opção de tratamento do               que implementam as funcionalidades essenciais básicas para um
+risco escolhido pela equipe de infraestrutura e redes foi:              sistema de processo judicial de tramitação eletrônica, bem como
+(A) modificação do risco;                                               os serviços necessários à integração, à coreografia e à
+(B) retenção do risco;                                                  interoperabilidade entre os serviços e soluções que compõem a
+(C) ação de evitar o risco;                                             Plataforma, são classificados como serviços:
+(D) compartilhamento do risco;                                          (A) de nuvem;
+(E) aceitação do risco.                                                 (B) de comunidade externa;
+                                                                        (C) de integração;
+                                                                        (D) negocial;
+                                                                        (E) estruturantes.
+52
+A Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br) visa a
+integrar todos os tribunais brasileiros, de acordo com a política
+pública para a governança e gestão de processo judicial                 55
+eletrônico, instituída pela Resolução CNJ nº 335/2020.                  João foi acusado, pelo Ministério Público, da prática de crime
+Um dos objetivos da PDPJ-Br é:                                          contra o patrimônio, sendo-lhe aplicada pena restritiva de
+(A) instituir plataforma única para publicação e disponibilização       direitos, além da imposição do dever de reparar o dano que
+    de aplicações, microsserviços e modelos de inteligência             causara. Pouco após o trânsito em julgado da sentença penal
+    artificial (I.A.), por meio de computação em nuvem;                 condenatória, João faleceu sem deixar patrimônio para os seus
+                                                                        dois filhos.
+(B) integrar e consolidar os principais sistemas eletrônicos do
+    Judiciário brasileiro em um ambiente padronizado e                  À luz da sistemática constitucional, é correto afirmar que os dois
+    distribuído entre os tribunais para assegurar a alta                filhos de João:
+    disponibilidade dos sistemas;                                       (A) devem cumprir a pena restritiva de direitos, além de ressarcir
+(C) funcionar como modelo de convergência para o provimento                  o dano;
+    de um repositório de soluções que estará disponível para uso        (B) devem apenas ressarcir o dano, sem cumprir a pena restritiva
+    por todos os sistemas de processo judicial eletrônico do                 de direitos;
+    Poder Judiciário brasileiro;                                        (C) devem cumprir apenas a pena restritiva de direitos, sem
+(D) padronizar a contratação de qualquer novo sistema, módulo                ressarcir o dano;
+    ou funcionalidade privados que cause dependência                    (D) não devem nem cumprir a pena restritiva de direitos nem
+    tecnológica do respectivo fornecedor, permitindo o                       ressarcir o dano;
+    compartilhamento da solução na PDPJ-Br;                             (E) não devem cumprir a pena restritiva de direitos, e somente
+(E) reduzir a taxa de congestionamento dos processos e                       devem ressarcir o valor principal do dano, sem juros.
+    significativa melhora na qualidade dos serviços prestados.
+
+ Técnico de Nív Sup - Ana de Sis Com - Analista de Infraestrutura de Redes                                Tipo 1 ̶ Branca – Página 13
+Tribunal de Justiça do Estado de Mato Grosso do Sul                                                                  FGV Conhecimento
+
+56                                                                       59
+No processo de registro de candidaturas para determinada                 Ana, servidora pública ocupante de cargo de provimento efetivo
+eleição, foi identificado que: (I) João não preencheu as condições       no âmbito do Poder Judiciário do Estado de Mato Grosso do Sul,
+de elegibilidade exigidas; (II) Maria foi alcançada por uma causa        foi acometida de grave patologia e, em consequência,
+de inelegibilidade; e (III) Ana estava com os seus direitos políticos    aposentada por incapacidade para o trabalho. Algum tempo
+suspensos.                                                               depois, perícia médica atestou a plena recuperação de Ana, que
+Na situação descrita na narrativa, é correto afirmar que:                estaria apta a exercer as mesmas funções que exercia
+(A) em I, a cidadania está ineficaz;                                     anteriormente.
+(B) em todas as situações, a cidadania foi afetada apenas em sua         Nesse caso, é correto afirmar que:
+    acepção ativa;                                                       (A) Ana foi regularmente aposentada, daí decorrendo o ato
+(C) tanto em I como em II, a cidadania foi afetada em suas                   jurídico perfeito, com a definitividade do ato de
+    acepções ativa e passiva;                                                aposentadoria;
+(D) em III, a cidadania foi afetada tanto em sua acepção ativa           (B) é hipótese de aproveitamento de Ana, caso haja vaga e a
+    como em sua acepção passiva;                                             aposentadoria tenha ocorrido há menos de cinco anos;
+(E) em III, foi reconhecida a perda de nacionalidade, que                (C) ocorrerá a reversão de Ana, considerando a insubsistência
+    comprometeu o alistamento eleitoral.                                     dos motivos determinantes da aposentadoria;
+                                                                         (D) Ana será readaptada, considerando a alteração da situação
+                                                                             fática que motivou a sua aposentadoria;
+57                                                                       (E) Ana será reconduzida ao cargo ocupado em momento
+Determinada temática está sujeita à competência legislativa                  anterior à aposentadoria.
+concorrente da União, dos estados e do Distrito Federal. Ao
+realizar essa constatação, Ana, deputada estadual que pretendia
+apresentar uma proposição legislativa sobre a referida temática,         60
+concluiu corretamente que:                                               Marta, servidora ocupante de cargo de provimento efetivo no
+(A) as normas específicas editadas pelo estado preponderam               estado Alfa, estava conduzindo o veículo da repartição quando,
+    sobre as normas nacionais editadas pela União;                       agindo com imperícia, ingressou em local proibido e atropelou
+(B) os municípios não podem incursionar na temática, mesmo               Ana.
+    para suplementar normas da União ou do estado;                       Considerando os balizamentos oferecidos pela narrativa, é
+(C) os entes federativos podem legislar livremente sobre a               correto afirmar, caso Ana almeje ingressar com a ação cabível
+    temática, que irá viger no respectivo nível federativo;              para a reparação dos danos, que:
+(D) a superveniência de norma geral da União, que colida com             (A) apenas o estado Alfa deve ser responsabilizado, devendo ser
+    norma estadual, não revoga esta última, apenas suspende a                provada a culpa de Marta;
+    sua eficácia;                                                        (B) somente Marta pode ser responsabilizada, considerando o
+(E) as normas gerais editadas pelo estado devem ser observadas               caráter culposo de sua conduta;
+    pelos municípios situados em seu território, mas são                 (C) o estado Alfa e Marta devem ser solidariamente
+    preteridas pelas normas gerais da União.                                 responsabilizados, sendo exigida a prova da culpa desta
+                                                                             última;
+                                                                         (D) pode-se optar pela responsabilização do estado Alfa ou de
+58                                                                           Marta, devendo ser demonstrada a culpa desta última no
+No âmbito do município Alfa, estavam sendo realizados estudos                exercício funcional;
+visando à reforma administrativa municipal, sendo aventadas três         (E) apenas o estado Alfa deve ser responsabilizado,
+possibilidades: (I) criar órgãos públicos despersonalizados, com             independente da demonstração da culpa de Marta, cabendo
+competência para atuar em certas áreas; (II) ampliar o número de             ação regressiva contra esta última.
+entes da Administração Pública indireta; e (III) criar novas
+secretarias municipais.
+As possibilidades alvitradas nos itens I a III devem ser classificadas
+como exemplos, em ordem, de:
+(A) unipessoalidade, desconcentração e descentralização;
+(B) desconcentração, descentralização e desconcentração;
+(C) desconcentração, multipessoalidade e despersonalização
+    política;
+(D) descentralização, desconcentração e multipessoalidade
+    personalizada;
+(E) multipessoalidade despersonalizada, descentralização e
+    despersonalização política.
+
+
+
+
+ Técnico de Nív Sup - Ana de Sis Com - Analista de Infraestrutura de Redes                                Tipo 1 ̶ Branca – Página 14
+Tribunal de Justiça do Estado de Mato Grosso do Sul                               FGV Conhecimento
+
+
+
+
+                                                        RASCUNHO
+
+
+
+
+ Técnico de Nív Sup - Ana de Sis Com - Analista de Infraestrutura de Redes       Tipo 1 Branca
+Realização
+

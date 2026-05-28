@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TJCE FCC Infra - Menu de Temas</title>
+  <style>
+    :root {
+      --bg: #0b1220;
+      --card: #101a2f;
+      --text: #ecf2ff;
+      --muted: #9bb0d6;
+      --accent: #67e8f9;
+      --accent-2: #f59e0b;
+      --border: rgba(103, 232, 249, 0.2);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Trebuchet MS", Verdana, sans-serif;
+      background:
+        radial-gradient(circle at 15% -10%, rgba(103, 232, 249, 0.2), transparent 36%),
+        radial-gradient(circle at 95% 0%, rgba(245, 158, 11, 0.15), transparent 26%),
+        linear-gradient(180deg, #050a14 0%, var(--bg) 100%);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 34px 16px;
+    }
+
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+
+    header {
+      margin-bottom: 20px;
+      padding: 20px;
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      background: rgba(16, 26, 47, 0.9);
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: 1.6rem;
+      letter-spacing: 0.02em;
+    }
+
+    p {
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 14px;
+    }
+
+    .card {
+      display: block;
+      text-decoration: none;
+      background: rgba(16, 26, 47, 0.93);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 16px;
+      color: inherit;
+      transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-3px);
+      border-color: rgba(103, 232, 249, 0.52);
+      box-shadow: 0 10px 28px rgba(2, 10, 30, 0.45);
+    }
+
+    .tag {
+      display: inline-block;
+      margin-bottom: 8px;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      color: #06202a;
+      background: var(--accent);
+    }
+
+    .card h2 {
+      margin: 0 0 6px;
+      font-size: 1.08rem;
+    }
+
+    .card p {
+      font-size: 0.95rem;
+    }
+
+    .small {
+      margin-top: 14px;
+      font-size: 0.95rem;
+      color: var(--muted);
+    }
+
+    .gold { color: var(--accent-2); font-weight: 700; }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <header>
+      <h1>Macetes TJCE FCC - Infra TI</h1>
+      <p>Página inicial de revisão. Clique no tema e estude por blocos curtos.</p>
+    </header>
+
+    <section class="grid">
+      <a class="card" href="tema-seguranca-infra.html">
+        <span class="tag">TEMA 1</span>
+        <h2>Segurança de Infra</h2>
+        <p>Cripto, TLS/SSL, IAM, RBAC, MFA, firewall, WAF, malware, pentest e logs.</p>
+      </a>
+
+      <a class="card" href="tema-redes.html">
+        <span class="tag">TEMA 2</span>
+        <h2>Redes</h2>
+        <p>OSI/TCP-IP, UDP, SNMP/MIB, VLAN, IPv6, VPN e redundância de gateway.</p>
+      </a>
+
+      <a class="card" href="tema-linux-windows.html">
+        <span class="tag">TEMA 3</span>
+        <h2>Linux / Windows</h2>
+        <p>iptables, LVM, AD/LDAP, Nginx/Apache, SSH/SCP, serviços e administração.</p>
+      </a>
+
+      <a class="card" href="tema-infra-moderna-nuvem.html">
+        <span class="tag">TEMA 4</span>
+        <h2>Infra Moderna + Nuvem</h2>
+        <p>Docker, Kubernetes, CI/CD, HA, AWS e Azure em cenário corporativo.</p>
+      </a>
+
+      <a class="card" href="tema-governanca-normativos.html">
+        <span class="tag">TEMA 5</span>
+        <h2>Governança e Normativos</h2>
+        <p>ITIL v4, COBIT, PDTI/PETI, CNJ, PDPJ-Br e leitura objetiva de norma.</p>
+      </a>
+    </section>
+
+    <p class="small">Frase-memória: <span class="gold">Segurança decide controle, Redes decide caminho, Linux/Windows decide operação, Infra moderna escala, Governança sustenta.</span></p>
+  </main>
+</body>
+</html>

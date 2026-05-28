@@ -288,11 +288,7 @@
   "currentWinStreak": 0,
   "bestWinStreak": 13,
   "erros": [],
-  "studyPlanProgress": {
-    "2026-05-18": {
-      "1": true
-    }
-  },
+  "studyPlanProgress": {},
   "campaigns": {
     "ifce": {
       "SEGURANCA DA INFORMACAO": {

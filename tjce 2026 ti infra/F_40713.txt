@@ -1,0 +1,710 @@
+                 PODER JUDICIÁRIO
+                 TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE
+                 PROCESSO SELETIVO SIMPLIFICADO - PSS / EDITAL 001/2020
+
+
+
+                             Analista de Suporte Pleno – Infraestrutura
+
+
+Leia estas inst ruções:
+
+      Confira se os dados contidos na parte inferior desta capa estão corretos e, em
+  1
+      seguida, assine no espaço reservado.
+      Este Caderno contém 50 questões objetivas de múltipla escolha, assim
+  2   distribuídas: 01 a 10  Língua Portuguesa; 11 a 20  Lei de Organização Judiciária ;
+      21 a 50  Conhecimentos Específicos .
+      Quando o Fiscal autorizar, verifique se o Caderno está completo e sem
+  3   imperfeição gráfica que impeça a leitura. Detectado algum problema,
+      comunique-o, imediatamente, ao Fiscal.
+      Cada questão de múltipla escolha apresenta quatro opções de resposta, das
+  4
+      quais apenas uma é correta.
+      Interpretar as questões faz                parte      da      avaliação .       Portanto,         não   peça
+  5
+      esclarecimentos aos fiscais.
+      A Comperve recomenda o uso de caneta esferográfica, confeccionada em
+  6
+      material transparente, de tinta na cor preta.
+      Utilize qualquer espaço em branco deste Caderno para rascunhos e não
+  7
+      destaque nenhuma folha.
+      Os rascunhos e as marcações que você fizer neste Caderno não serão
+  8
+      considerados para efeito de avaliação.
+      Você dispõe de, no máximo, quatro horas para responder às questões e
+  9
+      preencher a Folha de Respostas.
+ 10   O preenchimento da Folha de Respostas é de sua inteira responsabilidade.
+
+      Antes de se retirar definitivamente da sala, devolva ao Fiscal este Caderno e a
+ 11
+      Folha de Respostas.
+
+
+
+
+As s i nat ur a d o Can di dat o : ______________________________________________________
+                                               TJRN  PSS 2020
+             O Direito serve à vida: é regramento da vida. É criado por ela e, de certo modo, a cria.
+                                                Pontes de Miranda
+Língua Portuguesa                                                                                                                        01 a 10
+
+O texto abaixo servirá de base para as questões desta prova.
+
+            Futuro exige homem multidisciplinar para driblar automatismo do algoritmo
+                                                                                                                           Jacqueline Lafloufa
+
+É muito raro que algoritmos, sequências de códigos que executam uma função automaticamente,
+saibam lidar com o que foge ao padrão ou é inesperado. "Existe a chance de que o viés dos
+algoritmos nos leve a tratar as pessoas de forma injusta", destaca o relat ório de tendências 2019
+da Fjord, braço da consultoria Accenture. O alerta já tinha sido dado por Cathy O'Neil em 2016,
+quando ela defendeu, em seu livro "Armas de Destruição Matemática" , que opiniões e
+estereótipos costumam estar embutidos nos algoritmos. Um caso famoso de algoritmo
+estereotipado foi o reconhecimento facial errôneo do Google Photos, descoberto por Jacky Alciné
+em 2015, que reparou que seus amigos negros estavam sendo identificados como "gorilas" em
+suas fotos. O Google se desculpou alegando que a tecnologia de etiquetamento de imagens
+ainda não era perfeita, mas até o ano passado o problema continuava não resolvido, e muitas
+faces negras ainda não são identificadas na plataforma.
+Será que, se houvesse desenvolvedores ou bases de dados mais diversas, um erro tão terrível
+como esse teria acontecido? Talvez não. Gustavo Abreu, designer de conteúdo e líder de
+inclusão e diversidade da Fjord, afirma que uma solução possível é trazer o diferente para dentro
+dos times. "Não tem como pedir a um homem branco e hétero ser menos enviesado. Precisamos
+pensar, ao recrutar ou formar uma equipe, qual é o problema e quem vamos colocar para
+resolvê-lo", analisa. Segundo Abreu, essa inclusão deve ser além da demográfica (que considera
+gênero, faixa etária ou classe socioeconômica), abrangendo também a diversidade cognitiva
+(jeitos de pensar) e experiencial (experiências anteriores).
+Diante da pressão pública por mais diversidade nas corporações, grandes empresas como
+Amazon, Google e Facebook apostaram na indic ação de executivos ou equipes dedicadas a
+garantir a inclusão e a diversidade. "É lidando com a diversidade, com a pluralidade cultural,
+rompendo a matriz colonialista, eurocêntrica, branca e ocidental dos currículos, que vamos
+solucionar questões que não são parte do repertório ocidentalizado das disciplinas", opina
+Carlota Boto, professora de Filosofia da Educação na USP (Universidade de São Paulo), que vê
+o surgimento de um movimento contrário à divisão disciplinar do século 18. "Para ser capaz de
+responder problemas contemporâneos, vivemos um movimento de entrelaçamento das diferentes
+áreas", explica, apontando que a capacidade interdisciplinar passará a ser cada vez mais
+desejada pelo mercado de trabalho.
+Mais do que colocar um app na rua, desenvolvedores estão sendo pressionados a pensar nos
+impactos que suas inovações vão trazer. Em apresentação no festival SXSW, Jesus Ramos,
+especialista em aprendizado de máquina, comentou sobre o dilema que enfrentou ao publicar o
+app Revisa Mi Grieta, capaz de ident ificar se uma trinca em um edifício apontava danos na
+estrutura. "Um falso positivo levaria uma família a buscar assistência sem necessidade, enquanto
+um falso negativo poderia manter pessoas em um edifício condenado", resumiu. A experiência
+fez com que ele detectasse a necessidade de incluir , nos processos, profissionais de outras
+áreas ou disciplinas. "Nosso time hoje conta não apenas com matemáticos e programadores mas
+também engenheiros e filósofos", ressaltou.
+As inovações futuras também precisarão de perfis diversos trabalhando juntos em prol de uma
+solução, como é o caso da impressão 4D, que cria materiais capazes de se transformar em
+outros formatos. Os grupos de estudo da área costumam reunir profissionais de diversas áreas,
+conforme o material que tentam transformar. "Mesclamos engenharia de materiais, ciência da
+computação, design e práticas artísticas. Os profissionais que atuam conosco são
+multifacetados, com conhecimento da sua área de especialidade , mas também sabem se
+comunicar no 'idioma' de outros campos", detalhou Lining Yao, da Universidade Carnegie Mellon,
+uma das pioneiras da impressão 4D no mundo.
+
+TJRN PSS 2020  Analista de Suporte Pleno Infraestrutura  O Direito serve à vida: é regramento da vida. É criado por ela e, de certo modo, cria.   1
+No fim das contas, não é como se todos os profissionais fossem precisar se tornar
+programadores ou engenheiros de materiais, mas será preciso estar aberto a interagir e
+compreender as recomendações dos profissionais de diferentes especialidades, como a moda e a
+gastronomia. "A parte mais difícil é conseguir um bom equilíbrio entre a profundidade e a
+amplitude desse conhecimento", complementa Yao . Reunir gente tão diferente em uma mesma
+sala em busca de soluções é uma tarefa que precisa de habilidade na gestão das diversidades.
+"Haverá cada vez menos espaço para individualismos, porque as competências técnicas deixam
+de ser predominantes, dando lugar à sabedoria dos grupos multidisciplinares com colaboração e
+apoio mútuo", analisa Glaucy Bocci, diretora de talentos da consultoria Willis Towers W atson.
+
+Disponível em: https://tab.uol.com.br/noticias/redacao/2019/08/20/futuro -multidisciplinar-exige-tolerancia-no-mercado-
+de-trabalho.htm. Acesso em: 27 jan. 2020. [Adaptado]
+
+
+01. Em sua centralidade, o texto promove uma discussão sobre
+     A) os imperativos que, na visão da autora, são determinantes para o futuro das corporações.
+     B) as corporações que, na visão da autora, deixam de investir em diversidade na formação de
+        seus recursos humanos.
+     C) as limitações dos algoritmos utilizados pelas grandes empresas de tecnologia no mundo.
+     D) as razões de os algoritmos cometerem erros ao identificar pessoas por meio de
+        tecnologias de reconhecimento facial.
+
+
+02. A leitura do texto permite inferir que
+     A) é recomendável que as empresas de tecnologia foquem a inclusão demográfica no
+        momento de estruturar suas equipes de trabalho.
+     B) a preocupação com a formação das equipes de trabalho deve eliminar antigos desafios de
+        gestão enfrentados pelas corporações.
+     C) é certo que a adoção de políticas de diversidade elimina a ocorrência de erros no
+        reconhecimento facial de pessoas negras.
+     D) a explicação para as falhas no reconhecimento de faces negras pode estar relacionada à
+        falta de diversidade nas corporações.
+
+
+03. A linguagem empregada no título
+     A) contém três palavras em sentido conotativo .
+     B) contém cinco palavras em sentido denotativo.
+     C) é exclusivamente conotativa.
+     D) é exclusivamente denotativa.
+
+Para responder às questões 04, 05, 06 e 07, considere o excerto transcrito abaixo.
+
+             “É lidando[1] com a diversidade, com a pluralidade cultural, rompendo a matriz
+             colonialista, eurocêntrica, branca e ocidental dos currículos , que vamos solucionar
+             questões que[2] não são parte do repertório ocidentalizado das disciplinas ” opina
+             Carlota Boto, professora de Filosofia da Educação na USP (Universidade de São
+             Paulo), que vê o surgimento de um movimento contrário à divisão disciplinar do
+             século 18.
+
+04. No contexto em que é utilizado, o excerto constitui
+     A) uma narração.                                                        C) uma descrição.
+     B) um diálogo.                                                          D) um argumento.
+
+
+
+
+2   TJRN PSS 2020  Analista de Suporte Pleno Infraestrutura  O Direito serve à vida: é regramento da vida. É criado por ela e, de certo modo, cria.
+05. Em seu contexto de uso, o excerto
+     A) corrobora uma opinião presente no texto.
+     B) corrobora uma ideia negada no texto.
+     C) contrapõe-se a uma crítica presente no parágrafo anterior.
+     D) contrapõe-se a uma afirmação presente no parágrafo seguinte.
+
+06. O sujeito do elemento linguístico [1] é o mesmo da forma verbal
+     A) são.
+     B) vamos.
+     C) opina.
+     D) vê.
+
+07. O elemento linguístico [2] funciona como
+     A) conjunção integrante, introduzindo uma oração objetiva direta.
+     B) pronome relativo, podendo ser substituído por “cujas”.
+     C) pronome relativo, podendo ser substituído por “as quais”.
+     D) conjunção integrante, introduzindo uma oração predicativa.
+
+Para responder às questões 08, 09 e 10, considere o excerto transcrito abaixo.
+
+             Será que se houvesse desenvolvedores ou bases de dados mais diversas, um erro
+             tão terrível como esse teria acontecido? Talvez não. Gustavo Abreu, designer de
+             conteúdo e líder de inclusão e diversidade da Fjord, afirma que uma solução
+             possível é trazer o diferente para dentro dos times. "Não tem como pedir a um
+             homem, branco e hétero[1] ser menos enviesado[2]. Precisamos pensar, ao
+             recrutar ou formar uma equipe, qual é o problema e quem vamos colocar para
+             resolvê-lo", analisa. Segundo Abreu, essa inclusão deve ser além da demog ráfica
+             (que considera gênero, faixa etária ou classe socioeconômica), abrangendo também
+             a diversidade cognitiva (jeitos de pensar) e experiencial (experiências anteriores).
+
+08. No excerto, estão demarcadas, respectivamente,
+     A) uma citação indireta, uma citação direta e uma modalização em discurso segundo.
+     B) uma citação direta, uma modalização em discurso segundo e uma citação indireta.
+     C) uma modalização em discurso segundo e uma ilha textual.
+     D) uma ilha textual e uma modalização em discurso segundo.
+
+09. O elemento linguístico “enviesado” pode ser substituído, sem alteração de sentido, por
+     A) machista.
+     B) relapso.
+     C) tendencioso.
+     D) racista.
+
+10. As sequências linguísticas [1] e [2] funcionam, respectivamente, como
+     A) objeto direto e objeto indireto.
+     B) objeto indireto e objeto direto.
+     C) sujeito e predicativo do sujeito.
+     D) predicativo do sujeito e sujeito.
+
+TJRN PSS 2020  Analista de Suporte Pleno Infraestrutura  O Direito serve à vida: é regramento da vida. É criado por ela e, de certo modo, cria. 3
+Lei de Organização Judiciária                                                                                                           11 a 20
+
+11. De acordo com a Lei de Organização Judiciária, o poder judiciário é constituído por órgãos
+    cuja composição, funcionamento, organ ização administrativa e criação seguem regramento
+    legal e particular pré-definido.
+    Embora alguns desses órgãos já estejam previstos na lei, não há nenhum óbice à criação de
+    outros, desde que sejam atendidos os termos da Constituição Federal, ou que os já
+    existentes sofram alterações em suas competências ou mesmo em sua denominação, vis ando
+    uma melhor prestação de serviço jurisdicional.
+    Dentre os órgãos do poder judiciário, o Tribunal de Justiça é o que tem como uma de suas
+    competências
+     A) exercer, em primeira instância, todas as atribuições inerentes à função jurisdicional afetas
+        à Justiça Estadual.
+     B) solicitar, quando cabível, a intervenção militar no Estado, nas hipóteses de sua s
+        atribuições.
+     C) encaminhar as propostas orçamentárias do Poder Judiciário do Estado do Rio Grande do
+        Norte ao Poder Executivo.
+     D) exercer as atribuições conciliatórias, sem caráter jurisdicional, lavrando ou mandando
+        lavrar o termo da conciliação concluída, cuja regulamentação será feita pelo plenário do
+        Tribunal de Justiça.
+
+12. Por determinação legal, o candidato aprovado em concurso público para Juiz de Direito inicia
+    suas atividades jurisdicionais como Juiz de Direito Substituto . Cabe ao juiz substituto:
+     A) substituir o Juiz Titular por designação deste.
+     B) exercer, em segunda instância, todas as atribuições inerentes à função jurisdicional afetas
+        à Justiça Estadual, inclusive as de competência originária do Tribunal de Justiça, quando
+        for necessário.
+     C) atuar, por designação do Presidente do Tribunal de Justiça, com as mesmas atribuições do
+        Juiz de Direito Titular, perante qualquer unidade judiciária, com jurisdição parcial ou plena .
+     D) julgar policiais militares por crimes mili tares cometidos em sua comarca.
+
+13. Com relação às comarcas, a lei prevê a possibilidade de elas serem reclassificadas,
+    agregadas ou desagregadas de outra. Além disso, as competências das unidades judiciárias
+    poderão ser transformadas. Nesses casos, o Tribunal de Justiça do estado, poderá realizar
+    esses procedimentos por meio de resolução, observando
+     A) o movimento forense, sobretudo a média de casos novos por magistrado nos úl timos 5
+        anos, não superior a 20 casos.
+     B) os benefícios de ordem funcional e operacional                                              com      relação        aos      custos       da
+        descentralização territorial da unidade judiciária.
+     C) as normas sobre o tema, contidas na Constituição Estadual, como a determinação de
+        reclassificação em face do aumento de processos.
+     D) a distância de 150 km da unidade federativa mais próxima com mesma competência
+        formal.
+
+14. A lei estabelece a composição e o funcionamento do Tribunal de Justiça como órgão
+    integrante do judiciário estadual. Vários critérios foram definidos visando a melhor prestação
+    jurisdicional no que diz respeito à qualificação daque les que exercerão as funções decisórias
+    e de gestão, como é caso do Presidente, Vice -Presidente e Corregedor-Geral de Justiça.
+    Atentos a esses critérios,
+     A) o Presidente, o Vice-Presidente e o Corregedor-Geral de Justiça são eleitos em votação
+        aberta pela maioria dos membros do Tribunal de Justiça .
+     B) as funções mencionadas acima serão exercidas por Desembargadores do próprio tribunal.
+     C) deverão concorrer todos os Desembargadores, independente da sua antiguidade, em
+        harmonia com o princípio da isonomia.
+     D) em caso de vacância de uma dessas funções, será convocado imediatamente, o
+        Desembargador mais preparado.
+
+4   TJRN PSS 2020  Analista de Suporte Pleno Infraestrutura  O Direito serve à vida: é regramento da vida. É criado por ela e, de certo modo, cria.
+15. Como órgão de fiscalização do tribunal, a Corregedoria Geral de Justiça detém a função de
+    controle e orientação dos serviços forenses no territó rio do Estado. Como tal, desempenha
+    suas funções obedecendo aos ditames da Lei de Organização Judiciária.
+    Uma das particularidades da corregedoria é que
+     A) a designação dos Juízes Auxiliares atenderá à proporção de três para cada cem juízes em
+        efetivo exercício.
+     B) ela poderá ter como auxiliares Juízes de Direito de entrância intermediária, designados
+        pelo CNJ.
+     C) os Juízes Auxiliares convocados exercerão atribuições delegadas que se relacionem a
+        todos os Juízes.
+     D) sua sede é na capital e está sob o comando de um Desembargador, denominado
+        Corregedor-Geral de Justiça.
+
+16. Embora a Lei dos Juizados Especiais (9.099/1995) traga em seu bojo normatização
+    específica sobre o funcionamento dos Juizados, a Lei de Organização Judiciária do RN
+    orienta sobre aspectos de organização, funcionamento e logística, visando a melhor atuação
+    dos juizados. Isso explica, por exemplo, porque nem todas as comarcas possuem Juizado
+    Especial, enquanto algumas comarcas possuem mais de um Juizado com competência
+    criminal.
+    Nesses casos, a lei determina que o Presidente do Tribunal de Justiça designe uma dessas
+    comarcas para, nos processos em que for aplicada pena alternativa, cuidar de
+     A) promover a suspensão condicional da pena .
+     B) julgar pedido de suspensão condicional do processo.
+     C) fiscalizar o cumprimento das penas restritivas de direito .
+     D) substituir a pena alternativa por pena privativa de liberdade.
+
+17. Entende-se por regras de competência do tribunal a qualificação legítima deste órgão para
+    conhecer e julgar certo feito submetido à sua deliberação, bem como praticar atos de cunho
+    administrativo dentro de uma circunscrição judiciária .
+    Estão sob a competência do Tribunal de Justiça do RN, na ordem judiciária :
+     A) julgar recurso ordinário de sentenças trabalhistas proferidas por juiz de direito com
+        competência trabalhista delegada .
+     B) prover, na forma prevista na LOMAN (Lei Orgânica da Magistratura Nacional) , os cargos
+        necessários à administração judicial.
+     C) representar ao Superior Tribunal Militar (STM) para a dec retação de intervenção militar,
+        nos casos do art. 34, IV e VI, da Constituição Estadual.
+     D) processar e julgar, originariamente, arguição de descumprimento de preceito fundamental
+        decorrente da Constituição do Estado, na forma da lei .
+
+18. “Foro” é a área de jurisdição ou raio de ação do juiz em um espaço territorial predeterminado.
+    Assim como orienta a Lei de Organização Judiciária, em cada comarca, o Juiz de Direito
+    Titular ou designado exercerá a direção do foro. Várias são as nuances que permeiam esse
+    tema. Uma delas diz respeito aos critérios de escolha do diretor e às competências a ele
+    cabíveis.
+    Com relação à direção do foro,
+     A) nas comarcas com mais de um juiz de direito titular ou designado, a direção do foro é
+        exercida por aquele que o Presidente do Tribunal de Justiça designar.
+     B) nas ausências do diretor designado, a direção do foro deverá ser assumida pelo Juiz titular
+        da comarca vizinha.
+     C) compete ao diretor receber reclamações das partes contra abusos , submetendo a
+        julgamento do Pleno do Tribunal os casos que não sejam de sua competência.
+     D) as licenças e férias dos servidores, concedidas pelo juiz diretor, deverão ser comunicadas
+        ao CNJ para ratificação.
+
+
+
+TJRN PSS 2020  Analista de Suporte Pleno Infraestrutura  O Direito serve à vida: é regramento da vida. É criado por ela e, de certo modo, cria. 5
+19. As Coordenações de Área são órgãos permanentes de assessoria da Presidência do Tribunal
+    que poderão ser constituídos pelo Tribunal de Justiça, mediante resolução, dentro de sua
+    estrutura organizacional. A existência dessas coordenações visa contribuir para o
+    aprimoramento da estrutura do Judiciário, refletindo em benefícios para o jurisdicionado.
+    Uma das atribuições dessas Coordenadorias é
+     A) acompanhar, em âmbito nacional, os dados referentes aos processos em curso e
+        arquivados, nas suas respectivas áreas de competência .
+     B) acompanhar as diretrizes do Supremo Tribunal Federal (STF) sobre as políticas públicas a
+        respeito de sua área de coordenação.
+     C) criar equipes multiprofissionais, visando à melhoria da prestação jurisdicional nas
+        respectivas áreas de competência.
+     D) promover a articulação interna e externa, na área de competência a qual é vinculada, com
+        outros órgãos governamentais e não-governamentais.
+
+20. A lei prevê hipóteses de suspeição e impedimento que proíbem o mesmo juiz que recebeu o
+    processo de julgá-lo. Nesse caso, o juiz deverá se declarar suspeito ou impedido, devendo o
+    processo ser julgado por um substituto. De acordo com as regras dispostas na Lei de
+    Organização Judiciária, a substituição dar-se-á
+     A) por juiz federal, já que os motivos impeditivos são de um juiz estadual.
+     B) conforme ordem de substituição estabelecida em resolução do Tribunal de Justiça .
+     C) por redistribuição a juiz auxiliar para tramitação em juízo diverso, sem a necessidade de
+        haver compensação.
+     D) por juiz leigo com experiência comprovada na matéria, desde que sob a anuência do
+        Tribunal.
+
+
+
+
+6   TJRN PSS 2020  Analista de Suporte Pleno Infraestrutura  O Direito serve à vida: é regramento da vida. É criado por ela e, de certo modo, cria.
+Conhecimento Específico                                                                                                                 21 a 50
+
+21. O Linux CentOS é uma distribuição muito robusta, confiável e gratuita. Surgida a partir do
+    Red Hat Enterprise Linux, mantida pela comunidade de software livre, tem seu uso voltado
+    principalmente para o mundo corporativo. Nesse contexto, analise os comandos a seguir:
+                   mkdir /opt/app
+                   useradd -s /bin/nologin -g usrtjrn -d /opt/app usrtjrn
+
+     O resultado da execução desses comandos em uma shell como root no CentOS é:
+     A) O usuário usrtjrn não poderá fazer login na máquina.
+     B) O usuário usrtjrn terá permissões de super usuário.
+     C) Será criada uma pasta como o nome usrtjrn dentro de /bin.
+     D) A pasta app será criada dentro da pasta home do sistema operacional.
+
+22. O sistema operacional Linux fornece uma opção de transferência de arquivos por meio do
+    protocolo SSH. Considerando a porta padrão do SSH, para transferir o arquivo “todo.txt” que
+    está no computador com IP 10.1.172.45 para o computador com o IP 10.2.45.200, deve -se
+    executar a linha de comando:
+     A) ssh -cp usrtjrn@10.1.172.45:/home/root/todo.txt admtjrn@10.2.45.200:/home/admtjrn/
+     B) ssh usrtjrn@10.1.172.45/home/root/todo.txt admtjrn@10.2.45.200/hom e/admtjrn/
+     C) scp usrtjrn@10.1.172.45:/var/www/html/todo.txt admtjrn@10.2.45.200:/home/admtjrn/
+     D) cp -ssh usrtjrn@10.1.172.45/var/www/html/todo.txt admtjrn@10.2.45.200/home/admtjrn/
+
+23. Para trabalhar com o banco de dados PostgreSQL em uma máquina Linux com o sistema
+    operacional CentOS instalado, o desenvolvedor/administrador do sistema precisará inicializar
+    o serviço de banco de dados cada vez que a máquina for iniciada. Uma das formas de
+    habilitar a inicialização automática desse s erviço, utilizando uma shell como root, é utilizando
+    o comando
+     A) systemctl start postgresql
+     B) service enable postgresql
+     C) systemctl enable postgresql
+     D) service start postgresql
+
+24. Windows Server 2016 Datacenter é o sistema operacional pronto para a nuvem que oferece
+    novas camadas de segurança. Em relação às opções de instalação,
+     A) Desktop Experience é a instalação completa e inclui uma GUI completa.
+     B) Server Core é uma instalação menor que inclui os componentes principais do W indows
+        Server e oferece suporte a todas as funções de servidor, mas não inclui uma GUI local.
+     C) Server Core é uma instalação menor que inclui os componentes principais do W indows
+        Server, oferece suporte a todas as funções de servidor e inclui uma GUI local.
+     D) Desktop Experience é a instalação recomendada, mas não inclui uma GUI local.
+
+25. O Active Directory armazena informações sobre objetos na rede e torna essas informações
+    fáceis de serem encontradas e usadas por administradores e usuários. No Active Directory do
+    Windows Server 2012, o serviço que provê as funcionalidades para a criação de domínios e
+    repositórios de dados para o armazenamento de informações sobre objetos na rede é o
+     A) AD DS                               C) AD LDS
+     B) AD FS                               D) AD CR
+
+TJRN PSS 2020  Analista de Suporte Pleno Infraestrutura  O Direito serve à vida: é regramento da vida. É criado por ela e, de certo modo, cria. 7
+26. No contexto do JBoss Enterprise Application Platform, versão 7.2, o JAX -RS é a API JAVA
+    para RESTful Web Services. Considerando que o desenvolvedor queira implementar
+    providers e web resources no contexto de uma Aplicaçã o JAX-RS, ele deve criar uma
+    subclasse de
+     A) javax.ws.rs.core.API
+     B) javax.ws.rs.core.WebResource
+     C) javax.ws.rs.core.Provider
+     D) javax.ws.rs.core.Application
+
+27. No contexto do JBoss Enterprise Application Platform, versão 7.2, considere que o
+    responsável por uma aplicação JBoss EAP queira fazer o backup das configuracões de dados
+    de usuários, configurações domain e host, configurações de logging e arquivos de
+    configuração de inicialização. Para isso, deverão ser copiados os diretórios
+     A) EAP_HOME/standalone-settings/ e EAP_HOME/domain/startup/
+     B) EAP_HOME/standalone/settings/ e EAP_HOME/modules/
+     C) EAP_HOME/domain-settings/ e EAP_HOME/scipts/
+     D) EAP_HOME/domain/configuration/ e EAP_HOME/bin/
+
+28. No contexto do JBoss Enterprise Application Platform , versão 7.2, considere que há
+    necessidade de adicionar explicitamente a dependência de um módulo extra, o qual não está
+    contido nos módulos automaticamente adicionados pelo JBoss EAP. Para suprir essa
+    necessidade, o desenvolvedor pode configurar essas dep endências ajustando o arquivo
+     A) REQUIREMENTS.XML
+     B) MANIFEST.MF
+     C) DEPENDENCIES.CONF
+     D) MODULES.XML
+
+29. Um analista de Suporte Pleno foi designado para escolher a rede de computadores mais
+    adequada, em relação à área geográfica, para instalação em um laboratório do Tribunal de
+    Justiça do RN. Foram estabelecidos alguns critérios para a escolha da rede, que deveria ser
+    utilizada para conexão de estações de trabalho em escritórios, para permitir o
+    compartilhamento de arquivos entre os membros e restringir o acesso apenas a quem
+    estivesse dentro do prédio.
+    O tipo de rede adequado para atender a essa demanda é
+     A) W AN.
+     B) MAN.
+     C) LAN.
+     D) PAN .
+
+30. Considere as afirmativas abaixo acerca da caracterização de redes de computadores e a
+    extensão geográfica.
+
+                As redes LAN são normalmente privadas e contidas em um único edifício ou local de
+          I
+                poucos quilômetros de extensão.
+         II     As redes W AN possuem taxa de transferência de dados superiores às das redes LAN.
+         III    As redes W AN são utilizadas para conexões entre pequ enas cidades.
+         IV     As redes LAN possuem baixas taxas de erros em comparação com as redes WAN.
+     Em relação ao exposto, estão corretas as afirmativas
+     A) II e III.                                                            C) I e IV.
+     B) I e III.                                                             D) II e IV.
+
+
+
+8   TJRN PSS 2020  Analista de Suporte Pleno Infraestrutura  O Direito serve à vida: é regramento da vida. É criado por ela e, de certo modo, cria.
+31. O modelo TCP/IP é organizado em camadas que explicam como se dá o fluxo de dados.
+    Cada camada é responsável por uma tarefa dentro dessa organização. São camadas do
+    modelo TCP/IP:
+     A) camada de sessão e camada de transporte.
+     B) camada de transporte e camada de internet.
+     C) camada de apresentação e camada de sessão.
+     D) camada de apresentação e camada de internet.
+
+32. Os protocolos de rede são regras que determinam como será feita a comunicação numa rede
+    de computadores. No modelo TCP/IP, os protocolos atuam em uma camada do modelo. Um
+    exemplo de protocolo e a respectiva camada em que atua é
+     A) FTP - Camada de Acesso à Rede.
+     B) DNS - Camada de Internet.
+     C) IP - Camada de Transporte.
+     D) TELNET - Camada de Aplicação.
+
+33. Numa rede de computadores existem equipamentos de conectividade que são necessários
+    para que a rede opere de forma correta, de acordo com as suas especificações e
+    configurações. Esses dispositivos normalmente operam em uma camada do modelo TCP/IP.
+    Um exemplo de equipamento e a respectiva camada em que atua é
+     A) Switch – Internet.                                                              C) Roteador – Aplicação.
+     B) Switch – Aplicação.                                                             D) Roteador – Internet.
+
+34. A camada de transporte do modelo TCP/IP é responsável pela transmissão dos dados
+    garantindo que estes possam chegar de forma confiável e eficiente ao seu destino. Dois
+    protocolos que atuam na camada de transporte são o TCP e o UDP. Considere as afirmativas
+    abaixo acerca desses protocolos.
+
+          I     O UDP é orientado à conexão.
+                O TCP verifica os pacotes perdidos e entregues                                          garantindo confiabilidade na
+         II
+                transmissão de dados ao fim da conexão.
+         III    O UDP funciona de forma mais rápida que o TCP.
+         IV     O TCP não possui suporte a conexões full duplex.
+     Estão corretas as afirmativas
+     A) II e III.                                                                       C) II e IV.
+     B) I e III.                                                                        D) I e IV.
+
+35. Uma imagem de container do Docker é um pacote de software leve, independente e
+    executável que inclui tudo o que é necessário para executar uma aplicação. Na criação de um
+    arquivo Dockerfile, a instrução EXPOSE
+     A) mapeia uma porta externa para uma porta interna à rede Docker.
+     B) divulga uma porta (TCP ou UDP) para os hosts externos à rede Docker.
+     C) expõe um serviço do container para a rede Docker default.
+     D) documenta quais portas se pretend e publicar.
+
+36. Uma imagem do Docker é criada a partir de uma série de camadas, onde cada uma
+    representa uma instrução no Dockerfile da imagem. Considerando que um analista do
+    Tribunal de Justiça queira listar as camadas ( layers) da imagem docker mailserver, ele deve
+    executar o comando
+     A) docker expose mailserver                                                        C) docker history mailserver
+     B) docker layers mailserver                                                        D) docker image mailserver
+
+TJRN PSS 2020  Analista de Suporte Pleno Infraestrutura  O Direito serve à vida: é regramento da vida. É criado por ela e, de certo modo, cria. 9
+37. Os volumes são mecanismos utilizados para persistir os dados gerados e usados pelos
+    containers do Docker. Embora as montagens de ligação dependam da estrutura de diretórios
+    da máquina host, os volumes são completamente gerenciados pelo Docker.
+     Considerando que um analista queira criar um volume de nome my-volume dentro de um
+     docker, ele deve executar o comando
+     A) docker volume create my-volume
+
+     B) docker create volume my-volume
+
+     C) docker run create volume my-volume
+
+     D) docker create run volume my-volume
+
+38. O processo de virtualização é possibilitado por um hypervisor , que é um software instalado
+    em cima de um servidor físico e que, a partir dele, é possível a criação de máquinas virtuais
+    que podem, cada uma, conter sistemas operacionais diferentes.
+     Analise as seguintes afirmativas sobre o uso de Máquinas Virtuais e Docker.
+
+                A virtualização permite o isolamento total do ambiente da sua aplicação, pois ela não
+         I
+                emula a máquina virtual por completo.
+                O Docker permite “empacotar” uma aplicação ou sistema dentro de um container,
+         II     sendo que este container pode posteriormente ser executado em qualquer máquina
+                que tenha o Docker instalado.
+                Vários containers podem ser executados na mesma máquina e compartilhar o kernel
+        III     do SO com outros containers, cada um executando como processos isolados no
+                espaço do usuário.
+                Em um sistema de virtualização tradicional, o sistema operacional é isolado dos
+        IV
+                demais instalados dentro da máquina host.
+
+      Estão corretas apenas as afirmativas
+     A) III e IV.
+     B) II e IV.
+     C) I, II e III.
+     D) II, III e IV.
+
+39. Um firewall de aplicação é uma solução de segurança pensada para abstrair parâmetros
+    técnicos com o propósito de facilitar a criação de regras de firewall dentro da organização. A
+    imagem abaixo representa um log de tráfego de rede.
+
+
+
+
+     Com base nas informações apresentadas na figura, o tráfego de rede teve origem
+     A) em um IP público através da porta 22
+     B) em um IP público para um IP de destino privado
+     C) em um IP privado e teve a ação permitida para o destino 10.6.0.18
+     D) em um IP privado e teve a ação negada para o destino 10.6.0.18
+
+
+
+
+10 TJRN PSS 2020  Analista de Suporte Pleno Infraestrutura  O Direito serve à vida: é regramento da vida. É criado por ela e, de certo modo, cria.
+40. O comando abaixo foi digitado em um servidor que usa o Iptables como Firewall em uma
+    organização. O comando foi executado em um sistema operacional Linux Ubuntu 18.04.
+
+               iptables -I INPUT -p tcp -s 172.16.40.200/8 --dport 22 -j DROP
+
+     A execução desse comando
+     A) permite a passagem de pacotes usando o protocolo telnet.
+     B) acrescenta uma nova regra às existentes e bloqueia a porta 22.
+     C) encaminha o pacote da máquina firewall para um outra máquina na rede.
+     D) insere uma nova regra cujos pacotes com destino final são a própria máquina firewall.
+
+41. O iptables é um utilitário de rede que permite a criação e administração de regras de Firewall
+    e NATs. O comando abaixo foi executado em um sistema operacional Linux Ubuntu 18.04.
+
+                        iptables -A INPUT -p icmp -s 10.56.23.46/24 -j ACCEPT
+
+
+     A execução desse comando libera o ping
+     A) do IP 10.56.23.46, incluindo uma nova regra.
+     B) do IP 10.56.23.46 usando a porta 53.
+     C) para o IP 10.56.23.46, substituindo uma regra anterior.
+     D) para o IP de destino 10.56.23.46.
+
+42. Um ataque de Denial of Service (DoS – Negação de serviço) é uma tentativa mal
+    intencionada de afetar a disponibilidade de um sistema específico. Considere que um
+    administrador de redes constatou que o Firewall da rede sofreu es se tipo de ataque através
+    do IP 189.20.34.88. A regra de firewall baseada em Iptables que bloqueia a entrada de
+    tráfego do IP 189.20.34.88 é
+     A) iptables -A INPUT -s "189.20.34.88" -j ACCEPT
+
+     B) iptables -A INPUT -s "189.20.34.88" -j DROP
+
+     C) iptables -D INPUT -s "189.20.34.88" -j DROP
+
+     D) iptables -I INPUT -s "189.20.34.88" -j ACCEPT
+
+43. Considere um banco de dados ou documento estruturado usado para gerenciar os aplicativos
+    durante todo o seu ciclo de vida, que contém atributos principais de todos os aplicativos e
+    algumas vezes é implantado como parte do Portfólio de Serviço ou como part e do sistema de
+    Gerenciamento da Configuração. De acordo com a ITIL v3, esse banco de dados ou
+    documento estruturado pode ser definido como
+     A) Portfólio de Aplicativo.
+     B) Desenho de Serviço.
+     C) Gerenciamento de Aplicativo.
+     D) Modelagem Analítica.
+
+
+
+
+TJRN PSS 2020  Analista de Suporte Pleno Infraestrutura  O Direito serve à vida: é regramento da vida. É criado por ela e, de certo modo, cria. 11
+44. Sobre o ITIL V3, analise as informações ou ações apresentadas em cada um dos itens
+    abaixo.
+
+                Requisitos de Nível de Serviço; Plano de qualidade dos Serviços, Monitoração,
+         I
+                Revisão e Informação; Especificação do Serviço.
+                Plano de qualidade dos Serviços, Monitoração, Revisão e Informação; Acordo de Nível
+         II
+                de Serviço; Alinhar Ativos de Serviço com Produtos do Cliente.
+                Catálogo de serviços; Acordos de Nível Operacional e Contratos; Programas de
+        III
+                Aperfeiçoamento do Serviço; Catálogo de serviços.
+                Monitoração, Revisão e Informação; Gerenciamento do Relacionamento com o
+        IV
+                Cliente; Acordo de Nível de Serviço.
+                Portifólio de Serviços; Alinhar Ativos de Serviço com Produtos do Cliente; Catálogo de
+         V
+                serviços.
+      Os itens que contêm apenas atividades do gerenciamento de nível de serviço são:
+     A) II, III, V.                                                         C) II, IV, V.
+     B) I, III, IV.                                                         D) I, IV, V.
+
+45. De acordo com a ITIL v3, um banco de dados ou documento estruturado usado para
+    gerenciar os aplicativos durante todo o seu ciclo de vida, que contém atributos principais de
+    todos os aplicativos e algumas vezes é implantado como parte do Portfólio de Serviç o ou
+    como parte do sistema de Gerenciamento da Configuração, pode ser definido como
+     A) Gerenciamento de Incidentes.
+     B) Gerenciamento de Problemas.
+     C) Gerenciamento Contínuo de Serviços.
+     D) Gerenciamento de Disponibilidade.
+
+46. Considere os objetivos do ITIL V3 abaixo listados.
+
+         I      Transformar o gerenciamento de serviço em ativo estratégico.
+                Fornecer princípios que serão utilizados no desenvolvimento de políticas, diretrizes e
+         II
+                processos do ciclo de vida do serviço.
+        III     Melhorar o impacto estratégico do gerenciamento do serviço.
+      Esses objetivos estão associados
+     A) à transição de serviço.                                             C) à estratégia de serviço.
+     B) à manutenção do serviço.                                            D) à operação de serviço.
+
+47. Analise as ações apresentadas nos itens abaixo relativas às responsabilidades da central de
+    serviços, conforme descritas nas funções de operação do serviço do ITIL V3.
+
+                Planejar, implantar e manter uma estrutura estável para suportar os processos de
+         I
+                negócio.
+         II     Prover diagnóstico e investigação no primeiro nível.
+        III     Escalar incidentes conforme os acordos de nível de serviço.
+        IV      Rever e analisar os resultados da realização de nível de serviço.
+         V      Conduzir pesquisa de satisfação com clientes/usuários.
+                Suportar os processos de negócio ajudando a identificar requisitos para o software
+        VI
+                aplicativo.
+      São responsabilidades da central de serviços as ações que constam nos itens
+     A) I, IV, VI.                                                          C) I, II e V.
+     B) II, III, V.                                                         D) III, IV, VI.
+
+
+12 TJRN PSS 2020  Analista de Suporte Pleno Infraestrutura  O Direito serve à vida: é regramento da vida. É criado por ela e, de certo modo, cria.
+48. O Cobit é uma framework baseada em normas ISO, em especial a norma ISO/IEC 38500.
+    Essa norma estabelece 3 tarefas principais para estruturar a governança de TI, que são:
+     A) Aferir, Controlar e Reagir.
+     B) Avaliar, Dirigir e Monitorar.
+     C) Monitorar, Controlar e Averiguar.
+     D) Manter, Ajustar e Retro-Alimentar.
+
+49. Um dos principais desafios de gestores de TI é articular, junto à alta gestão, os processos de
+    Tecnologia da Informação de uma organização. Dessa forma, a diferença entre Gestão de TI
+    e Governança de TI está vinculada à
+     A) capacidade da alta gestão de se responsabilizar exclusivamente pela Gestão de TI.
+     B) inclusão, dentro da Governança, de estratégias e políticas para o uso da TI na Instituição.
+     C) constituição de controles necessários para atingir o s objetivos estratégicos, através da
+        Gestão de TI.
+     D) definição pela forma como o uso atual da TI é dirigido e avaliado, através da Governança
+        de TI.
+
+50. A versão do COBIT 5 está ancorada em cinco princípios, para que uma instituição possa
+    estruturar um framework de governança e gestão de TI. O Princípio 4, “Permitir uma
+    Abordagem Holística”, define um conjunto de
+     A) Processos.
+     B) Artefatos.
+     C) Habilitadores.
+     D) Stakeholders.
+
+
+
+
+TJRN PSS 2020  Analista de Suporte Pleno Infraestrutura  O Direito serve à vida: é regramento da vida. É criado por ela e, de certo modo, cria. 13
+

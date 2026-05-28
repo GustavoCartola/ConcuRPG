@@ -1,0 +1,703 @@
+                                                                                                                        CEBRASPE | TJ/RJ – Edital: 2020
+•   Nas questões a seguir, marque, para cada uma, a única opção correta, de acordo com o respectivo comando. Para as devidas
+    marcações, use a Folha de Respostas, único documento válido para a correção das suas respostas.
+•   Caso haja questão(ões) constituída(s) pela estrutura Situação hipotética: ... seguida de Assertiva: ..., os dados apresentados
+    como situação hipotética devem ser considerados premissa(s) para o julgamento da assertiva proposta.
+•   Nas questões que avaliarem conhecimentos de informática e(ou) tecnologia da informação, a menos que seja explicitamente
+    informado o contrário, considere que todos os programas mencionados estão em configuração-padrão e que não há restrições de
+    proteção, de funcionamento e de uso em relação aos programas, arquivos, diretórios, recursos e equipamentos mencionados.
+•   Eventuais espaços livres — identificados ou não pela expressão “Espaço livre” — que constarem deste caderno de provas
+    poderão ser utilizados para rascunho.
+
+                                                        -- PROVAS OBJETIVAS --
+                                                -- CONHECIMENTOS GERAIS --
+Texto CG1A1-I
+                                                                                           Outono
+        Prática já adotada pela população de países asiáticos para                         O outono de azulejo e porcelana
+se proteger de doenças respiratórias transmitidas principalmente                           Chegou! Minha janela é um céu aberto.
+no inverno, o uso de máscaras se mostrou um instrumento eficaz
+                                                                                           E esse estado de graça quotidiana
+na prevenção ao novo coronavírus; no entanto, crianças pequenas
+                                                                                           Ninguém o tem sob outros céus, decerto!
+não devem usá-las. Especialistas lembram que, para quem tem
+menos de dois anos de idade, o uso de máscara facial pode
+                                                                                           Agora, tudo transluz... tanto mais perto
+dificultar a respiração e até aumentar o risco de asfixia.
+                                                                                           Quanto mais nossa vista se alontana...
+        “O sufocamento é o principal risco. Não somente crianças
+                                                                                           E o morro, além, no seu perfil tão certo,
+menores de dois anos, mas também crianças com doenças
+                                                                                           Até parece em plena via urbana!
+pulmonares, como asmáticos em crise, ou crianças com
+distúrbios neurológicos não devem usar máscaras”, afirmam
+infectologistas.                                                                           Tuas tristezas... o que é feito delas?
+                                                                                           Tombaram, como as folhas amarelas
+                      Renata Okumura. O Estado de São Paulo. 28/5/2020 (com adaptações).
+                                                                                           Sobre os tanques azuis... Que desaponto!
+
+     Questão 1                                                                             E agora, esse cartaz na alma da gente:
+Com relação aos aspectos linguísticos do primeiro período do                               ADIADOS OS SUICÍDIOS... Simplesmente
+texto CG1A1-I, é correto afirmar que o termo “se”,                                         Porque é abril em Porto Alegre... E pronto!
+A no trecho “se proteger”, remete ao termo “Prática”.                                                                           Mário Quintana. Preparativos de viagem. 2.ª ed.
+                                                                                                                               São Paulo: Editora Globo, 2004 (com adaptações).
+B no trecho “se mostrou”, tem como referente o termo
+  “instrumento”.
+C em ambas as ocorrências, pode, sem prejuízo da correção                                       Questão 3
+  gramatical do texto, ser deslocado para imediatamente após a                             No poema Outono, o eu lírico
+  forma verbal, escrevendo-se, respectivamente, proteger-se e
+                                                                                           A deplora a chegada do outono em Porto Alegre, revelando
+  mostrou-se.
+                                                                                             intenções suicidas.
+D em ambas as ocorrências, pode ser suprimido sem prejuízo
+                                                                                           B afirma que o outono é um convite a incursões nos morros que
+  dos sentidos e da correção gramatical do texto.
+                                                                                             circundam Porto Alegre.
+E em ambas as ocorrências, expressa a noção de reciprocidade.
+                                                                                           C descreve não somente as próprias emoções, como também as
+     Questão 2                                                                               de outras pessoas.
+Infere-se do texto CG1A1-I que o uso de máscaras faciais é                                 D deleita-se com a chegada do outono em Porto Alegre,
+                                                                                             identificando suas emoções com aquelas vivenciadas por
+A considerado ineficaz por infectologistas para prevenir o
+                                                                                             pessoas que vivem sob outros céus.
+  contágio pelo coronavírus em crianças, independentemente da
+                                                                                           E considera que a queda das folhas amarelas sobre os tanques
+  idade.
+B recomendado por infectologistas para crianças com distúrbios                               azuis representa um alento para pessoas tristes.
+  neurológicos, desde que elas sejam supervisionadas pelos                                      Questão 4
+  pais.                                                                                    O termo “transluz”, no verso “Agora, tudo transluz... tanto mais
+C desaconselhado por infectologistas para crianças com
+                                                                                           perto”, no poema Outono,
+  distúrbios neurológicos, independentemente da idade, devido
+  ao risco de asfixia.                                                                     A pertence à mesma classe gramatical do vocábulo luz.
+D indicado por infectologistas para proteger crianças asmáticas,                           B consiste em uma forma flexionada do verbo transluzir.
+  com dificuldade de respiração, por impedir o contágio pelo                               C concorda com o termo “Agora”.
+  coronavírus.                                                                             D poderia ser substituído por translúcido, sem alteração dos
+E aconselhado por infectologistas para crianças menores de dois                              sentidos do texto.
+  anos de idade, desde que não tenham doenças pulmonares.                                  E descreve um evento passado.
+                                                                                                                       CEBRASPE | TJ/RJ – Edital: 2020
+Texto CG1A1-II                                                                                 Questão 6
+                                                                                          Cada uma das opções a seguir apresenta uma proposta de
+       Rejeito as doutrinas do arbítrio; abomino as ditaduras de                          reescrita que altera a pontuação do seguinte trecho do texto
+todo gênero, militares, ou científicas, coroadas, ou populares;                           CG1A1-II: “Rejeito as doutrinas do arbítrio; abomino as
+                                                                                          ditaduras de todo gênero, militares, ou científicas, coroadas, ou
+detesto os estados de sítio, as suspensões de garantias, as razões
+                                                                                          populares; detesto os estados de sítio, as suspensões de garantias,
+de estado, as leis de salvação pública; odeio as combinações                              as razões de estado, as leis de salvação pública; odeio
+hipócritas   do   absolutismo     dissimulado           sob        as      formas         as combinações hipócritas do absolutismo dissimulado sob
+                                                                                          as formas democráticas e republicanas; oponho-me aos governos
+democráticas e republicanas; oponho-me aos governos de seitas,
+                                                                                          de seitas, aos governos de facção, aos governos de ignorância;”.
+aos governos de facção, aos governos de ignorância; e, quando                             Assinale a opção em que a proposta apresentada mantém a
+esta se traduz pela abolição geral das grandes instituições                               correção gramatical e os sentidos do texto, considerando que
+                                                                                          sejam feitas as devidas alterações de maiúsculas e minúsculas no
+docentes, isto é, pela hostilidade radical à inteligência do país nos                     texto.
+focos mais altos de sua cultura, a estúpida selvageria dessa
+                                                                                          A Rejeito as doutrinas do arbítrio. Abomino as ditaduras de
+fórmula administrativa impressiona-me como o bramir de um                                   todo gênero militares, ou científicas, coroadas, ou populares.
+oceano de barbaria ameaçando as fronteiras de nossa                                         Detesto os estados de sítio, as suspensões de garantias, as
+                                                                                            razões de estado, as leis de salvação pública. Odeio as
+nacionalidade.                                                                              combinações hipócritas do absolutismo dissimulado sob as
+                                      Rui Barbosa. Discursos, Orações e Conferências.       formas democráticas e republicanas. Oponho-me aos
+                                       Livraria e Editora Iracema: São Paulo, p. 95-96.     governos de seitas, aos governos de facção, aos governos de
+                                                                                            ignorância.
+                                                                                          B Rejeito as doutrinas do arbítrio; abomino as ditaduras de todo
+      Questão 5
+                                                                                            gênero, militares, ou científicas, coroadas, ou populares;
+Do trecho “e, quando esta se traduz pela abolição geral das
+                                                                                            detesto os estados de sítio, as suspensões de garantias,
+grandes instituições docentes, isto é, pela hostilidade radical à                           as razões de estado, as leis de salvação pública; odeio
+inteligência do país nos focos mais altos de sua cultura, a                                 as combinações hipócritas do absolutismo dissimulado sob
+                                                                                            as formas democráticas e republicanas; oponho-me, aos
+estúpida selvageria dessa fórmula administrativa impressiona-me
+                                                                                            governos de seitas, aos governos de facção, aos governos de
+como o bramir de um oceano de barbaria ameaçando as                                         ignorância;
+fronteiras de nossa nacionalidade”, do texto CG1A1-II, infere-se                          C Rejeito as doutrinas do arbítrio; abomino as ditaduras de todo
+                                                                                            gênero, militares ou científicas, coroadas ou populares;
+que                                                                                         detesto os estados de sítio, as suspensões de garantias, as
+                                                                                            razões de estado, as leis de salvação pública; odeio
+A os bárbaros atravessam os oceanos para bramir suas ameaças                                as combinações, hipócritas, do absolutismo dissimulado sob
+   às fronteiras da nacionalidade.                                                          as formas, democráticas, e republicanas; oponho-me aos
+                                                                                            governos de seitas, aos governos de facção, aos governos de
+B a selvageria da fórmula administrativa que hostiliza
+                                                                                            ignorância;
+   as instituições docentes é uma barbaridade que ameaça                                  D Rejeito as doutrinas do arbítrio; abomino as ditaduras de todo
+   as fronteiras da nacionalidade.                                                          gênero, militares, ou científicas, coroadas, ou populares;
+                                                                                            detesto os estados, de sítio, as suspensões, de garantias, as
+C o bramir do oceano ameaça as fronteiras nacionais tanto
+                                                                                            razões, de estado, as leis, de salvação pública; odeio as
+   quanto a selvageria estúpida das fórmulas administrativas que                            combinações hipócritas do absolutismo dissimulado sob as
+   hostilizam a cultura nacional.                                                           formas democráticas e republicanas; oponho-me aos
+                                                                                            governos, de seitas, aos governos, de facção, aos governos, de
+D as instituições docentes são ameaçadas quando a selvageria                                ignorância;
+   da fórmula      administrativa    hostiliza         as     fronteiras da               E Rejeito as doutrinas do arbítrio. Abomino as ditaduras de
+                                                                                            todo gênero, militares ou científicas, coroadas ou populares.
+   nacionalidade, admitindo a invasão estrangeira.
+                                                                                            Detesto os estados de sítio, as suspensões de garantias, as
+E a hostilidade da fórmula administrativa aos focos mais                                    razões de estado, as leis de salvação pública. Odeio as
+   elevados da cultura nacional é uma selvageria que ameaça a                               combinações hipócritas do absolutismo dissimulado sob
+                                                                                            as formas democráticas e republicanas. Oponho-me aos
+   inteligência dos docentes do país, tal como a ameaça às
+                                                                                            governos de seitas, aos governos de facção, aos governos de
+   fronteiras da nacionalidade.                                                             ignorância.
+                                                                                             CEBRASPE | TJ/RJ – Edital: 2020
+
+      Questão 7                                                        Questão 10
+No texto CG1A1-II, os termos “Rejeito”, “abomino”, “detesto”,    Suponha que, no estado do Rio de Janeiro, ocorram as seguintes
+“odeio” e “oponho-me” (que iniciam as cinco primeiras orações,   situações.
+respectivamente)                                                 I   Ana recebe dois proventos decorrentes de aposentadorias de
+                                                                     dois cargos de médica do estado;
+A constituem orações que estabelecem, entre si, relação de       II Raquel recebe duas pensões, uma civil e outra militar, ambas
+  subordinação.                                                      do estado;
+B expressam um tipo de ordem.                                    III Cecília recebe pensão e aposentadoria, ambas do estado.
+C assumem as formas Rejeitamos, abominamos, detestamos,          Nessas situações, nos termos do Decreto-lei n.º 220/1975, a
+  odiamos e opomos-nos, respectivamente, se flexionados na       percepção cumulativa apresentada caberá a
+  primeira pessoa do plural.                                     A   Ana, Raquel e Cecília.
+D expressam a opinião do narrador, mediante referência à         B   Ana e Raquel, somente.
+  primeira pessoa do singular na flexão do verbo.                C   Ana e Cecília, somente.
+                                                                 D   Ana, somente.
+E assumem as formas Rejeitarei, abominei, detestarei,            E   Raquel e Cecília, somente.
+  odiarei e opor-me-ei, respectivamente, se flexionadas no
+  tempo futuro.                                                        Questão 11
+                                                                 Nos termos da Lei estadual n.º 4.620/2005, no âmbito do TJ/RJ,
+      Questão 8                                                  o provimento dos cargos em comissão, de direção, chefia e
+Considere que, nas seguintes situações hipotéticas, Flávio,      assessoramento por serventuários ativos do Poder Judiciário do
+                                                                 estado do Rio de Janeiro será
+Frederico e Carlos sejam funcionários públicos civis do estado
+do Rio de Janeiro.                                               A em sua totalidade, bem como para o exercício de função
+                                                                   gratificada.
+I   Flávio foi demitido e, posteriormente, sua demissão foi      B em sua totalidade, incluindo-se os de assessoramento direto a
+    invalidada por decisão administrativa;                         desembargador.
+II Frederico estava em disponibilidade e retornou ao serviço     C em sua totalidade, não se incluindo os de assessoramento
+                                                                   direto a desembargador.
+    público estadual;                                            D em percentual mínimo de setenta e cinco por cento,
+III Carlos recebeu provimento em outro cargo, a pedido, para       incluindo-se os de assessoramento direto a desembargador.
+    exercer função mais compatível com seu estado, por motivo    E em percentual mínimo de setenta e cinco por cento, não se
+    saúde.                                                         incluindo os de assessoramento direto a desembargador.
+
+Considerando essas situações hipotéticas, assinale a opção que
+                                                                       Questão 12
+                                                                 No âmbito do Gabinete da Presidência do TJ/RJ, a atribuição de
+apresenta corretamente a relação entre os funcionários e
+                                                                 estimular o protagonismo social, a corresponsabilidade, o
+suas situações no órgão público, nos termos do                   associativismo, o cooperativismo e o trabalho em rede, por meio
+Decreto estadual n.º 2.479/1979.                                 das parcerias firmadas, é da Divisão de
+
+A Flávio, readaptação; Frederico, reintegração; Carlos,          A   Inclusão Social.
+                                                                 B   Gestão Ambiental.
+  aproveitamento
+                                                                 C   Apoio aos Programas de Promoção da Cidadania.
+B Flávio, aproveitamento; Frederico, readaptação; Carlos,        D   Análise de Resultados das Ações Pró-Sustentabilidade.
+  reintegração                                                   E   Apoio à Governança e à Gestão Organizacional.
+C Flávio e Carlos, readaptação; Frederico, reintegração                Questão 13
+D Flávio, reintegração; Frederico, aproveitamento; Carlos,       A avaliação da deficiência de uma pessoa, quando necessária,
+  readaptação                                                    será
+E Flávio e Frederico, aproveitamento; Carlos, reintegração       A   biomédica.
+                                                                 B   biopsicossocial.
+      Questão 9
+                                                                 C   psicossocial.
+Nos termos da Lei estadual n.º 6.956/2015, a incumbência de      D   biofisiológica.
+praticar todos os atos referentes a lotação, designação,         E   psicocomportamental.
+movimentação, concessão de férias e licenças dos servidores
+                                                                       Questão 14
+lotados no primeiro grau de jurisdição e em sua secretaria, no
+                                                                 Constitui modo de inclusão, no trabalho, da pessoa com
+âmbito do TJ/RJ é do                                             impedimento de longo prazo de natureza física, em igualdade de
+                                                                 oportunidades com as demais pessoas, a colocação
+A   presidente do tribunal.
+B   corregedor-geral da justiça.                                 A   participativa.
+                                                                 B   inclusiva.
+C   1.º vice-presidente do tribunal.                             C   integrativa.
+D   2.º vice-presidente do tribunal.                             D   competitiva.
+E   3.º vice-presidente do tribunal.                             E   protetiva.
+                                                                                                CEBRASPE | TJ/RJ – Edital: 2020
+
+      Questão 15                                                         Questão 19
+De acordo com a lei que estabelece normas gerais e critérios        Considerando a doutrina de Kant acerca da ética, assinale a opção
+básicos para a promoção da acessibilidade das pessoas com           correta.
+deficiência ou com mobilidade reduzida, postes de sinalização se
+                                                                    A A ética é limitada a determinado grupo social.
+enquadram nas definições de
+                                                                    B A ética independe da razão.
+A   ajuda técnica.                                                  C A ética está relacionada à religião e ao divino.
+B   mobiliário urbano.                                              D A ética é impessoal, no sentido de ser aplicável para todos de
+C   elemento de urbanização.                                          forma uniforme.
+D   tecnologia assistiva.                                           E A ética é variável de acordo com as consequências da
+E   recurso de funcionalidade.                                        conduta.
+      Questão 16                                                         Questão 20
+De acordo com a lei que concede atendimento prioritário, a          Assinale a opção que corresponde à doutrina ética em que a
+concessionária que, em veículo de transporte coletivo, deixar de    defesa dos direitos humanos resulta, a longo prazo, na
+reservar assento aos idosos, estará sujeita a                       maximização da felicidade da maioria das pessoas que integram
+A   apreensão do veículo e penalidade de multa.                     a comunidade.
+B   apreensão do veículo e interdição temporária.                   A   utilitarismo
+C   apreensão do veículo apenas.                                    B   moral das virtudes
+D   interdição temporária apenas.                                   C   patrimonialismo
+E   penalidade de multa apenas.                                     D   moral fundamentada em imperativos categóricos
+      Questão 17                                                    E   puritanismo
+Considerando os termos da Lei n.º 8.429/1992, julgue os itens a     Espaço livre
+seguir.
+I   Nas ações judiciais que envolvem a prática de atos
+    caracterizados como improbidade administrativa, inexiste
+    foro por prerrogativa de função.
+II Inviabilizar o acesso a dados oficiais, negando sua
+    publicidade, constitui ato de improbidade administrativa.
+III Em decorrência da autonomia das instâncias, o julgamento de
+    prefeito municipal por crime de responsabilidade não
+    impossibilita o processamento de ação autônoma de
+    responsabilização por atos de improbidade administrativa.
+IV A Lei n.º 8.429/1922 busca resguardar a moralidade pública
+    explicitamente ao prever situações que atentam contra os
+    princípios da administração pública.
+Assinale a opção correta.
+A   Apenas os itens I, II e III estão certos.
+B   Apenas os itens I, II e IV estão certos.
+C   Apenas os itens I, III e IV estão certos.
+D   Apenas os itens II, III e IV estão certos.
+E   Todos os itens estão certos.
+      Questão 18
+       A sociedade empresária Brothers, sediada na Suíça, é
+representada no Brasil por José e controladora da pessoa jurídica
+Irmãos Ltda., que foi constituída e está sediada no estado do Rio
+de Janeiro. A sociedade Brothers determinou a funcionários da
+empresa controlada que adotassem medidas para dificultar a
+realização de fiscalização por auditores federais da Receita
+Federal do Brasil.
+Considerando essa situação hipotética e os termos da
+Lei n.º 12.846/2013, assinale a opção correta.
+A A sociedade empresária Brothers, por ser sediada na Suíça,
+  não está submetida às regras da lei em questão.
+B Em razão de os funcionários serem da empresa Irmãos Ltda.,
+  a empresa Brothers não poderá ser responsabilizada.
+C A fixação da multa terá por base percentual do faturamento
+  líquido da controladora.
+D A sociedade empresária Brothers poderá responder
+  solidariamente com a Irmãos Ltda. pelos atos praticados.
+E A mera oposição de dificuldade não constitui hipótese de
+  responsabilização pela lei.
+                                                                                                  CEBRASPE | TJ/RJ – Edital: 2020
+
+                                 -- CONHECIMENTOS ESPECÍFICOS --
+     Questão 21                                                          Questão 24
+Spolling é uma técnica                                                    O sistema de monitoramento de ativos computacionais
+A usada na comunicação entre dispositivos que acessam dados        alertou quanto à elevada quantidade de processos que estavam
+  com as mesmas velocidades, a exemplo da comunicação entre        rodando em um servidor com o sistema operacional RedHat
+  o computador e a impressora.
+B de escrever dados para que eles possam ser acessados no          Enterprise Linux. Ao acessar diretamente pela linha de comando,
+  futuro, a exemplo do armazenamento de arquivos em uma            foram identificados vários processos filhos sem a presença de
+  biblioteca de fitas.
+C utilizada quando dois dispositivos possuem grande diferença      pais, com consumos pequenos de recursos, tratando-se de
+  de velocidades de leitura/escrita, a exemplo da comunicação      processos zumbis.
+  entre um servidor e uma biblioteca de fitas.
+D que utiliza buffer de memória para expandir a capacidade de
+  armazenamento de dispositivos e facilitar a comunicação          Considerando essa situação hipotética, assinale a opção que
+  entre sistema operacional e usuário.
+E concebida incialmente para compatibilizar a comunicação          apresenta os comandos utilizados no RedHat Enterprise Linux 5,
+  entre a leitura/escrita de jobs da memória principal para o      6 ou 7 para identificar os PIDs dos processos zumbis.
+  disco rígido, aumentando o desempenho do sistema.
+     Questão 22                                                    A ps aux | awk {'print $8'}             wc -l
+       Determinada aplicação começou a apresentar um tempo         B kill PID zumbi
+de resposta alto e, por vezes, não respondia às requisições. Ao    C ps aux | awk '$8=="Z" { print $0 }'
+acessar o servidor da aplicação e verificar o estado geral da      D abrt-cli info zumbi
+máquina, observou-se grande lentidão, alto consumo da RAM,
+que, em vários momentos, chegava a mais de 98%, e um número        E abrt-cli list zumbi
+muito alto de page fault nos processos da aplicação e consumo
+de memória swap.                                                         Questão 25
+                                                                   Julgue os itens a seguir, a respeito de conceitos de sistemas
+A falha anteriormente descrita, evidenciada pelo alto número de
+páginas de memória não mapeadas pela unidade de                    operacionais.
+gerenciamento de memória, pelo alto consumo da memória
+principal e pela alocação de processos da memória principal para
+                                                                   I   O sistema operacional fornece um conjunto limpo de recursos
+a memória secundária, é denominada
+                                                                       abstratos, em vez de recursos confusos de hardware, e
+A   thrashing.
+B   erro de paginação antecipada.                                      gerencia esses recursos.
+C   erro de paginação por demanda.
+                                                                   II Uma das funções do sistema operacional é fornecer uma
+D   swapping.
+E   relocação estática.                                                alocação ordenada e controlada dos processadores, memórias
+     Questão 23                                                        e dispositivos de E/S, entre os vários programas competindo
+       O escalador do sistema operacional identificou que o            por eles.
+processo P1 não poderia prosseguir em sua execução, mesmo
+ainda tendo tempo de CPU, assim, efetuou sua transição para o      III A chamada fork cria uma cópia exata do processo original,
+estado E1. Após o recebimento de um evento aguardado, ocorreu          denominado pai, para seu filho, incluindo-se todos os
+uma nova transição para o estado E2.
+                                                                       descritores de arquivos e registradores, porém, após ser
+Com base nessa situação hipotética, é correto afirmar que E1           criado, o processo deixa de ser vinculado, tornando-se
+refere-se ao estado
+                                                                       standalone.
+A bloqueado, pois estava temporariamente parado dando lugar        IV Tabelas de processos é um arranjo de estruturas utilizadas
+  a outro processo, enquanto E2 refere-se ao estado de em
+  execução, pois estava usando a CPU naquele instante.                 pelo sistema operacional para guardar informações, como
+B em execução, pois estava usando a CPU naquele instante,              contador de programa, ponteiro de pilha e alocação da
+  enquanto E2 refere-se ao estado de pronto, pois estava
+  incapaz de executar enquanto não ocorresse um evento                 memória para transição entre os estados de em execução para
+  externo.                                                             finalizado.
+C em execução, pois estava usando a CPU naquele instante,
+  enquanto E2 refere-se ao estado de pronto, pois estava
+  temporariamente parado dando lugar a outro processo.             Estão certos apenas os itens
+D em execução, pois estava usando a CPU naquele instante,
+  enquanto E2 refere-se ao estado bloqueado, pois estava           A I e II.
+  incapaz de executar enquanto não ocorresse um evento
+  externo.                                                         B I e IV.
+E bloqueado, pois estava incapaz de executar enquanto não          C II e III.
+  ocorresse um evento externo, enquanto E2 refere-se ao estado
+                                                                   D I, III e IV.
+  de pronto, pois estava temporariamente parado dando lugar
+  a outro processo.                                                E II, III e IV.
+                                                                                                  CEBRASPE | TJ/RJ – Edital: 2020
+
+      Questão 26                                                         Questão 30
+        A fim de melhorar o desempenho do sistema, deseja-se       A respeito do AD (Active Directory) em sistemas Windows
+realizar ajustes em um servidor Windows Server 2012 e nos seus     Server 2016, julgue os itens a seguir.
+respectivos serviços, tendo como principais papéis configurados
+os servidores web e de arquivos. Durante os trabalhos              I O schema é definido como um conjunto de regras.
+preliminares, verificou-se um baixo uso de processamento,          II O serviço de replicação cria a estrutura de backup do AD.
+memória, banda de rede e discos; além de filas cheias de
+                                                                   III O catálogo global contém informação sobre cada objeto no
+requisições ou de trabalhos dos serviços web e de
+compartilhamento de arquivos.                                          diretório.
+                                                                   IV O data store é responsável por apontar a porta da conexão IP
+Com base nas informações precedentes, julgue os seguintes itens,       do AD.
+considerados para a situação em questão.
+                                                                   Estão certos apenas os itens
+I   Segmentação de papéis em máquinas próprias, a fim de
+    diminuir a concorrência por recursos computacionais do         A   I e II.
+    servidor, memória, processamento e banda de rede.              B   I e III.
+II Aumento do valor no parâmetro de quantidade máxima de           C   II e III.
+    threads por fila, para melhoria no atendimento das             D   II e IV.
+    requisições no servidor de arquivos.                           E   I, III e IV.
+III Ativar ou manter cache do serviço de informação da Internet
+    (IIS), com o objetivo de diminuir o tempo de resposta das            Questão 31
+    requisições.                                                   Por meio de determinada camada de software localizada entre o
+IV Diminuir o tamanho do arquivo pagefiles.sys, forçando o         hardware e o sistema operacional, diversas máquinas virtuais
+    uso da memória RAM e aumentando o atendimento dos              podem ter acesso aos recursos de hardware, como CPU,
+    serviços de compartilhamento de arquivos e web.                memória, rede, armazenamento, entre outros. Essa camada de
+                                                                   software é denominada
+Estão certos apenas os itens
+A   I e II.                                                        A   hosted.
+B   I e IV.                                                        B   hypervisor.
+C   II e III.                                                      C   processo virtualizado.
+D   I, III e IV.                                                   D   abstração de interface.
+E   II, III e IV.                                                  E   BIOS.
+      Questão 27                                                         Questão 32
+O Wireguard é uma solução para a implantação de VPN                Entre as diversas soluções tecnológicas que fazem a
+incorporada recentemente ao kernel, do Linux, e que suporta        implementação de infraestrutura como serviço (IaaS), incluem-se o
+nativamente os algoritmos criptográficos
+                                                                   A   Google Drive e o Office 365.
+A   CHACHA20 e BLAKE2.
+B   3DES e AES.
+                                                                   B   OpenNebula e o OpenStack.
+C   RSA e SHA1.                                                    C   Dropbox e o Office 365.
+D   RSA e MD5.                                                     D   OpenNebula e o Google Drive.
+E   3DES e MD5.                                                    E   OpenStack e o Office 365.
+
+      Questão 28                                                         Questão 33
+Na implantação de uma solução VOIP com o software Asterisk,        Assinale a opção que apresenta o objeto servlet que atribui um
+em sua versão 17 ou superior, a representação numérica de uma      identificador exclusivo para determinado usuário e no qual são
+instância de uma brigde corresponde a                              mantidas as informações específicas desse usuário em todo o
+A   Bridge Profile.                                                aplicativo.
+B   MeetMe Directory.                                              A   HttpResponse
+C   User Profile.                                                  B   HttpRequests
+D   Conference Number.                                             C   HttpSession
+E   Conference Menu.                                               D   HttpsParameters
+                                                                   E   HttpServer
+      Questão 29
+De acordo com o Instituto de Tecnologia da Informação (ITI),             Questão 34
+responsável pela infraestrutura de chaves públicas do Brasil       No servidor TOMCAT, as diretivas SSI (Server Side Includes)
+(ICP-Brasil), constitui uma identidade virtual que permite a       têm como tarefa
+identificação segura e inequívoca do autor de uma mensagem ou
+transação feita em meios eletrônicos                               A requerer memória no servidor.
+                                                                   B adicionar conteúdo gerado dinamicamente a uma página
+A   a assinatura eletrônica.
+B   a autoridade certificadora.                                      HTML existente.
+C   a mensagem resumo.                                             C mapear os tipos de dados internos do servidor.
+D   a autoridade de registro.                                      D otimizar o tempo de resposta do servidor.
+E   o certificado digital.                                         E interagir com programas externos.
+                                                                                              CEBRASPE | TJ/RJ – Edital: 2020
+
+       Questão 35                                                         Questão 38
+create table produtos(                                            CREATE TABLE ranks (
+      id integer primary key,                                         c VARCHAR(10),
+                                                                      d integer
+      descricao varchar(200) not null,                            );
+      preco numeric(10,2),                                        INSERT INTO ranks(c,d)
+                                                                  VALUES('A',1),('A',2),('B',1),('B',3),('B',2),
+      quantidade numeric(4)                                       ('C',3),('E',3);
+);
+                                                                  select     c,d,
+                                                                      RANK () OVER ( partition by d
+insert      into     produtos     (id,    descricao)   values             ORDER BY c
+(1,'Livro de Banco de Dados');                                        ) ranknumber
+                                                                  FROM   ranks
+insert      into     produtos     (id,    descricao,   preco)
+values (2,'Caneta vermelha',2.3);                                 Assinale a opção que apresenta o resultado correto para as
+insert      into     produtos     (id,    descricao,   preco)     expressões SQL anteriores.
+values (3,'Borracha',0.8);                                        A c        d    ranknumber
+                                                                      A      1    1
+insert      into     produtos     (id,    descricao,   preco,         A      2    2
+quantidade) values (4,'Caderno 100 páginas',2.3,                      B      1    1
+                                                                      B      2    2
+30);                                                                  B      3    3
+insert      into     produtos     (id,    descricao,   preco,         C      3    1
+quantidade) values (5,'Lupa Grande',5.9, 5);                          E      3    1
+                                                                  B   c      d    ranknumber
+                                                                      A      1    1
+select          count(*),   count(preco),        sum(preco),          B      1    2
+                                                                      A      2    3
+count(quantidade),                avg(quantidade)        from         B      2    4
+produtos;                                                             B      3    5
+                                                                      C      3    6
+                                                                      E      3    7
+Assinale a opção que apresenta o resultado correto para as        C   c      d    ranknumber
+                                                                      A      1    1
+expressões SQL precedentes.                                           A      2    2
+                                                                      B      1    3
+A 5         5      11.30      5     17.50                             B      2    4
+                                                                      B      3    5
+B 5         4      11.30      2     7.0                               C      3    6
+C 5         4      11.30      2     17.50                             E      3    7
+                                                                  D   c      d    ranknumber
+D 5         4      11.30      4     7.0                               A      1    1
+E 5         5      11.30      5     7.0                               B      1    2
+                                                                      A      2    1
+       Questão 36                                                     B      2    2
+                                                                      B      3    1
+Determinado índice somente pode ser utilizado se a relação            C      3    2
+estiver armazenada em ordem classificada da chave de busca,           E      3    3
+                                                                  E   c      d    ranknumber
+isto é, se ele for um índice agrupado, pois possui uma entrada        A      1    1
+                                                                      A      2    1
+para cada bloco do arquivo de dados. Essa descrição corresponde       B      1    3
+ao índice                                                             B      3    3
+                                                                      B      2    3
+                                                                      C      3    6
+A chave candidata.                                                    E      3    7
+B chave primária.
+                                                                          Questão 39
+C chave estrangeira.                                              Uma organização que utiliza servidores de bancos de dados
+D denso.                                                          Oracle possui dois datacenters (DC1 e DC2): o banco de dados
+                                                                  do DC 1 tem estado ativo para leitura e escrita; o banco de dados
+E esparso.
+                                                                  do DC 2 tem estado de somente leitura. A organização necessita
+                                                                  manter os dados armazenados nos dois datacenters, não
+       Questão 37                                                 suportando mais que 20 minutos de perda de dados, portanto, os
+Assinale a opção que apresenta o comando SQL que permite          dados devem ser replicados do DC1 para o DC2 imediatamente
+alterar o nome da coluna de uma tabela.                           após serem gravados, considerando-se a estratégia near real time.
+                                                                  Com os mecanismos suportados pelo fabricante Oracle, essa
+A alter table                                                     necessidade é atendida usando-se
+B drop                                                            A   timesten.
+C update                                                          B   DBMSREPAIR.
+                                                                  C   site guard.
+D set                                                             D   data guard.
+E create                                                          E   audit vault.
+                                                                                                  CEBRASPE | TJ/RJ – Edital: 2020
+
+     Questão 40                                                     Text 9A3-I
+Em um servidor que tem dez bancos de dados disponíveis e que
+                                                                            If you were to judge 2018’s most important legal
+funciona em ambiente de produção utilizando Mysql Server, o         technology by looking at conference agendas and media
+utilitário a ser usado a fim de gerar um backup de todos os         coverage, you’d probably say it was the continuing development
+bancos de dados contidos no servidor é o                            of artificial intelligence. But if you judge the most important
+                                                                    technology by its direct impact on the practice of law, then it
+A mysqldiff.                                                        would have to be analytics. As I suggested in a recent column,
+                                                                    we could be nearing the point where it would be malpractice for
+B mysqldump.
+                                                                    a lawyer not to use analytics.
+C mysqlrplcheck.
+D mysqlgrants.                                                                                                  Internet: <lawsitesblog.com> (adapted).
+
+
+E mysqlfailover.                                                          Questão 44
+                                                                    According to the author of text 9A3-I, 2018’s most impactful
+     Questão 41                                                     legal technology was
+Considere que, no log de uma instância do Microsoft SQL
+                                                                    A   higher salaries for judges.
+Server, é encontrada a mensagem: “Falha na atualização do SQL       B   digital calendars.
+Server. Para continuar, investigue o motivo da falha, corrija o     C   artificial intelligence.
+problema e repare a instalação”. Assinale a opção que descreve o    D   malpractice for lawyers.
+comando a ser usado para executar o processo de reparação da        E   analytics.
+instância de nome instance.                                               Questão 45
+                                                                    In the first sentence of text 9A3-I, the word “it” refers to
+A Setup.exe/q /ACTION=ENU /INSTANCENAME=instance
+B Setup.exe /q /ACTION=UpdateEnabled /INSTANCENAME=instance         A   “judge”.
+C Setup.exe /q /ACTION=Install /INSTANCENAME=instance
+                                                                    B   “media coverage”.
+                                                                    C   “artificial intelligence”.
+D Setup.exe /q /ACTION=Sysprep /INSTANCENAME=instance
+                                                                    D   “2018’s most important legal technology”.
+E Setup.exe /q /ACTION=Repair /INSTANCENAME=instance
+                                                                    E   “conference agendas”.
+     Questão 42                                                           Questão 46
+Para a conteinerização de aplicações, são necessárias tecnologias   In the first sentence of text 9A3-I, the word “judge” is
+que suportem esse tipo de operação; entre elas, há tecnologias      synonymous with
+consideradas como container runtime, que são responsáveis por       A   justice.
+executar os contêineres e gerenciar as imagens dos contêineres.     B   consider.
+Uma tecnologia que é capaz de prover a capacidade de container      C   court.
+                                                                    D   examiner.
+runtime é o
+                                                                    E   try.
+A Jboss.                                                                  Questão 47
+B Tomcat.                                                           The author of text 9A3-I mentions conference agendas and media
+C Active Directory.                                                 coverage in order to
+D Docker.                                                           A suggest that conferences related to legal technology should
+E PostgreSQL.                                                         not be venues for discussions about analytics.
+                                                                    B demonstrate that their focus did not reflect the most impactful
+     Questão 43                                                       trend in the field of legal technology in 2018.
+Uma arquitetura para expor uma aplicação conteinerizada             C show that they focused suficient attention on analytics in the
+acessível pela Internet deverá dispor, inicialmente, de seis          field of legal technology in 2018.
+                                                                    D demonstrate that these events and institutions establish
+contêineres simultaneamente e ser escalável para até cinquenta
+                                                                      priorities for the field of legal technology.
+contêineres simultâneos, para o caso de ocorrer aumento de carga    E advertise future events of interst in the field of legal
+do uso da aplicação. Nessa arquitetura, a fim de que a aplicação      technology.
+seja acessível por todos os contêineres pelo usuário final, é             Questão 48
+correto acrescentar                                                 O entendimento de que o ato administrativo é considerado válido
+                                                                    até que se prove em contrário corresponde ao atributo da
+A um serviço de balanceador de carga.
+B um serviço de firewall capaz de suportar o aumento de carga.      A   tipicidade.
+                                                                    B   exigibilidade.
+C uma rede dedicada para os contêineres.
+                                                                    C   presunção de legitimidade.
+D novos servidores virtuais ou físicos.                             D   imperatividade.
+E uma unidade de armazenamento dedicada (storage).                  E   autoexecutoriedade.
+                                                                                                 CEBRASPE | TJ/RJ – Edital: 2020
+
+      Questão 49                                                          Questão 53
+Considerando o disposto na Lei n.º 8.666/1993 (Lei de Licitações e   Conforme a Constituição Federal de 1988, as pessoas
+Contratos), julgue os seguintes itens.                               A estão autorizadas a fazer tudo desde que a lei não proíba.
+I   Embora tenha sido editada pela União, a Lei de Licitações e      B só estão autorizadas a fazer aquilo que está previsto em lei.
+    Contratos é considerada lei nacional, aplicando-se a todos os    C só podem fazer algo quando ato normativo legal ou infralegal
+    Poderes da União, dos estados, do Distrito Federal e dos           expressamente permitir.
+    municípios.                                                      D estão, em princípio, proibidas a fazer tudo, podendo um
+II Quando a administração pública efetua compra de um                  decreto regulamentar presidencial permitir a atuação
+                                                                       individual.
+    produto não comum cujo valor é superior a um milhão,
+                                                                     E não podem ser obrigadas a fazer ou deixar de fazer algo senão
+    quatrocentos e trinta mil reais, deve-se utilizar a modalidade
+                                                                       em virtude de ato normativo legal ou infralegal.
+    de licitação concorrência.
+III No caso de aquisição de material que só possa ser fornecido           Questão 54
+    por empresa exclusiva, a administração pública deverá            Ao Conselho Nacional de Justiça compete apreciar, de ofício ou
+    realizar contratação direta mediante dispensa de licitação.      mediante provocação,
+Assinale a opção correta.                                            A o mérito dos atos administrativos praticados por membros do
+                                                                       Poder Judiciário.
+A   Apenas o item I está certo.
+                                                                     B o mérito dos atos administrativos praticados por servidores ou
+B   Apenas o item II está certo.                                       membros do Poder Judiciário.
+C   Apenas os itens I e II estão certos.                             C a legalidade e o mérito dos atos administrativos praticados
+D   Apenas os itens II e III estão certos.                             por servidores ou membros do Poder Judiciário.
+E   Todos os itens estão certos.                                     D a legalidade dos atos administrativos praticados por
+      Questão 50                                                       servidores do Poder Judiciário.
+                                                                     E a legalidade dos atos administrativos praticados por membros
+      Suponha que Ana, servidora do Tribunal de Justiça,               do Poder Judiciário.
+agindo no exercício de suas funções administrativas, tenha
+causado dano a João.                                                      Questão 55
+Nessa situação hipotética, caso João pretenda ajuizar ação                  Maria, que possui emprego público privativo de
+judicial requerendo indenização em face do Estado, a                 profissionais de saúde em empresa pública estadual, foi aprovada
+responsabilidade civil                                               em outro concurso público para cargo público federal privativo
+                                                                     de profissionais de saúde.
+A será subjetiva, por meio de ação de regresso.
+                                                                     Nessa situação hipotética, Maria
+B será objetiva, independentemente de dolo ou culpa.
+C será subsidiária, se comprovado dolo ou culpa.                     A poderá assumir o cargo e acumular as duas funções públicas,
+D não será possível, porque o Estado não responde pelos atos de        não se aplicando a esse caso o teto remuneratório da
+  seus agentes, devendo João ajuizar ação diretamente contra           administração pública.
+  Ana.                                                               B não poderá acumular as funções, porque uma é estadual e a
+E não será possível, porque o Brasil adota a teoria da                 outra é federal.
+  irresponsabilidade estatal.                                        C não poderá acumular as funções, porque apenas um dos
+                                                                       vínculos é oriundo do regime estatutário.
+      Questão 51                                                     D não poderá acumular as funções, porque não há previsão
+O Sistema de Registro de Preços poderá ser adotado nos casos           constitucional expressa que permita cumulações de funções
+em que                                                                 públicas remuneradas.
+                                                                     E poderá assumir o cargo e acumular as duas funções públicas,
+A houver necessidade de aquisição de bens com uma única                se os horários forem compatíveis e as profissões forem
+  entrega.                                                             regulamentadas.
+B houver quantitativo exato do produto demandado pela
+  administração.
+                                                                          Questão 56
+C a aquisição de bens vier a atender mais de um programa de          De acordo com as resoluções do CNJ,
+  governo, podendo ser acrescida a quantidade prevista na ata        A no caso de emissão de certidão judicial, a ausência de alguns
+  de registro de preços.                                               dos dados impede a expedição da certidão negativa, ainda que
+D a aquisição de bens vier a atender exclusivamente um órgão           não haja dúvida quanto à identificação física da pessoa.
+  público.                                                           B o modelo de requisitos para sistemas informatizados de
+E houver necessidade de contratações frequentes, em razão das          gestão de processos e documentos do Poder Judiciário
+  características do serviço.                                          brasileiro, no que concerne à segurança, é requisito
+                                                                       imprescindível para garantir a origem e a integridade dos
+      Questão 52                                                       documentos com assinatura digital.
+É considerado direito social previsto na Constituição Federal de     C a gestão da segurança da informação somente pode ser objeto
+1988                                                                   de contratação caso a empresa contratada que provê a solução
+                                                                       de TIC não seja a mesma que avalia ou fiscaliza o objeto da
+A o salário-família pago em razão do dependente do                     contratação.
+  trabalhador, independentemente da renda auferida.                  D os planos estratégicos dos órgãos do Poder Judiciário devem
+B o décimo terceiro salário com base no salário básico.                ser alinhados à Estratégia Judiciário e ter abrangência
+C a assistência aos desamparados, na forma da Constituição.            máxima de seis anos.
+D o salário mínimo, sendo permitida sua vinculação para              E a administração do sistema Processo Judicial Eletrônico cabe
+  qualquer fim.                                                        exclusivamente ao CNJ, garantida a participação de
+E o seguro-desemprego, em caso de desemprego voluntário ou             representantes dos tribunais superiores, cujas atribuições
+  involuntário.                                                        serão definidas por ato do presidente do CNJ.
+                                                                                             CEBRASPE | TJ/RJ – Edital: 2020
+
+     Questão 57                                                        Questão 60
+A Resolução n.º 211/2015 do CNJ trata sobre a estratégia          De acordo com a Instrução Normativa n.º 01/2019 do Ministério
+nacional de tecnologia da informação e comunicação (TIC) do       da Economia, o estudo técnico preliminar da contratação é o
+Poder Judiciário. De acordo com essa resolução,                   documento que descreve as análises realizadas em relação às
+                                                                  condições da contratação, em termos de necessidades,
+A cabe ao CNJ classificar os sistemas de informação de cada       alternativas e escolhas que demonstrem a viabilidade técnica e
+  órgão, identificando os que são estratégicos por meio de        econômica da contratação. Esse documento
+  inspeção ou a pedido do órgão.
+                                                                  A será aprovado e assinado pelos integrantes técnico e
+B cabe exclusivamente à área de TIC estabelecer estratégias,
+                                                                    requisitante da equipe de planejamento da contratação e pela
+  indicadores e metas institucionais, bem como pela orientação      autoridade máxima da área de TIC ou, caso esta componha a
+  das iniciativas e dos investimentos tecnológicos no âmbito        equipe, pela autoridade superior à ela.
+  institucional.                                                  B será especificado com base em requisitos necessários e
+C é vedada a participação de magistrados no comitê de               suficientes e conterá o quantitativo de bens e serviços,
+  governança de TIC.                                                ressalvado à forma de cálculo para a sua composição que
+D o comitê de governança de TIC é responsável pela elaboração       deve ser inserida no termo de referência ou projeto básico.
+  de planos táticos e a área de TIC os planos operacionais e      C considera estritamente os aspectos econômicos da solução,
+  pelo estabelecimento de indicadores operacionais do órgão.        com descrição detalhada, motivada e justificada.
+E cada órgão deverá elaborar o plano estratégico de TIC e o       D exclui aspectos qualitativos em termos de benefícios, sob
+  plano diretor de TIC, em harmonia com as diretrizes               pena de tornar inválida a imparcialidade exigida no estudo da
+  estratégicas institucionais e nacionais.                          contratação, ainda que haja necessidades de adequação do
+                                                                    ambiente do órgão para viabilizar a execução contratual.
+     Questão 58                                                   E compreende a análise comparativa de soluções e de custos
+A Resolução n.º 192/2014 do CNJ descreve a Política Nacional        para as soluções técnicas, ainda que não sejam
+de Formação e Aperfeiçoamento dos Servidores do Poder               funcionalmente viáveis, desde que haja a possibilidade de
+Judiciário. Segundo essa resolução,                                 contratação como serviço e o Total Cost Ownership seja
+                                                                    vantajoso para o órgão.
+A as ações de formação e aperfeiçoamento deverão ser
+  oferecidas, preferencialmente, fora da jornada de trabalho do   Espaço livre
+  servidor, de modo a não atrapalhar o andamento do setor ou
+  área no qual ele esteja lotado.
+B as horas da ação de formação e aperfeiçoamento que
+  excederem a jornada diária deverão ser compensadas como
+  horas extraordinárias e pagas em pecúnia ou inseridas em
+  bancos de horas.
+C ainda que a ação de formação e aperfeiçoamento tenha carga
+  horária inferior à jornada diária, o servidor não necessita
+  cumprir as horas faltantes.
+D a frequência em eventos presenciais de capacitação
+  oferecidos pelo órgão será computada como hora trabalhada,
+  exceto as horas de estudo realizadas pelo servidor fora das
+  dependências do Poder Judiciário, na metodologia à distância.
+E os servidores inscritos em ações de educação a distância
+  oferecidas pelo órgão podem dedicar até duas horas diárias de
+  trabalho para participação nas atividades, desde que seja de
+  interesse da administração.
+     Questão 59
+De acordo com a Instrução Normativa n.º 01/2019 do Ministério
+da Economia, na fase de planejamento da contratação, é
+obrigatório
+A elaborar o termo de referência, inclusive nos casos de
+  inexigibilidade ou dispensa de licitação.
+B prever em edital a remuneração média dos funcionários da
+  contratada.
+C prever reembolso de despesas com transporte e hospedagem,
+  desde que afetos ao objeto da contratação e justificados pela
+  contratada.
+D prever em edital exigência que os fornecedores apresentem,
+  em seus quadros, funcionários certificados para o
+  fornecimento da solução, antes da contratação.
+E adotar a métrica homem-hora nos casos de contratação de
+  serviços de desenvolvimento de software.
+

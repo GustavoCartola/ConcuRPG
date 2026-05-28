@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tema 1 - Seguranca de Infra</title>
+  <style>
+    :root { --bg:#0b1220; --card:#101a2f; --text:#ecf2ff; --muted:#9bb0d6; --accent:#67e8f9; --gold:#f59e0b; --border:rgba(103,232,249,.2);} *{box-sizing:border-box}
+    body{margin:0;font-family:"Trebuchet MS",Verdana,sans-serif;background:linear-gradient(180deg,#050a14 0%,var(--bg) 100%);color:var(--text);padding:28px 16px}
+    .wrap{max-width:980px;margin:0 auto}.top{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px}
+    .btn{padding:8px 12px;border:1px solid var(--border);border-radius:999px;color:var(--text);text-decoration:none;background:rgba(16,26,47,.86);font-size:.9rem}
+    .hero,.card{border:1px solid var(--border);border-radius:16px;background:rgba(16,26,47,.92)}.hero{padding:18px;margin-bottom:14px}.card{padding:16px}
+    h1{margin:0 0 6px;font-size:1.4rem}.muted{color:var(--muted)} ul{margin:0;padding-left:18px} li{margin:8px 0;line-height:1.45}.gold{color:var(--gold);font-weight:700}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <nav class="top">
+      <a class="btn" href="macetes-tjce-fcc-infra.html">Menu</a>
+      <a class="btn" href="tema-redes.html">Proximo tema</a>
+    </nav>
+
+    <section class="hero">
+      <h1>Tema 1: Seguranca de Infra</h1>
+      <p class="muted">Foco FCC: conceito aplicado + decisao de arquitetura.</p>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <ul>
+          <li><span class="gold">CIA</span>: confidencialidade, integridade, disponibilidade.</li>
+          <li><span class="gold">Hash</span> valida integridade e nao cifra.</li>
+          <li><span class="gold">AES</span> e simetrica moderna; <span class="gold">3DES</span> e legado.</li>
+          <li><span class="gold">RSA</span> e assimetrica para troca/assinatura.</li>
+          <li><span class="gold">TLS</span> protege canal em transito.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">IAM</span> gerencia identidades e acesso.</li>
+          <li><span class="gold">RBAC</span>: permissao por papel.</li>
+          <li><span class="gold">MFA</span>: minimo dois fatores diferentes.</li>
+          <li><span class="gold">SSO</span>: autentica uma vez, acessa varios sistemas.</li>
+          <li>Principio-chave: <span class="gold">menor privilegio</span>.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">Firewall</span>: filtra rede/porta/protocolo.</li>
+          <li><span class="gold">WAF</span>: filtra trafego HTTP/HTTPS da aplicacao.</li>
+          <li><span class="gold">IDS</span> detecta; <span class="gold">IPS</span> detecta e bloqueia.</li>
+          <li><span class="gold">SIEM</span>: correlacao de logs e alertas.</li>
+          <li><span class="gold">DMZ</span>: zona intermediaria para servicos expostos.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">Pentest</span>: simula ataque de forma controlada.</li>
+          <li>Malware: estatica ve artefato, dinamica ve comportamento.</li>
+          <li>VPN segura: IPsec, SSL VPN, IKEv2.</li>
+          <li>Seguranca real: tecnologia + processo + usuario.</li>
+          <li>Frase: <span class="gold">firewall filtra rede, WAF filtra app</span>.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">SSL record types</span>: handshake, alert, app data, change cipher spec.</li>
+          <li><span class="gold">RBAC</span> nao e exclusivo Microsoft e nao depende de um unico dominio.</li>
+          <li><span class="gold">MFA Azure AD</span>: combinar "algo que sabe", "algo que tem" ou "algo que e".</li>
+          <li><span class="gold">WAF AWS</span>: web ACL + regras + condicoes.</li>
+          <li>LGPD em prova: foco em <span class="gold">direitos do titular</span> e <span class="gold">governanca</span>.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li>Hardening de e-mail: SPF, DKIM, DMARC, antispam e antivurus.</li>
+          <li>Indicadores de incidente: impacto baixo, moderado ou alto no negocio.</li>
+          <li>SIEM: coleta, correlacao, alerta e investigacao.</li>
+          <li>Em criptografia: <span class="gold">esteganografia esconde</span>; cifra transforma.</li>
+          <li>Teste de intrusao: coleta de hash e pos-exploracao caem em cenario pratico.</li>
+        </ul>
+      </article>
+    </section>
+  </main>
+</body>
+</html>

@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tema 2 - Redes</title>
+  <style>
+    :root { --bg:#0b1220; --card:#101a2f; --text:#ecf2ff; --muted:#9bb0d6; --accent:#67e8f9; --gold:#f59e0b; --border:rgba(103,232,249,.2);} *{box-sizing:border-box}
+    body{margin:0;font-family:"Trebuchet MS",Verdana,sans-serif;background:linear-gradient(180deg,#050a14 0%,var(--bg) 100%);color:var(--text);padding:28px 16px}
+    .wrap{max-width:980px;margin:0 auto}.top{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px}
+    .btn{padding:8px 12px;border:1px solid var(--border);border-radius:999px;color:var(--text);text-decoration:none;background:rgba(16,26,47,.86);font-size:.9rem}
+    .hero,.card{border:1px solid var(--border);border-radius:16px;background:rgba(16,26,47,.92)}.hero{padding:18px;margin-bottom:14px}.card{padding:16px}
+    h1{margin:0 0 6px;font-size:1.4rem}.muted{color:var(--muted)} ul{margin:0;padding-left:18px} li{margin:8px 0;line-height:1.45}.gold{color:var(--gold);font-weight:700}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <nav class="top">
+      <a class="btn" href="macetes-tjce-fcc-infra.html">Menu</a>
+      <a class="btn" href="tema-seguranca-infra.html">Tema anterior</a>
+      <a class="btn" href="tema-linux-windows.html">Proximo tema</a>
+    </nav>
+
+    <section class="hero">
+      <h1>Tema 2: Redes</h1>
+      <p class="muted">Foco FCC: dominio conceitual + precisao de protocolo/padrao.</p>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <ul>
+          <li><span class="gold">Modelo OSI</span>: fisica, enlace, rede, transporte, sessao, apresentacao e aplicacao.</li>
+          <li><span class="gold">TCP/IP</span>: aplicacao, transporte, internet, acesso.</li>
+          <li><span class="gold">TCP</span> confiavel; <span class="gold">UDP</span> leve e sem conexao.</li>
+          <li><span class="gold">ARP</span> resolve IP para MAC na LAN.</li>
+          <li><span class="gold">ICMP</span> diagnostico e controle (ping/traceroute).</li>
+          <li><span class="gold">NAT/PAT</span> traduz privado para publico.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li>IPv4 = <span class="gold">32 bits</span>; IPv6 = <span class="gold">128 bits</span>.</li>
+          <li><span class="gold">CIDR</span> define rede por prefixo.</li>
+          <li><span class="gold">VLAN 802.1Q</span> segmenta dominio de broadcast.</li>
+          <li><span class="gold">Trunk</span> leva varias VLANs no mesmo enlace.</li>
+          <li><span class="gold">SNMP</span> gerencia; <span class="gold">MIB</span> descreve objetos.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li>Roteamento: <span class="gold">RIP</span>, <span class="gold">OSPF</span>, <span class="gold">BGP</span> (nocao).</li>
+          <li>STP/RSTP evitam loop em camada 2.</li>
+          <li>VPN: tunel seguro para site-to-site/acesso remoto.</li>
+          <li>Metrica de QoS: latencia, jitter, perda.</li>
+          <li>Frase: <span class="gold">MIB descreve, SNMP gerencia</span>.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">HSRP</span> e <span class="gold">VRRP</span> para redundancia de gateway.</li>
+          <li>VRRP: papeis master/backup.</li>
+          <li>HSRP: papeis active/standby.</li>
+          <li>Objetivo: failover sem indisponibilidade longa.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li>802.11: tipos de mobilidade em WLAN (sem transicao, inter-BSS, inter-ESS).</li>
+          <li>Roteador remove quadro de enlace e roteia por cabecalho IP.</li>
+          <li>IPv6 inclui <span class="gold">flow label</span> para tratamento especial de fluxo.</li>
+          <li>SYN flood: ataque de exaustao de estado em conexoes TCP.</li>
+          <li>DNS pode apoiar balanceamento simples por respostas diferentes.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li>Cabos: par trancado, coaxial, fibra e seus usos tipicos.</li>
+          <li>QoS: latencia baixa e jitter baixo para voz/video.</li>
+          <li>SD-WAN: usa internet com controle inteligente de trafego.</li>
+          <li>OSPF calcula melhor caminho por custo.</li>
+          <li>Regra-memoria: <span class="gold">enderecamento certo + segmentacao certa = rede previsivel</span>.</li>
+        </ul>
+      </article>
+    </section>
+  </main>
+</body>
+</html>
