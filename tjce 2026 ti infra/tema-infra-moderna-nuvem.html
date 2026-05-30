@@ -30,55 +30,64 @@
     <section class="grid">
       <article class="card">
         <ul>
-          <li><span class="gold">Container</span>: kernel compartilhado.</li>
-          <li><span class="gold">VM</span>: SO completo.</li>
-          <li><span class="gold">Docker</span>: imagem/container/volume.</li>
-          <li>Bridge: padrao.</li>
+          <li><span class="gold">Container</span> = kernel compartilhado.</li>
+          <li><span class="gold">VM</span> = SO completo.</li>
+          <li><span class="gold">Docker</span> = criacao e execucao de containers.</li>
+          <li>Bridge = rede padrao.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li><span class="gold">Nuvem</span>: <span class="gold">IaaS</span>, <span class="gold">PaaS</span>, <span class="gold">SaaS</span>.</li>
-          <li>Publica, privada, hibrida.</li>
-          <li>AWS/Azure: IAM, MFA, WAF.</li>
-          <li>HA: balanceador + auto scaling.</li>
+          <li>Imagem <span class="gold">Docker</span> = imutavel.</li>
+          <li>Containers = mais leves que maquinas virtuais.</li>
+          <li>Maior isolamento = pense em <span class="gold">VM</span>.</li>
+          <li><span class="gold">NFV</span> = funcoes de rede em software.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li><span class="gold">Kubernetes</span>: orquestra.</li>
-          <li>Escala e self-healing.</li>
-          <li>Pods, nodes, services.</li>
-          <li><span class="gold">Rancher</span>: clusters.</li>
+          <li><span class="gold">Nuvem</span> = <span class="gold">IaaS</span>, <span class="gold">PaaS</span> e <span class="gold">SaaS</span>.</li>
+          <li>Modelos = publica, privada e hibrida.</li>
+          <li>AWS/Azure = IAM, MFA e WAF.</li>
+          <li>HA = balanceador + auto scaling.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li><span class="gold">IaC</span>: codigo.</li>
-          <li><span class="gold">Ansible</span>: automacao.</li>
-          <li><span class="gold">Provisionamento</span>: automatizado.</li>
-          <li><span class="gold">SDI</span>: software-defined.</li>
+          <li><span class="gold">Kubernetes</span> = orquestracao.</li>
+          <li>Kubernetes = escala e self-healing.</li>
+          <li>Elementos = pods, nodes e services.</li>
+          <li><span class="gold">Rancher</span> = gestao de clusters.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li><span class="gold">EXPOSE</span>: porta.</li>
-          <li><span class="gold">docker history</span>: camadas.</li>
-          <li><span class="gold">Volume</span>: persistencia.</li>
-          <li><span class="gold">-d</span>: background.</li>
+          <li><span class="gold">IaC</span> = infraestrutura como codigo.</li>
+          <li><span class="gold">Ansible</span> = automacao.</li>
+          <li><span class="gold">Provisionamento</span> = execucao automatizada.</li>
+          <li><span class="gold">SDI</span> = infraestrutura definida por software.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li><span class="gold">kubectl apply</span>: declarativo.</li>
-          <li><span class="gold">create</span>: imperativo.</li>
-          <li><span class="gold">Kubernetes</span>: orquestra.</li>
-          <li>HA: ativo-passivo/ativo-ativo.</li>
+          <li><span class="gold">EXPOSE</span> = define porta.</li>
+          <li><span class="gold">docker history</span> = mostra camadas.</li>
+          <li><span class="gold">Volume</span> = persistencia.</li>
+          <li><span class="gold">-d</span> = execucao em background.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">kubectl apply</span> = declarativo.</li>
+          <li><span class="gold">kubectl create</span> = imperativo.</li>
+          <li><span class="gold">Kubernetes</span> = orquestra workloads.</li>
+          <li>HA = ativo-passivo ou ativo-ativo.</li>
         </ul>
       </article>
     </section>

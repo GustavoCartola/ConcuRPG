@@ -29,25 +29,25 @@
     <section class="grid">
       <article class="card">
         <ul>
-          <li><span class="gold">Firewall</span>: regras.</li>
-          <li><span class="gold">WAF</span>: HTTP/HTTPS.</li>
-          <li><span class="gold">IDS</span> detecta; <span class="gold">IPS</span> bloqueia.</li>
-          <li><span class="gold">SIEM</span>: correlacao.</li>
+          <li><span class="gold">Firewall</span> = filtra trafego.</li>
+          <li><span class="gold">WAF</span> = protege HTTP/HTTPS.</li>
+          <li><span class="gold">IDS</span> = detecta; <span class="gold">IPS</span> = detecta e bloqueia.</li>
+          <li><span class="gold">SIEM</span> = correlacao de eventos.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li><span class="gold">IAM</span>: identidades.</li>
-          <li><span class="gold">RBAC</span>: papel.</li>
-          <li><span class="gold">MFA</span>: 2 fatores.</li>
-          <li><span class="gold">SSO</span>: login unico.</li>
+          <li><span class="gold">IAM</span> = gestao de identidades.</li>
+          <li><span class="gold">RBAC</span> = permissao por papel.</li>
+          <li><span class="gold">MFA</span> = autenticacao em 2 fatores.</li>
+          <li><span class="gold">SSO</span> = login unico.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li><span class="gold">CIA</span>: conf., integ., disp.</li>
+          <li><span class="gold">CIA</span> = confidencialidade, integridade e disponibilidade.</li>
           <li><span class="gold">Hash</span> = integridade.</li>
           <li><span class="gold">AES</span> = simetrica; <span class="gold">3DES</span> = legado.</li>
           <li><span class="gold">RSA</span> = assimetrica.</li>
@@ -56,10 +56,10 @@
 
       <article class="card">
         <ul>
-          <li><span class="gold">Trojan</span>: disfarce.</li>
-          <li><span class="gold">Worm</span>: replica sozinho.</li>
-          <li><span class="gold">Virus</span>: infecta executavel.</li>
-          <li>Worm sozinho, Virus gruda, Trojan engana.</li>
+          <li><span class="gold">Trojan</span> = programa disfarcado.</li>
+          <li><span class="gold">Worm</span> = propagacao automatica.</li>
+          <li><span class="gold">Virus</span> = precisa de hospedeiro.</li>
+          <li>Worm se replica; virus depende de arquivo hospedeiro.</li>
         </ul>
       </article>
 
@@ -74,18 +74,18 @@
 
       <article class="card">
         <ul>
-          <li>Teste de intrusao: ataque controlado.</li>
-          <li>Malware: artefato e comportamento.</li>
-          <li>VPN: IPsec, SSL VPN, IKEv2.</li>
+          <li>Teste de intrusao = ataque controlado.</li>
+          <li>Malware = artefato e comportamento malicioso.</li>
+          <li>VPN = IPsec, SSL VPN ou IKEv2.</li>
           <li>Seguranca = tecnologia + processo + usuario.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li>Hardening de e-mail: SPF, DKIM, DMARC.</li>
-          <li>Incidente: impacto baixo/medio/alto.</li>
-          <li>SIEM: coleta, correlaciona, alerta.</li>
+          <li>Hardening de e-mail = SPF, DKIM e DMARC.</li>
+          <li>Incidente = impacto baixo, medio ou alto.</li>
+          <li>SIEM = coleta, correlaciona e alerta.</li>
           <li>Cifra protege; hash garante.</li>
         </ul>
       </article>
@@ -110,10 +110,55 @@
 
       <article class="card">
         <ul>
-          <li><span class="gold">Stateful</span>: estado.</li>
-          <li>Acompanha sessao.</li>
-          <li><span class="gold">Stateless</span>: pacote isolado.</li>
+          <li><span class="gold">Stateful</span> = acompanha conexoes TCP.</li>
+          <li>Stateful considera estado da sessao.</li>
+          <li><span class="gold">Stateless</span> = avalia pacote isolado.</li>
           <li>Fluxo e sessao = stateful.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">Spyware</span>: espionagem.</li>
+          <li><span class="gold">Adware</span>: propaganda indesejada.</li>
+          <li><span class="gold">Ransomware</span>: sequestro de dados.</li>
+          <li><span class="gold">Browser Hijacker</span>: altera homepage.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">RAT</span> = trojan de acesso remoto.</li>
+          <li><span class="gold">Backdoor</span> = porta de acesso oculto.</li>
+          <li><span class="gold">Botnet</span> = rede de maquinas zumbis.</li>
+          <li>Acesso remoto como usuario = pense em <span class="gold">RAT</span>.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">Pharming</span> = redireciona para site falso.</li>
+          <li>Explora browser, SO ou <span class="gold">DNS</span>.</li>
+          <li><span class="gold">Phishing</span> = engana por mensagem/link.</li>
+          <li>Redirecionamento tecnico para pagina bancaria falsa = <span class="gold">Pharming</span>.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">Rootkit</span> = conjunto para manter acesso privilegiado oculto.</li>
+          <li><span class="gold">Root</span> = controle total do sistema.</li>
+          <li><span class="gold">Keylogger</span> = captura digitacao.</li>
+          <li>Nivel raiz + ferramentas de ocultacao = <span class="gold">Rootkit</span>.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">Hoax</span> = mensagem falsa com aparencia de verdade.</li>
+          <li>Objetivo = persuadir usuario a agir.</li>
+          <li>Nao depende de exploracao tecnica no host.</li>
+          <li>Se fala em convencer leitor por mensagem = <span class="gold">Hoax</span>.</li>
         </ul>
       </article>
 
