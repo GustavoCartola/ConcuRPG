@@ -29,61 +29,100 @@
     <section class="grid">
       <article class="card">
         <ul>
-          <li><span class="gold">CIA</span>: confidencialidade, integridade, disponibilidade.</li>
-          <li><span class="gold">Hash</span> valida integridade e nao cifra.</li>
-          <li><span class="gold">AES</span> e simetrica moderna; <span class="gold">3DES</span> e legado.</li>
-          <li><span class="gold">RSA</span> e assimetrica para troca/assinatura.</li>
-          <li><span class="gold">TLS</span> protege canal em transito.</li>
+          <li><span class="gold">Firewall</span>: regras.</li>
+          <li><span class="gold">WAF</span>: HTTP/HTTPS.</li>
+          <li><span class="gold">IDS</span> detecta; <span class="gold">IPS</span> bloqueia.</li>
+          <li><span class="gold">SIEM</span>: correlacao.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li><span class="gold">IAM</span> gerencia identidades e acesso.</li>
-          <li><span class="gold">RBAC</span>: permissao por papel.</li>
-          <li><span class="gold">MFA</span>: minimo dois fatores diferentes.</li>
-          <li><span class="gold">SSO</span>: autentica uma vez, acessa varios sistemas.</li>
-          <li>Principio-chave: <span class="gold">menor privilegio</span>.</li>
+          <li><span class="gold">IAM</span>: identidades.</li>
+          <li><span class="gold">RBAC</span>: papel.</li>
+          <li><span class="gold">MFA</span>: 2 fatores.</li>
+          <li><span class="gold">SSO</span>: login unico.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li><span class="gold">Firewall</span>: filtra rede/porta/protocolo.</li>
-          <li><span class="gold">WAF</span>: filtra trafego HTTP/HTTPS da aplicacao.</li>
-          <li><span class="gold">IDS</span> detecta; <span class="gold">IPS</span> detecta e bloqueia.</li>
-          <li><span class="gold">SIEM</span>: correlacao de logs e alertas.</li>
-          <li><span class="gold">DMZ</span>: zona intermediaria para servicos expostos.</li>
+          <li><span class="gold">CIA</span>: conf., integ., disp.</li>
+          <li><span class="gold">Hash</span> = integridade.</li>
+          <li><span class="gold">AES</span> = simetrica; <span class="gold">3DES</span> = legado.</li>
+          <li><span class="gold">RSA</span> = assimetrica.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li><span class="gold">Pentest</span>: simula ataque de forma controlada.</li>
-          <li>Malware: estatica ve artefato, dinamica ve comportamento.</li>
-          <li>VPN segura: IPsec, SSL VPN, IKEv2.</li>
-          <li>Seguranca real: tecnologia + processo + usuario.</li>
-          <li>Frase: <span class="gold">firewall filtra rede, WAF filtra app</span>.</li>
+          <li><span class="gold">Trojan</span>: disfarce.</li>
+          <li><span class="gold">Worm</span>: replica sozinho.</li>
+          <li><span class="gold">Virus</span>: infecta executavel.</li>
+          <li>Worm sozinho, Virus gruda, Trojan engana.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li><span class="gold">SSL record types</span>: handshake, alert, app data, change cipher spec.</li>
-          <li><span class="gold">RBAC</span> nao e exclusivo Microsoft e nao depende de um unico dominio.</li>
-          <li><span class="gold">MFA Azure AD</span>: combinar "algo que sabe", "algo que tem" ou "algo que e".</li>
-          <li><span class="gold">WAF AWS</span>: web ACL + regras + condicoes.</li>
-          <li>LGPD em prova: foco em <span class="gold">direitos do titular</span> e <span class="gold">governanca</span>.</li>
+          <li><span class="gold">Antivirus</span>: monitora.</li>
+          <li><span class="gold">Quarentena</span>: isola.</li>
+          <li><span class="gold">Atualizacao</span>: protege mais.</li>
+          <li>I e III ok; II exagera.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li>Hardening de e-mail: SPF, DKIM, DMARC, antispam e antivurus.</li>
-          <li>Indicadores de incidente: impacto baixo, moderado ou alto no negocio.</li>
-          <li>SIEM: coleta, correlacao, alerta e investigacao.</li>
-          <li>Em criptografia: <span class="gold">esteganografia esconde</span>; cifra transforma.</li>
-          <li>Teste de intrusao: coleta de hash e pos-exploracao caem em cenario pratico.</li>
+          <li>Teste de intrusao: ataque controlado.</li>
+          <li>Malware: artefato e comportamento.</li>
+          <li>VPN: IPsec, SSL VPN, IKEv2.</li>
+          <li>Seguranca = tecnologia + processo + usuario.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li>Hardening de e-mail: SPF, DKIM, DMARC.</li>
+          <li>Incidente: impacto baixo/medio/alto.</li>
+          <li>SIEM: coleta, correlaciona, alerta.</li>
+          <li>Cifra protege; hash garante.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">IDS</span>: detecta.</li>
+          <li>Firewall filtra por regra.</li>
+          <li>Firewall bloqueia.</li>
+          <li>IDS monitora.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">Firewall</span>: borda.</li>
+          <li>Borda + regra = firewall.</li>
+          <li><span class="gold">Proxy</span> intermedia.</li>
+          <li>Regra de borda.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">Stateful</span>: estado.</li>
+          <li>Acompanha sessao.</li>
+          <li><span class="gold">Stateless</span>: pacote isolado.</li>
+          <li>Fluxo e sessao = stateful.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <ul>
+          <li><span class="gold">RBAC</span> nao e exclusivo Microsoft.</li>
+          <li><span class="gold">MFA</span>: sabe, tem, e.</li>
+          <li><span class="gold">LGPD</span>: titular + governanca.</li>
+          <li>Cifra protege; hash confere.</li>
         </ul>
       </article>
     </section>

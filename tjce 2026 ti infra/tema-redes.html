@@ -30,61 +30,55 @@
     <section class="grid">
       <article class="card">
         <ul>
-          <li><span class="gold">Modelo OSI</span>: fisica, enlace, rede, transporte, sessao, apresentacao e aplicacao.</li>
-          <li><span class="gold">TCP/IP</span>: aplicacao, transporte, internet, acesso.</li>
-          <li><span class="gold">TCP</span> confiavel; <span class="gold">UDP</span> leve e sem conexao.</li>
-          <li><span class="gold">ARP</span> resolve IP para MAC na LAN.</li>
-          <li><span class="gold">ICMP</span> diagnostico e controle (ping/traceroute).</li>
-          <li><span class="gold">NAT/PAT</span> traduz privado para publico.</li>
+          <li><span class="gold">OSI</span>: 7 camadas.</li>
+          <li><span class="gold">TCP/IP</span>: 4 camadas.</li>
+          <li><span class="gold">TCP</span> confiavel; <span class="gold">UDP</span> leve.</li>
+          <li><span class="gold">ARP</span> = IP/MAC; <span class="gold">ICMP</span> = ping.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li>IPv4 = <span class="gold">32 bits</span>; IPv6 = <span class="gold">128 bits</span>.</li>
-          <li><span class="gold">CIDR</span> define rede por prefixo.</li>
-          <li><span class="gold">VLAN 802.1Q</span> segmenta dominio de broadcast.</li>
-          <li><span class="gold">Trunk</span> leva varias VLANs no mesmo enlace.</li>
-          <li><span class="gold">SNMP</span> gerencia; <span class="gold">MIB</span> descreve objetos.</li>
+          <li>IPv4 = <span class="gold">32 bits</span>.</li>
+          <li>IPv6 = <span class="gold">128 bits</span>.</li>
+          <li><span class="gold">CIDR</span> = prefixo.</li>
+          <li><span class="gold">VLAN 802.1Q</span> + trunk.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li>Roteamento: <span class="gold">RIP</span>, <span class="gold">OSPF</span>, <span class="gold">BGP</span> (nocao).</li>
-          <li>STP/RSTP evitam loop em camada 2.</li>
-          <li>VPN: tunel seguro para site-to-site/acesso remoto.</li>
-          <li>Metrica de QoS: latencia, jitter, perda.</li>
-          <li>Frase: <span class="gold">MIB descreve, SNMP gerencia</span>.</li>
+          <li><span class="gold">DHCP</span>: entrega IP.</li>
+          <li><span class="gold">DNS</span>: nomes.</li>
+          <li><span class="gold">SNMP</span>: monitora.</li>
+          <li><span class="gold">NAT/PAT</span>: traduz.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li><span class="gold">HSRP</span> e <span class="gold">VRRP</span> para redundancia de gateway.</li>
-          <li>VRRP: papeis master/backup.</li>
-          <li>HSRP: papeis active/standby.</li>
-          <li>Objetivo: failover sem indisponibilidade longa.</li>
+          <li><span class="gold">RIP</span>, <span class="gold">OSPF</span>, <span class="gold">BGP</span>.</li>
+          <li><span class="gold">STP/RSTP</span>: evita loop.</li>
+          <li><span class="gold">VPN</span>: tunel seguro.</li>
+          <li><span class="gold">QoS</span>: latencia, jitter, perda.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li>802.11: tipos de mobilidade em WLAN (sem transicao, inter-BSS, inter-ESS).</li>
-          <li>Roteador remove quadro de enlace e roteia por cabecalho IP.</li>
-          <li>IPv6 inclui <span class="gold">flow label</span> para tratamento especial de fluxo.</li>
-          <li>SYN flood: ataque de exaustao de estado em conexoes TCP.</li>
-          <li>DNS pode apoiar balanceamento simples por respostas diferentes.</li>
+          <li>Cabos: par, coaxial, fibra.</li>
+          <li><span class="gold">QoS</span>: latencia/jitter.</li>
+          <li>Fisica: meio guiado/nao guiado.</li>
+          <li><span class="gold">OSPF</span> por custo.</li>
         </ul>
       </article>
 
       <article class="card">
         <ul>
-          <li>Cabos: par trancado, coaxial, fibra e seus usos tipicos.</li>
-          <li>QoS: latencia baixa e jitter baixo para voz/video.</li>
-          <li>SD-WAN: usa internet com controle inteligente de trafego.</li>
-          <li>OSPF calcula melhor caminho por custo.</li>
-          <li>Regra-memoria: <span class="gold">enderecamento certo + segmentacao certa = rede previsivel</span>.</li>
+          <li><span class="gold">802.11</span>: WLAN.</li>
+          <li>Roteador troca quadro por IP.</li>
+          <li><span class="gold">Flow label</span> = fluxo.</li>
+          <li>DNS pode balancear.</li>
         </ul>
       </article>
     </section>
