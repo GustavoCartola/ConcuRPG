@@ -105,6 +105,19 @@
     }
 
     .gold { color: var(--accent-2); font-weight: 700; }
+
+    .priority {
+      margin-top: 10px;
+      display: inline-block;
+      padding: 5px 10px;
+      border-radius: 999px;
+      font-size: 0.76rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      color: #fde68a;
+      background: rgba(245, 158, 11, 0.18);
+      border: 1px solid rgba(245, 158, 11, 0.34);
+    }
   </style>
 </head>
 <body>
@@ -112,25 +125,32 @@
     <header>
       <h1>Macetes TJCE FCC - Infra TI</h1>
       <p>Página inicial de revisão. Clique no tema e estude por blocos curtos.</p>
+      <span class="priority">ORDEM FCC: Redes + SO/Admin + Segurança</span>
     </header>
 
     <section class="grid">
-      <a class="card" href="tema-seguranca-infra.html">
-        <span class="tag">TEMA 1</span>
-        <h2>Segurança de Infra</h2>
-        <p>Cripto, IAM, RBAC, MFA, firewall, WAF, malware e logs.</p>
+      <a class="card" href="edital-priorizado-fcc-infra-redes.html">
+        <span class="tag">GUIA</span>
+        <h2>Verticalizado Priorizado FCC</h2>
+        <p>Mapa por recorrência: prioridade máxima, alta, média e ciclo 24h/7d/30d.</p>
       </a>
 
       <a class="card" href="tema-redes.html">
-        <span class="tag">TEMA 2</span>
+        <span class="tag">TEMA 1</span>
         <h2>Redes</h2>
         <p>OSI/TCP-IP, UDP, SNMP/MIB, VLAN, IPv6, VPN e redundância de gateway.</p>
       </a>
 
       <a class="card" href="tema-linux-windows.html">
-        <span class="tag">TEMA 3</span>
+        <span class="tag">TEMA 2</span>
         <h2>Linux / Windows</h2>
         <p>iptables, LVM, AD/LDAP, SSH/SCP, serviços e administração.</p>
+      </a>
+
+      <a class="card" href="tema-seguranca-infra.html">
+        <span class="tag">TEMA 3</span>
+        <h2>Segurança de Infra</h2>
+        <p>Cripto, IAM, RBAC, MFA, firewall, WAF, malware e logs.</p>
       </a>
 
       <a class="card" href="tema-infra-moderna-nuvem.html">
@@ -149,6 +169,12 @@
         <span class="tag">TEMA 5</span>
         <h2>Governança e Normativos</h2>
         <p>ITIL v4, COBIT, PDTI/PETI, CNJ, PDPJ-Br e leitura objetiva de norma.</p>
+      </a>
+
+      <a class="card" href="edital_verticalizado_infra.txt">
+        <span class="tag">BASE</span>
+        <h2>Edital Verticalizado (Texto)</h2>
+        <p>Fonte completa dos itens para marcação de estudo e revisão.</p>
       </a>
     </section>
 

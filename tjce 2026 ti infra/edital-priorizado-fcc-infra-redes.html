@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Verticalizado Prioritario FCC - TJCE Infra/Redes</title>
+  <style>
+    :root {
+      --bg: #07131a;
+      --bg-soft: #10232e;
+      --card: #112c3a;
+      --text: #e7f3f9;
+      --muted: #a4c2d0;
+      --accent: #5eead4;
+      --accent-2: #fbbf24;
+      --danger: #fb7185;
+      --ok: #34d399;
+      --border: rgba(94, 234, 212, 0.26);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Trebuchet MS", Verdana, sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 8% -8%, rgba(94, 234, 212, 0.25), transparent 34%),
+        radial-gradient(circle at 92% 0%, rgba(251, 191, 36, 0.18), transparent 30%),
+        linear-gradient(180deg, #051017 0%, var(--bg) 100%);
+      min-height: 100vh;
+      padding: 28px 16px 40px;
+    }
+
+    .wrap {
+      max-width: 1050px;
+      margin: 0 auto;
+    }
+
+    header {
+      background: rgba(17, 44, 58, 0.9);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: 1.55rem;
+      letter-spacing: 0.02em;
+    }
+
+    .sub {
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+
+    .alert {
+      margin-top: 12px;
+      padding: 10px 12px;
+      border-radius: 12px;
+      border: 1px solid rgba(251, 191, 36, 0.35);
+      background: rgba(251, 191, 36, 0.08);
+      color: #fde68a;
+      font-weight: 700;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+
+    .card {
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      background: rgba(17, 44, 58, 0.9);
+      padding: 14px;
+    }
+
+    .badge {
+      display: inline-block;
+      font-size: 0.74rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      padding: 4px 9px;
+      border-radius: 999px;
+      margin-bottom: 8px;
+    }
+
+    .maxima { background: rgba(251, 113, 133, 0.22); color: #fecdd3; }
+    .alta { background: rgba(251, 191, 36, 0.2); color: #fde68a; }
+    .media { background: rgba(94, 234, 212, 0.2); color: #99f6e4; }
+    .baixa { background: rgba(148, 163, 184, 0.2); color: #cbd5e1; }
+
+    h2 {
+      margin: 0 0 8px;
+      font-size: 1.05rem;
+    }
+
+    ul {
+      margin: 8px 0 0 18px;
+      color: var(--muted);
+      line-height: 1.5;
+      padding: 0;
+    }
+
+    li { margin-bottom: 4px; }
+
+    .row {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 12px;
+      margin-top: 8px;
+    }
+
+    .box {
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      background: rgba(16, 35, 46, 0.9);
+      padding: 14px;
+    }
+
+    .box h3 {
+      margin: 0 0 8px;
+      font-size: 1rem;
+    }
+
+    .pill {
+      display: inline-block;
+      border-radius: 999px;
+      padding: 4px 9px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      margin-right: 6px;
+      margin-bottom: 8px;
+    }
+
+    .p1 { background: rgba(52, 211, 153, 0.2); color: #86efac; }
+    .p2 { background: rgba(94, 234, 212, 0.2); color: #99f6e4; }
+    .p3 { background: rgba(251, 191, 36, 0.22); color: #fde68a; }
+
+    .checklist li { list-style: "- "; }
+
+    .footer {
+      margin-top: 14px;
+      color: var(--muted);
+      font-size: 0.93rem;
+    }
+
+    .strong { color: var(--accent-2); font-weight: 700; }
+
+    a.back {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    a.back:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <header>
+      <h1>Edital Verticalizado Prioritario - FCC (Analista Judiciario TI Infra/Redes)</h1>
+      <p class="sub">Ordem sugerida por recorrencia historica de cobranca da FCC em concursos de tribunal com perfil Infra/Redes.</p>
+      <p class="alert">Foco de prova: maximize Redes + SO/Admin + Seguranca antes de aprofundar os demais blocos.</p>
+    </header>
+
+    <section class="grid">
+      <article class="card">
+        <span class="badge maxima">PRIORIDADE MAXIMA</span>
+        <h2>Redes + Servicos + Observabilidade</h2>
+        <ul>
+          <li>Bloco 3 completo, com foco em IPv4/IPv6, CIDR, NAT, VLAN, protocolos e troubleshooting.</li>
+          <li>Blocos 8.1 e 8.2 (HTTP/HTTPS, Apache/Nginx/IIS, hardening).</li>
+          <li>Bloco 10 (logs, metricas, eventos, SIEM).</li>
+          <li>Bloco 3.20 (documentacao tecnica de rede/infra).</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <span class="badge maxima">PRIORIDADE MAXIMA</span>
+        <h2>Sistemas Operacionais e Administracao</h2>
+        <ul>
+          <li>Bloco 2 completo (Linux, Windows Server, AD, PowerShell, WSUS, hardening).</li>
+          <li>Bloco 7 completo (GPO, permissoes, logs, estacoes e autenticacao).</li>
+          <li>Bloco 11 completo (Shell, PowerShell, Python para rotina operacional).</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <span class="badge maxima">PRIORIDADE MAXIMA</span>
+        <h2>Seguranca Aplicada a Infraestrutura</h2>
+        <ul>
+          <li>Bloco 13 completo (ISO/LGPD, IAM, MFA, RBAC, criptografia, incidentes).</li>
+          <li>Reforcos: 3.11, 3.13 e 8.5 (VPN/TLS, WLAN segura, SPF/DKIM/DMARC).</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <span class="badge alta">PRIORIDADE ALTA</span>
+        <h2>Virtualizacao, Containers e Nuvem</h2>
+        <ul>
+          <li>Bloco 5 (VMware/Hyper-V/KVM, Docker, Kubernetes, Rancher, IaC).</li>
+          <li>Bloco 6 (modelos cloud, seguranca, hibrido, HA, FinOps).</li>
+          <li>Bloco 15.5 (PDPJ-Br em cluster, Rancher e CI/CD).</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <span class="badge alta">PRIORIDADE ALTA</span>
+        <h2>Governanca, CNJ e Contratacoes</h2>
+        <ul>
+          <li>Bloco 14 (ITIL v4, COBIT 2019, ISO 20000/31000, ENTIC-JUD).</li>
+          <li>Bloco 15 (PDPJ-Br, resolucoes e portarias CNJ).</li>
+          <li>Bloco 16 (Lei 14.133, ETP, TR, gestao e fiscalizacao contratual).</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <span class="badge media">PRIORIDADE MEDIA</span>
+        <h2>Banco, Backup e Datacenter</h2>
+        <ul>
+          <li>Bloco 9 (HA de banco, replicacao, PITR, monitoramento, tuning).</li>
+          <li>Bloco 12 (backup, restore, BCP/DRP, RPO/RTO).</li>
+          <li>Bloco 4 (SAN/NAS/VSAN, HCI, failover e resiliencia).</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <span class="badge baixa">PRIORIDADE DE MANUTENCAO</span>
+        <h2>Arquitetura e Ingles Tecnico</h2>
+        <ul>
+          <li>Bloco 1 (base conceitual de hardware e organizacao).</li>
+          <li>Bloco 17 (leitura tecnica para ganho de pontos rapidos).</li>
+        </ul>
+      </article>
+    </section>
+
+    <section class="row">
+      <article class="box">
+        <h3>Ordem de Estudo (ciclo principal)</h3>
+        <p><span class="pill p1">1</span> Redes + Servicos + Observabilidade</p>
+        <p><span class="pill p1">2</span> Linux/Windows + AD + Automacao</p>
+        <p><span class="pill p1">3</span> Seguranca aplicada a Infra</p>
+        <p><span class="pill p2">4</span> Virtualizacao/Containers/Nuvem</p>
+        <p><span class="pill p2">5</span> Governanca/CNJ/Contratacoes</p>
+        <p><span class="pill p3">6</span> Banco + Backup + Datacenter</p>
+        <p><span class="pill p3">7</span> Arquitetura + Ingles tecnico</p>
+      </article>
+
+      <article class="box">
+        <h3>Distribuicao de Esforco</h3>
+        <ul class="checklist">
+          <li>40%: Redes + Sistemas Operacionais/Admin.</li>
+          <li>25%: Seguranca da Informacao.</li>
+          <li>15%: Virtualizacao e Nuvem.</li>
+          <li>15%: Governanca, CNJ e Contratacoes.</li>
+          <li>5%: Demais blocos (arquitetura, ingles e reforcos).</li>
+        </ul>
+      </article>
+
+      <article class="box">
+        <h3>Revisao 24h / 7d / 30d</h3>
+        <ul class="checklist">
+          <li>24h: 15 questoes + 1 pagina de resumo do bloco estudado.</li>
+          <li>7d: 20 questoes mistas do mesmo eixo (ex.: Redes + Seguranca).</li>
+          <li>30d: simulado por prioridade (70% topicos maximos e altos).</li>
+          <li>Registrar erros por subitem do edital para fechar lacunas.</li>
+        </ul>
+      </article>
+    </section>
+
+    <p class="footer"><span class="strong">Regra de ouro:</span> o que mais aprova em FCC Infra e dominar cenarios de operacao real, correlacionando redes, SO e seguranca.</p>
+    <p class="footer"><a class="back" href="macetes-tjce-fcc-infra.html">Voltar ao menu de macetes</a></p>
+  </main>
+</body>
+</html>
