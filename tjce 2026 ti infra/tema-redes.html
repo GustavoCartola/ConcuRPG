@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Tema 2 - Redes</title>
+  <title>Tema 1 - Redes</title>
   <style>
     :root { --bg:#0b1220; --card:#101a2f; --text:#ecf2ff; --muted:#9bb0d6; --accent:#67e8f9; --gold:#f59e0b; --border:rgba(103,232,249,.2);} *{box-sizing:border-box}
     body{margin:0;font-family:"Trebuchet MS",Verdana,sans-serif;background:linear-gradient(180deg,#050a14 0%,var(--bg) 100%);color:var(--text);padding:28px 16px}
@@ -11,6 +11,8 @@
     .btn{padding:8px 12px;border:1px solid var(--border);border-radius:999px;color:var(--text);text-decoration:none;background:rgba(16,26,47,.86);font-size:.9rem}
     .hero,.card{border:1px solid var(--border);border-radius:16px;background:rgba(16,26,47,.92)}.hero{padding:18px;margin-bottom:14px}.card{padding:16px}
     h1{margin:0 0 6px;font-size:1.4rem}.muted{color:var(--muted)} ul{margin:0;padding-left:18px} li{margin:8px 0;line-height:1.45}.gold{color:var(--gold);font-weight:700}
+    .topic{margin-top:16px}
+    .topic h2{margin:0 0 10px;font-size:1.05rem;color:var(--accent);letter-spacing:.2px}
     .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
   </style>
 </head>
@@ -18,78 +20,95 @@
   <main class="wrap">
     <nav class="top">
       <a class="btn" href="macetes-tjce-fcc-infra.html">Menu</a>
-      <a class="btn" href="tema-seguranca-infra.html">Tema anterior</a>
-      <a class="btn" href="tema-linux-windows.html">Proximo tema</a>
+      <a class="btn" href="tema-servicos-web-email.html">Proximo tema</a>
     </nav>
 
     <section class="hero">
-      <h1>Tema 2: Redes</h1>
+      <h1>Tema 1: Redes</h1>
       <p class="muted">Foco FCC: dominio conceitual + precisao de protocolo/padrao.</p>
     </section>
 
-    <section class="grid">
-      <article class="card">
-        <ul>
-          <li><span class="gold">OSI</span> = modelo de 7 camadas.</li>
-          <li><span class="gold">TCP/IP</span> = modelo de 4 camadas.</li>
-          <li><span class="gold">TCP</span> = confiavel; <span class="gold">UDP</span> = leve.</li>
-          <li><span class="gold">ARP</span> = IP/MAC; <span class="gold">ICMP</span> = ping.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Modelos e Protocolos Fundamentais</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">OSI</span> = modelo de 7 camadas.</li>
+            <li><span class="gold">TCP/IP</span> = modelo de 4 camadas.</li>
+            <li><span class="gold">TCP</span> = confiavel; <span class="gold">UDP</span> = leve.</li>
+            <li><span class="gold">ARP</span> = IP/MAC; <span class="gold">ICMP</span> = ping.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Smurf</span> = ataque com ping para broadcast.</li>
-          <li>Respostas sao refletidas para a vitima.</li>
-          <li><span class="gold">ICMP</span> + broadcast = amplificacao de DoS.</li>
-          <li>Ping em massa para broadcast com alvo terceiro = <span class="gold">Smurf</span>.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">DHCP</span> = entrega IP.</li>
+            <li><span class="gold">DNS</span> = resolve nomes.</li>
+            <li><span class="gold">SNMP</span> = monitoracao.</li>
+            <li><span class="gold">NAT/PAT</span> = traducao de enderecos.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li>IPv4 = <span class="gold">32 bits</span>.</li>
-          <li>IPv6 = <span class="gold">128 bits</span>.</li>
-          <li><span class="gold">CIDR</span> = prefixo.</li>
-          <li><span class="gold">VLAN 802.1Q</span> = segmentacao com trunk.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Enderecamento e Segmentacao</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li>IPv4 = <span class="gold">32 bits</span>.</li>
+            <li>IPv6 = <span class="gold">128 bits</span>.</li>
+            <li><span class="gold">CIDR</span> = prefixo.</li>
+            <li><span class="gold">VLAN 802.1Q</span> = segmentacao com trunk.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">DHCP</span> = entrega IP.</li>
-          <li><span class="gold">DNS</span> = resolve nomes.</li>
-          <li><span class="gold">SNMP</span> = monitoracao.</li>
-          <li><span class="gold">NAT/PAT</span> = traducao de enderecos.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">802.11</span> = WLAN.</li>
+            <li>Roteador = encaminha pacote IP.</li>
+            <li><span class="gold">Flow label</span> = fluxo.</li>
+            <li>DNS = pode balancear acesso.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">RIP</span>, <span class="gold">OSPF</span>, <span class="gold">BGP</span> = roteamento.</li>
-          <li><span class="gold">STP/RSTP</span> = evita loop.</li>
-          <li><span class="gold">VPN</span> = tunel seguro.</li>
-          <li><span class="gold">QoS</span> = controla latencia, jitter e perda.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Roteamento, Switching e QoS</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">RIP</span>, <span class="gold">OSPF</span>, <span class="gold">BGP</span> = roteamento.</li>
+            <li><span class="gold">STP/RSTP</span> = evita loop.</li>
+            <li><span class="gold">VPN</span> = tunel seguro.</li>
+            <li><span class="gold">QoS</span> = controla latencia, jitter e perda.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li>Cabos = par, coaxial e fibra.</li>
-          <li><span class="gold">QoS</span> = priorizacao de trafego.</li>
-          <li>Fisica = meio guiado e nao guiado.</li>
-          <li><span class="gold">OSPF</span> = rota por custo.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li>Cabos = par, coaxial e fibra.</li>
+            <li><span class="gold">QoS</span> = priorizacao de trafego.</li>
+            <li>Fisica = meio guiado e nao guiado.</li>
+            <li><span class="gold">OSPF</span> = rota por custo.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">802.11</span> = WLAN.</li>
-          <li>Roteador = encaminha pacote IP.</li>
-          <li><span class="gold">Flow label</span> = fluxo.</li>
-          <li>DNS = pode balancear acesso.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Ataques em Redes</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">Smurf</span> = ataque com ping para broadcast.</li>
+            <li>Respostas sao refletidas para a vitima.</li>
+            <li><span class="gold">ICMP</span> + broadcast = amplificacao de DoS.</li>
+            <li>Ping em massa para broadcast com alvo terceiro = <span class="gold">Smurf</span>.</li>
+          </ul>
+        </article>
+      </div>
     </section>
   </main>
 </body>

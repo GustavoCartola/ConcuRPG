@@ -11,6 +11,8 @@
     .btn{padding:8px 12px;border:1px solid var(--border);border-radius:999px;color:var(--text);text-decoration:none;background:rgba(16,26,47,.86);font-size:.9rem}
     .hero,.card{border:1px solid var(--border);border-radius:16px;background:rgba(16,26,47,.92)}.hero{padding:18px;margin-bottom:14px}.card{padding:16px}
     h1{margin:0 0 6px;font-size:1.4rem}.muted{color:var(--muted)} ul{margin:0;padding-left:18px} li{margin:8px 0;line-height:1.45}.gold{color:var(--gold);font-weight:700}
+    .topic{margin-top:16px}
+    .topic h2{margin:0 0 10px;font-size:1.05rem;color:var(--accent);letter-spacing:.2px}
     .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
   </style>
 </head>
@@ -18,8 +20,8 @@
   <main class="wrap">
     <nav class="top">
       <a class="btn" href="macetes-tjce-fcc-infra.html">Menu</a>
-      <a class="btn" href="tema-redes.html">Tema anterior</a>
-      <a class="btn" href="tema-infra-moderna-nuvem.html">Proximo tema</a>
+      <a class="btn" href="tema-servicos-web-email.html">Tema anterior</a>
+      <a class="btn" href="tema-seguranca-infra.html">Proximo tema</a>
     </nav>
 
     <section class="hero">
@@ -27,60 +29,83 @@
       <p class="muted">Foco FCC: comandos e administracao pratica de servico.</p>
     </section>
 
-    <section class="grid">
-      <article class="card">
-        <ul>
-          <li><span class="gold">AD DS</span> = dominio.</li>
-          <li><span class="gold">LDAP</span> = diretorio.</li>
-          <li><span class="gold">RBAC</span> + <span class="gold">GPO</span> = permissao centralizada.</li>
-          <li>Grupo = forma pratica de aplicar permissao.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Windows Server e Diretorio</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">AD DS</span> = dominio.</li>
+            <li><span class="gold">LDAP</span> = diretorio.</li>
+            <li><span class="gold">RBAC</span> + <span class="gold">GPO</span> = permissao centralizada.</li>
+            <li>Grupo = forma pratica de aplicar permissao.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">SSH</span> = acesso remoto seguro.</li>
-          <li><span class="gold">SCP</span> = copia via SSH.</li>
-          <li><span class="gold">ssh-keygen</span> = gera chave.</li>
-          <li>Teste = evita queda apos recarregar servico.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Acesso Remoto e Transferencia Segura</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">SSH</span> = acesso remoto seguro.</li>
+            <li><span class="gold">SCP</span> = copia via SSH.</li>
+            <li><span class="gold">ssh-keygen</span> = gera chave.</li>
+            <li>Teste = evita queda apos recarregar servico.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">ls, cp, mv, rm</span> = operacoes basicas.</li>
-          <li><span class="gold">chmod, chown, chgrp</span> = controle de permissao.</li>
-          <li><span class="gold">755</span> e <span class="gold">644</span> = padroes comuns.</li>
-          <li><span class="gold">find</span> e <span class="gold">grep</span> = busca.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li>Instalar, habilitar e validar = fluxo minimo.</li>
+            <li>Monitorar servico = evitar parada silenciosa.</li>
+            <li>SCP = origem:destino.</li>
+            <li>Sem log = sem diagnostico.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">iptables</span> = cadeia, regra e acao.</li>
-          <li><span class="gold">UFW</span> = frontend do firewall.</li>
-          <li><span class="gold">SELinux permissive</span> = registra sem bloquear.</li>
-          <li><span class="gold">LVM</span> = PV, VG e LV.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Comandos e Permissoes no Linux</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">ls, cp, mv, rm</span> = operacoes basicas.</li>
+            <li><span class="gold">chmod, chown, chgrp</span> = controle de permissao.</li>
+            <li><span class="gold">755</span> e <span class="gold">644</span> = padroes comuns.</li>
+            <li><span class="gold">find</span> e <span class="gold">grep</span> = busca.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">ps, awk, vmstat, top, systemctl</span> = administracao diaria.</li>
-          <li><span class="gold">Zumbi</span> = processo em estado Z.</li>
-          <li><span class="gold">Thrashing</span> = swap alto com perda de desempenho.</li>
-          <li>Logs e processos = base de diagnostico.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Seguranca e Armazenamento no Linux</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">iptables</span> = cadeia, regra e acao.</li>
+            <li><span class="gold">UFW</span> = frontend do firewall.</li>
+            <li><span class="gold">SELinux permissive</span> = registra sem bloquear.</li>
+            <li><span class="gold">LVM</span> = PV, VG e LV.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li>Instalar, habilitar e validar = fluxo minimo.</li>
-          <li>Monitorar servico = evitar parada silenciosa.</li>
-          <li>SCP = origem:destino.</li>
-          <li>Sem log = sem diagnostico.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Monitoracao e Diagnostico</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">ps, awk, vmstat, top, systemctl</span> = administracao diaria.</li>
+            <li><span class="gold">Zumbi</span> = processo em estado Z.</li>
+            <li><span class="gold">Thrashing</span> = swap alto com perda de desempenho.</li>
+            <li>Logs e processos = base de diagnostico.</li>
+          </ul>
+        </article>
+      </div>
     </section>
   </main>
 </body>

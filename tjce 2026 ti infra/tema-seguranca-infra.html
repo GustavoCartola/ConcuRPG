@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Tema 1 - Seguranca de Infra</title>
+  <title>Tema 4 - Seguranca de Infra</title>
   <style>
     :root { --bg:#0b1220; --card:#101a2f; --text:#ecf2ff; --muted:#9bb0d6; --accent:#67e8f9; --gold:#f59e0b; --border:rgba(103,232,249,.2);} *{box-sizing:border-box}
     body{margin:0;font-family:"Trebuchet MS",Verdana,sans-serif;background:linear-gradient(180deg,#050a14 0%,var(--bg) 100%);color:var(--text);padding:28px 16px}
@@ -11,6 +11,8 @@
     .btn{padding:8px 12px;border:1px solid var(--border);border-radius:999px;color:var(--text);text-decoration:none;background:rgba(16,26,47,.86);font-size:.9rem}
     .hero,.card{border:1px solid var(--border);border-radius:16px;background:rgba(16,26,47,.92)}.hero{padding:18px;margin-bottom:14px}.card{padding:16px}
     h1{margin:0 0 6px;font-size:1.4rem}.muted{color:var(--muted)} ul{margin:0;padding-left:18px} li{margin:8px 0;line-height:1.45}.gold{color:var(--gold);font-weight:700}
+    .topic{margin-top:16px}
+    .topic h2{margin:0 0 10px;font-size:1.05rem;color:var(--accent);letter-spacing:.2px}
     .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
   </style>
 </head>
@@ -18,275 +20,312 @@
   <main class="wrap">
     <nav class="top">
       <a class="btn" href="macetes-tjce-fcc-infra.html">Menu</a>
-      <a class="btn" href="tema-redes.html">Proximo tema</a>
+      <a class="btn" href="tema-linux-windows.html">Tema anterior</a>
+      <a class="btn" href="tema-infra-moderna-nuvem.html">Proximo tema</a>
     </nav>
 
     <section class="hero">
-      <h1>Tema 1: Seguranca de Infra</h1>
+      <h1>Tema 4: Seguranca de Infra</h1>
       <p class="muted">Foco FCC: conceito aplicado + decisao de arquitetura.</p>
     </section>
 
-    <section class="grid">
-      <article class="card">
-        <ul>
-          <li><span class="gold">Firewall</span> = filtra trafego.</li>
-          <li><span class="gold">WAF</span> = protege HTTP/HTTPS.</li>
-          <li><span class="gold">IDS</span> = detecta; <span class="gold">IPS</span> = detecta e bloqueia.</li>
-          <li><span class="gold">SIEM</span> = correlacao de eventos.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Firewall e Defesa de Rede</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">Firewall</span> = filtra trafego.</li>
+            <li><span class="gold">WAF</span> = protege HTTP/HTTPS.</li>
+            <li><span class="gold">IDS</span> = detecta; <span class="gold">IPS</span> = detecta e bloqueia.</li>
+            <li><span class="gold">SIEM</span> = correlacao de eventos.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">IAM</span> = gestao de identidades.</li>
-          <li><span class="gold">RBAC</span> = permissao por papel.</li>
-          <li><span class="gold">MFA</span> = autenticacao em 2 fatores.</li>
-          <li><span class="gold">SSO</span> = login unico.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">IDS</span>: detecta.</li>
+            <li>Firewall filtra por regra.</li>
+            <li>Firewall bloqueia.</li>
+            <li>IDS monitora.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">CIA</span> = confidencialidade, integridade e disponibilidade.</li>
-          <li><span class="gold">Hash</span> = integridade.</li>
-          <li><span class="gold">AES</span> = simetrica; <span class="gold">3DES</span> = legado.</li>
-          <li><span class="gold">RSA</span> = assimetrica.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Firewall</span>: borda.</li>
+            <li>Borda + regra = firewall.</li>
+            <li><span class="gold">Proxy</span> intermedia.</li>
+            <li>Regra de borda.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Trojan</span> = programa disfarcado.</li>
-          <li><span class="gold">Worm</span> = propagacao automatica.</li>
-          <li><span class="gold">Virus</span> = precisa de hospedeiro.</li>
-          <li>Worm se replica; virus depende de arquivo hospedeiro.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Stateful</span> = acompanha conexoes TCP.</li>
+            <li>Stateful considera estado da sessao.</li>
+            <li><span class="gold">Stateless</span> = avalia pacote isolado.</li>
+            <li>Fluxo e sessao = stateful.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Worm</span> pode enviar e-mails automaticamente para toda a lista de contatos, sem ação do usuário.</li>
-          <li>Worm = propagação automática, inclusive por e-mail.</li>
-        </ul>
-      </article>
-      <article class="card">
-        <ul>
-          <li><span class="gold">Virus de boot</span> = infecta setor de inicializacao do disco.</li>
-          <li><span class="gold">Virus mutante</span> = altera o proprio codigo para dificultar deteccao.</li>
-          <li><span class="gold">Virus de script</span> = embutido em scripts; age ao executar o arquivo.</li>
-          <li>Boot = inicializacao; mutante = evasao; script = execucao.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Tipos de firewall</span> = proxy, inspecao de estado (stateful), UTM e NGFW.</li>
+            <li><span class="gold">Firewall de proxy</span> = intermedia requisicoes e inspeciona camada de aplicacao.</li>
+            <li><span class="gold">UTM</span> = firewall + antivirus + IDS/IPS + VPN em um unico appliance.</li>
+            <li><span class="gold">NGFW</span> = UTM + inspecao profunda de pacotes (DPI) + controle de app.</li>
+            <li>Todos os quatro sao tipos reconhecidos de firewall.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Antivirus</span>: monitora.</li>
-          <li><span class="gold">Quarentena</span>: isola.</li>
-          <li><span class="gold">Atualizacao</span>: protege mais.</li>
-          <li>I e III ok; II exagera.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Firewall dedicado</span> (appliance) = equipamento proprio para filtrar trafego, com mais performance e seguranca.</li>
+            <li>Firewall pode ser software ou hardware dedicado.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li>Teste de intrusao = ataque controlado.</li>
-          <li>Malware = artefato e comportamento malicioso.</li>
-          <li>VPN = IPsec, SSL VPN ou IKEv2.</li>
-          <li>Seguranca = tecnologia + processo + usuario.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Firewall</span> nao e antivirus: firewall filtra trafego, antivirus detecta malware.</li>
+            <li>Firewall = bloqueia conexoes; antivirus = analisa arquivos.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li>Hardening de e-mail = SPF, DKIM e DMARC.</li>
-          <li>Incidente = impacto baixo, medio ou alto.</li>
-          <li>SIEM = coleta, correlaciona e alerta.</li>
-          <li>Cifra protege; hash garante.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Malwares: Visao Geral e Familias</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">Trojan</span> = programa disfarcado.</li>
+            <li><span class="gold">Worm</span> = propagacao automatica.</li>
+            <li><span class="gold">Virus</span> = precisa de hospedeiro.</li>
+            <li>Virus nao e inserido diretamente por invasor: depende de acao do usuario/hospedeiro.</li>
+            <li>Worm se replica; virus depende de arquivo hospedeiro.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">IDS</span>: detecta.</li>
-          <li>Firewall filtra por regra.</li>
-          <li>Firewall bloqueia.</li>
-          <li>IDS monitora.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Worm</span> pode enviar e-mails automaticamente para toda a lista de contatos, sem acao do usuario.</li>
+            <li>Worm = propagacao automatica, inclusive por e-mail.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Firewall</span>: borda.</li>
-          <li>Borda + regra = firewall.</li>
-          <li><span class="gold">Proxy</span> intermedia.</li>
-          <li>Regra de borda.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Virus de boot</span> = infecta setor de inicializacao do disco.</li>
+            <li><span class="gold">Virus mutante</span> = altera o proprio codigo para dificultar deteccao.</li>
+            <li><span class="gold">Virus de script</span> = embutido em scripts; age ao executar o arquivo.</li>
+            <li>Boot = inicializacao; mutante = evasao; script = execucao.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Stateful</span> = acompanha conexoes TCP.</li>
-          <li>Stateful considera estado da sessao.</li>
-          <li><span class="gold">Stateless</span> = avalia pacote isolado.</li>
-          <li>Fluxo e sessao = stateful.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Spyware</span> = espionagem.</li>
+            <li><span class="gold">Adware</span> e <span class="gold">Keylogger</span> = tipos de spyware.</li>
+            <li><span class="gold">Ransomware</span> = sequestro de dados.</li>
+            <li><span class="gold">Browser Hijacker</span> = altera homepage.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Tipos de firewall</span> = proxy, inspecao de estado (stateful), UTM e NGFW.</li>
-          <li><span class="gold">Firewall de proxy</span> = intermedia requisicoes e inspeciona camada de aplicacao.</li>
-          <li><span class="gold">UTM</span> = firewall + antivirus + IDS/IPS + VPN em um unico appliance.</li>
-          <li><span class="gold">NGFW</span> = UTM + inspecao profunda de pacotes (DPI) + controle de app.</li>
-          <li>Todos os quatro sao tipos reconhecidos de firewall.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Spyware</span> = coleta informacoes pessoais, exibe publicidade e pode alterar configuracoes sem consentimento.</li>
+            <li>Adware = publicidade; Keylogger = captura teclas; Browser Hijacker = altera navegador.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Firewall dedicado</span> (appliance) = equipamento próprio para filtrar tráfego, com mais performance e segurança.</li>
-          <li>Firewall pode ser software ou hardware dedicado.</li>
-        </ul>
-      </article>
-      <article class="card">
-        <ul>
-          <li><span class="gold">Spyware</span> = espionagem.</li>
-          <li><span class="gold">Adware</span> e <span class="gold">Keylogger</span> = tipos de spyware.</li>
-          <li><span class="gold">Ransomware</span> = sequestro de dados.</li>
-          <li><span class="gold">Browser Hijacker</span> = altera homepage.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Malware</span> = software malicioso (virus, worm, trojan, spyware).</li>
+            <li>Malware pode causar qualquer tipo de dano, nao so monitorar ou roubar dados.</li>
+            <li><span class="gold">Phishing</span> = fraude por mensagem, link ou pagina falsa.</li>
+            <li><span class="gold">Spam</span> = mensagem indesejada em e-mail e outros meios.</li>
+            <li>Firewall + antivirus = reduz risco, mas nao elimina incidentes.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Spyware</span> = coleta informações pessoais, exibe publicidade e pode alterar configurações sem consentimento.</li>
-          <li>Adware = publicidade; Keylogger = captura teclas; Browser Hijacker = altera navegador.</li>
-        </ul>
-      </article>
-      <article class="card">
-        <ul>
-          <li><span class="gold">Ransomware</span> compromete <span class="gold">disponibilidade</span> (bloqueia acesso aos dados).</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Scareware</span> = falso alerta para assustar usuario.</li>
+            <li><span class="gold">Spyware</span>, <span class="gold">Ransomware</span> e <span class="gold">Worm</span> = familias de malware.</li>
+            <li><span class="gold">Cryptojacking</span> = pratica de mineracao maliciosa.</li>
+            <li>Se a banca pedir o que nao e familia classica de malware, pode marcar <span class="gold">Cryptojacking</span>.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Ransomware</span> pode bloquear a tela, criptografar o disco inteiro ou apenas arquivos.</li>
-          <li>Bloqueio de tela, criptografia de disco e de arquivos = todos são possíveis.</li>
-        </ul>
-      </article>
-      <article class="card">
-        <ul>
-          <li><span class="gold">Prevenção</span> é a estratégia primordial contra ransomware.</li>
-          <li>Backup, atualização e cautela com anexos = prevenção.</li>
-          <li>Recuperação só é útil se a prevenção falhar.</li>
-        </ul>
-      </article>
-      <article class="card">
-        <ul>
-          <li><span class="gold">RAT</span> = trojan de acesso remoto.</li>
-          <li><span class="gold">Backdoor</span> = porta de acesso oculto.</li>
-          <li><span class="gold">Botnet</span> = rede de maquinas zumbis.</li>
-          <li>Acesso remoto como usuario = pense em <span class="gold">RAT</span>.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Zero-day</span> = ameaca nova sem assinatura conhecida.</li>
+            <li>Antivirus por assinatura = pode falhar em variante inedita.</li>
+            <li>Analise comportamental = detecta anomalia de execucao.</li>
+            <li><span class="gold">Cryptojacking</span> = uso indevido de CPU para mineracao.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Pharming</span> = redireciona para site falso.</li>
-          <li>Explora browser, SO ou <span class="gold">DNS</span>.</li>
-          <li><span class="gold">Phishing</span> = engana por mensagem/link.</li>
-          <li>Redirecionamento tecnico para pagina bancaria falsa = <span class="gold">Pharming</span>.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Ransomware: Macetes Diretos</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">Ransomware</span> compromete <span class="gold">disponibilidade</span> (bloqueia acesso aos dados).</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Rootkit</span> = conjunto para manter acesso privilegiado oculto.</li>
-          <li><span class="gold">Root</span> = controle total do sistema.</li>
-          <li><span class="gold">Keylogger</span> = captura digitacao.</li>
-          <li>Nivel raiz + ferramentas de ocultacao = <span class="gold">Rootkit</span>.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Ransomware</span> pode bloquear a tela, criptografar o disco inteiro ou apenas arquivos.</li>
+            <li>Bloqueio de tela, criptografia de disco e de arquivos = todos sao possiveis.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Software Bomb</span> = bomba logica.</li>
-          <li>Disparo = ocorre apos evento ou condicao.</li>
-          <li>Nao costuma mostrar sintoma antes da ativacao.</li>
-          <li>Evento marcado + acao destrutiva = <span class="gold">Software Bomb</span>.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Prevencao</span> e a estrategia primordial contra ransomware.</li>
+            <li>Backup, atualizacao e cautela com anexos = prevencao.</li>
+            <li>Recuperacao so e util se a prevencao falhar.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Hoax</span> = mensagem falsa com aparencia de verdade.</li>
-          <li>Objetivo = persuadir usuario a agir.</li>
-          <li>Nao depende de exploracao tecnica no host.</li>
-          <li>Se fala em convencer leitor por mensagem = <span class="gold">Hoax</span>.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Rootkit e Acesso Oculto</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">Rootkit</span> = conjunto para manter acesso privilegiado oculto.</li>
+            <li><span class="gold">Root</span> = controle total do sistema.</li>
+            <li><span class="gold">Keylogger</span> = captura digitacao.</li>
+            <li>Nivel raiz + ferramentas de ocultacao = <span class="gold">Rootkit</span>.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Malware</span> = software malicioso (virus, worm, trojan, spyware).</li>
-                    <li>Malware pode causar qualquer tipo de dano, não só monitorar ou roubar dados.</li>
-          <li><span class="gold">Phishing</span> = fraude por mensagem, link ou pagina falsa.</li>
-          <li><span class="gold">Spam</span> = mensagem indesejada em e-mail e outros meios.</li>
-          <li>Firewall + antivirus = reduz risco, mas nao elimina incidentes.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">RAT</span> = trojan de acesso remoto.</li>
+            <li><span class="gold">Backdoor</span> = porta de acesso oculto.</li>
+            <li><span class="gold">Botnet</span> = rede de maquinas zumbis.</li>
+            <li>Acesso remoto como usuario = pense em <span class="gold">RAT</span>.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Firewall</span> não é antivírus: firewall filtra tráfego, antivírus detecta malware.</li>
-          <li>Firewall = bloqueia conexões; antivírus = analisa arquivos.</li>
-        </ul>
-      </article>
-      <article class="card">
-        <ul>
-          <li><span class="gold">Antispam</span> pode falhar se o e-mail estiver em idioma diferente.</li>
-          <li><span class="gold">Phishing</span> = e-mail pode conter link malicioso.</li>
-          <li><span class="gold">Antivírus com heurística</span> = detecta ameaças novas, é confiável.</li>
-          <li>Heurística = identifica comportamento suspeito, não só assinatura.</li>
-        </ul>
-      </article>
-      <article class="card">
-        <ul>
-          <li><span class="gold">Zero-day</span> = ameaca nova sem assinatura conhecida.</li>
-          <li>Antivirus por assinatura = pode falhar em variante inedita.</li>
-          <li>Analise comportamental = detecta anomalia de execucao.</li>
-          <li><span class="gold">Cryptojacking</span> = uso indevido de CPU para mineracao.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Software Bomb</span> = bomba logica.</li>
+            <li>Disparo = ocorre apos evento ou condicao.</li>
+            <li>Nao costuma mostrar sintoma antes da ativacao.</li>
+            <li>Evento marcado + acao destrutiva = <span class="gold">Software Bomb</span>.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Scareware</span> = falso alerta para assustar usuario.</li>
-          <li><span class="gold">Spyware</span>, <span class="gold">Ransomware</span> e <span class="gold">Worm</span> = familias de malware.</li>
-          <li><span class="gold">Cryptojacking</span> = pratica de mineracao maliciosa.</li>
-          <li>Se a banca pedir o que nao e familia classica de malware, pode marcar <span class="gold">Cryptojacking</span>.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Fraudes, Engenharia Social e E-mail</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">Pharming</span> = redireciona para site falso.</li>
+            <li>Explora browser, SO ou <span class="gold">DNS</span>.</li>
+            <li><span class="gold">Phishing</span> = engana por mensagem/link.</li>
+            <li>Redirecionamento tecnico para pagina bancaria falsa = <span class="gold">Pharming</span>.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">MitM</span> = intercepta comunicacao entre duas partes sem que percebam.</li>
-          <li><span class="gold">Ataque de aniversario</span> = explora colisao de hash (duas entradas com mesmo hash).</li>
-          <li>MitM = espionagem ativa; Ataque de aniversario = criptografia/hash.</li>
-          <li>XSS = injeta script no navegador da vitima (nao e instalacao de software).</li>
-          <li>DDoS = sobrecarga de servico por multiplas origens.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Hoax</span> = mensagem falsa com aparencia de verdade.</li>
+            <li>Objetivo = persuadir usuario a agir.</li>
+            <li>Nao depende de exploracao tecnica no host.</li>
+            <li>Se fala em convencer leitor por mensagem = <span class="gold">Hoax</span>.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">RBAC</span> nao e exclusivo Microsoft.</li>
-          <li><span class="gold">MFA</span>: sabe, tem, e.</li>
-          <li><span class="gold">LGPD</span>: titular + governanca.</li>
-          <li>Cifra protege; hash confere.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Antispam</span> pode falhar se o e-mail estiver em idioma diferente.</li>
+            <li><span class="gold">Phishing</span> = e-mail pode conter link malicioso.</li>
+            <li><span class="gold">Antivirus com heuristica</span> = detecta ameacas novas, e confiavel.</li>
+            <li>Heuristica = identifica comportamento suspeito, nao so assinatura.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li>Hardening de e-mail = SPF, DKIM e DMARC.</li>
+            <li>Incidente = impacto baixo, medio ou alto.</li>
+            <li>SIEM = coleta, correlaciona e alerta.</li>
+            <li>Cifra protege; hash garante.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section class="topic">
+      <h2>Identidade, Criptografia e Operacoes</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">IAM</span> = gestao de identidades.</li>
+            <li><span class="gold">RBAC</span> = permissao por papel.</li>
+            <li><span class="gold">MFA</span> = autenticacao em 2 fatores.</li>
+            <li><span class="gold">SSO</span> = login unico.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">CIA</span> = confidencialidade, integridade e disponibilidade.</li>
+            <li><span class="gold">Hash</span> = integridade.</li>
+            <li><span class="gold">AES</span> = simetrica; <span class="gold">3DES</span> = legado.</li>
+            <li><span class="gold">RSA</span> = assimetrica.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">Antivirus</span>: monitora.</li>
+            <li><span class="gold">Quarentena</span>: isola.</li>
+            <li><span class="gold">Atualizacao</span>: protege mais.</li>
+            <li>I e III ok; II exagera.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li>Teste de intrusao = ataque controlado.</li>
+            <li>Malware = artefato e comportamento malicioso.</li>
+            <li>VPN = IPsec, SSL VPN ou IKEv2.</li>
+            <li>Seguranca = tecnologia + processo + usuario.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">MitM</span> = intercepta comunicacao entre duas partes sem que percebam.</li>
+            <li><span class="gold">Ataque de aniversario</span> = explora colisao de hash (duas entradas com mesmo hash).</li>
+            <li>MitM = espionagem ativa; Ataque de aniversario = criptografia/hash.</li>
+            <li>XSS = injeta script no navegador da vitima (nao e instalacao de software).</li>
+            <li>DDoS = sobrecarga de servico por multiplas origens.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">RBAC</span> nao e exclusivo Microsoft.</li>
+            <li><span class="gold">MFA</span>: sabe, tem, e.</li>
+            <li><span class="gold">LGPD</span>: titular + governanca.</li>
+            <li>Cifra protege; hash confere.</li>
+          </ul>
+        </article>
+      </div>
     </section>
   </main>
 </body>

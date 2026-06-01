@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Tema 5 - Governanca e Normativos</title>
+  <title>Tema 6 - Governanca e Normativos</title>
   <style>
     :root { --bg:#0b1220; --card:#101a2f; --text:#ecf2ff; --muted:#9bb0d6; --accent:#67e8f9; --gold:#f59e0b; --border:rgba(103,232,249,.2);} *{box-sizing:border-box}
     body{margin:0;font-family:"Trebuchet MS",Verdana,sans-serif;background:linear-gradient(180deg,#050a14 0%,var(--bg) 100%);color:var(--text);padding:28px 16px}
@@ -11,6 +11,8 @@
     .btn{padding:8px 12px;border:1px solid var(--border);border-radius:999px;color:var(--text);text-decoration:none;background:rgba(16,26,47,.86);font-size:.9rem}
     .hero,.card{border:1px solid var(--border);border-radius:16px;background:rgba(16,26,47,.92)}.hero{padding:18px;margin-bottom:14px}.card{padding:16px}
     h1{margin:0 0 6px;font-size:1.4rem}.muted{color:var(--muted)} ul{margin:0;padding-left:18px} li{margin:8px 0;line-height:1.45}.gold{color:var(--gold);font-weight:700}
+    .topic{margin-top:16px}
+    .topic h2{margin:0 0 10px;font-size:1.05rem;color:var(--accent);letter-spacing:.2px}
     .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
   </style>
 </head>
@@ -19,59 +21,76 @@
     <nav class="top">
       <a class="btn" href="macetes-tjce-fcc-infra.html">Menu</a>
       <a class="btn" href="tema-infra-moderna-nuvem.html">Tema anterior</a>
-      <a class="btn" href="tema-servicos-web-email.html">Proximo tema</a>
     </nav>
 
     <section class="hero">
-      <h1>Tema 5: Governanca e Normativos</h1>
+      <h1>Tema 6: Governanca e Normativos</h1>
       <p class="muted">Foco FCC: interpretacao objetiva da norma.</p>
     </section>
 
-    <section class="grid">
-      <article class="card">
-        <ul>
-          <li><span class="gold">ITIL v4</span> = foco em valor.</li>
-          <li>Processos = incidente, problema e mudanca.</li>
-          <li>Keep it simple = simplificar sem perder controle.</li>
-          <li>ITIL = servico; COBIT = governanca.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Frameworks de Governanca de TI</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">ITIL v4</span> = foco em valor.</li>
+            <li>Processos = incidente, problema e mudanca.</li>
+            <li>Keep it simple = simplificar sem perder controle.</li>
+            <li>ITIL = servico; COBIT = governanca.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">COBIT</span> = governanca + gestao.</li>
-          <li>Governanca = avalia, direciona e monitora.</li>
-          <li>Gestao = planeja, constroi, executa e mede.</li>
-          <li><span class="gold">PAM</span> = nivel de capacidade.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">COBIT</span> = governanca + gestao.</li>
+            <li>Governanca = avalia, direciona e monitora.</li>
+            <li>Gestao = planeja, constroi, executa e mede.</li>
+            <li><span class="gold">PAM</span> = nivel de capacidade.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Lei 14.133/2021</span> = base de contratacao TIC.</li>
-          <li>ETP e TR = documentos centrais.</li>
-          <li>SLA, ANS e riscos = requisitos contratuais.</li>
-          <li>Gestor e fiscais = papeis de acompanhamento.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Planejamento e Gestao de TIC</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">PDTI</span> e <span class="gold">PETI</span> = alinhamento estrategico.</li>
+            <li>Mudanca = risco + homologacao.</li>
+            <li>Documentacao = suporte da governanca.</li>
+            <li>Auditoria = exige evidencia.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">PDTI</span> e <span class="gold">PETI</span> = alinhamento estrategico.</li>
-          <li>Mudanca = risco + homologacao.</li>
-          <li>Documentacao = suporte da governanca.</li>
-          <li>Auditoria = exige evidencia.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Contratacao Publica de TIC</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">Lei 14.133/2021</span> = base de contratacao TIC.</li>
+            <li>ETP e TR = documentos centrais.</li>
+            <li>SLA, ANS e riscos = requisitos contratuais.</li>
+            <li>Gestor e fiscais = papeis de acompanhamento.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">CNJ 335/2020</span> = PDPJ-Br.</li>
-          <li><span class="gold">CNJ 396/2021</span> e <span class="gold">522/2023</span> = diretrizes complementares.</li>
-          <li><span class="gold">Portarias</span> 252, 253, 284, 131 e 162 = apoio normativo.</li>
-          <li>PDPJ-Br = interoperabilidade entre sistemas.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Normativos do Poder Judiciario</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">CNJ 335/2020</span> = PDPJ-Br.</li>
+            <li><span class="gold">CNJ 396/2021</span> e <span class="gold">522/2023</span> = diretrizes complementares.</li>
+            <li><span class="gold">Portarias</span> 252, 253, 284, 131 e 162 = apoio normativo.</li>
+            <li>PDPJ-Br = interoperabilidade entre sistemas.</li>
+          </ul>
+        </article>
+      </div>
     </section>
   </main>
 </body>

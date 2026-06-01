@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Tema 6 - Servicos Web e Correio</title>
+  <title>Tema 2 - Servicos Web e Correio</title>
   <style>
     :root { --bg:#0b1220; --card:#101a2f; --text:#ecf2ff; --muted:#9bb0d6; --accent:#67e8f9; --gold:#f59e0b; --border:rgba(103,232,249,.2);} *{box-sizing:border-box}
     body{margin:0;font-family:"Trebuchet MS",Verdana,sans-serif;background:linear-gradient(180deg,#050a14 0%,var(--bg) 100%);color:var(--text);padding:28px 16px}
@@ -11,6 +11,8 @@
     .btn{padding:8px 12px;border:1px solid var(--border);border-radius:999px;color:var(--text);text-decoration:none;background:rgba(16,26,47,.86);font-size:.9rem}
     .hero,.card{border:1px solid var(--border);border-radius:16px;background:rgba(16,26,47,.92)}.hero{padding:18px;margin-bottom:14px}.card{padding:16px}
     h1{margin:0 0 6px;font-size:1.4rem}.muted{color:var(--muted)} ul{margin:0;padding-left:18px} li{margin:8px 0;line-height:1.45}.gold{color:var(--gold);font-weight:700}
+    .topic{margin-top:16px}
+    .topic h2{margin:0 0 10px;font-size:1.05rem;color:var(--accent);letter-spacing:.2px}
     .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
   </style>
 </head>
@@ -18,68 +20,82 @@
   <main class="wrap">
     <nav class="top">
       <a class="btn" href="macetes-tjce-fcc-infra.html">Menu</a>
-      <a class="btn" href="tema-governanca-normativos.html">Tema anterior</a>
+      <a class="btn" href="tema-redes.html">Tema anterior</a>
+      <a class="btn" href="tema-linux-windows.html">Proximo tema</a>
     </nav>
 
     <section class="hero">
-      <h1>Tema 6: Servicos Web e Correio</h1>
+      <h1>Tema 2: Servicos Web e Correio</h1>
       <p class="muted">Foco FCC: identificar tecnica pelo comportamento descrito.</p>
     </section>
 
-    <section class="grid">
-      <article class="card">
-        <ul>
-          <li><span class="gold">HTTP/HTTPS</span> = comunicacao cliente-servidor.</li>
-          <li><span class="gold">Apache/Nginx/IIS</span> = servidores web.</li>
-          <li>Instalacao, configuracao e hardening = base de publicacao.</li>
-          <li>Publicacao = disponibilizar servico com controle.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Web: Publicacao e Servidores</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">HTTP/HTTPS</span> = comunicacao cliente-servidor.</li>
+            <li><span class="gold">Apache/Nginx/IIS</span> = servidores web.</li>
+            <li>Instalacao, configuracao e hardening = base de publicacao.</li>
+            <li>Publicacao = disponibilizar servico com controle.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">XSS</span> = injecao de script em pagina web.</li>
-          <li>Script executa no navegador da vitima.</li>
-          <li><span class="gold">Spam</span> = mensagem indesejada; nao e XSS.</li>
-          <li>Se a banca falar em injecao de script, pense em <span class="gold">XSS</span>.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li>Suporte ao usuario.</li>
+            <li>Internet e intranet.</li>
+            <li>Aplicacoes web.</li>
+            <li>Controle de acesso.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Drive-by-Download</span> = download malicioso ao visitar site comprometido.</li>
-          <li>Explora vulnerabilidade do navegador.</li>
-          <li>Nao e macrovirus, worm nem historico de downloads.</li>
-          <li>Site comprometido + exploracao do browser = <span class="gold">Drive-by-Download</span>.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Web Security: XSS e Drive-by</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">XSS</span> = injecao de script em pagina web.</li>
+            <li>Script executa no navegador da vitima.</li>
+            <li><span class="gold">Spam</span> = mensagem indesejada; nao e XSS.</li>
+            <li>Se a banca falar em injecao de script, pense em <span class="gold">XSS</span>.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Antispam</span> e <span class="gold">antivirus</span> = filtro de ameacas.</li>
-          <li><span class="gold">SPF</span> = valida remetente.</li>
-          <li><span class="gold">DKIM</span> = assina mensagem.</li>
-          <li><span class="gold">Graylisting</span> = rejeita a primeira tentativa de e-mail.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Drive-by-Download</span> = download malicioso ao visitar site comprometido.</li>
+            <li>Explora vulnerabilidade do navegador.</li>
+            <li>Nao e macrovirus, worm nem historico de downloads.</li>
+            <li>Site comprometido + exploracao do browser = <span class="gold">Drive-by-Download</span>.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
 
-      <article class="card">
-        <ul>
-          <li><span class="gold">Exchange/Postfix</span>: e-mail.</li>
-          <li>Rotas e listas.</li>
-          <li>Retencao.</li>
-          <li>Administracao.</li>
-        </ul>
-      </article>
+    <section class="topic">
+      <h2>Correio Eletronico e Antispam</h2>
+      <div class="grid">
+        <article class="card">
+          <ul>
+            <li><span class="gold">Antispam</span> e <span class="gold">antivirus</span> = filtro de ameacas.</li>
+            <li><span class="gold">SPF</span> = valida remetente.</li>
+            <li><span class="gold">DKIM</span> = assina mensagem.</li>
+            <li><span class="gold">Graylisting</span> = rejeita a primeira tentativa de e-mail.</li>
+          </ul>
+        </article>
 
-      <article class="card">
-        <ul>
-          <li>Suporte ao usuario.</li>
-          <li>Internet e intranet.</li>
-          <li>Aplicacoes web.</li>
-          <li>Controle de acesso.</li>
-        </ul>
-      </article>
+        <article class="card">
+          <ul>
+            <li><span class="gold">Exchange/Postfix</span>: e-mail.</li>
+            <li>Rotas e listas.</li>
+            <li>Retencao.</li>
+            <li>Administracao.</li>
+          </ul>
+        </article>
+      </div>
     </section>
   </main>
 </body>
