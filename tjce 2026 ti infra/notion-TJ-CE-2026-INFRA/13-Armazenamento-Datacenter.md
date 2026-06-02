@@ -1,11 +1,16 @@
-# Bloco 03 - Armazenamento e Datacenter
+﻿# Bloco 03 - Armazenamento e Datacenter
 
 ## Topicos do edital
 - [ ] SAN, NAS, VSAN e Fibre Channel
+  - SAN bloco; NAS arquivo.
 - [ ] HCI (infra hiperconvergente)
+  - HCI integra computacao, rede e storage.
 - [ ] Alta disponibilidade, clusters e failover
+  - CIA: confidencialidade, integridade, disponibilidade.
 - [ ] Balanceamento de carga e resiliencia
+  - Balanceia carga; resiliencia absorve falhas.
 - [ ] Planejamento de capacidade e desempenho
+  - Capacidade previne; performance corrige gargalo.
 
 ---
 

@@ -1,11 +1,16 @@
-# Bloco 00 - Arquitetura de Computadores
+﻿# Bloco 00 - Arquitetura de Computadores
 
 ## Topicos do edital
 - [ ] CPU, ULA, registradores, ciclos de instrucao
+  - Decore funcao de cada componente.
 - [ ] Hierarquia de memoria: cache, RAM, armazenamento
+  - Cache rapida; RAM area ativa.
 - [ ] Dispositivos de entrada e saida, barramentos e interrupcoes
+  - Interrupcao evita polling constante.
 - [ ] Armazenamento HDD, SSD, NVMe e RAID (visao de infra)
+  - NVMe rapido; RAID disponibilidade/desempenho.
 - [ ] Conceitos de firmware, boot e UEFI/BIOS
+  - UEFI/BIOS inicializa antes do SO.
 
 ---
 

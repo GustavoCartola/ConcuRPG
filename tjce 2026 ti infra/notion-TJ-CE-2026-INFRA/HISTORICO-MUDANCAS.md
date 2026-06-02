@@ -1,4 +1,4 @@
-# Historico de Mudancas - Notion Infra
+﻿# Historico de Mudancas - Notion Infra
 
 ## 2026-06-01
 - Criada estrutura completa 00 a 14 para o caderno de Infra.

@@ -1,11 +1,16 @@
-# Bloco 07 - Banco de Dados para Infra
+﻿# Bloco 07 - Banco de Dados para Infra
 
 ## Topicos do edital
 - [ ] Administracao de SGBD em ambiente corporativo
+  - Banco em Infra: disponibilidade primeiro.
 - [ ] Disponibilidade, replicacao e mecanismos de recuperacao
+  - CIA: confidencialidade, integridade, disponibilidade.
 - [ ] Backup, restore e PITR
+  - PITR recupera ponto no tempo.
 - [ ] RPO/RTO aplicados a banco
+  - RPO perda; RTO tempo.
 - [ ] Monitoramento e tuning de desempenho
+  - Capacidade previne; performance corrige gargalo.
 
 ---
 

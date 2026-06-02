@@ -1,11 +1,16 @@
-# Bloco 14 - Contratacao e Fiscalizacao de TIC
+﻿# Bloco 14 - Contratacao e Fiscalizacao de TIC
 
 ## Topicos do edital
 - [ ] Lei 14.133/2021 aplicada a contratacoes de TIC
+  - Memorize artefatos e papeis obrigatorios.
 - [ ] Planejamento da contratacao: ETP e TR
+  - ETP justifica; TR detalha objeto.
 - [ ] Definicao de requisitos, SLA/ANS e matriz de riscos
+  - SLA meta; auditoria pede evidencia.
 - [ ] Papeis de gestor e fiscais de contrato
+  - Gestor governa; fiscal confere conformidade.
 - [ ] Acompanhamento da execucao e aceitacao de entregas
+  - Aceite exige criterio objetivo definido.
 
 ---
 

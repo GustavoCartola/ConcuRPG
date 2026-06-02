@@ -1,11 +1,16 @@
-# Bloco 12 - Governanca, Planejamento e Gestao de TI
+﻿# Bloco 12 - Governanca, Planejamento e Gestao de TI
 
 ## Topicos do edital
 - [ ] ITIL v4 e gestao de servicos
+  - ITIL: processo e valor do servico.
 - [ ] COBIT 2019 e objetivos de governanca/gestao
+  - COBIT: governar separado de gerir.
 - [ ] ISO 20000 e ISO 31000
+  - 20000 servico; 31000 risco.
 - [ ] PDTI/PETI e planejamento estrategico de TI
+  - PDTI/PETI alinham TI e estrategia.
 - [ ] SLA/ANS, mudancas, documentacao e auditoria
+  - SLA meta; auditoria pede evidencia.
 
 ---
 

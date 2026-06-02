@@ -1,11 +1,16 @@
-# Bloco 10 - Backup, Continuidade e Recuperacao de Desastres
+﻿# Bloco 10 - Backup, Continuidade e Recuperacao de Desastres
 
 ## Topicos do edital
 - [ ] Politicas e estrategias de backup
+  - Politica define frequencia e retencao.
 - [ ] Tipos: full, incremental e diferencial
+  - Incremental encadeia; diferencial acumula.
 - [ ] Testes de restauracao e validacao periodica
+  - Sem restore testado, backup e risco.
 - [ ] BCP/DRP e procedimentos de contingencia
+  - BCP continua negocio; DRP recupera TI.
 - [ ] Metricas RPO e RTO
+  - Coletar log nao e correlacionar.
 
 ---
 

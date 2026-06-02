@@ -1,11 +1,16 @@
-# Bloco 05 - Nuvem e Ambientes Hibridos
+﻿# Bloco 05 - Nuvem e Ambientes Hibridos
 
 ## Topicos do edital
 - [ ] Modelos de servico: IaaS, PaaS, SaaS
+  - IaaS infra; PaaS plataforma; SaaS app.
 - [ ] Modelos de implantacao: publica, privada, hibrida
+  - Hibrida integra on-premises e nuvem.
 - [ ] Conceitos de escalabilidade, elasticidade e alta disponibilidade
+  - CIA: confidencialidade, integridade, disponibilidade.
 - [ ] Seguranca em nuvem (IAM, MFA, WAF, segmentacao)
+  - RBAC por papel; MFA fortalece acesso.
 - [ ] Integracao on-premises com cloud e governanca de custo (FinOps)
+  - FinOps: desempenho com custo controlado.
 
 ---
 

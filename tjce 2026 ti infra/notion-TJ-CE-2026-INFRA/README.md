@@ -1,4 +1,4 @@
-# TJ-CE 2026 Infra - Caderno Notion
+﻿# TJ-CE 2026 Infra - Caderno Notion
 
 Repositorio de estudo para Analista Judiciario TI Infra (FCC), organizado por blocos do edital de Infraestrutura.
 

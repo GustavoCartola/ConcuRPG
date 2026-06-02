@@ -1,11 +1,16 @@
-# Bloco 01 - Sistemas Operacionais (Linux e Windows)
+﻿# Bloco 01 - Sistemas Operacionais (Linux e Windows)
 
 ## Topicos do edital
 - [ ] Processos, threads, escalonamento e gerenciamento de memoria
+  - Thread compartilha; processo isola contexto.
 - [ ] Sistemas de arquivos, permissao, usuarios e grupos
+  - Permissao por grupo evita erros.
 - [ ] Linux administracao: shell, servicos, pacotes e logs
+  - Coletar log nao e correlacionar.
 - [ ] Windows Server: AD DS, GPO, PowerShell, WSUS
+  - AD autentica; GPO padroniza; WSUS atualiza.
 - [ ] Acesso remoto seguro (SSH/SCP) e rotinas operacionais
+  - SSH administra; SCP transfere com seguranca.
 
 ---
 

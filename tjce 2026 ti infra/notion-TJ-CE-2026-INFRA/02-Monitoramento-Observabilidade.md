@@ -1,11 +1,16 @@
-# Bloco 08 - Monitoramento e Observabilidade
+﻿# Bloco 08 - Monitoramento e Observabilidade
 
 ## Topicos do edital
 - [ ] Monitoramento de infraestrutura e servicos
+  - Monitorar sem alerta nao resolve incidente.
 - [ ] Logs, metricas, eventos e correlacao
+  - Coletar log nao e correlacionar.
 - [ ] SIEM e resposta a incidentes
+  - SIEM centraliza, correlaciona e alerta.
 - [ ] Ferramentas: Zabbix, Nagios, ELK, Grafana, Prometheus
+  - Ferramenta certa para tarefa certa.
 - [ ] Gestao de capacidade e performance
+  - Capacidade previne; performance corrige gargalo.
 
 ---
 

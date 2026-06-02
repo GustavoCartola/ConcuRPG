@@ -1,11 +1,16 @@
-# Bloco 13 - Normativos CNJ, PDPJ-Br e Judiciario
+﻿# Bloco 13 - Normativos CNJ, PDPJ-Br e Judiciario
 
 ## Topicos do edital
 - [ ] PDPJ-Br e principios de interoperabilidade
+  - PDPJ-Br prioriza padrao e integracao.
 - [ ] Resolucao CNJ 335/2020 e complementares
+  - Escopo e obrigatoriedade sao chave.
 - [ ] Diretrizes tecnicas do ecossistema do Judiciario
+  - Diretriz define padrao tecnico.
 - [ ] Governanca, seguranca e integracao entre sistemas
+  - Integracao exige padrao e seguranca.
 - [ ] Aspectos operacionais de plataforma e servicos digitais
+  - Cobre finalidade pratica da plataforma.
 
 ---
 

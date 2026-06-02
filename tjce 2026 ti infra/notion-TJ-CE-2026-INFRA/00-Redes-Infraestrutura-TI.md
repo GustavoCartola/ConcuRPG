@@ -1,11 +1,16 @@
-# Bloco 02 - Redes e Infraestrutura de TI
+﻿# Bloco 02 - Redes e Infraestrutura de TI
 
 ## Topicos do edital
 - [ ] Modelos OSI e TCP/IP
+  - Camada certa vence pegadinha de protocolo.
 - [ ] Enderecamento IPv4/IPv6, CIDR, NAT/PAT
+  - Prefixo=CIDR; traducao= NAT/PAT.
 - [ ] Protocolos: ARP, ICMP, TCP, UDP, DHCP, DNS, SNMP
+  - Associe protocolo a funcao exata.
 - [ ] Roteamento RIP/OSPF/BGP e comutacao STP/RSTP
+  - OSPF custo; BGP politica; STP anti-loop.
 - [ ] VLAN 802.1Q, WLAN 802.11, VPN, QoS e redundancia
+  - VLAN segmenta; VPN protege; QoS prioriza.
 
 ---
 

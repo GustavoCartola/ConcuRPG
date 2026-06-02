@@ -1,18 +1,23 @@
-# Bloco 06 - Servicos Web, E-mail e Intranet
+﻿# Bloco 06 - Servicos Web, E-mail e Intranet
 
 ## Topicos do edital
 - [ ] HTTP/HTTPS e arquitetura cliente-servidor
+  - HTTPS cifra; HTTP nao cifra.
 - [ ] Servidores web: Apache, Nginx, IIS
+  - Decore papeis dos servidores web.
 - [ ] Publicacao, hardening e controle de acesso
+  - Hardening reduz superficie de ataque.
 - [ ] Correio eletronico: SMTP, POP3, IMAP
+  - SMTP envia; IMAP/POP3 recebem.
 - [ ] Seguranca de e-mail: antispam, antivirus, SPF, DKIM, DMARC
+  - SPF origem, DKIM assinatura, DMARC politica.
 
 ---
 
 ## Como a FCC cobra este bloco
 - Alta incidencia em prova de Infra.
 - FCC gosta de identificar tecnologia pelo comportamento descrito.
-- Cobrança tipica: XSS, drive-by-download e hardening de e-mail.
+- CobranÃ§a tipica: XSS, drive-by-download e hardening de e-mail.
 
 Dicas FCC:
 1. XSS injeta script no navegador da vitima.

@@ -1,11 +1,16 @@
-# Bloco 09 - Automacao e Scripting
+﻿# Bloco 09 - Automacao e Scripting
 
 ## Topicos do edital
 - [ ] Shell script para operacao Linux
+  - Bash cai em rotina operacional.
 - [ ] PowerShell para automacao Windows
+  - AD autentica; GPO padroniza; WSUS atualiza.
 - [ ] Python para rotinas operacionais
+  - Python integra automacoes de infraestrutura.
 - [ ] Versionamento e padronizacao de scripts
+  - Sem Git, sem rastreabilidade.
 - [ ] Automacao de provisionamento e monitoracao
+  - Provisionar via script reduz erro manual.
 
 ---
 

@@ -1,11 +1,16 @@
-# Bloco 11 - Seguranca da Informacao e Infra
+﻿# Bloco 11 - Seguranca da Informacao e Infra
 
 ## Topicos do edital
 - [ ] Fundamentos CIA (confidencialidade, integridade, disponibilidade)
+  - CIA: confidencialidade, integridade, disponibilidade.
 - [ ] IAM, RBAC, MFA, SSO e controle de acesso
+  - Hardening reduz superficie de ataque.
 - [ ] Firewall, WAF, IDS/IPS, SIEM, hardening
+  - Hardening reduz superficie de ataque.
 - [ ] Malware: virus, worm, trojan, ransomware, rootkit
+  - Worm propaga sozinho; ransomware bloqueia acesso.
 - [ ] Criptografia, hash, PKI e resposta a incidentes
+  - Hash confere; cifra protege dados.
 
 ---
 

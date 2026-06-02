@@ -1,11 +1,16 @@
-# Bloco 04 - Virtualizacao, Containers e IaC
+﻿# Bloco 04 - Virtualizacao, Containers e IaC
 
 ## Topicos do edital
 - [ ] Hipervisores e gerenciamento de VMs
+  - VM completa; container compartilha kernel.
 - [ ] Docker: imagens, containers, volumes, redes
+  - Imagem empacota; volume persiste dados.
 - [ ] Kubernetes e orquestracao (pods, services, escalabilidade)
+  - Pod executa; Service expoe acesso.
 - [ ] Rancher e gestao de clusters
+  - Rancher simplifica multiplos clusters.
 - [ ] IaC e automacao: Terraform/Ansible (visao de infraestrutura)
+  - IaC padroniza e replica ambiente.
 
 ---
 
