@@ -73,9 +73,37 @@
 
         <article class="card">
           <ul>
-            <li><span class="gold">192.168.0.0/16</span> = faixa privada.</li>
+            <li><span class="gold">10.0.0.0/8</span>, <span class="gold">172.16.0.0/12</span> e <span class="gold">192.168.0.0/16</span> = faixas privadas RFC 1918.</li>
+            <li><span class="gold">Classe A privada</span> = 10/8; <span class="gold">Classe B privada</span> = 172.16/12; <span class="gold">Classe C privada</span> = 192.168/16.</li>
             <li><span class="gold">192.168.x.x</span> = classe C na classificacao tradicional.</li>
             <li>192.168.10.50 = classe C + privado.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">Link-local</span> = prefixo <span class="gold">FE80::/10</span> e uso no mesmo enlace.</li>
+            <li><span class="gold">Link-local</span> = obrigatorio em toda interface IPv6.</li>
+            <li>Autoconfiguracao e <span class="gold">Neighbor Discovery</span> usam endereco link-local.</li>
+            <li><span class="gold">Global Unicast</span> = publico; <span class="gold">Unique Local</span> = privado; <span class="gold">Multicast</span> = grupo; <span class="gold">Anycast</span> = no mais proximo.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">DHCPv6</span> usa <span class="gold">multicast</span> para descoberta.</li>
+            <li>Solicitacao DHCPv6 = destino <span class="gold">FF02::1:2</span>.</li>
+            <li><span class="gold">FF02::1</span> = todos os nos; <span class="gold">FF02::1:2</span> = servidores e relay DHCPv6.</li>
+            <li><span class="gold">Anycast</span> = entrega ao no mais proximo, nao e o caso da solicitacao DHCPv6.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">NDP</span> = mapeia endereco IPv6 para endereco fisico e descobre vizinhos.</li>
+            <li><span class="gold">SLAAC</span> = autoconfiguracao sem estado via ICMPv6, nao usa porta 67/UDP.</li>
+            <li><span class="gold">DHCPv6</span> = nao usa broadcast.</li>
+            <li><span class="gold">IGMP</span> = multicast do IPv4; no IPv6, o equivalente e <span class="gold">MLD</span>.</li>
           </ul>
         </article>
 
