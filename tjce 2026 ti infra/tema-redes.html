@@ -133,6 +133,15 @@
 
         <article class="card">
           <ul>
+            <li><span class="gold">Bloquear todo ICMPv6</span> nao e boa pratica; quebra funcoes do IPv6 e nao impede spoofing por si so.</li>
+            <li><span class="gold">Privacy Extensions</span> = protegem privacidade do host, nao impedem anuncio de roteador forjado.</li>
+            <li><span class="gold">IDS</span> pode detectar spoofing de anuncios de roteador.</li>
+            <li>Spoofing de roteador = ataque contra <span class="gold">NDP</span>.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
             <li><span class="gold">EUI-64</span> = insere <span class="gold">FF:FE</span> no meio do MAC para formar o identificador da interface.</li>
             <li>Para voltar ao MAC, remove-se <span class="gold">FF:FE</span> e inverte-se o bit U/L do primeiro byte.</li>
             <li><span class="gold">ARP</span> e usado no IPv4; no IPv6, o mapeamento e feito por <span class="gold">NDP</span>.</li>
