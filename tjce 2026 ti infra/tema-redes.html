@@ -73,6 +73,22 @@
 
         <article class="card">
           <ul>
+            <li><span class="gold">NAT</span> permite que varios dispositivos compartilhem um unico IP publico.</li>
+            <li><span class="gold">NAT</span> altera cabecalhos IP, trocando endereco de origem ou destino.</li>
+            <li><span class="gold">NAT</span> nao e incompativel com <span class="gold">OSPF</span>.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">255.255.255.0</span> = mascara /24.</li>
+            <li>Uma sub-rede /24 tem <span class="gold">254 enderecos utilizaveis</span>.</li>
+            <li>Em /24, 256 enderecos totais menos rede e broadcast = 254 hosts.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
             <li><span class="gold">10.0.0.0/8</span>, <span class="gold">172.16.0.0/12</span> e <span class="gold">192.168.0.0/16</span> = faixas privadas RFC 1918.</li>
             <li><span class="gold">Classe A privada</span> = 10/8; <span class="gold">Classe B privada</span> = 172.16/12; <span class="gold">Classe C privada</span> = 192.168/16.</li>
             <li><span class="gold">192.168.x.x</span> = classe C na classificacao tradicional.</li>
@@ -91,6 +107,14 @@
 
         <article class="card">
           <ul>
+            <li><span class="gold">2001:db8::/32</span> = prefixo de documentacao IPv6.</li>
+            <li><span class="gold">2001:db8::/32</span> nao e roteavel na Internet publica.</li>
+            <li>Endereco com 2001:db8:: = exemplo ou documentacao, nao endereco valido para uso real na Internet.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
             <li><span class="gold">DHCPv6</span> usa <span class="gold">multicast</span> para descoberta.</li>
             <li>Solicitacao DHCPv6 = destino <span class="gold">FF02::1:2</span>.</li>
             <li><span class="gold">FF02::1</span> = todos os nos; <span class="gold">FF02::1:2</span> = servidores e relay DHCPv6.</li>
@@ -104,6 +128,14 @@
             <li><span class="gold">SLAAC</span> = autoconfiguracao sem estado via ICMPv6, nao usa porta 67/UDP.</li>
             <li><span class="gold">DHCPv6</span> = nao usa broadcast.</li>
             <li><span class="gold">IGMP</span> = multicast do IPv4; no IPv6, o equivalente e <span class="gold">MLD</span>.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">EUI-64</span> = insere <span class="gold">FF:FE</span> no meio do MAC para formar o identificador da interface.</li>
+            <li>Para voltar ao MAC, remove-se <span class="gold">FF:FE</span> e inverte-se o bit U/L do primeiro byte.</li>
+            <li><span class="gold">ARP</span> e usado no IPv4; no IPv6, o mapeamento e feito por <span class="gold">NDP</span>.</li>
           </ul>
         </article>
 
