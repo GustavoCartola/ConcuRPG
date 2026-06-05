@@ -42,6 +42,14 @@
 
         <article class="card">
           <ul>
+            <li><span class="gold">Fragmentacao IPv4</span> usa <span class="gold">identificacao</span>, <span class="gold">flags</span> e <span class="gold">deslocamento de fragmento</span>.</li>
+            <li><span class="gold">TTL</span>, protocolo e checksum nao sao os campos de fragmentacao.</li>
+            <li>Se a banca omitir <span class="gold">flags</span>, a questao fica mal formulada.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
             <li><span class="gold">DHCP</span> = entrega IP.</li>
             <li><span class="gold">DNS</span> = resolve nomes.</li>
             <li><span class="gold">SNMP</span> = monitoracao.</li>
@@ -89,6 +97,49 @@
 
         <article class="card">
           <ul>
+            <li><span class="gold">255.255.255.240</span> = mascara <span class="gold">/28</span>.</li>
+            <li>Bits de host em /28 = <span class="gold">4</span>.</li>
+            <li>Hosts utilizaveis = <span class="gold">2^4 - 2 = 14</span>.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">255.255.128.0</span> = mascara <span class="gold">/17</span>.</li>
+            <li>Em /17, o terceiro octeto vai de <span class="gold">0 a 127</span> na mesma sub-rede.</li>
+            <li><span class="gold">124.201.0.0/18</span> vai de <span class="gold">124.201.0.0</span> a <span class="gold">124.201.63.255</span>.</li>
+            <li>Uma interface pode ter IP diferente de outra no mesmo dispositivo.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">10.0.0.0/16</span> = mascara <span class="gold">255.255.0.0</span>.</li>
+            <li>Endereco de rede = <span class="gold">10.0.0.0</span>.</li>
+            <li>Broadcast = <span class="gold">10.0.255.255</span>.</li>
+            <li>Faixa utilizavel = <span class="gold">10.0.0.1 a 10.0.255.254</span>.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">Classe A</span> = mascara padrao <span class="gold">255.0.0.0</span> (<span class="gold">/8</span>).</li>
+            <li>Bits de host na Classe A padrao = <span class="gold">24</span>.</li>
+            <li>Hosts maximos enderecaveis = <span class="gold">2^24 - 2</span>.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">Classe A</span> = 0.0.0.0 a 127.255.255.255.</li>
+            <li><span class="gold">Classe B</span> = 128.0.0.0 a 191.255.255.255.</li>
+            <li><span class="gold">Classe C</span> = 192.0.0.0 a 223.255.255.255.</li>
+            <li><span class="gold">192.0.0.0 - 223.255.255.255</span> = classe C.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
             <li><span class="gold">10.0.0.0/8</span>, <span class="gold">172.16.0.0/12</span> e <span class="gold">192.168.0.0/16</span> = faixas privadas RFC 1918.</li>
             <li><span class="gold">Classe A privada</span> = 10/8; <span class="gold">Classe B privada</span> = 172.16/12; <span class="gold">Classe C privada</span> = 192.168/16.</li>
             <li><span class="gold">192.168.x.x</span> = classe C na classificacao tradicional.</li>
@@ -102,6 +153,24 @@
             <li><span class="gold">Link-local</span> = obrigatorio em toda interface IPv6.</li>
             <li>Autoconfiguracao e <span class="gold">Neighbor Discovery</span> usam endereco link-local.</li>
             <li><span class="gold">Global Unicast</span> = publico; <span class="gold">Unique Local</span> = privado; <span class="gold">Multicast</span> = grupo; <span class="gold">Anycast</span> = no mais proximo.</li>
+            <li><span class="gold">Multicast IPv6</span> = comeca em <span class="gold">FF00::/8</span>.</li>
+            <li><span class="gold">FE80::/10</span> e link-local, nao e multicast.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">Global Unicast Address</span> = prefixo de roteamento global + subnet ID + interface ID.</li>
+            <li>Divisao comum = <span class="gold">48 bits</span> (global routing prefix) + <span class="gold">16 bits</span> (subnet ID) + <span class="gold">64 bits</span> (interface ID).</li>
+            <li>Regra de prova = GUA e dividido em <span class="gold">3 partes</span>, nao 4.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">Loopback</span> = representa a propria maquina para testes internos.</li>
+            <li><span class="gold">IPv6 loopback</span> = <span class="gold">0:0:0:0:0:0:0:1</span> ou <span class="gold">::1</span>.</li>
+            <li><span class="gold">IPv4 loopback</span> = <span class="gold">127.0.0.1</span>.</li>
           </ul>
         </article>
 
@@ -151,9 +220,19 @@
         <article class="card">
           <ul>
             <li><span class="gold">IPv6</span> = mais enderecos, cabecalho simplificado e autoconfiguracao.</li>
+            <li><span class="gold">Cabecalho IPv6</span> = tamanho fixo (40 bytes).</li>
             <li><span class="gold">IPv6</span> nao elimina o <span class="gold">TCP</span>; IP e TCP continuam protocolos distintos.</li>
             <li><span class="gold">IPSec</span> = suporte nativo no IPv6, mas nao substitui a camada de transporte.</li>
             <li>SLAAC = configuracao automatica do endereco IPv6.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <ul>
+            <li><span class="gold">IPv4</span> usa escrita decimal com pontos; <span class="gold">IPv6</span> usa hexadecimal com dois pontos.</li>
+            <li><span class="gold">IPv6</span> nao tem broadcast.</li>
+            <li><span class="gold">IPv6</span> foi criado para superar a limitacao de enderecos do IPv4.</li>
+            <li>Em enderecos IPv6 com IPv4 embutido, pode haver escrita parcialmente compatível com IPv4.</li>
           </ul>
         </article>
 
